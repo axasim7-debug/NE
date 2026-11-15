@@ -99,6 +99,11 @@ def lint(items, assets_ids):
     return errs, warns, words
 
 
+def _sec(t):
+    if not t: return 0.0
+    h, m, x = t.split(":"); return int(h) * 3600 + int(m) * 60 + float(x)
+
+
 def export(items, proj):
     (proj / "edit").mkdir(exist_ok=True); (proj / "vo").mkdir(exist_ok=True)
     with open(proj / "edit" / "edl.csv", "w", newline="", encoding="utf-8") as f:
@@ -133,6 +138,15 @@ def main():
     items = parse(sp)
     errs, warns, words = lint(items, ids)
     n_vo = sum(1 for x in items if x["kind"] == "VO")
+    clip_s = sum(max(0, _sec(x["tout"]) - _sec(x["tin"])) for x in items if x["kind"] == "CLIP")
+    vo_s = words / 2.55  # ≈153 wpm
+    card_s = sum(x["dur"] for x in items if x["kind"] == "CARD")
+    vo_on_footage = sum(len(SRC_RE.sub("", x["text"]).split()) / 2.55 for x in items if x["kind"] == "VO" and x["clip"])
+    total = clip_s + vo_s + card_s
+    if total:
+        cov = (clip_s + vo_on_footage) / total
+        print(f"real-footage coverage ≈ {cov:.0%} of runtime (target ≥ 80%)")
+        if cov < 0.8: warns.append(f"footage coverage {cov:.0%} < 80% — add real footage under VO / cut graphics")
     print(f"VO blocks: {n_vo} · VO words: {words} · est. VO time: {words/155:.1f} min "
           f"· est. video length (VO ≈ 1/3): {words/155*3:.0f} min")
     for e in errs: print("ERROR  ", e)
