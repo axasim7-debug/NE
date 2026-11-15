@@ -1,8 +1,11 @@
 # Case Backlog (سجل القضايا)
 
-| # | Case | Working title | Status | Project folder |
+> Every project ships **two videos**: EN (main channel) + AR (Arabic channel) — see docs/07_dual_production.md.
+
+| # | Case | Working title (EN) | Status | Project folder |
 |---|---|---|---|---|
-| 1 | Bryan Kohberger · Moscow, Idaho · 2022 | How Police Captured The Killer Of 4 Idaho College Students | 🟡 **In progress (Stage 1: deep research)** | projects/2026-11-idaho-kohberger |
+
+| 1 | Bryan Kohberger · Moscow, Idaho · 2022 | How Police Captured The Killer Of 4 Idaho College Students | 🟡 **Stage 1 (shared research)** · EN ⚪ · AR ⚪ | projects/2026-11-idaho-kohberger |
 | 2 | Ruby Franke & Jodi Hildebrandt · Utah · 2023 | 12 Year Old Leads Police To YouTube Mom's House Of Horrors | ⚪ Backlog | — |
 | 3 | Lori Vallow Daybell · Idaho / Hawaii / Arizona · 2019–20 | Doomsday Mom Realizes Police Know Her 2 Kids Are Missing | ⚪ Backlog | — |
 | 4 | Sherri Papini · Redding, California · 2016–22 | Missing Mom Realizes Detectives Know Her Kidnapping Was Fake | ⚪ Backlog | — |

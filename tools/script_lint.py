@@ -26,6 +26,11 @@ CHAP_RE = re.compile(r"^##\s+(.+)$")
 SRC_RE = re.compile(r"\s*\[S\d+(?:,\s*S\d+)*\]")
 
 
+def shared_dir(prod):
+    """research/ + footage/ live in the project root; en/ and ar/ are production dirs."""
+    return prod if (prod / "research").exists() else prod.parent
+
+
 def parse(path):
     lines = Path(path).read_text(encoding="utf-8").splitlines()
     lines = [l for l in lines]
@@ -131,7 +136,7 @@ def main():
     if len(sys.argv) < 2: print(__doc__); sys.exit(1)
     sp = Path(sys.argv[1]).resolve()
     proj = sp.parent.parent
-    ap = proj / "research" / "assets.csv"
+    ap = shared_dir(proj) / "research" / "assets.csv"
     ids = None
     if ap.exists():
         with open(ap, encoding="utf-8") as f: ids = {r["id"] for r in csv.DictReader(f)}

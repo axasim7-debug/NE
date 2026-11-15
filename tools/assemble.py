@@ -27,6 +27,11 @@ AENC = ["-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2"]
 SCALE = f"scale={W}:{H}:force_original_aspect_ratio=decrease,pad={W}:{H}:(ow-iw)/2:(oh-ih)/2,setsar=1,fps={FPS}"
 
 
+def shared_dir(prod):
+    """research/ + footage/ live in the project root; en/ and ar/ are production dirs."""
+    return prod if (prod / "research").exists() else prod.parent
+
+
 def ts(s):
     if not s: return 0.0
     h, m, sec = s.split(":"); return int(h) * 3600 + int(m) * 60 + float(sec)
@@ -50,6 +55,7 @@ def probe(p):
 
 
 def find_clip(proj, cid, assets):
+    proj = shared_dir(proj)
     lf = assets.get(cid, "")
     if lf and (proj / lf).exists(): return proj / lf
     hits = sorted((proj / "footage" / "raw").glob(f"{cid}.*")) + sorted((proj / "footage" / "raw").glob(f"{cid}_*"))
@@ -129,7 +135,7 @@ def main():
     proj = Path(sys.argv[1]).resolve()
     duck = float(sys.argv[sys.argv.index("--duck") + 1]) if "--duck" in sys.argv else 0.12
     assets = {}
-    ap = proj / "research" / "assets.csv"
+    ap = shared_dir(proj) / "research" / "assets.csv"
     if ap.exists():
         with open(ap, encoding="utf-8") as f: assets = {r["id"]: r.get("local_file", "") for r in csv.DictReader(f)}
     with open(proj / "edit" / "edl.csv", encoding="utf-8") as f: rows = list(csv.DictReader(f))
