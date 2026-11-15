@@ -42,3 +42,11 @@ It's Saturday, May 20th in Kalamazoo, Michigan. 28-year-old Taylor ___ has just 
 ## ⑦ INTERROGATION
 
 ## ⑧ EVIDENCE & VERDICT
+
+<!-- Mid-sentence split example (allowed & encouraged):
+[VO 12] (on: C020 00:03:10)
+But when deputies knock on the door,
+[CLIP C020 00:03:12-00:03:16] door opens (vol 100)
+[VO 13] (on: C020 00:03:16) hold=1.5
+the person who answers isn't who they're expecting.
+-->

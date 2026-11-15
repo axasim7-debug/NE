@@ -69,8 +69,7 @@ def lint(items, assets_ids):
         if n == 0: errs.append(f"{where}: empty VO block")
         elif n > 95: errs.append(f"{where}: {n} words (max ~80) — split it and insert footage")
         elif n > 80: warns.append(f"{where}: {n} words (target 30–80)")
-        elif n < 12 and x["chapter"] and not x["chapter"].startswith("①"):
-            warns.append(f"{where}: only {n} words")
+        # short blocks are fine when the block is a mid-sentence split (narration continues after a clip)
         if "—" in t or " - " in t: errs.append(f"{where}: em-dash / spaced hyphen — use comma or period")
         low = t.lower()
         for b in BANNED:
@@ -109,13 +108,18 @@ def export(items, proj):
             w.writerow([k, x["kind"], x.get("clip", ""), x.get("tin", ""), x.get("tout", ""), x.get("vo", ""),
                         SRC_RE.sub("", x.get("text", "")), x.get("dur", ""), x.get("vol", ""),
                         x.get("chapter", ""), x.get("note", "")])
+    # ONE continuous read-through: the narrator records it in a single take; tools/align_vo.py cuts it.
     with open(proj / "vo" / "VO_SCRIPT.txt", "w", encoding="utf-8") as f:
-        ch = None
+        f.write("READ STRAIGHT THROUGH IN ONE TAKE -> save as vo/full_take.wav\n"
+                "Mistake? Pause 2 s and re-read the WHOLE sentence. No need to pause between paragraphs.\n")
+        ch, para = None, []
         for x in items:
             if x["kind"] != "VO": continue
             if x["chapter"] != ch:
-                ch = x["chapter"]; f.write(f"\n===== {ch} =====\n\n")
-            f.write(f"[{x['vo']}]  →  save as vo/{x['vo']}.wav\n{SRC_RE.sub('', x['text'])}\n\n")
+                if para: f.write(" ".join(para) + "\n"); para = []
+                ch = x["chapter"]; f.write(f"\n# {ch}\n")
+            para.append(SRC_RE.sub("", x["text"]))
+        if para: f.write(" ".join(para) + "\n")
 
 
 def main():

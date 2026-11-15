@@ -73,9 +73,9 @@ def seg_clip(src, tin, dur, vol, out):
     run(cmd)
 
 
-def seg_vo(src, tin, vo, duck, out):
+def seg_vo(src, tin, vo, duck, out, hold=0.35):
     dur, _ = probe(vo)
-    dur += 0.35  # breathing room after narration
+    dur += hold  # footage keeps running after the narration stops (pacing)
     if src is None:
         cmd = ["ffmpeg", "-y", "-f", "lavfi", "-t", str(dur), "-i", f"color=c=black:s={W}x{H}:r={FPS}",
                "-i", str(vo), "-filter_complex",
@@ -150,8 +150,10 @@ def main():
             if not vo: missing.append(r["vo_id"]); continue
             src = find_clip(proj, r["clip"], assets) if r["clip"] else None
             if r["clip"] and not src: missing.append(r["clip"])
-            dur = seg_vo(src, ts(r["in"]), vo, duck, out)
-            caps += chunk_caption(r["text"], t, dur - 0.35)
+            m = re.search(r"hold=([\d.]+)", r.get("note", ""))
+            hold = float(m.group(1)) if m else 0.35
+            dur = seg_vo(src, ts(r["in"]), vo, duck, out, hold)
+            caps += chunk_caption(r["text"], t, dur - hold)
         elif k == "CARD":
             dur = float(r["card_dur"] or 4); seg_card(r["text"], dur, out)
         else: continue
