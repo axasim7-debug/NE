@@ -9,3 +9,4 @@ projects/*/export/*.mp4
 !**/.gitkeep
 __pycache__/
 research/reference_transcripts/
+research/reference_thumbs/

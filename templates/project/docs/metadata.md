@@ -5,14 +5,24 @@
 - B:
 - C:
 
-Checklist: ≤ 60 chars · Title Case · family relation or ordinary place · "Realizes/Discovers/Captured/Leads Police To" · no real Unicode tricks · doesn't spoil the verdict.
+Rubric: docs/05_titles_thumbnails.md (≥ 75/100). Run: `python3 tools/title_check.py "A" "B" "C"`
 
-## Thumbnails (3 concepts)
-| # | Main face / expression | Location element | Overlay (0–3 words) | Notes |
+| | Template (T1–T7) | Auto score | Spoiler-free? | Every word true? |
 |---|---|---|---|---|
 | A | | | | |
 | B | | | | |
 | C | | | | |
+
+## Thumbnails (3 concepts)
+Rubric: docs/05_titles_thumbnails.md (≥ 75/100). Build: `python3 tools/make_thumbnail.py --video ... --at ... --out export/thumb_A.jpg`
+
+| # | Pattern (A–G) | Source frame (C### @ time) | Face / expression | Place/evidence element | Text (0–4 words) | Arrow/circle | Blur | Score | Mobile 160×90 OK? |
+|---|---|---|---|---|---|---|---|---|---|
+| A | | | | | | | | | |
+| B | | | | | | | | | |
+| C | | | | | | | | | |
+
+Rule: title says WHO + the SECRET; thumbnail shows the FACE + the PLACE. Never repeat the title on the image.
 
 ## Description
 ```
