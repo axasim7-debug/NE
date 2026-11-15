@@ -6,6 +6,8 @@
 ## الملفات
 | الملف | المحتوى |
 |---|---|
+| [`docs/00_project_plan.md`](docs/00_project_plan.md) | **خطة عمل كل مشروع** (5 مراحل) |
+| [`research/backlog.md`](research/backlog.md) | **سجل القضايا** وحالة كل وحدة |
 | [`docs/01_channel_analysis.md`](docs/01_channel_analysis.md) | تحليل القناة: الأرقام، تطور المحتوى، معادلة العنوان، الوصف، الرعاة، المواضيع |
 | [`docs/02_script_style_guide.md`](docs/02_script_style_guide.md) | **دليل كتابة السكريبت:** الهيكل (8 فصول)، الجمل الثابتة، معجم الانتقالات، ومعايير Non-AI |
 | [`docs/03_footage_sources.md`](docs/03_footage_sources.md) | من وين نجيب اللقطات (الجهات الرسمية وFOIA والمحاكم)، وكيف نحمي القناة من حقوق النشر |

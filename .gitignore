@@ -10,3 +10,5 @@ projects/*/export/*.mp4
 __pycache__/
 research/reference_transcripts/
 research/reference_thumbs/
+projects/*/docs_raw/*.pdf
+projects/*/photos/*

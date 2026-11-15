@@ -1,0 +1,3 @@
+id,type,url,source_agency,source_kind,recorded_date,description,status,local_file,sha256,downloaded_at,proof_note
+C001,bodycam,https://example.gov/path/to/video.mp4,Example County Sheriff,official_release,2023-05-20,"Deputy 1 bodycam - felony stop of SUV",todo,,,,"Released via press conference 2023-06-02"
+C002,911,,Example 911 Center,foia,2023-05-20,"Mother's 911 call",waiting_foia,,,,"FOIA #R23-1234 filed 2026-11-15"
