@@ -1,0 +1,37 @@
+07/08/25                     Moscow Police Department                        1272
+10:44                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number     81                Date   13:42:06 12/19/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+GoncalvesGmail Warrant Service
+
+Case # 22-M09903
+Date: 12/19/2022
+
+On December 5, 2022, I applied and was granted a warrant for data related to the
+email address of                @Gmail.com.
+
+On December 5, 2022, at approximately 1646 hours, the warrant was served via the
+Google Law Enforcement Portal locate at https://lers.google.com.
+
+On December 19, 2022, I received an email from Google stating the data requested
+pursuant to the warrant was available. I logged into the Google LERS portal and
+the files were downloaded to the forensic computers located in the secure
+forensic computer lab at the Moscow Police Department.
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also
+emailed a copy of the receipt to Google (    @google.com), as this was the
+originating email address associated with the documents.
+Det. Lawrence Mowery - 162
+Mon Dec 19 13:42:11 PST 2022
+Reviewed By:
+Sgt. Dustin Blaker #108
+Thu Dec 22 14:19:38 PST 2022
+

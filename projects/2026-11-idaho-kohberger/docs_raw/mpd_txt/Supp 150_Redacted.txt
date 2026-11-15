@@ -1,0 +1,43 @@
+07/08/25                       Moscow Police Department                      1272
+11:24                       Law Supplemental Narrative:              Page:      1
+  Details
+Incident Number      22-M09903          Name     Dustin Blaker
+Sequence Number      150                Date     09:57:20 02/22/23
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Plates from AIMS for FBI techs working license plates - 108
+
+1.        WatchGuard Event: none
+          Additional Responding Officers: none
+          Case number added to WG: no
+
+2.        Evidence
+none
+3.        Narrative
+
+A few weeks after November 13th, I was at work when I was asked by M
+T      , analyst with the FBI, if we had a way to run our records to see if we
+had any license plates for a white Hyandai Elantra 2011 to 2013. I was able to
+run all vehicles through Spillman and I had D      E       , Parking enforcement
+Officer, to run vehicles through AIMS. AIMS is our parking ticket software.
+E        provided me with a printout of the plates and I handed it to T        so
+it could be provided to the FBI techs who were checking plates and looking for
+leads.
+
+I was recently provided with the printout of these plates and I provided to MPD
+records department so they could be scanned to the case.
+
+4.        Other
+none
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+Wed Feb 22 10:06:06 PST 2023
+Sgt. Dustin Blaker #108
+REVIEWED-Thu Feb 23 08:28:24 PST 2023
+CPL Payne #157
+

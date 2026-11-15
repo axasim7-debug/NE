@@ -1,0 +1,57 @@
+07/08/25                       Moscow Police Department                      1272
+10:48                       Law Supplemental Narrative:              Page:      1
+  Details
+Incident Number      22-M09903          Name   Dustin Blaker
+Sequence Number       96                Date   14:38:49 01/04/23
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Towing of vehicles and removal of ECU's - 108
+
+1.        WatchGuard Event: no
+          Additional Responding Officers: no
+          Case number added to WG: no
+
+2.        Evidence
+Item #272 ECM for Jeep Wrangler
+Item #273 ECM for Ford Explorer
+Item #274 ECM for Chevy Cruz
+
+3.        Narrative
+On November 29, 2022 I was tasked with having 5 vehicles from 1122 King Road
+moved to the City Shop located on North Van Buren.                  towing was
+the only vehicle able to accommodate the towing of the vehicles. I watched
+                hook up to each vehicle and I then followed each vehicle from
+1122 King Road to the City Shop.
+On 11-29-22, I meet with D     A    , FBI DFE agent out of Salt Lake City. I
+assisted Agent A     with removing the ECU from the Jeep Wrangler belonging to
+Ethan Chapin. After the ECU was removed I took possession of it and booked it
+into property.
+On 11-30-22, Ofc. Aaron Morris was with Agent A     when he removed the ECU's
+from a Ford Explorer, belonging to Ethan Chapin, and a Chevrolet Cruz, belonging
+to Madison Mogen. Ofc. Morris took possession of the ECU's and I assisted him
+with booking them into property.
+
+The ECU's were then shipped to Salt Lake City so the FBI could retrieve data
+from them. Once they were done they shipped the ECU's back to the PD.
+
+I received a large package around December 22, 2022. I opened the package on
+12-27-22 and found 3 ECU's in the box. We were told Agent A      would not be
+able to come back to Moscow for several weeks to reinstall the ECU's.
+I contacted K    R        ,             Fleet supervisor. I asked R         if
+he and his mechanics could reinstall the ECU's and he told me he could. I
+provided him with the ECU's and they had them installed the same day.
+4.     Other
+
+none
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+Wed Jan 04 14:54:38 PST 2023
+Sgt. Dustin Blaker #108
+REVIEWED-Tue Jan 10 13:55:08 PST 2023
+CPL Payne #157
+

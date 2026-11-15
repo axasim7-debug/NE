@@ -1,0 +1,25 @@
+07/08/25                       Moscow Police Department                      1272
+12:01                       Law Supplemental Narrative:              Page:      1
+  Details
+Incident Number    22-M09903            Name   Lawrence Mowery
+Sequence Number    259                  Date   07:57:51 03/11/24
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Electronic Data Discovery
+
+Case # 22-M09903
+Date: 3/11/2024
+
+On April 19, 2023, I met with defense counsel Anne Taylor to provide data from
+various evidentiary items. The data was copied and hash verified onto a Synology
+RAID Drive previously provided by A    J      .
+Det. Lawrence Mowery - 162
+Mon Mar 11 07:57:55 PDT 2024
+REVIEWED-Mon Mar 11 11:07:53 PDT 2024
+CPL Payne #157
+

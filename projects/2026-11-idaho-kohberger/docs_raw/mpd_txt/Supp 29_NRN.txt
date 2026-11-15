@@ -1,0 +1,49 @@
+07/08/25                        Moscow Police Department                    1272
+10:09                        Law Supplemental Narrative:            Page:      1
+  Details
+Incident Number       22-M09903          Name   A Dahlinger
+Sequence Number        29                Date   10:43:52 11/21/22
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Surveillance video downloads - M107
+
+1.        WatchGuard Event: N/A
+          Additional Responding Officers: N/A
+          Case number added to WG: N/A
+
+2.        Evidence
+None
+3.        Narrative
+
+On November 19, 2022 at approximately 1200 hours, I met with Det. Mowery who
+tasked me with downloading surveillance video footage from several usb memory
+drives. Det. Mowery gave me multiple small manila envelopes which contained usb
+memory drives collected from multiple different investigators. Det. Mowery asked
+me to download the videos from all the drives and to place them on an external
+harddrive which he provided to me. Once that task was complete, Det. Mowery
+asked me to copy all of the videos from the portable harddrive to the M:/ drive
+on our City of Moscow network where he created a folder were working copies of
+the videos could be stored.
+After downloading the videos from the individual usb memory drives, I placed
+them back into the manila envelopes they came from and sealed them with evidence
+tape. I did find two of the usb memory drives, which came from the same
+envelope, did not contain any video footage and I returned them to Det. Mowery.
+Once all the videos were downloaded to the portable harddrive, I then copied
+them all to the M:/ drive on the City network and returned the harddrive to Det.
+Mowery.
+
+4.        Other
+None
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+Capt. Anthony Dahlinger
+Mon Nov 21 10:55:14 PST 2022
+
+Mon Nov 21 13:31:55 PST 2022
+Reviewed by Capt. Berrett
+

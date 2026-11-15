@@ -1,0 +1,959 @@
+                                                                “009
+                                                                CASE           m
+                                                                         *Qaggcji
+                                                               m?) 3;)\\\ \Ll‘ 31H
+                                                                         “‘"JWEBTWW
+                                                                                                '
+
+
+                                                                                                    o m.
+LATAH COUNTY PROSECUTOR‘S OFFICE                                av                        .ﬁ
+                                                                                                DEW"
+WILLIAM W. THOMPSON, .IR., ISB 2613                                             I
+
+
+
+
+PROSECUTING ATTORNEY
+JEFF NYE, ISB 9238
+SPECIAL ASSISTANT ATTORNEY GENERAL
+Latah County Courthouse
+PO. Box 8068
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservicc@latah.id.us
+
+
+       IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+
+ STATE OF IDAHO,                                        Case No. CR29-22-2805
+                 Plaintiff,
+
+ V.                                                     REPLY IN SUPPORT OF
+                                                        MOTION FOR PROTECTIVE
+ BRYAN C. KOHBERGER                                     ORDER
+                 Defendant.
+
+
+
+
+         The State submits this reply to address several of Defendant’s arguments in his
+
+Objection to State’s Motion for Protective Order. as well as the two declarations ﬁled by
+
+Defendant in support ofhis Third Motion to Compel Discovery.
+
+      A. Defendant has not demonstrated that any subsection of Rule 16 requires the
+         disclosure of the ICC information.
+
+         Rule I6 contains several discrete categories of information that the State must
+
+disclose to a defendant in a criminal case.       It follows that the State need not disclose
+
+
+information that does not fall into one of the discrete categories—at least absent an order
+
+from the court upon motion from the defendant “showing substantial need in the preparation
+
+REPLY IN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                              1
+of the defendant’s case .   .   .   and that defendant is unable without undue hardship to obtain the
+
+substantial equivalent by other means.” I.C.R. l6(b)(10). The State explained in its motion
+
+why subsections (a), (b)(4), (b)(5), and (b)(8) do not apply to the lGG information.
+
+Defendant objects on the basis that the IGG information falls within subsections (b)(4),
+
+(b)(S), (b)(6), and (b)(8). Defendant’s assertions do not withstand scrutiny.
+
+       First, Defendant baldly asserts that the lGG information “rather obviously falls
+
+within the ambit of Rule l6(b)(4),” but fails to explain how that conclusion results from the
+
+language of the rule. (Obj. at p.3). Rule l6(b)(4) requires disclosure of documents and
+
+tangible objects only when those documents or tangible objects:
+
+          (A) are material to the preparation of the defense,
+
+          (B) are intended for use by the prosecutor as evidence at trial, or
+
+          (C) were obtained from the defendant or belong to the defendant.
+l.C.R. l6(b)(4). As best the State can tell, Defendant is not asserting that B or C apply to
+
+the lGG information. Presumably, then, Defendant was attempting to show how the lGG
+
+information is material to the preparation of his defense when he asserted that someone other
+
+than Defendant may have placed his DNA on the Ka-Bar knife sheath. (Obj. at 4.) But the
+
+State is at a loss as to how that theory supports a claim that the lGG information is material
+
+to the preparation of his defense. The SNP proﬁle used in the IGG was created from the
+
+
+same DNA used for the STR analyses, and the State is providing the SNP proﬁle and
+
+information related to the STR analyses in discovery.            lf Defendant wishes to explore the
+
+theory that his DNA was planted on the Ka-Bar knife sheath, he is free to do so. But the
+
+family tree created by the FBI has no relevance to that theory.
+
+REPLY lN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                                      2
+              Next, Defendant attacks an argument the State never made. He claims “the State
+
+argues that if the later STR testing is accurate then there is no reason to concern ourselves
+
+with how the State came to investigate Mr. Kohberger.” (Obj. at p.4.) But for purposes of
+
+this motion, the accuracy of the STR testing is beside the point. The State referenced the
+
+STR testing in its motion to demonstrate the difference between the STR analyses and the
+
+SNP proﬁle used to conduct lGG. The difference is not one of degree but of kind. The SNP
+
+proﬁle (and 100) was used to develop a lead, not to demonstrate substantive evidence of
+
+guilt. On the other hand, the STR analysis is substantive evidence the State intends to use
+
+at trial to prove its accusations against Defendant.                  As demonstrated in the ﬁgure below, the
+
+STR analyses and the ICC based on the SNP proﬁle are distinct processes. The creation of
+
+the SNP proﬁle and ICC have no effect whatsoever on the result of the STR analysis.
+
+
+
+
+          . toDefendant's  name provided
+                local law enforcement
+                                                                                      STR proﬁle used for comparison
+                                                                                         to DNA from buecal swab
+                                                                                                   O
+          O Genealogical research
+
+                                                                                                             STR proﬁle used for
+                                                                            STR proﬁle used                  comparison to DNA
+                                                                            to search CODIS                      from trash
+
+
+
+
+                                                                                       \ /
+          . genealogical
+                profile submitted to
+                   SNP
+                         databasds)
+                                                                                  O                                  O
+
+
+
+
+          .                                           0        ——-—-—-——-—-—-§                     .
+  SNP profile created                      DNA extracted in ISP lab                         SIR proﬁle created
+                                                                                                bv lSP lab
+    by private lab
+
+
+
+
+                                                      0
+                                             Ko-Bar knife sheath
+                                            recovered from scene
+
+
+   Figure 1
+               I
+
+
+
+
+REPLY IN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                                               3
+            As Rylene Nowlin, the Laboratory Manager of the Idaho State Police Forensic
+
+    Services Laboratory, explains in her afﬁdavit ﬁled contemporaneously with this Reply,
+
+    “STR data and SNP data cannot be directly compared.” (Nowlin Decl. 1} 9.) When the lab
+
+    does an STR analysis it “does not require submitting agencies to notify the laboratory how
+
+    a suspect/subject was identiﬁed in a case” because “[h]ow a
+                                                                  suspect/subject was identiﬁed
+'
+
+
+    has no effect on the laboratory analysis performed on the known reference sample from that
+
+    individual.” Id. ‘l IO. “lt also has no impact on the statistical calculations performed when
+
+    doing a direct comparison of the reference sample STR proﬁle with the STR proﬁle
+
+    developed from the evidence sample." Id.
+
+           Though Defendant also asserts that it is "rather obvious[]” that subsection (b)(5)
+
+    applies to the lGG information, he again fails to articulate how that follows from the
+
+    language of the rule. (Obj. at 3.) Instead, Defendant criticizes as “puzzling" the State’s
+
+    assertion that (b)(5) does not require the State to disclose what investigators do with the
+
+    results or reports from scientiﬁc experiments.     (Obj. at 4.)   Far from “puzzling,” that
+
+    conclusion is compelled by the plain language of the rule, which simply requires the
+
+    disclosure of the results or reports themselves:
+
+           On written request of the defendant, the prosecuting attorney must permit the
+           defendant to inspect and copy any results or reports of physical or mental
+           examinations, and of scientific tests or experiments, made in connection with
+           the particular case, that are in the possession, custody or control of the
+           prosecuting attorney or the existence of which is known or is available to the
+           prosecuting attorney by the exercise of due diligence.
+
+    l.C.R. 16(b)(5) (emphasis added). Under Defendant’s novel theory, this subsection would
+
+    require the State to disclose everything down the investigative stream from a scientiﬁc
+
+
+
+    REPLY IN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                                   4
+experiment, regardless of its relevance at trial. The authors of that subsection could have
+
+included that requirement but chose not to.
+
+       Defendant cites two additional subsections of Rule l6 that have no application to the
+
+lGG information by mentioning in passing that the lGG information "is covered by Rule
+
+l6(b)(6) (statements of prosecution witnesses) and (8) (police reports)” (Obj. at p.4.) The
+
+plain language of those rules forecloses his argument.
+
+       As the title of subsection (b)(6) implies, it only applies to statements of prosecution
+
+witnesses:
+
+       On written request of the defendant, the prosecuting attorney must furnish to
+       the defendant a written list ofthe names and addresses of all persons having
+       knowledge of relevant facts who may be called by the state as witnesses at
+       the trial, together with any record of prior felony convictions of any ofthem,
+       that is within the knowledge of the prosecuting attorney. The prosecuting
+       attorney must also furnish, on written request, the statements made by (he
+       prosecution witnesses or prospective prosecution witnesses to the
+       prosecuting attorney or the prosecuting attorney‘s agents or to any official
+       involved in the investigation ofthe case unless a protective order is issued as
+       provided in subsection (l) ofthis rule.
+
+l.C.R. l6(b)(6) (emphasis added). Defendant fails to explain how anyone involved in the
+
+lGG related to this case constitutes a “prosecution witness[]” or “prospective prosecution
+
+witness[J.“ And the State’s motion makes clear why that cannot be the case: the State does
+
+not intend to present the lGG information at trial.
+
+       The plain language of subsection (b)(8) is equally problematic for Defendant:
+
+       On written request of the defendant, the prosecuting attorney must furnish to
+       the defendant reports and memoranda in possession of the prosecuting
+       attorney that were made by a police officer or investigator in connection with
+       the investigation or prosecution of the case.
+
+l.C.R. 16(b)(8)(emphasis added). This subsection applies only to “reports and memoranda,”
+
+REPLY lN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                               5
+and none of the records related to IGG ﬁt that description. Even if the records constituted
+
+
+reports and memoranda, this subsection only applies to records “in the possession of the
+
+prosecuting attorney,” l.C.R. l6(b)(8), and the State does not possess the FBl’s records
+
+related to IGG.
+
+    B. Defendant does not have a constitutional right to discover all aspects of the
+        investigation.
+
+        Defendant contends that a "massive investigation came to focus on him and him
+
+alone” and asserts that means he “has a right to discover . . . the investigation that led to
+
+him.” (Obj. at p.7.) The context of his claim suggests he is asserting a constitutional right
+
+to disoover anything and everything related to the investigation. But his asserted right ﬁnds
+
+
+no support in the decisions of the ldaho Supreme Court or the U.S. Supreme Court. See.
+
+
+e.g., State v. Horn, lOl ldaho I92, I95, 6l0 P.2d 551, 554(1980).
+
+        ln Horn, the defendant moved for discovery that included records that fell outside of
+
+Rule l6.   1d.   The trial court eliminated the language in the discovery request that went
+
+beyond Rule 16 “and limited the discovery order to language paralleling l.C.R. 16.” Id. The
+
+ldaho Supreme Court afﬁrmed. Id. The court reasoned that “[t]he State has a constitutional
+
+duty to disclose to defendant exculpatory evidence material to the preparation of his case”
+
+but further found that “there is ‘no constitutional requirement that the prosecutor make a
+
+
+complete and detailed accounting to the defense of all police investigatory work on a case."’
+
+1d. (quoting Moore v. Illinois, 408 U.S. 786, 79S (l972)); see also Dunlap v. Stare,   l4l ldaho
+
+50, 64, |06 P.3d 376, 39l (2004) (echoing—in the context of a death penalty case—4hat
+
+"[t]here is no constitutional requirement that the prosecutor make a complete and detailed
+
+
+REPLY IN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                              6
+accounting to defense of all police investigatory work on a case”).            Defendant now
+
+erroneously claims he has the very right the Idaho Supreme Court ﬁrst rejected in Horn—a
+
+right to discover every facet of the investigation into his alleged crimes. This Court should
+
+reject that already-rejected contention.
+
+    C. The Court can use the process explained in the State’s motion to verify the lGG
+        information does not contain exculpatory evidence.
+
+        Though a criminal defendant has a constitutional right to discovery, that right is not
+
+inﬁnite, and it does not encompass the IGG information. “Due process requires all material
+
+exculpatory evidence known to the State or in its possession be disclosed to the defendant.”
+
+Dunlap, l4l Idaho at 64, 106 P.3d at 390. As the State explained in its motion, the IGG
+
+information is neither exculpatory nor material to guilt or punishment. The family tree built
+
+by the FBl merely pointed law enforcement to Defendant, and law enforcement followed
+
+that lead to develop the substantive evidence of guilt that was used for his arrest and that
+
+will be used at trial.
+
+        Defendant theorizes that the lGG process was “like a lineup where the government
+
+was already aware of who they wanted to target.” (Obj. at 6.) Defendant‘s “rigged lineup”
+
+analogy deﬁes logic.     The purpose of a “rigged lineup" would be to use the ﬂawed
+
+identiﬁcation as evidence of the accused‘s guilt or to inﬂuence the witness to testify a certain
+
+way at trial, but here the State has not used and has no plans to use the IGG information to
+
+prove Defendant‘s guilt. And the lGG process could have no effect whatever on the STR
+
+analyses. (See Nowlin Decl. 11 lO.) Moreover, as the DOJ Policy on lGG explains, the FBl
+
+can only use lGG after the investigating agency has pursued reasonable investigative leads
+
+
+
+REPLY lN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                               7
+to solve the case and the perpetrator’s identity remains unknown. See DOJ Policy at 4-5 &
+
+
+n.l0.'
+
+          [n any event, the State is not asking “this Court and Mr. Kohbcrger to assume”
+
+
+anything. (Obj. at 4.) If the Court ﬁnds that the IGG information is relevant to guilt or
+
+punishment, the State is simply asking for an opportunity to provide additional information
+
+to the Court in camera, so the Court can decide whether the information the State seeks to
+
+
+protect contains exculpatory information. See State v. Hosey, I32 ldaho l l7, l l9, 968 P.2d
+
+2l2, 214 (1998) (“[I]t is desirable and proper to hold such aln] [in camera] hearing before
+
+ordering or denying disclosure”).
+
+      D. The declarations submitted by Defendant do not make the IGG information
+         discoverable.
+
+          ln support of his Third Motion to Compel seeking much of the lGG information at
+
+issue here, Defendant submits two declarations. Neither of the declarations show that the
+
+IGG information falls within the scope of Rule l6 or Defendant’s constitutional right to
+
+discovery. ln fact, the Court should disregard much of the contents of those declarations as
+
+irrelevant and beyond the scope of the issues before the Court.
+
+          I.   Declaration ofBicka Barlow
+
+          The Court should disregard Barlow’s declaration as a poorly disguised legal brief
+
+submitted by a lawyer who is not counsel of record in the case. lt is now well-established
+
+in ldaho that “testimony containing conclusions of law by an expert witness is generally
+
+inadmissible.” Ybarra v. Bed/re, 166 ldaho 902, 908, 466 P.3d 421, 427 (2020) (striking
+
+
+'
+    Available at l1ttps:s’/wwv\-'.iust‘iccgow‘olp/pagcllilcfl 204386/d0wnload.
+
+REPLY IN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                                  8
+“legal conclusions contained“ in an expert declaration in a matter over which the Idaho
+
+Supreme Court exercised original jurisdiction). Barlow’s declaration is indistinguishable
+
+from a legal brief. She cites, explains, and argues case law. (Barlow Decl. at pp.8-9.) She
+
+accuses the State of misreading a case?      1d. at 9.   And she states as fact conclusions of law
+
+reserved for this Court.      For example, Barlow’s declaration states as fact that the IGG
+
+information in this case “clearly is Brady material,” id. at 7, and that the “IGG search could
+
+yield a relevant and admissible statistic,” id. at l0 (emphasis in original).
+
+         Setting aside the improper nature of Barlow’s declaration, the declaration contains
+
+two primary assertions. Neither of the assertions support Defendant’s attempt to discover
+
+the IGG information.
+
+
+         First, Barlow suggests the IGG information in this case could give Defendant
+
+additional investigative leads because “in some instances” the IGG process “leads to a pool
+
+of individuals rather than one speciﬁc individual.” (Barlow Decl. at p.4.) She provides
+
+several examples of other cases where investigators supposedly had to “contact[] individuals
+
+for further family information” to narrow down the pool to a single individual. (Barlow
+
+Decl. at pp.4-5.) But the fact that investigators had to contact family members in other cases
+
+to develop the tip that led law enforcement to the defendant does not mean the FBI had to
+
+do so in this case.   If anything, Barlow’s theory supports the State’s request for an in-camera
+
+hearing so the Court can decide whether the IGG information contains exculpatory
+
+information.
+
+
+
+    Curiously, Barlow accuses the State of misreading People v. Johnson—a case the State
+2
+
+
+did not cite or reference.
+
+REPLY IN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                                 9
+       Second, Barlow argues that the IGG information “could” provide Defendant with a
+
+Database Match Probability statistic, which shc statcs would be relevant and admissible.
+
+She supports this proposition with Um'red Slates v. Jenkins, 887 A.2d l013 (D.C. Ct. App.
+
+2005), a case that had nothing to do with IGG and that, ironically. demonstrates a fatal ﬂaw
+
+in Barlow‘s declaration.’ The Jenkins court did not hold that the DMP statistic was relevant
+
+and admissible. On the contrary, the holding in Jenkins was that the trial court erred by
+
+
+deferring to an outside expert on whether the DMP statistic was relevant: “Determining what
+
+evidence is and is not relevant is a hallmark responsibility of the trial judge and that
+
+responsibility is not appropriately delegated to parties outside the court." Id. at l025. Now,
+
+as a “part[y] outside the court,” Barlow dictates to this Court that a DMP statistic would be
+
+
+a “relevant and admissible statistic.”   (Barlow Decl. at p.10 (emphasis in original).) The
+
+Court should reject Barlow’s attempt to hijack its role in determining the relevance and
+
+admissibility of evidence.
+
+       Barlow’s DMP statistic theory has other problems as well.         Her own source of
+
+authority explains that “[t]he [DMP] answers the question: ‘What is the chance/probability
+
+of obtaining a match by searching this particular database’?” Jenkins, 887 A.2d at 1024.
+
+But the FBI does not search genealogical databases in the IGG process for the purpose of
+
+ﬁnding “a match.” The FBI is looking for relatives of the contributor of the DNA found at
+
+
+
+
+3Jenkins was a case in which the defendant was found as a “cold hit” in a database. Barlow
+makes the logical jump that a DMP statistic in an IGG case should be treated the same as a
+DMP statistic in a “cold hit” case with no explanation. Rather, she supports her logical jump
+by simply asserting that she has "spoken with a number of experts” who say that it is so. At
+least in Idaho, we call that “hearsay." I.R.E. 80l(c).
+
+REPLY IN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                              IO
+the crime scene. Or, as Barlow herself puts it. “[t]he comparisons in such a database do not
+
+
+yield an identiﬁcation of someone identical the [sic] uploaded SNP data; rather it would
+
+identify possible relatives who might be in the database." (Barlow Decl. at p.4.)
+
+          Moreover, Barlow’s DMP statistic theory presupposes that how law enforcement
+
+first became aware of Defendant is relevant to guilt or punishment—an assertion ﬂatly
+
+rejected by courts that have actually addressed whether lGG information must be disclosed.
+
+See, e.g., In the Matter of: Michael Green, Case No. PDL20200007, Ruling on Motion to
+
+
+Compel Production of Discovery (Sup. Ct. Cal. Oct. 5, 2020)“ (“The People are not obligated
+
+to provide its preliminary search of the genealogy databases for possible matches, which is
+
+
+investigatory in nature and is not exculpatory or material to [the defendant‘s] defense”);
+
+People v. Simien, Case No. 2|FE018495, Order Denying Defense Motion for Discovery
+
+(Sup. Ct. Cal. May 5, 2023)5 ("The testing that produced the SNP proﬁle and law
+
+enforcement’s use of that proﬁle to identify defendant as a suspect is simply irrelevant to
+
+guilt or punishment”).
+
+         2.   Declaration of Stephen B. Mercer
+
+         The thrust of Mercer‘s declaration is that the State should be required to disclose the
+
+lGG information because, under the ABA Standards for Criminal Justice, defense attorneys
+
+have “the duty to investigate.” (Mercer Decl. '1 6.) But the standard he cites belies his claim.
+
+lt does not hold itself out as a standard on what should be disclosed by the State, but instead
+
+indicates that the defense attorney‘s investigation “should include efforts to secure
+
+
+4
+    Attached to State’s Motion for Protective Order as Exhibit A.
+5
+    Attached hereto as Exhibit B.
+
+REPLY lN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                                ll
+infomation in the possession of the prosecution and law enforcement.” 1d. Were the mere
+
+assertion that a defense attorney has a duty to investigate sufﬁcient to compel disclosure of
+
+the IGG information in this case, it would be sufﬁcient to compel disclosure of anything and
+
+
+everything in the State’s possession in every case. Bu! see [.C.R. 16; Kyles v. Whitley, 514
+
+U.S. 419, 437 (1995) (“We have never held that the Constitution demands an open ﬁle policy
+
+    ”)
+
+         Mercer also cites an ABA standard that indicates prosecutors should turn over certain
+
+DNA evidence. (Mercer Decl. 1] 6.) But he fails to identify which category of information
+
+he believes encompasses the IGG information in this case.         None of the categories of
+
+information in the ABA standard call for the disclosure of family trees created through the
+
+IGG process.
+
+         Moreover, Mercer cites no authority to suggest the standards on which he relies
+
+govern discovery in Idaho, but see State v. Ish, I66 Idaho 492, 510, 461 P.3d 774, 792 (2020)
+
+(explaining “Idaho Criminal Rule l6 governs discovery in criminal proceedings”), and the
+
+U.S. Supreme Court has already rejected the argument that the ABA standards are
+
+coterminous with the U.S. Constitution. See Kyles, 5 I4 U.S. at 436-37.
+
+                                       CONCLUSION
+
+         For the reasons stated above and in the State’s Motion for a Protective Order, the
+
+State asks this Court to enter an order protecting the IGG information or, in the alternative,
+
+for an in-camera hearing to present information related to the IGG information so this Court
+
+can decide whether the IGG information contains exculpatory information.
+
+
+
+
+REPLY IN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                               l2
+      RESPECTFULLY SUBMITTED this I ‘1 day of                        , 2023.
+                                                      % gljz'a
+
+
+
+                                             /
+                                                   WLW/
+                                                   I 1     I /
+
+W lam W. Thompso                           Eff   )Ic ,5
+Prosecuting Attom                          Special Assista t Attorney General
+
+
+
+
+REPLY IN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                     [3
+                                    CERTIFICATE OF DELIVERY
+
+       I   hereby certify that true and correct copies of the REPLY IN SUPPORT OF
+
+MOTION FOR PROTECTIVE ORDER was served on the following in the manner
+
+indicated below:
+
+Anne Taylor                                         D Mailed
+Attorney at Law                                 ,iz’iz-med & Served / E-mailed
+PO Box 9000
+                                                    1:1   Faxed
+Coeur D Alene, ID 83816-9000
+                                                    CI Hand Delivered
+
+
+       Dated this   i   9   i   I
+
+                                    day of                   , 2023.
+
+
+
+
+REPLY IN SUPPORT OF MOTION FOR PROTECTIVE ORDER
+                                               [4
+  2
+                                                                                             FILED ENDORSED
+                                                                                     <
+  3
+                                                                                                  MAY   ‘5 2023
+ 4
+
+                                                                                              By A. Boyko, Deputy Clerk
+567009
+
+
+
+
+                                             SUPERIOR COURT OF CALIFORNIA
+                                                COUNTY OF SACRAMENTO
+
+         The People of the State of California,
+10                                                                 Case No. 21FE018495            Dept. 40
+               Plaintiff,
+11                                                                 ORDER DENYING DEFENSE MOTION FOR
+         v.                                                        DISCOVERY
+12
+         JD SIMIEN,
+13
+               Defendant.
+14
+
+15
+
+16
+
+17                  ln this case, the prosecution employed “Investigative Genetic Genealogy" to identify
+
+1s       defendant as the alleged perpetrator of the charged offenses. Defendant seeks discovery of “any
+
+19       and all DNA discovery obtained from any and all private genetic genealogy databases that led to
+
+20       the capture of the Defendant. Speciﬁcally, anything from GEDmatch, F ulgent Labs and Parabon
+
+21       or any other private familial testing database.” Defendant asserts this discovery must be provided
+
+22       under Penal Code section 1054. L' the Fifth and Fourteenth Amendments of the United States
+
+23       Constitution and article I. section 30 of the California Constitution. The People counter by
+
+24       arguing the materials are not relevant and are protected from disclosure by Evidence Code section
+
+25       1040.
+
+26                  The Court ﬁnds defendant is not entitled to the discovery he requests. The information
+
+27
+         '
+28           All future statutory references are to the Penal Code unless otherwise noted.
+                                                                      l
+         sought is not relevant; therefore, the People are not obligated to provide it under either section
+
+  2      1054.1 or the due process clause ofeither the federal or state constitution. Because the discovery
+
+  3      is not relevant, the Court does not need to decide whether it is also privileged under Evidence
+
+ 4       Code section 1040.
+567009
+
+
+
+
+                                                         l. Background
+
+                 In their motion ﬁled January 24, 2023. the People, in broad strokes, describe the
+
+         genealogical investigation that lead them to identify defendant as a suspect in this case. The
+
+         process starts with submitting to a laboratory for testing the DNA of the unknown suSpect left at
+
+         the crime scene. The laboratory produces a genetic proﬁle (“SNP” proﬁle) that is then uploaded
+
+10       to publicly accessible DNA databases. The hope is that the public databases will connect the SNP
+
+11       proﬁle to the suspect or a relative. With a list of relatives in hand, law enforcement utilizes
+
+12       traditional investigative techniques to identify the suspect.
+
+13               As noted above, defendant seeks discovery of “any and all DNA discovery obtained from
+
+14       any and all private genetic genealogy databases" that led to his capture. The Court interprets this
+
+15       request to mean defendant wants all possible infonnation from the laboratory that produced the
+
+16       SNP proﬁle and the search parameters and results from any public or private DNA database used
+
+17       by law enforcement. Defendant maintains he is entitled to this information under the following
+
+18       authorities:
+
+l9               (1) Section 1054.1, subdivision (c), which requires the prosecutor to disclose "[a]l|
+20       relevant real evidence seized or obtained as a part of the investigation of the offenses charged.”
+
+21       Defendant argues this case is analogous to a familial search of the Combined DNA lndex System
+
+22       (CODIS) and in those cases the People are “required" to send a letter notifying the defendant that
+23       an
+            “                   ”
+                          lead’ has been found.              to defendant, in those cases the "lab then
+              ‘investigative                         According
+24       tums over all the DNA testing done that substantiates” the lead. Defendant would have these
+
+25       requirements apply to leads generated by a private database.
+
+26               (2) Brady v. Maryland (l 963) 373 U.S. 83 (Brady) compels the prosecution to provide
+27       favorable evidence to the accused. In addition to arguing the requested information could contain
+
+28       something exculpatory, defendant interprets Brady to mean he is entitled to any evidence that
+                                                           2
+       tends to indicate a third party may be the culprit ofthe alleged offenses.
+
+                                              II. Statutory Discovery Rights
+
+               In I990, voters approved Proposition 1 15. The initiative reformed discovery rights in
+
+       criminal cases by codifying a series of statutes (§ 1054 et seq.) that “ ‘govems the scope and
+
+       process of criminal discovery’ in this state.” (People v. Superior Court (Meraz) (2008) I63
+6789
+
+
+
+
+       Cal.App.4th 28, 46.) One of the stated purposes of the new statues is to “provide that no
+
+       discovery shall occur in criminal cases except as provided by this chapter, other express statutory
+
+       provisions, or as mandated by the Constitution of the United States." (§ 1054, subd. (e).) Under
+
+       section 1054.1, a prosecuting attomey must disclose specified items, including “all relevant real
+
+10     evidence seized or obtained as a part of the investigation of the offenses charged." (ltalics added.)
+
+ll            Evidence is only relevant if it has “any tendency in reason to prove or disprove any
+
+l2     disputed fact that is of consequences to the determination of the action." (Evid. Code, § 210.)
+
+1.3    Evidence that is not relevant is inadmissible. (Evid. Code, § 350.) “1n determining whether
+
+l4     evidence has a tendency to prove a material fact, it must be determined whether it ‘logically,
+
+15     naturally, and by reasonable inference’ establishes the fact. [Citation] A trial court has wide
+
+l6     discretion in determining the relevance of evidence.” (People v. Samam'ego (2009) 172
+
+l7     Cal.App.4th 1148, 1174.)
+l8                                          III. Due Process Discovery Rights
+
+l9            ln addition to the discovery rights conferred by section 1054 ct seq., defendants retain a
+
+20     right to discovery under the due process clause. “The prosecutor's duties of disclosure under the
+
+2!     due process clause are wholly independent ot‘any statutory scheme of reciprocal discovery. The
+
+22     due process requirements are self-executing and need no statutory support to be effective. Such
+
+23     obligations exist whether or not the state has adopted a reciprocal discovery statute. Furthermore,
+24     if a statutory discovery scneme exists, these due process requirements operate outside such a
+25     scheme. The prosecutor is obligated to disclose such evidence voluntarily, whether or not the
+
+26     defendant makes a request for discovery." (lzazaga v. Superior Court (1991) S4 C al.3d 356, 378.)
+
+27     Under the due process clause. the prosecution must disclose evidence that is both "favorable to
+
+28     the accused” and “material either to guilt or to punishment       (Brady v. Maryland(1963) 373
+                                                         3
+        U.S. 83, 87 (Brady).)
+
+                "Favorable evidence is evidence that the defense could use either to impeach the state's
+
+        witnesses or to exculpate the accused." (People v. Ayala (2000) 23 Cal.4th 225, 279; In re
+ 4567
+
+
+
+
+        Sassoum‘an (1995) 9 Cal.4th 535, 544 ["Evidence is ‘favorable‘ if it either helps the defendant or
+
+        hurts the prosecution"].) Evidence is material     ‘when there is a reasonable probability that, had
+
+        the evidence been disclosed, the result of the proceeding would have been different.” (Turner v.
+
+        U.S. (2017) 582 U.S. 313, 324.) A “reasonable probability” ot‘a different result is one in which
+
+  8     the withholding of the evidence “undermines conﬁdence in the outcome of the trial.” (US. v.
+
+ 9      Bagley ( 1985) 473 U.S. 667, 678.)
+10                                                       IV. Discussion
+
+                                             a. Penal Code section 1054 er seq.
+
+12             Defendant asserts he is entitled to the requested discovery under section 1054.1 because it
+
+l3      constitutes “relevant real evidence.” However, defendant never explains why the information is
+
+I4      relevant. On page six ofdefendant’s motion to compel (ﬁled Feb. 22, 2023). he invokes section
+
+lS      1054.1 and raises the possibility he may want to call witnesses involved in the “genealogical
+
+16      testing.“ What witnesses would he call? The scientist that tested the crime scene DNA and
+
+l7      produced the SNP proﬁle? Employees from the DNA database website? Defendant fails to proffer
+
+        a theory by which these potential witnesses would undermine any element of the charges of the
+
+l9      credibility of the People’s witnesses. For example, assume the laboratory that produced the SNP
+
+20      proﬁle made a mistake. How does that information help defendant? Similarly. if law enforcement
+
+21      spoke with relatives who will not be testifying at trial, how does disclosing those statements aid
+
+22      defendant? Defendant does raise the possibility of a third-party culpability defense. but how the
+
+23      requested discovery is relevant to that claim is not adequately explained. (People v. Hall (1986)
+
+24      41 Cal.3d 826, 833 [third-party culpability claim must be based on more than pure speculation].)
+
+25             Defendant also argues he is entitled to the discovery because he would have received
+
+26      similar discovery had the prosecution received a CODIS hit. Defendant does not cite any statute,
+
+27      regulation or case law to support his assertion. The Court‘s own searches were unproductive.
+
+28      Defendant's failure to provide the authority he claims compels the People to provide similar
+                                                           4
+         discovery in a CODlS case prevents the Coun from analyzing the potential application of that
+
+         authority to the present case.
+
+                                                   h. Due Process Discavery
+456789
+
+
+
+
+                Defendant invokes Brady and its progeny, but he does not produce a theory that the
+
+         requested discovery is favorable and material. Likewise, the Court fails to envision a scenario in
+
+         which the materials defendant seeks could be either exculpatory or useful to impeaching a
+
+         prosecution witness. The Court’s conclusion that the evidence is irrelevant leads to the natural
+
+         conclusion that it is also immaterial under Brady.
+
+                                                            V. Disposition
+
+
+10              The relevant DNA testing in this case includes the testing ot'thc crime scene sample, the
+
+ll       discarded DNA, and the reference sample. The testing that produced the SNP proﬁle and law
+
+12       enforcement’s use of that proﬁle to identify defendant as a suspect is simply irrelevant to guilt or
+
+l3       punishment. The analogy to an informant case does not advance the defendant’s argument
+
+l4       because neither the private laboratory nor the DNA database website pointed the ﬁnger at
+
+15       defendant. But the analogy is not entirely off base. “A mere informer has a limited role. ‘When
+
+16       such a person is truly an informant he simply points the ﬁnger of suspicion toward a person who
+
+17       has violated the law. He puts the wheels in motion which cause the defendant to be suspected and
+
+18       perhaps arrested, but he plays no part in the criminal act with which the defendant is later
+
+19       charged. [Citation] His identity is not ordinarily necessary to the defendant’s case    ." (People
+
+20       v. McShann (1958) 50 Cal.2d 802. 808.) At most, the private laboratory and any website law
+
+
+21       enforcement utilize merely pointed a ﬁnger of suspicion. Defendant is not entitled to their identity
+
+22       or other materials. Defendant’s motion to compel is DENIED.
+
+23
+
+24
+                                                                             ‘1‘" >4
+25
+         DATED:    f/f/JJ                              Rx
+                                                                  HO\  SWHITE / COURT
+26                                            /                   JUDGE 0F THE SUPERIOR
+                                             yl‘   2
+
+
+
+
+27
+                                            t‘miﬁ’“
+28
+

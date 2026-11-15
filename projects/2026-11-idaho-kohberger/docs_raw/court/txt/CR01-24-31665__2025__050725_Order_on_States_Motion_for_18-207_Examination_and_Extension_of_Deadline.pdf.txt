@@ -1,0 +1,922 @@
+                                                                                            Filed: 05/07/2025 08:23:04
+                                                                                            Fourth Judicial District, Ada County
+                                                                                            Trent Tripple, Clerk of the Court
+                                                                                            By: Deputy Clerk Waters, Renee
+                                                                                                               -
+
+
+
+
+            IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+
+                  THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+    STATE OF IDAHO,
+
+               Plaintiff,                                      Ada County Case No. CR01-24-31665
+
+                                                               ORDER ON STATE'S MOTION FOR
+    BRYAN C. KOHBERGER,                                        §18-207 EXAMINATION AND
+                                                               EXTENSION OF DEADLINE
+               Detendant.
+
+
+
+I.      INTRODUCTION
+        Before the Court is the State's motion to conduct an examination of Defendant pursuant
+
+to I.C. § 18-207(4)(c) and to extend the penalty-phase rebuttal disclosure deadline to
+
+accommodate opinions arising from that examination. Defendant does not dispute that his
+
+penalty-phase expert disclosures opining to his mental conditions trigger the State's right under
+the statute to conduct its own mental health examination. What is in dispute, however, is the
+
+scope of the examination, whether defense counsel may be present and whether the State has
+shown good cause to extend the rebuttal disclosure deadline.
+
+        Oral argument! on the motion was held by video conference on May 5, 2025, after which
+
+the Court ruled from the bench. This Order memorializes that ruling.
+
+II.      STANDARDS
+         Constitutional questions are questions of law. State v. Sanchez, 165 Idaho 563, 567, 448
+P.3d 991, 995 (2019). Whether good cause has been shown for an extension of time is a
+
+discretionary decision. I.C.R. 45. On discretionary matters, the trial court must: 1) correctly
+
+perceive the issue as one of discretion; 2) act within the boundaries of such discretion; 3) act
+consistently with any legal standards applicable to the specific choices before it, and; 4) reach its
+
+
+1
+  Because the motion was likely to-and did-generate discussion about issues concerning Defendant's mental
+health, including matters not admissible at trial, the Court sealed the hearing pursuant to I.C.A.R. 32(c)(3)(A) to
+both protect against the disclosure highly intimate facts which would be highly objectionable to a reasonable person
+if disseminated and to preserve Defendant's right to a fair trial. Sealing the hearing was the least restrictive way to
+protect the privacy interests at issue. Neither party objected to sealing the hearing.
+
+
+                                                           1
+decision by an exercise of reason. State v. Herrera, 164 Idaho 261, 270, 429 P.3d 149, 158
+
+(2018).
+Il.       PROCEDURAL BACKGROUND
+          On January 23, 2025, Defendant timely disclosed guilt-phase expert opinions by two
+mental health professionals who examined Defendant and subsequently diagnosed him with
+
+various mental and behavioral conditions, including Autism Spectrum Disorder ("ASD"),
+
+Obsessive-Compulsive Disorder ("OCD") and Attention Deficit Hyperactivity Disorder
+("ADHD"). Following those disclosures, the State provisionally retained a psychologist to
+conduct an examination of Defendant pursuant to I.C. § 18-207(4)(c) and provide a report for
+
+rebuttal purposes."
+
+          On March 31, 2025, Defendant timely disclosed penalty-phase expert opinions by five
+
+mental health professionals         including the two previously disclosed             regarding his various
+mental/behavioral health conditions. The deadline for the State's penalty-phase expert
+
+disclosures was set for April 28, 2025.
+
+          On April 2, 2025, the State initiated communications with defense counsel about
+
+conducting an examination of Defendant pursuant to I.-C. § 18-207(4)(c). Decl. Hurwit, Exh. S-1,
+
+p. 4. Defense counsel responded that same day requesting the name of the experts, the nature of
+the testing and whether there was any objection to defense counsel being present for the exam.
+
+Id. The following day, the State provided the information requested, including the proposed
+
+testing. /d. at pp. 3-4. Among the tests listed was an assessment of "personality structure." The
+State also objected to defense counsel being present. /d. In response, defense counsel did not
+
+object to the evaluation, but did object to any testing outside the scope of what Defendant's
+
+experts had conducted, specifically personality testing. She also asked the State to reconsider its
+
+position as to having counsel present during the examination. Jd. at pp. 2-3.3 On April 7, 2025,
+the State responded, indicating it would not remove personality testing from the proposed
+
+
+
+2The State also moved in limine to exclude the proposed penalty-phase testimony by these two experts on grounds
+that their opinions did constitute a mental element defense and, therefore, did not fall within the scope of I.C. § 18-
+207(3). The Court ultimately held that testimony by the two experts during the penalty phase would not be
+permitted, with limited exception, unless Defendant testifies at trial. See, Order on State's Motion in Limine re:
+Neuropsychological and Psychiatric Evidence (Apr. 18, 2025)
+
+3
+ Both parties agree that the Defendant's disclosure of his psychological experts to testify in mitigation triggered a
+waiver of any privilege by the defendant and a mandatory right of the state to have its expert(s) conduct an
+examination of the defendant. See I.C. § 18-207(4)(c).
+
+                                                           2
+examination and would not agree to counsel being present during the examination except
+
+through a video feed or otherwise by having counsel shielded from Defendant's view.
+       On April 11, 2025, the State's mental health expert informed counsel he was not able to
+
+continue on the case. Approximately one week later, the State retained a replacement, Dr.
+
+[Redacted until the state formally discloses the expert], and informed Defendant of such. Decl.
+Hurwit, Exh. S-2. The State indicated it still needed to discuss with specifics of the examination
+with their new doctor, including his position on having counsel present. Jd. On April 22, 2025,
+the State alerted defense counsel via email that their new doctor believed personality testing was
+
+warranted and objected to counsel's presence. The State also sought a stipulation to extend the
+
+rebuttal disclosure deadline for purposes of disclosing the doctor's opinion. Defense counsel
+
+responded that same day objecting to the deadline extension, to personality testing and to her
+exclusion from the room. On March 25, 2025, the State filed the current motion.
+IV.    ANALYSIS
+       In its motion, the State seeks an order from the Court: 1) extending the deadline for its
+
+penalty-phase rebuttal disclosures for 21 days following the completion of the State's expert
+examination; 2) allowing the State's expert to administer standardized personality testing on
+
+Defendant, and; 3) excluding defense counsel's presence at the examination. Defendant responds
+that: 1) there is no good cause for the extension, and it would be highly prejudicial given the
+
+posture of the case; 2) personality testing is beyond the scope of rebuttal and would violate his
+Fifth Amendment rights against self-incrimination, and; 3) counsel's presence during the
+examination is required by the Sixth Amendment.
+       As indicated at the hearing on the motion, the Court finds good cause for a short
+extension to the deadline. As for the examination, personality testing will not be allowed nor will
+
+counsel's presence in the examination room be allowed.
+       A.      A Limited Extension of the Rebuttal Disclosure Deadline is Warranted.
+       Because the State filed the current motion prior to the expiration of the rebuttal disclosure
+
+deadline, the question of whether to extend the deadline is guided by the good cause standard.
+I.C.R. 45(b)(1)(A). In the civil context, "[g]ood cause implies the existence of factors outside a
+[party's] control, as opposed to the [party's] lack of diligence." Grazer v. Jones, 154 Idaho 58,
+70, 294 P.3d 184, 196 (2013). The reason for the delay must be "truly unforeseen and excusable"
+as opposed to counsel's "failure to diligently prosecute this issue before the crisis was upon
+
+
+                                                  3
+him." Dodd v. Jones, 2025 WL 665547, at *20 (Idaho Mar. 3, 2025), reh'g denied (Apr. 15,
+
+2025). The Court may also consider whether Defendant will be prejudiced by the delay. Cannon
+v.   Teel, 173 Idaho 755, 759, 548 P.3d 380, 384 (Ct. App. 2023), review denied (Jan. 24, 2024).
+These considerations apply equally in the criminal context.
+
+         Evaluating these factors, the Court finds good cause has been shown for a limited
+extension to the deadline.* While the State should have filed its motion to extend the deadline
+
+weeks sooner,' the Court is sympathetic to the fact that the State's mental health expert                      who
+
+had been provisionally retained shortly after Defendant's guilt-phase expert disclosures
+
+decided to withdraw from the case just two weeks prior to the rebuttal disclosure deadline,
+
+leaving the State to scramble to retain another expert. Based on the State's representations during
+the hearing, the expert's withdrawal was unforeseen by, and beyond the control of, the
+
+prosecution. Until [Redacted] was retained, the State did not know his position on the two issues
+
+holding up the examination, i.e., personality testing and presence of counsel. Once the State
+learned of his position and confirmed Defendant's objections, it moved accordingly. Considering
+
+these circumstances, the Court finds the delay to be more attributable to the prior expert's
+
+unexpected withdrawal than lack of diligence by the State.
+          However, the State's request to extend the rebuttal disclosure deadline to 21 days after
+the examination runs the risk of prejudicing Defendant. Given the posture of this case, the
+
+volume of discovery and the upcoming trial date, the Court will only allow an extension to May
+
+27, 2025° so that Defendant has ample time to consider and potentially respond to the State's
+disclosure. Defendant shall be made available to the State's expert for examination within the
+next seven to ten days, thus leaving the doctor approximately two weeks to complete his report.
+
+
+
+
+' Granting this extension, though limited by the Court in both scope and time, is consistent the substantive, and
+                                                                                                to 1.C. § 18-207(4)(c).
+mandatory, i.e. non-discretionary, right of the state to conduct such an examination pursuant
+
+5
+  Given that time was of the essence, the State should have considered filed a motion to extend the deadline, at the
+                                                                                                 and exclusion of counsel
+latest, by April 3, 2025, after it learmed Defendant would be objecting to personality testing
+from the examination. While the Court appreciates that counsel attempted     to reach  resolution  without the Court's
+involvement, this is a significant matter that called for prompt resolution once  it appeared  the parties were at odds.
+
+6
+ In its oral ruling, the Court indicated the extension would be 2! days from the date of the hearing, which falls on
+Memorial   Day.   Due theholiday,   the Court will allow the State an extra day. Further, given that the deadline follows
+a holiday weekend, the Court expects Defendant will be flexible if a day or two extra is needed.
+
+                                                            4
+        B.       Personality Testing Will Not Be Allowed.
+        The State seeks leave to allow its expert to conduct personality tests on Defendant during
+the examination to confirm, rebut or otherwise contextualize the neuropsychological conditions
+
+diagnosed by Defendant's experts, particularly ASD. The State argues there is no basis to limit
+its doctor's professional judgment as to the appropriate areas of examination and, further,
+
+Defendant has opened the door by offering testimony about his lack of personality disorder.' The
+
+State contends it will only seek to utilize the results of the examination as rebuttal evidence in
+
+the penalty phase and will disclose all of the results of the examination to Defendant.
+
+        Defendant objects, arguing personality tests exceeds the scope of proper rebuttal. He
+
+points out his own experts did not perform personality testing or diagnose him with a personality
+disorder; rather, his proffered evidence concerns his diagnoses of ASD, OCD, ADHD and his
+
+history of eating disorders and substance abuse. He also argues nature of personality testing
+violates his Fifth Amendment right against self-incrimination.
+        As both parties appear to agree, the scope of the State's examination of Defendant is
+confined to purposes of rebuttal. This is borne out by the language of I.C. § 18-207(4)(c), which
+
+provides for a limited Fifth Amendment waiver for the mental condition placed at issue, stating:
+        (4) No court shall, over the objection of any party, receive the evidence of any
+        expert witness on any issue of mental condition, or permit such evidence to be
+        placed before a jury, unless such evidence is fully subject to the adversarial
+        process in at least the following particulars:
+
+
+        (c) Raising an issue of mental condition in a criminal proceeding shall constitute a
+        waiver of any privilege that might otherwise be interposed to bar the production
+        of evidence on the subject and, upon request, the court shall order that the state's
+        experts shall have access to the defendant in such cases for the purpose of having
+        its own experts conduct an examination in preparation for any legal proceeding at
+        which the defendant's mental condition may be in issue.
+
+I.C. 18-207(4)(c) (emphasis added).
+        The "subject" to which waiver applies is "an issue of mental condition." In other words,
+the statute does not provide for waiver of a defendant's entire mental condition; it only waives
+
+
+
+7
+ One of defendant's forensic psychiatrists, Dr. Eileen Ryan, concluded in her expert report that Defendant "does not
+have a childhood history of behavior that is consistent with conduct disorder or antisocial personality disorder in
+                                                                                                        as Exh. S-3 to
+adulthood, nor does he meet criteria for antisocial personality disorder." Ryan Report, p. 49, attached
+Hurwit Declaration.
+
+                                                          5
+privilege attaching to the mental condition he chooses to place before the jury so as to allow the
+State to "controvert[] his proof on an issue that he interjected into the case." State v. Payne, 146
+
+Idaho 548, 577, 199 P.3d 123, 152 (2008) (Estelle v. Smith, 451 U.S. 454, 470 (1981)). This is
+
+consistent with well-settled waiver principles under the Fifth Amendment. When a defendant
+
+waives his Fifth Amendment right against self-incrimination by voluntarily providing testimony
+in his own defense, he does so only on the matters raised by his own testimony on direct
+
+examination. Brown v. United States, 356 U.S. 148, 155 (1958).
+
+         Indeed, it is recognized among courts that waiver under provisions similar to I.C. § 18-
+207 is limited to the issue raised by the defense. As noted by the Fifth Circuit in Hernandez v.
+
+Davis,
+         [Bly relying on the testimony of a mental-health expert who has examined him,
+         the defendant waives his Fifth Amendment privilege. Nonetheless, the scope of
+         that waiver is 'limited to the issue raised by the defense,' and any testimony about
+         the court-ordered psychiatric evaluation cannot go beyond this limited rebuttal
+         purpose. Saldano v. Davis, 701 F. App'x 302, 309-10 (Sth Cir. 2017) (per
+         curiam); see also Cheever, 571 U.S. at 97 [] (noting that "[nJothing' in our
+         precedents 'suggests that a defendant opens the door to the admission of
+         psychiatric evidence on future dangerousness by raising an insanity defense at the
+         guilt stage of the trial' (alteration in original) (quoting Powell v. Texas, 492 US.
+         680, 685-86 n.3 [] (1989) (per curiam)).
+
+750 F. App'x 378, 383 (Sth Cir. 2018).
+
+
+
+
+8See also, Gibbs v. Frank, 387 F.3d 268, 274 (3d Cir. 2004) (when a defendant initiates a trial defense of mental
+incapacity or disturbance, his or her limited Fifth Amendment waiver "only allows the prosecution to use [a
+                                                                                                       82 F.3d 593,
+compelled psychiatric interview] to provide rebuttal to the psychiatric defense"); Savino v. Murray,
+604 (4th Cir. 1996) ("[A] defendant has no Fifth Amendment protection against the introduction of mental health
+evidence in rebuttal to the defense's psychiatric evidence."); Bilal v. United States, 240 A.3d 20, 29 (D.C. 2020)
+("[F]rom Cheever, there is no Fifth Amendment bar against a compelled mental examination of the defendant
+                                                                                                                 if the
+defendant will rely on testimony of a mental health expert who has examined him, and the compelled examination
+will be limited to the issue(s) raised by the defense."); United States v. Johnson, 383 F. Supp. 2d 1145, 1167 (N.D.
+lowa 2005) (notice of a defendant's intent to rely on a mental condition mitigating factor does not effect a
+                                                                                     the government's experts are
+comprehensive waiver of the defendant's right against self-incrimination such that
+entitled to ask about his thinking or conduct at the time of the charged offenses); Polvon v. State, 682 S.W.3d 651,
+660 (Tex. App. 2024) ("[A] trial court should limit a compelled psychiatric examination to rebuttal issues."').
+
+
+
+
+                                                           6
+        Here, the parties do not dispute that the scope of the State's examination is limited to
+rebut the mental conditions Defendant has placed at issue. They agree that the State cannot
+
+explore new diagnoses or mental health conditions other than those placed at issue. What they do
+
+dispute is the manner in which the examination may proceed; specifically, whether personality
+
+testing should be allowed.
+        According to Defendant, the personality testing proposed should not be allowed because
+it is not aimed at revealing proper rebuttal evidence. He points out that rebuttal evidence
+
+"explains, repels, counteracts, or disproves evidence with has been introduced by or on behalf of
+the adverse party." State v. Moses, 156 Idaho 855, 332 P.3d 767 (2014). There must be a "nexus
+
+between the purported rebuttal evidence and the evidence that the purported rebuttal evidence
+
+seeks to rebut." United States v. Stitt, 250 F.3d 878, 897-98 (4"" Cir. 2001). Defendant notes that
+
+his proffered evidence is limited to his diagnoses of ASD, OCD, ADHD and history of eating
+
+disorders and substance abuse. Because he has not been diagnosed or even tested for a
+
+personality disorder, he argues testing for such is beyond the scope of rebuttal.
+        In support, Defendant cites to several cases where courts have limited the types of testing
+
+conducted in rebuttal examinations based on the scope of the mental health evidence proffered
+
+by the defendant. For example, in United States v. Taylor, 320 F. Supp. 2d 790 (N.D. Ind. 2004),
+the defendant sought to introduce "expert evidence regarding [his] developmental history and
+
+mental condition relating to substance abuse during the sentencing phase," and was ordered to
+
+submit to a rebuttal examination. /d. at 791. The defendant subsequently objected to four tests
+
+the government intended to use          including a personality test-on the ground that those tests
+were "designed to indicate personality disorders and mental conditions ... not mental condition[s]
+
+related to substance abuse," and therefore exceeded the scope of any Fifth Amendment waiver.
+
+Id. at 794. The court agreed, concluding that the government could use such tests "only to the
+
+extent that the tests contain testing scales for substance abuse," and that the prosecution should
+
+be "barred from introducing any materials that are outside the scope of mental health testing as it
+
+relates to substance abuse." Jd."
+
+
+9
+ See also, U.S.A. v. Jackson, 2015 WL 4885997, at *5 (C.D. Cal. Aug. 13, 2015) (where defendant placed his
+mental condition at issue by presenting expert opinion that he experienced combat-related traumatic brain injury and
+PTSD, the court found the government expert's proposed personality test exceeded the scope, noting it "does not test
+for cognitive functioning or impairment," and is instead "used to assess an individual's personality traits" which the
+defendant had not placed at issue); Centeno v. Superior Court, 17 Cal. App. 4th 30, 45 (2004) (holding that
+                                                               1
+
+
+                                                                                         related to the determination
+compelled mental examinations are "permissible only to the extent they are reasonably
+
+                                                          7
+           The State responds that it is not proposing the personality tests simply as a fishing
+
+expedition; rather, he believes the tests will aid in rebuttal for several reasons. As he explains:
+           In my professional opinion, including broader testing of personality and
+           psychopathology is important for several reasons. First, these tests contain the
+           most sensitive symptom validity measures that help determine if the examinee is
+           reporting information in a consistent and reliable manner without significant over-
+           reporting (exaggeration) or under-reporting (defensiveness). In her evaluation of
+           Defendant, it does not appear that Dr. Rachel Orr, PsyD, ABPP-CN, administered
+           any tests that formally evaluate symptom validity to this level. These validity
+           measures help ensure that the results of other self-report measures that do not
+           contain validity scales are valid. Second, not only is it important to rule in
+           diagnoses such as those that have already been diagnosed, but also to rule out
+           diagnoses that could account for the same symptom presentation. The diagnostic
+           criterion for many disorders includes that the symptoms are not attributed to, or
+           are not better accounted for, by another condition. Therefore, ruling out those
+           conditions is important. Third, with autism specifically, there are certain
+           personality characteristics that are common and supportive of that diagnosis.
+           Obtaining information about those characteristics helps ensure a proper diagnosis.
+           The battery of testing that I propose would be significantly less than the testing
+           battery already completed by Dr. Orr. The battery would serve to supplement the
+           battery that Dr. Orr completed and provide some additional valuable information.
+           In my professional judgment, I would not administer the Hare PCL-R that is
+           discussed in the report of defense expert John F. Edens, Ph.D.
+
+
+Decl. [Redacted], { 4.
+           The State also notes that, to the extent teh testing strays from its rebuttal purpose in any
+
+respect, there is no prejudice to Defendant because he will have a chance
+                                                                                         to object prior to
+
+admission of the evidence at trial. To this end, the State cites to various cases where courts have
+declined to impose strict limits on the scope of court-ordered psychological exams, observing
+
+that even if the examination exceeds the scope of reasonable rebuttal, it will not be admitted at
+
+trial.'°
+
+of the existence of the mental condition raised," and that the trial court must "determine whether the proposed tests
+are reasonably related to the ... issue tendered by the defendant"); U.S. v. Williams, 73\ F. Supp. 2d 1012, 1017-20
+                                                                                                and Antisocial
+(D. Hawai'i 2010) (holding inadmissible results of a test employed to diagnose psychopathy
+PersonalityDisorder because that test addressed factors not placed at issue by defendant's evidence of borderline
+intellectual function and brain damage).
+
+   See, e.g., United States v. Mills, No. 16-CR-20460, 2019 WL 2339289, at *2 (E.D. Mich. June 3, 2019) (noting
+10
+
+
+that "if the examination poses a risk to [the defendant's] Fifth Amendment rights beyond the purposes of rebutting
+
+                                                           8
+        The Court's concern with allowing the State's expert to conduct personality testing is
+two-fold. First, the Court is not convinced from the expert's explanation that the testing is within
+the scope of rebuttal. The first purpose identified, i.e., to ensure Defendant's self-reported
+
+symptoms (particularly to Dr. Orr) are valid, might carry great importance if Dr. Orr's diagnoses
+were made largely based on Defendant's self-reporting, but they were not. Dr. Orr's
+
+neuropsychological examination included extensive interviews with Defendant's family
+members, co-workers, former teachers and psychologists and an evaluation of Defendant's
+health and educational records. Moreover, Dr. Orr specifically observed that, on symptom
+
+inventories, Defendant "chose not to comment on any concerns about himself' and he showed
+
+"very little insight into his behavior and emotions." Exh. D7-E, p. 25 (Orr Phase 2 Rpt)."! In
+other words, there was very little by way of self-reported symptoms. Consequently, the Court
+
+struggles to understand why it is necessary to test the validity of self-reported symptoms through
+
+personality testing.
+        The Court's second          and more significant-concern is with the use of personality testing
+
+to rule out other diagnoses or "personality characteristics" that may account for the same
+
+symptoms. This has the potential to generate new mental health diagnoses or other evidence
+outside the scope of Defendant's Fifth Amendment waiver. While the State asserts that its expert
+
+does not intend to "explore" new diagnoses or mental health conditions, there is a fine line
+
+between ruling out other mental health conditions and "exploring" them. The danger of that line
+
+being crossed is too great and could lead to evidence that could be viewed as aggravating
+                                                                                                               in
+
+nature, or at least make it difficult to parse the aggravating evidence from the mitigating.
+
+         Moreover, considering that the Court is allowing the State an extension of time to
+examine Defendant and disclose its expert's opinions, time is of the essence. Any new potential
+
+
+his intellectual disability claim, this can be easily addressed through post-examination motions."); Abernathy v.
+State, 462 S.E.2d 615, 617 (Ga. 1995) (declining to place limits on scope of exam since the nothing
+                                                                                                        obtained in the
+examination may be used at trial except in rebuttal); United States    v. Wilson, 920 F. Supp. 2d 287, 303-04
+(E.D.N.Y.   2012) (noting   that to the extent the examination seeks information  beyond  the scope of waiver, the
+defendant may later seek to preclude the admission of the evidence.); Hess v. Macaskill, 67 F.3d 307 (9th Cir. 1995)
+                                                                                      to rebut the defendant's
+(noting that any opinions and evidence gained from the evaluations could be used only
+battered woman's syndrome defense).
+
+
+
+   Similarly, Dr. Ryan also observed during her forensic psychiatric examination of Defendant
+                                                                                                  that he did not
+"thrust forward" his symptoms in a manner suggesting malingering and, in fact, took "great pains to minimize and
+deny psychiatric symptomatology." Exh. D-13E, p. 54 (Dr. Ryan Phase Rpt.)
+                                                                        2
+
+
+
+                                                            9
+diagnoses or evidence uncovered through personality testing may elicit the need for further
+
+testing and sur-rebuttal by Defendant, as well as significant post-examination motion practice.
+
+Weighing the marginal utility of personality testing in this case against the existing time
+constraints, and the timing of the State's motion considering its knowledge of the scope of the
+Defense's agreement,12 the Court will not allow it.
+
+         However, to equalize the playing field, the Court will not allow defense experts to testify
+about whether Defendant meets, or historically met, the criteria for personality disorder or
+
+reference the State's failure to conduct personality testing on Defendant. In other words,
+
+Defendant cannot use personality disorder, or the asserted non-existence thereof, and the lack of
+
+testing for it, as a shield and a sword. Moreover, the Court will not prohibit its expert from
+
+commenting on the fact that personality testing may have aided in his evaluation, but that testing
+was not performed by the defense experts, nor available to him. In turn the Defendant may not
+
+assert or imply that [Redacted] could have conducted personality testing. This approach strikes a
+
+balance between ensuring Defendant's rights are preserved while at the same time allowing the
+
+State a means for effective rebuttal within the time constraints posed by the extension.
+
+         C.        The Sixth Amendment Does Not Require Counsel's Presence at the Exam.
+      Finally, the State seeks to exclude defense counsel from its examination, asserting
+Defendant has no Sixth Amendment right to the presence of counsel at the examination. It
+
+further argues exclusion of counsel is consistent with standard psychology practices and the
+
+American Bar Association Standards on Mental Health, which advise that defense counsel
+should only be present if requested by the evaluator.'? According to Dr. [Redacted], defense
+
+counsel's presence would interfere with the validity of the examination. Decl. [Redacted], { 5.
+
+
+
+!2
+   The Court finds that even if the State otherwise should be entitled to administer personality testing, the State
+failed to preserve that right by not earlier seeking a order allowing it, when they knew the defense would not agree
+to that part of the evaluation, and that personality testing, should the Court approve it, likely could not be
+administered and scored in time for the state to meet its April disclosure deadline. This stands in contrast to the
+remainder of the state's requested evaluation, which was not objected to, leaving the state to believe an Order would
+not be necessary as to it.
+
+13
+   For examinations of a defendant by the prosecution such as those permitted by I.C. § 18-207, the standards state
+that "the defense attorney should be present at the evaluation only at the request of the evaluator for reasons relating
+to the effectiveness of the evaluation. If present, the attorney may actively participate only if requested to do so by
+the evaluator." ABA Standard on Mental Health 7-6.4(d) and 7-3.5(c)(ii). Available at:
+                                                                                                     health standards20
+https://www.americanbar.ore/content/dam.aba/publications/criminal justice standards/mental
+ 16.authcheckdam.pd 0last visited April 30, 2025).
+
+
+
+                                                           10
+He also points out defense counsel was not present when Defendant was examined by his own
+
+experts. /d., q 8.
+        Defendant responds that he has a Sixth Amendment right to the presence of counsel
+
+during the examination because it is a "critical stage" in the proceeding, particularly given that
+this is a capital case and "death is different" for Sixth Amendment purposes. He further notes
+
+that having counsel present is consistent with the American Bar Association Guidelines for the
+
+Appointment and Performance of Defense Counsel in Death Penalty Cases.'*
+        The Sixth Amendment to the U.S. Constitution provides: "In all criminal prosecutions,
+the accused shall enjoy the right ... to have the Assistance of Counsel for his defense."!> It
+
+guarantees a criminal defendant the right to counsel during all "critical stages" of the adversarial
+
+proceedings against him. United States v. Wade, 388 U.S. 218, 224 (1967); Estrada v. State, 143
+Idaho 558, 562, 149 P.3d 833, 837 (2006). The test for whether a stage is "critical" is whether
+
+the accused finds himself "confronted, just as at trial, by the procedural system, or by his expert
+
+adversary, or by both." United States v. Ash, 413 U.S. 300, 310 (1973).
+        With regard to court-ordered psychiatric examinations under I.C. § 18-207(4)(c), no
+Idaho appellate court has expressly held that the examination itself is a "critical stage" of the
+
+proceeding, thus triggering the Sixth Amendment. However, in State v. Payne-a capital
+                                                                                                                 case-
+the Court held:
+
+         [A] defendant has the right to assistance of counsel, as opposed to the presence of
+        counsel, during a compelled mental examination [pursuant to I.C. § 18-207(4)(c)].
+        Estrada v. State, 143 Idaho 558, 563, 149 P.3d 833, 838 (2006). This right is
+        based on the Sixth Amendment. /d. at 562, 149 P.3d at 837; Estelle [v. Smith],
+         451 U.S. [454], 470 [(1981)].
+
+146 Idaho 548, 577, 199 P.3d 123, 152 (2008).
+
+        By this holding, the Court implied that a I.C. § 18-207 examination was a "critical stage,"
+but did not pass on the question. In Estrada the case Payne cited to for its holding-the Court
+
+held that the decision of whether to participate in a psychosexual exam was a "critical stage"
+                                                                         at 562-63, 149 P.3d at
+triggering the defendant's Sixth Amendment right to counsel. 143 Idaho
+837-38. Although the defendant did not assert he was entitled to counsel's presence during the
+
+
+\4
+   American Bar Association, American Bar Association Guidelines for the Appointment and Performance of
+Defense Counsel in Death Penalty Cases, 31 Hofstra L. Rev. 913, 1058 (2003).
+15
+   Idaho's corollary right is found in Article I, § 13 of the Idaho Constitution, but it is not relied upon by the parties
+here.
+
+                                                            11
+examination, the Court added that the Sixth Amendment's "right to assistance of counsel in the
+critical stage of a psychosexual evaluation inquiring to a defendant's future dangerousness, does
+not necessarily require the presence of counsel during the exam." /d. (emphasis in original).
+
+          Read together, Payne and Estrada suggest that regardless of whether an examination
+under I.C. § 18-207(4)(c) is a critical stage or not, the Sixth Amendment does not provide a nght
+
+to the presence of defense counsel during the examination. In fact, subsequent case law from the
+
+Idaho Court of Appeals supports this conclusion. In Hughes v. State, the Court of Appeals
+
+squarely held that the Sixth Amendment did not require the presence of counsel at compelled
+
+pyschosexual examinations, even if they were a critical stage.'© 148 Idaho 448, 451, 224 P.3d
+515, 518 (Ct. App. 2009). In doing so, the Court of Appeals examined Estrada at length,
+
+particularly the efforts made by the Idaho Supreme Court to distinguish between the right to
+assistance of counsel under the Sixth Amendment and the "limited right to the appointment and
+
+presence of counsel recognized as a Fifth Amendment safeguard in Miranda. Id. at 454-55,
+                                                                                                                  224
+
+P.3d at 521-22 (citing Estrada, 143 Idaho at 562-63, 149 P.3d at 837-38). In making this
+
+distinction, Estrada drew from Estelle v. Smith-also relied upon by Payne                       where the United
+
+States Supreme Court held that a capital defendant's pretrial psychiatric evaluation was a critical
+
+stage of the proceeding, but his Sixth Amendment rights only encompassed the right
+                                                                                                        to
+
+assistance of counsel before submitting to the examination. /d. (citing Estelle v. Smith, 451 U.S.
+
+454, 470 (1981)). In its opinion, the Estelle court observed that the defendant was not seeking the
+
+right to have counsel actually present during the exam and noted that because the psychiatric
+evaluation at issue was conducted after adversary proceedings were instituted, the Court was
+
+"not concerned" with the limited right to the presence of counsel recognized as a Fifth
+Amendment safeguard in Miranda. Id. (citing Estelle, 451 U.S. at 471, n. 14).
+          Based on the distinctions drawn in Estrada and Estelle between the Sixth Amendment
+                                                                                        the Fifth Amendment, the
+right to assistance versus the limited right to presence of counsel under
+Court of Appeals in Hughes rejected the notion that that the Sixth Amendment provides an
+absolute right the presence of counsel during a psychosexual examination, even if it were
+
+
+
+     In considering whether psychosexual examinations themselves were "critical stages" implicating the Sixth
+16
+
+
+Amendment,      the Court ofAppeals observed that that the "majority of courts" have held that, while the decision to
+undergo pretrial psychiatric examinations-which are similar to psychosexual
+                                                                                examinations-is a critical stage, the
+actual examination is not. /d at 453-54, 224 P.3d at 520-21 (collecting cases).
+
+
+                                                            12
+determined to be a critical stage. Id. at 455-56, 224 P.3d at 522-23. Rather, the Sixth Amendment
+
+simply guarantees the defendant the advice of counsel prior to submitting to the examination. Jd.
+The Hughes opinion and its examination of Estrada and Estelle shed light on what the Idaho
+
+Supreme Court intended in Payne when it held that a defendant undergoing a compelled mental
+examination under I.C. § 18-207 has a Sixth Amendment right "to the assistance of counsel, as
+
+opposed to the presence of counsel[.]" Whether or not the examination itself is a critical stage,
+the Sixth Amendment right is only one of assistance, not presence, of counsel.
+
+        Indeed, "most courts" have concluded that a defendant has no constitutional right to be
+
+represented by counsel during the examination, either because the examination is not considered
+a "critical stage" or because the Sixth Amendment carries a right to assistance rather than
+
+presence of counsel. 6, Wayne R. LaFave, et al., Criminal Procedure § 26.5(b) (4th ed.)
+
+(November 2024 update); see also, See Annot., Right ofAccused in Criminal Prosecution to
+Presence of Counsel at Court Appointed or -Appointed Psychiatric Examination, 3 A.L.R.4th
+
+910, 915.17
+         Defendant, however, contends that that Payne is not controlling as it relied upon dicta
+from Estrada. He notes that Estrada declined to rule on whether the Sixth Amendment mandated
+
+
+
+
+   See, e.g., State v. Martin, 950 S.W.2d 20, 26 (Tenn. 1997) (observing that "'a substantial majority of state and
+1   7
+
+
+federal jurisdictions have held that a defendant does not have the right to counsel during a psychiatric
+examination."); Hollis v. Smith, 571 F.2d 685, 692 (2nd Cir. 1978) ("[T]he Sixth Amendment does not requires that
+a defendant be permitted to have counsel present at a mental examination conducted to rebut a psychiatric defense
+he has initiated."); Hess v. Macaskill, 67 F.3d 307 (9th Cir. 1995) (defendant has no right under the Sixth
+Amendment to have her counsel physically present in the room during the course of a psychiatric examination,
+which was compelled after she placed her mental state at issue at a defense); United States v. Greene, 497 F.2d
+ 1068, 1079-80 (7th Cir.1974) (where defense counsel has consented to a defendant's examination by a government
+mental health expert, exclusion of defense counsel from the examination does not violate defendant's Sixth
+Amendment rights.); United States v. Trapnell, 495 F.2d 22, 24 (2d Cir. 1974) (no right to counsel at a psychiatric
+examination because it is not a critical stage); White v. United States, 451 A.2d 848, 854 (D.C. 1982) (although
+psychiatric evaluation was a "critical stage," it does not require the presence of counsel);
+                                                                                             United States v. Wilson,
+920 F. Supp. 2d 287, 305 (E.D.N.Y. 2012) (the Sixth Amendment does not require that a defendant be permitted to
+have counsel  present at a mental examination conducted to rebut a psychiatric defense he has initiated); State v.
+                                                                                                mental state in issue,
+Steiger, 218 Conn. 349, 369-70, 590 A.2d 408, 420 (1991) (when criminal defendant places
+his Sixth Amendment right ensure an opportunity before the state's pretrial psychiatric exam to consult with
+counsel, not a right to counsel at the examination itself.); State v. Whitaker, 207 N.E.3d 677, 709 (Ohio 2022) (the
+decision to undergo a compelled psychiatric examination is a critical stage, but the exam itself is not, thus the
+defendant has no right to have his attorney present).
+
+
+
+
+                                                           13
+the presence of counsel during a compelled mental examination. Regardless of whether the
+
+statement was dicta in Estrada, Hughes squarely held that presence of counsel was not required
+
+at compelled mental examinations. Further, although Payne may have cited to dicta, its holding
+
+was not. At issue in Payne was whether counsel rendered ineffective assistance-a Sixth
+
+Amendment claim       by, inter alia, failing to "be present during the examinations[.]" 146 Idaho
+at 577, 199 P.3d at 152. The Court held the Sixth Amendment did not carry a right to the
+
+presence of counsel at the examination. Jd. Thus, Payne is controlling.
+       Defendant also contends that the plain language of I.C. § 18-207(4) referring to the
+
+"adversarial process" triggered by a defendant placing a mental health condition at issue
+indicates that the examination is adversarial proceeding, unlike psychosexual examinations
+
+where the expert is court-appointed. However, even assuming the examination itself is an
+
+adversarial process and, therefore, a critical stage, Payne instructs that there is no right under the
+
+Sixth Amendment to the presence of counsel at the examination conducted by the State's expert.
+       Defendant further cites to a handful of cases where courts have found a right to presence
+
+of counsel during psychiatric examinations. In two of those cases, that right was not derived
+from the Sixth Amendment and, therefore, not instructive here. In Houston v. State, in which the
+
+Alaska Supreme Court held that the guarantee of effective assistance of counsel provided in
+Alaska's constitution required the presence of defense counsel during a mid-trial psychiatric
+interview which was conducted by the prosecution pursuant to a court order. 602 P.2d 784, 795-
+96 (Alaska 1979). However, the Alaska Supreme Court is "not limited by decisions of the United
+
+States Supreme Court or the United States Constitution when [it] expound[s][its] state
+
+constitution; the Alaska Constitution may have broader safeguards than the minimum federal
+standards." Roberts v. State, 458 P.2d 340, 342-43 (Alaska 1969). Thus, how the Alaska
+
+Supreme Court chooses to interpret the counsel guarantee provided in Alaska's constitution
+                                                                                                 is not
+
+particularly useful. Similarly, in State v. Mains, defense counsel was present at the psychiatric
+examination not due to a Sixth Amendment right, but because the district court ordered his
+
+presence when ordering the examination. 669 P.2d 1112, 1114(1983).
+        In the two other cases cited by Defendant, the right to counsel's presence was limited. In
+
+People v. Guevara, the court held defense counsel's exclusion from the defendant's pretrial
+psychiatric examination was reversible error based on the case of Lee v. County Ct. of Erie
+County, 27 N.Y.2d 432, 267 N.E.2d 452 (1971), where the court interpreted the Sixth
+
+
+                                                  14
+Amendment as requiring presence of counsel. 37 N.Y.3d 1014, 1015, 174 N.E.3d 1240, 1241,
+
+(2021).!® However, Lee limited that right to observation only so as to "make more effective [the]
+basic right of cross-examination" should the examining psychiatrist be called at trial. Lee, 267
+
+N.E.2d at 444. Lee also permitted the prosecutor to be present. /d. Similarly, in State v.
+
+Hutchinson, the Supreme Court of Washington found that defendants do have a right to the
+
+presence of counsel at court-ordered examinations, but only as observers. 766 P.2d 447, 454
+
+(Wash. 1989).
+         However, these two cases fall into the minority of courts which have determined the
+issue. Further, courts in the majority have cited grave concerns with this approach because of the
+
+potential for defense counsel's mere presence to disrupt the dynamic and, therefore, the
+effectiveness of the court-ordered examination. As noted by the D.C. Circuit in United States v.
+
+Byers:
+         Even if counsel were uncharacteristically to sit silent and interpose no procedural
+         objections or suggestions, one can scarcely imagine a successful psychiatric
+         examination in which the subject's eyes move back and forth between the doctor
+         and his attorney. Nor would it help if the attorney were listening from outside the
+         room, for the subject's attention would still wander where his eyes could not.
+
+740 F.2d 1104, 1120 (D.C.Cir. 1984); see also, Estelle, 451 U.S. at 470-71, n. 14 (noting the
+
+appeals court's recognition that having counsel present during the psychiatric interview "could
+contribute little and might seriously disrupt the examination.")
+
+         In addition, the majority of courts recognize that the need for counsel's presence is
+
+obviated "since the accused's privilege against self-incrimination will be given full effect with
+
+regard to his inculpatory statements to the examining expert on the issues of guilt
+                                                                                                and
+
+                                                                                                    counsel is
+punishment." White v. United States, 451 A.2d 848, 854 (D.C. 1982). Indeed, where
+                                                                                           to see how
+relegated to a purely observational role during the examination, it is difficult
+"assistance" is provided as contemplated by the Sixth Amendment.
+         As to Defendant's argument that "death is different," implying that more robust Sixth
+Amendment rights should apply, Payne             also a capital case-declined to find right under the
+
+Sixth Amendment to the presence of counsel during an I.C. § 18-207 examination. As
+
+
+
+18
+  In addition, Guevara noted that the statute governing such examinations permitted the presence of both defense
+counsel and the prosecutor at the examination. Guevara, 174 N.E.3d at 1241, fn (citing N.Y. Crim. Proc. Law §
+                                                                               |
+
+
+
+
+250.10). This statute codified Lee. Id.
+
+                                                        15
+mentioned, Payne is controlling. That said, the Court will allow counsel for both sides to watch
+the examination through a one-way video feed or some similar method that prohibits them from
+
+being seen or heard during the examination. Under no circumstances will counsel be able to
+
+interrupt the examination.
+
+
+
+
+V.     ORDER
+       Based on the foregoing, State's "Motion for Examination of Defendant Pursuant to Idaho
+
+Code § 18-207 and for an Extension of Time to Complete Rebuttal Penalty Phase Expert
+Disclosures" is GRANTED, in part, and DENIED, in part.
+
+
+IT IS SO ORDERED.
+
+
+DATED thi
+
+
+
+                                                 en ippler
+                                             District Judge
+
+
+
+
+                                                16
+                                    CERTIFICATE OF SERVICE
+
+                        5/7/2025        served a true and correct copy of the         ORDER ON
+|
+ hereby certify that on
+STATE'S MOTION FOR 18-207 EXAMINATION AND EXTENSION OF DEADLINE
+LATAH COUNTY PROSECUTING ATTORNEY'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.gov
+
+ASHLEY JENNINGS
+SENIOR DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JOSHUA D. HURWIT
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountvid.qov
+
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: jeff.nye@aq.idaho.gov
+
+MADISON ALLEN
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Madison.allen@aqg.idaho.qov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetaylorlaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emasscoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+FIRST DISTRICT PUBLIC DEFENDER
+JAY W. LOGSDON
+VIA EMAIL: jav.loasdon@spd.idaho.qov
+
+BICKA BARLOW
+Pro Hac Vice
+VIA EMAIL: bickabarlow@sbcqlobal.net
+
+
+
+
+                                                       TRENT TRIPPLE
+                                                       Clerk of the Court
+
+                                                 By:
+                                                       Deputy Clerk    572025 8:39:09 am
+
+
+
+
+CERTIFICATE OF SERVICE
+

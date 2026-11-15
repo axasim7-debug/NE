@@ -1,0 +1,1928 @@
+                                                                                         NO.
+                                                                                                          FILED
+                                                                                         AM.                PM
+
+
+                                                                                                   FEB 19 2025
+               IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+                                                                                                          RIPPLE Clerk
+                                                                                                    By ANNA MEYER
+                                                                                                         DEPUTY
+                    THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+    STATE OF IDAHO,
+
+                  Plaintiff,                                  Ada County Case No. CR01-24-31665
+    v
+                                                              ORDER ON DEFENDANT'S MOTION
+    BRYAN C. KOHBERGER,                                       FOR FRANKS HEARING
+
+                  Defendant.
+
+
+
+        I.      INTRODUCTION
+             Defendant is charged with one count of Burglary and four counts of Murder in the First
+
+Degree. It is alleged that Defendant entered a residence at 1122 King Road in Moscow, Idaho, in
+the early morning hours of November 13, 2022 and killed Madison Mogen, Kaylee Goncalves,
+
+Ethan Chapin, and Xana Kernodle. Defendant is requesting a Franks hearing,' claiming law
+
+enforcement intentionally or recklessly misrepresented and/or omitted several material facts in
+
+their probable cause affidavits supporting various search warrant applications. These
+
+misrepresentations or omissions, according to Defendant, affect the validity of seventeen
+different search warrants."
+             The State responds that Defendant has failed to make the requisite substantial preliminary
+
+showing under Franks that: 1) law enforcement either made false statements or omitted material
+information knowingly and intentionally, or with reckless disregard for the truth, and/or; 2) that
+the false statements or omissions were necessary to a finding of probable cause.
+
+
+'
+    Franks v. Delaware, 438 U.S. 154 (1978).
+
+2
+ There was a total of 25 search warrants issued in this investigation between December 23, 2022 and August I,
+2023. For each issue analyzed in this Order, the Court has identified the date range for the specific warrants
+Defendant claims are implicated.
+
+3
+  Defendant's Motion for Franks Hearing (Nov. 14, 2024) was accompanied by a Memorandum in Support of a
+Franks Hearing (Nov. 18, 2024) and a USB containing exhibits (1951 pgs), filed November 18, 2024 ('Original
+Exhibits"). The Court subsequently issued an order requesting that Defendant file an amended memorandum
+containing specific cites to the record and revise his Original Exhibits to include only those relevant to the motion.
+See, Order re: Franks Motion (Nov. 22, 2024). Defendant subsequently filed an "Amended Memorandum in Support
+of a Franks Hearing (Nov. 26, 2024), which included a USB containing a revised set of exhibits (1010 pgs.)
+("Revised Exhibits"). The Revised Exhibits, however, only included excerpts of the search warrant affidavits being
+challenged. To properly consider a Franks motion, the Court must necessarily consider the search warrant affidavits
+
+                                                          1
+          A hearing on Defendant's motion was held on January 23, 2025. In the interests of
+evidentiary efficiency, the Court permitted a full Franks hearing on the motion only insofar as it
+
+pertained to the alleged omission of information regarding Defendant's identification through
+
+Investigative Genetic Genealogy (IGG).* On the remaining challenges, the Court permitted
+argument on Defendant's proffer as to whether Defendant had satisfied his burden to warrant a
+
+subsequent Franks hearing.' The Court then took the matters under advisement.
+          The Court concludes that the search warrants are not invalid based on the omission of
+Defendant's identification through IGG because that information would have only bolstered
+
+probable cause for the searches. As to the remaining challenges, the Court finds Defendant has
+failed to carry his preliminary burden under Franks and, therefore, DENIES his motion for a
+
+Franks hearing.
+II.       STANDARD
+          In a Franks motion, the trial court's determination as to whether a representation is false
+
+and whether a misrepresentation or omission was made knowingly and intentionally or with
+
+reckless disregard for the truth are factual determinations reviewed under a clearly erroneous
+standard. State v. Kay, 129 Idaho 507, 512, 927 P.2d 897, 902 (Ct. App. 1996) (citations
+
+omitted). Whether a misrepresentation or omission is "material" is a question of law freely
+reviewed. Id.
+Hil.      ANALYSIS
+          For a search warrant to be valid, it must be based on probable cause. State v. Fisher, 140
+Idaho 365, 369-70, 93 P.3d 696, 700-01 (2004). In Franks v. Delaware, the United States
+
+
+
+in their entirety to determine whether probable cause is affected. Consequently, the evidence considered by the
+Court for this motion is Defendant's Revised Exhibits as supplemented by Exhibits D2, D3A and D3B from the
+Original Exhibits. References in this Order to "Am. Memo" mean Defendant's Amended Memorandum. References
+in this Order to exhibits are from the Revised Exhibits, as supplemented.
+
+4
+    This was identified as Issues 5 in Defendant's Amended Memorandum.
+
+>
+  The Court notes that in response to some of the Franks challenges, the State submitted and argued evidence that
+was not included in Defendant's proffer. While this evidence can be considered at a Franks hearing, this stage only
+permits the Court to consider whether Defendant has made the "substantial preliminary showing" under Franks to
+warrant that hearing. United States v. McMurtrey, 704 F.3d 502 (7th Cir. 2013) ({T}he court should not give the
+government an opportunity to present its evidence on the validity of the warrant without converting the hearing into
+a full evidentiary Franks hearing, including full cross-examination of government witnesses.") Consequently, on
+these challenges, the Court is only relying on Defendant's exhibits and the parties' arguments regarding why or why
+not based on that proffer a Franks hearing is warranted.
+
+
+                                                         2
+Supreme Court held that a defendant can void a search warrant and suppress the fruits of the
+search when the affidavit used to procure the warrant contains a knowingly and intentional or
+
+recklessly false statement that is material to the probable cause determination. 438 U.S. 154,
+155-56 (1978). "Where the defendant makes a substantial preliminary showing that a false
+statement knowingly and intentionally, or with reckless disregard for the truth, was included by
+
+the affiant in the warrant affidavit, and if the allegedly false statement is necessary to the finding
+
+of probable cause, the Fourth Amendment requires that a hearing be held at the defendant's
+request." /d.
+        Idaho has adopted the rule established in Franks and extended it to deliberate or reckless
+
+omissions of material, exculpatory facts in affidavits. State v. Guzman, 122 Idaho 981, 983-84,
+842 P.2d 660, 662-63 (1992). "An omission of exculpatory facts is 'material' only if there is a
+
+substantial probability that, had the omitted information been presented, it would have altered the
+
+magistrate's determination of probable cause." State v. Peterson, 133 Idaho 44, 47, 981 P.2d
+1154, 1 157 (Ct. App. 1999) (citations omitted).
+        The analysis under Franks is a two-step process. The first step considers whether the
+defendant has made a "'substantial preliminary showing" that the affiant knowingly and
+
+intentionally or recklessly falsified or omitted information from his or her affidavit.Guzman,
+122 Idaho at 984, 842 P.2d at 663. While the Franks court did not define this burden precisely, it
+
+is generally held to be something more than conclusory allegations but less than proof by a
+
+preponderance. 2 Wayne R. LaFave, Search and Seizure: A Treatise on the Fourth Amendment §
+
+4.4(d) (6" ed.) (Nov. 2024 update) (hereinafter, "LaFave''). Courts have said this requires "direct
+evidence of the affiant's state of mind or else circumstantial evidence of a subjective intent to
+deceive." United States v. Woodfork, 999 F.3d511,518 (7th Cir. 2021) (internal quotes and
+citation omitted)." Negligent or innocent misrepresentations or omissions, even if necessary to
+
+
+
+
+6
+ "Reckless" means a "high degree of awareness of probable falsity." United States v. Senchenko, 133 F.3d 1153,
+1158 (9th Cir. 1998).
+
+7
+  Whether an omission was intentional or reckless may be inferred, in part, from the relative importance of the
+information and its exculpatory power. Peterson, 133 Idaho at 48, 981 P.2d at 1158. However, a court need not draw
+inferences from the evidence in a defendant's favor. I Andrew D. Leipold, Federal Practice and Procedure Crim.
+(Wright & Miller) § 54 (5% ed) (June 2024 update).
+
+
+
+                                                        3
+establish probable cause, will not invalidate a warrant. Peterson, 133 Idaho at 47, 981 P.2d at
+
+1157.
+
+          The challenger's attack must be more than conclusory and must be supported by
+          more than a mere desire to cross examine. There must be allegations of deliberate
+          falsehood or of reckless disregard for the truth, and those allegations must be
+          accompanied by an offer of proof. They should point out specifically the portion
+          of the warrant affidavit that is claimed to be false; and they should be
+          accompanied by a statement of supporting reasons. Affidavits or sworn or
+          otherwise reliable statements of witnesses should be furnished or their absence
+          satisfactorily explained.
+
+Fisher, 140 Idaho at 370, 93 P.3d at 701.
+          If the defendant successfully shows an intentional and knowing or reckless inclusion of a
+false statement or omission of exculpatory information, the trial court must then examine
+
+whether the remaining information in the affidavit is sufficient to establish probable cause absent
+
+the false statement or with the addition of the exculpatory information. Franks, 438 U.S. at 156;
+
+Guzman, 122 Idaho at 983-84, 842 P.2d at 662-63. A Franks hearing will be required only if the
+false or omitted information was necessary to a finding of probable cause. Fisher, 140 Idaho at
+
+370, 93 P.3d at 701.
+          If a defendant makes a substantial preliminary showing under Franks, the matter moves
+to an evidentiary hearing where the defendant must establish by a preponderance of the evidence
+
+that intentional or reckless falsehoods were included in the warrant affidavit and were material to
+
+the magistrate's finding of probable cause, or that material exculpatory information was
+
+deliberately or recklessly omitted. Peterson, 133 Idaho at 47, 981 P.2d at 1157. It is at this stage
+where the State can provide additional evidence for the Court to consider. McMurtrey, 704 F.3d
+
+at 509.
+
+          Here, Defendant claims that seventeen search warrants issued in the investigation of the
+crime were based on false, misleading statements and/or omitted exculpatory information in the
+various search warrant affidavits. His proffer is arranged by issue, of which there are thirteen. As
+
+mentioned, for convenience sake, the Court granted an evidentiary hearing on the IGG issue.®
+This evidence will be considered under the preponderance of evidence standard, while the
+
+
+®
+ The Court was informed that the evidence of this issue substantially overlapped with evidence that was to be
+presented on Defendant's Motion to Suppress re: Genetic Information. Given that, the Court concluded it would be
+most efficient to have a full Franks hearing on the IGG issue since it was slated to largely be presented anyway.
+
+
+                                                        4
+proffer on the remaining issues will be considered under the "substantial preliminary showing"
+standard.
+
+        A.        Defendant Has Not Met His Franks Burden on Issues 1 & 2: Challenges to
+                  Exhibit A°
+        In Issues 1 and 2, Defendant challenges "Exhibit A," which is a probable cause statement
+
+that individual investigative officers appended to their affidavits in seeking search warrants. As
+
+Defendant notes, Exhibit A was a working document drafted as a group effort among the
+
+multiple investigative officers working on the homicide investigation. See, Exh. D1-C ("Draft
+Exhibit A").!° In their respective search warrant applications, the officers submitted and swore to
+Exhibit A as their own, even though it was the product of collective effort and not necessarily
+limited to the swearing officer's own investigation.'' In Issue 1, Defendant challenges this
+
+approach, arguing that Exhibit A was "treated as a wild card to easily get a warrant." Am. Memo
+
+p. 9. In Issue 2, he challenges alleged misrepresentations in Blaker Exhibit                 A,   Mowery Exhibit A
+and Payne Exhibit A.
+
+         Defendant has not met his burden under Franks on Issues 1 or 2. First, is not improper for
+
+law enforcement seeking a warrant to swear to matters within the collective knowledge of other
+officers involved in the same investigation. Second, Defendant has not demonstrated in his
+
+proffers any misrepresentations or omissions, much less that they were made intentionally or
+recklessly or had any effect on probable cause.
+
+
+
+
+*Issue | applies to all search warrants. Issue 2 applies to search warrants issued December 29, 2022 and later.
+
+10
+  Defendant submits Exhibits D1(A)-(C) as evidence of the group effort. These exhibits are emails between Special
+Agent Nick Ballance of the FBI and Detective Brett Payne of the Moscow Police Department in which they are
+exchanging drafts of a probable cause statement.
+
+'Tn addition to the Draft Exhibit A, Defendant has provided with his proffer the following three actual Exhibit As,
+which were submitted by officers with their search warrant applications: 1) the Statement of Dustin Blaker
+supporting the search warrant application for Defendant's Pullman, WA apartment and his office at Washington
+State University (Exh. D2 "Blaker Exhibit A"); 2) the Statement of Lawrence Mowery supporting the search
+                           -
+
+
+
+
+warrant application for Defendant's Google account (Exh. D3-A "Mowery Exhibit A"), and; 3) the Statement of
+                                                                  -
+
+
+
+
+Brett Payne supporting the warrant application for Defendant's arrest (Exh. D3-B "Payne Exhibit A"). These
+                                                                                   -
+
+
+
+
+actual Exhibit As are not identical to the Draft Exhibit A or to each other; nevertheless, Defendant challenges them
+collectively in Issue on grounds that they are "largely the same statement" and contain the same "core set of
+                     1
+
+
+averments."
+
+
+                                                           5
+               1.      Defendant has not demonstrated any impropriety in law enforcement's
+                       execution of Exhibit A based on collective knowledge.
+
+       It is well settled that "statements of law enforcement officers that are based upon the
+
+observations of fellow officers participating in the same investigation carry a presumption of
+
+reliability." State v. Elison, 135 Idaho 546, 550, 21 P.3d 483, 487 (2001); United States v.
+Ventresca, 380 U.S. 102, 110-11 (1965) ("Observations of fellow officers of the Government
+
+engaged in a common investigation are plainly a reliable basis for a warrant applied for by one of
+their number."'). The presumption extends to "hearsay information from 'government officials
+
+who, while engaged in investigatory ... responsibilities, discover evidence of possible criminal
+
+activity.'" State v. Wilson, 130 Idaho 213, 216, 938 P.2d 1251, 1254 (Ct. App. 1997) (quoting
+United States v. Flynn, 664 F.2d 1296, 1303 (5" Cir. 1982)). The presumption arises from "the
+belief that facts gathered in the course of an investigation are unlikely to be based upon mere
+
+speculation or tainted by personal involvement with the suspect." Jd. (quoting United States v.
+Reed, 700 F.2d 638, 642 (11th Cir.1983)).
+
+       Defendant acknowledges that a warrant can be based on law enforcement's common
+
+knowledge, but argues that officers cannot sign a collectively-drafted affidavit as their own
+without identifying who did the work described therein. Otherwise, it misleads the magistrate
+into believing that the swearing officer drafted the affidavit and performed the work therein
+
+when it was a collective effort.
+
+        This hyper-technical argument has no traction under Franks. Even if a search warrant
+affidavit does not specifically identify the precise source of the information from within law
+
+enforcement, it is still sufficient to support probable cause "if a reader would reasonably infer
+that the information came from other law enforcement personnel." Wilson, 130 Idaho at 216. 938
+
+P.2d at 1254 (quoting United States y. May, 819 F.2d 531, 536 (Sth Cir.1987)). In Wilson, for
+
+example, the defendant challenged an officer's search warrant affidavit on grounds that the
+swearing officer did not identify: 1) which facts were based on his own personal knowledge as
+opposed to hearsay information from other sources; 2) whether he had personally viewed the
+evidence; 3) the source of information for the drug dog's training and experience, and; 4) the
+
+identity of sources he contacted for the information. /d. Noting that search warrant affidavits are
+not to be "reviewed and tested in a hypertechnical manner," the Idaho Court of Appeals rejected
+
+the defendant's argument, finding that a "commonsense reading" of the affidavit could allow the
+
+
+                                                  6
+magistrate to reasonably infer that the information came from the officer's own observations or
+those of other officers engaged in the investigation. /d.
+
+       Here, Defendant's evidence demonstrates there were several law enforcement agencies
+
+working together in this case, including the Idaho State Police, the Moscow Police Department
+and the Federal Bureau of Investigation. During his testimony from a prior hearing in this matter,
+
+Detective Brett Payne from the Moscow Police Department explained that agents from these
+three agencies were co-located at   rea   command center set up at the Moscow Police Department for
+
+purposes of the investigation. Exh. D4-B (May 30, 2024 Hearing Trans. at 36:6-37: 9). These
+
+agents were assigned different investigative tasks. Pertinent information they learned in
+
+performing those tasks was then exchanged and transmitted into a working probable cause
+affidavit, i.e., Draft Exhibit A. Jd. The information from the Draft Exhibit A was then
+incorporated by law enforcement in varying degrees into the Exhibit As supporting the search
+warrant applications. Jd.
+
+        Importantly, the Exhibit As challenged by Defendant included statements alerting the
+magistrate that the affiant was assisted by other law enforcement agents and that the information
+contained within the Exhibit A was based on information provided by these other agents. See,
+
+e.g., Blaker Exhibit A (Exh. D2 at Bates 5197) ("I am being assisted by other officers of the
+Moscow Police Department, members of the Idaho State Police (ISP) and agents of the Federal
+Bureau of Investigation (FBI)."). As found in Wilson, this is sufficient to allow the reviewing
+
+magistrate to reasonably infer that the information within Exhibit A came from not only the
+affiant's personal knowledge, but the knowledge of other law enforcement investigating the
+crime. Moreover, given the breadth of information in the affidavit, it is readily apparent that the
+
+affiant did not perform all the work identified therein on his own. Further, Defendant has not
+cited to a single case supporting the proposition that law enforcement's use of a working
+
+probable cause affidavit is improper. In sum, Defendant has failed to make the requisite
+
+showings under Franks on Issue 1. Further, under no circumstances could it be reasonably
+concluded that, had the swearing officer disclosed which members of law enforcement provided
+which piece of evidence, the magistrate would not have found probable cause.
+
+
+
+
+                                                      7
+                 2.        Defendant has not established that alleged "misrepresentations" in any of
+                           the three challenged search warrant affidavits compels a Franks hearing.
+
+        The first misrepresentation identified by Defendant in Issue 2 is contained in Blaker
+Exhibit A supporting the warrant application for Defendant's Pullman, WA apartment and his
+office at Washington State University. Defendant claims that Sergeant Blaker "attributes
+
+discovering the knife sheath to Idaho State Police officers rather than Detective Payne." Am.
+Memo, p. 8. However, as the State correctly notes, Defendant's challenge is nothing more than a
+
+quibble over semantics. What Sergeant Blaker stated was: "J was later advised by ISP
+investigators they /ocated a tan leather knife sheath laying on the bed next to Mogen's right side
+(when viewed from the door.)" Exh. D2 at Bates 5198 (emphasis added). In fact, it was Detective
+Payne who was the first investigator to discover the knife sheath. Exh. D14 (Grand Jury Trans. at
+522:3-8). Once discovered, Detective Payne notified ISP investigators, who then collected and
+booked the sheath into evidence. /d. at 523: 17-20. At best, Sergeant Blaker's use of the word
+
+"locate" is ambiguous as to whether it means discovering or collecting. Under no reasonable
+
+reading could it be characterized as a misrepresentation, let alone an intentionally or recklessly
+false one.
+
+        The second alleged misrepresentations are in Payne Exhibit A supporting Defendant's
+arrest warrant application and Mowery Exhibit A supporting the Google warrant application.
+
+Exhs. D3-B, D3-A, respectively. Defendant claims that both detectives simultaneously claim to
+have done cell-site location information ("CSLI'') work as well as work to determine whether the
+
+Defendant's cell phone was in the area of the King Road residence.!* Defendant notes, however,
+that both detectives admitted at a subsequent hearing in this matter that it was actually the FBI
+
+CAST agent Nicholas Ballance who performed the location work that the detectives then used to
+complete their respective affidavits. Exhs. D4-A (May 23, 2024 Hearing Trans. at 14: 1-16; 24: 5-
+9; D4-B (May 30, 2024 Hearing Trans. at 20: 22-25; 22:24-23: 20; 25: 17-19; 28:8-29: 3).
+         That Agent Ballance was the individual who actually did the location work does not
+render the detectives' statements intentionally or recklessly false, or even misleading. While
+
+
+
+12
+  These Exhibit As both state: "After consulting with [FBI CAST], I was able to determine estimated locations for
+the 8458 Phone from June 2022 to present. Records for the 8458 Phone showed the 8458 Phone utilizing cellular
+resources that provide coverage to the area of 1122 King Road on at least twelve occasions prior to November 13,
+2022. All of these occasions, except for one, occurred in the late evening and early morning hours of their respective
+days." Exh. D3-A at Bates 4231; Exh. D3-B at Bates 5173.
+
+
+                                                          8
+Defendant asserts that the detectives both "claim to have done the work," they do not; they state
+
+they were able to "determine" the locations after consulting with FBI CAST. Both detectives
+
+explained in their respective affidavits that CAST was the FBI's "Cellular Analysis Survey
+Team." Thus, it was made abundantly apparent to the magistrate that the detectives were relying
+on work performed by more specialized law enforcement agents in "determining" the cell phone
+
+locations.
+
+           In sum, as to the statements encompassed in Issue 2, Defendant has not established that a
+
+misrepresentation was made. Moreover, even if the challenged statements could possibly be
+construed as false, there is not a shred of evidence they were intentionally or recklessly false.
+
+Finally, even if the statements were intentionally or recklessly included, Defendant has not
+established they were necessary to establish probable cause. In              é@a   common (and massive)
+
+investigation such as this, which specific member of law enforcement actually discovered the
+knife sheath or performed the location work using CSL1 is irrelevant to probable cause. Wilson,
+130 Idaho at 216, 938 P.2d at 1254. What is important is that the information came from other
+
+law enforcement personnel, which is a reliable basis for the warrant. Consequently, a Franks
+                                              3
+hearing is not warranted on the issue.!
+           B.      Defendant Has Not Met His Franks Burden on Issues 3, 10: Eyewitness
+                   Statements'*
+           In Issues 3 and 10, Defendant challenges the probable cause statements insofar as they set
+
+forth witness D.M.'s interview descriptions of things she heard and saw on the night of
+
+November 13, 2022.'> Defendant claims that law enforcement failed to inform the magistrate
+that D.M.'s accounts describing the suspect were variable, that she questioned her memory, and
+
+that she did not recognize Defendant when provided with a photo of him after his arrest.
+
+Defendant also contends that law enforcement misrepresented statements made by D.M. that
+
+
+13
+   Defendant makes a cursory allegation within Issue 2 regarding an email Agert Ballance sent to Detective Payne
+identifying the dates and times of prior occasions that Defendant's cell phone was using cellular resources consistent
+with it being in the area of 1122 King Road. Exh. D1-B. Defendant contends the dates in that email were different
+than those in Agent Ballance's CAST reports. Exhs. D5, D6. However, Defendant has not identified a search
+warrant affidavit that included these allegedly inconsistent dates. Thus, to the extent Defendant is claiming the dates
+in the email were false, Franks is not implicated.
+
+
+'Insofar as the challenge pertains to omissions regarding D.M."s reliability and consistency, it applies to all
+warrants. Insofar as it pertains to her non-recognition of Defendant, it applies to warrants issued after December 30,
+2022.
+
+15
+     DM. was a roommate of the deceased and was in her own bedroom at the time of the homicides.
+                                                           9
+would have demonstrated her unreliability. These allegedly false statements and omissions,
+
+according to Defendant, were exculpatory and material.
+       While Defendant's challenge may be fodder for cross-examination, it is not the proper
+
+subject of a FFranks motion. Defendant's own proffer establishes that D.M.'s accounts were
+
+remarkably consistent throughout her multiple interviews with law enforcement and, further, the
+probable cause affidavits are very consistent with her accounts. Second, D.M.'s interview
+statements that her memories were fuzzy and dream-like and may have been affected by being
+
+tired or under the influence of alcohol do not call into question her reliability to the extent
+
+Franks would require disclosure. Finally, D.M.'s failure to recognize the photo of Defendant is
+of no consequence given that the intruder she saw was masked.
+                1.     D.M's accounts were consistent and accurately summarized in the Exhibit
+                       AS.
+       The Draft Exhibit A circulated by law enforcement included the following description of
+statements D.M. made during her interviews with law enforcement:
+
+        [D.M.]... made statements during interview that indicated the occupants of the
+        King Road residence were at home by 2:00 a.m. and reportedly asleep by
+        approximately 4:00 a.m. This is with the exception of Kernodle, who received a
+        Doordash order at the residence at approximately 4:00 a.m.
+
+        [D.M.] stated she was awoken at approximately 4:00 a.m. by what she stated
+        sounded like Goncalves playing with her dog in one of the upstairs bedrooms,
+        which were located on the third floor. A short time later, [D.M] said she heard
+        who she thought was Goncalves say something to the effect of 'there's someone
+        here.' A review of forensic records associated with a download of Kernodle's
+        cellular phone indicated she was likely awake and using the TikTok app at
+        approximately 4:12 a.m.
+
+        [D.M.] stated she looked out of her bedroom but did not see anything when she
+        heard the comment about someone being in the house. [D.M.] stated she opened
+        her door a second time when she heard what she thought was crying coming from
+        Kernodle's room. {D.M.] then said she heard a male voice say something to the
+        effect of 'its ok, im going to help you'...
+
+        At approximately 4:17 a.m., a camera at 1112 King Road picked up audio of what
+        sounded like a struggle coming from off camera. The security camera is less than
+        fifty feet from Kernodle's bedroom wall. The struggle lasted less than one minute
+        and unintelligible sounds can be heard on the camera.
+
+
+        [D.M.] stated she opened her door for the third time after she heard the crying and
+        saw a figure clad in black clothing and mask that covered the person's mouth and
+
+                                                  10
+        nose walking towards her. [D.M.] described the figure as 5°10" or taller, male, not
+        very muscular, but athletically built with bushy eyebrows. The male walked past
+        [D.M.] as she stood in a 'frozen shock phase.' As the male walked towards the
+        back sliding glass door. [D.M.] locked herself in her room after seeing the male.
+
+Exh. D1-C, pp. 7-8.
+        This portion of the Draft Exhibit A was incorporated in varying degrees into Blaker's
+Exhibit A (Exh. D2 at Bates 5200-01), Payne's Exhibit A (Exh. D3-B at Bates 5161-62) and
+
+Mowery's Exhibit A (Exh. D3-A at Bates 4227).
+        When these Exhibit As were submitted in support of search warrant applications, D.M.
+
+had sat for at least three interviews with law enforcement: two on November 13, 2022 (one with
+
+Officer Nunes and, later, with Detective Mowry) and one on November 17, 2022 with Detective
+Gooch.!° Her description of the intruder was notably similar during all three interviews: 1) white
+
+male; 2) slim/skinny/lean body type; 3) slightly taller than D.M. (510); 4) wearing all black; 5)
+
+wearing a mask that was covering his forehead and mouth; 6) a voice she didn't recognize saying
+he was "here to help," and; 7) the intruder walked out or towards the back sliding door without
+
+saying anything to her.!7 While she did not tell Officer Nunes that she noticed the intruder
+carrying a vacuum-type object in his hand, she did convey that information to Detective Mowry
+later that day, as well as to Detective Gooch a few days after that. Exhs. D8-B at 15: 2-17; D8-C
+
+at 96: 21-24. She also told Detective Gooch that she remembered the suspect's eyebrows were
+
+bushy, but could not remember their color. Exh. D8-C at 107: 12-18. D.M. likewise told
+Detective Mowery she could not remember the color of his eyebrows. Exh. D8-B at 20:17-20.
+        More importantly, not only are D.M. statements consistent with each other with regard to
+the intruder's description, they were accurately included by law enforcement in the Exhibit As
+
+set forth above. There is not one statement in the affidavits regarding the intruder that cannot be
+
+traced directly to D.M.'s words. Consequently, Defendant has not demonstrated an intentional or
+
+reckless false statement or omission of a material, exculpatory fact with regard to law
+enforcement's recounting of D.M.'s descriptions of the suspect.
+
+
+16
+   The interview with Officer Nunes is Exhibit D8-A, the interview with Detective Mowry is Exhibit D8-B, the
+interview with Detective Gooch is Exh. D8-C. D.M. was also interviewed on December 30, 2022 by Detective Lake
+after Defendant's arrest. Exh. D23.
+
+ 7
+   Exh. D8-A at 17:1-9;21:2-11;28: 1-25; 31:8-32: 3; Exhibit D8-B at 14: 5-25; 15: 20-24; 19: 24-25; 21:4: Exh. D8-C
+at 61:25-62: 3; 75:1-76: 10; 105:13-106: 1; Exh. D8-C at 97:21-23;9:1-3;99: 13-15; 102: 14-20; 103: 7-12.
+
+
+                                                         11
+              Defendant also asserts that Exhibit A "watered down" D.M.'s statements about hearing
+
+Kaylee Goncalves around the time of the homicides. According to Defendant, D.M. was
+unequivocal in her three interviews when she reported that, at approximately 4:00 a.m., she heard
+Ms. Goncalves walk upstairs with her dog before running back down the stairs saying
+"someone's here."!® In Draft Exhibit A, however, law enforcement represented that "[D.M] said
+she heard who she thought was Goncalves say something to the effect of 'there's someone
+
+here.'"!? (emphasis added). Defendant argues the addition of the word "thought" is false and,
+
+further, Defendant surmises it was intentionally false to cover up the fact that D.M. was wrong
+about what she heard. Defendant points out that Ms. Goncalves was killed in the upstairs
+
+bedroom where she was found the next morning; thus, it could not have been her who D.M.
+
+heard running down the stairs at 4:00 a.m. Defendant contends that D.M.'s misperception, had it
+
+not been covered up by law enforcement, would have cast doubt on her reliability and, therefore,
+
+probable cause.
+              However, the statement challenged by Defendant can be read in two ways: 1) that D.M.
+said "I think it was Ms. Goncalves," which is how Defendant apparently reads it and which he
+
+claims is inconsistent with D.M.'s interview statements, or; 2) that D.M. said she heard Ms.
+
+Goncalves, but law enforcement had reason to think it could have been someone else. When the
+statement is viewed in context, the latter makes more sense. In their respective Exhibit As,
+
+Detective Payne and Sergeant Blaker immediately followed up the challenged statement with the
+
+following: "A review of records obtained from a forensic download of Kernodle's phone showed
+this could also have been Kernodle as her cellular phone indicated she was likely awake and
+
+using the TikTok app at approximately 4:12 a.m." Payne Exh. A at Bates 5161; Blaker Exh. A at
+Bates 5200 (emphasis added). Through this explanation, Payne and Blaker are effectively
+
+conveying to the magistrate why they believed D.M.'s statement of who she heard was
+questionable. Thus, the Court cannot conclude there is anything false or misleading in this
+
+regard.
+
+
+
+
+1   8
+        Exh. D8-A at 10: 6-7; 16: 12-24; 27: 2-23; Exh. D8-B at 7:2-9: 21; Exh. D8-C at 53:17-55: 15.
+
+19
+  This statement was included in Payne Exhibit A at Bates 5161 and Blaker Exhibit A at Bates 5200. It was not
+included in Mowery Exhibit A.
+
+
+                                                               12
+        In addition, even assuming it was a false statement, Defendant has not established that it
+
+was an intentional or reckless attempt to hide D.M.'s alleged misperception"® or that her actual
+
+statement was exculpatory or otherwise material to probable cause. Consequen                   tly, a Franks
+hearing is not warranted with regard to statements in the relevant Exhibit As regarding D.M.'s
+account of what she saw and heard.
+
+                 2.      There is no evidence law enforcement intentionally or recklessly omitted
+                         information bearing on D.M.'s reliability or that such omissions were
+                         material to probable cause.
+
+        Defendant next asserts that the probable cause statements omitted important information
+
+bearing on D.M.'s reliability. Defendant notes that D.M. qualified her interview statements on
+several occasions by questioning her memory of the event. For example, she told Detective
+
+Mowry "everything was kind of blurry. Like I don't fully remember it, I would say." Exh. D8-B
+at 17:13-15. A few days later, while recounting the events to Detective Gooch, D.M. stated:
+
+        Again, I believe I was also very drunk. I don't know how much of this is real.
+        Like I don't know if my mind was, like, doing whatever. I don't know any of it.
+        Like half this stuff I don't know if it's a dream or if it's real. I just have no clue.
+
+Exh. D8-C at 54: 18-23.
+        She also said her memory was "fuzzy and cloudy" (/d. at 75: 2) and she could not
+"differentiate if anything is real or if anything is a dream." (/d. at 90: 6-7). This information was
+
+not included in the Exhibit As. According to Defendant, this information was crucial to allow the
+
+magistrate to properly evaluate D.M.'s reliability and its omission was material and exculpatory.
+        The law does not favor Defendant on this argument. Probable cause is determined by
+
+examining the:
+        totality of the circumstances, and making practical common-sense decision
+        whether, giving all the circumstances set forth in the affidavit before the court,
+        including the veracity and basis of knowledge of persons supplying hearsay
+        information, there is a fair probability that contraband or evidence of a crime will
+        be found in a particular place.
+
+
+Illinois v. Gates, 462 U.S. 213, 238 (1983).
+
+
+20
+  Based on Defendant's proffer, it is not a foregone fact that D.M. was mistaken when she said she heard Ms.
+Goncalves. D.M. reported it was approximately 4:00 a.m. when she heard Ms. Goncalves walk upstairs and then run
+back down the stairs saying, "Someone's here." Ms. Kernodle received a DoorDash delivery at the residence at 4:00
+a.m. See, Payne Exhibit A at Bates 5160. It is entirely possible Ms. Goncalves ran downstairs when she heard the
+delivery-person and then went to bed, after which she was killed.
+
+                                                       13
+        Whether the hearsay supplier is reliable is dependent, in part, on their status. Unlike an
+informer from the criminal millieu, crime victims or witnesses are presumed reliable and may be
+
+relied upon without independent corroboration. LaFave at § 3.4(a); United States v. Banks, 539
+
+F.2d 14, 17 (9th Cir.1976) ("A detailed eyewitness report of a crime is self-corroborating; it
+
+supplies its own indicia of reliability."). Despite this presumed reliability, "police must always be
+alert to whether other facts which have come to their attention raise doubts about the veracity of
+
+the witness[.]" Jd. Such facts might include a motive to exaggerate or falsify statements made to
+
+law enforcement or when the hearsay supplier is a young child or suffers from psychological
+delusions. /d. In such circumstances, corroboration is required to establish reliability. [d.7!
+
+However, this is not a burdensome requirement; "[t]he corroboration of even innocent, minor
+details can support a finding of probable cause." United States v. Stevens, 530 F.3d 714, 719 (8th
+
+Cir. 2008). Any omissions of facts bearing on an individual's reliability will only be considered
+
+misleading under Franks if the omitted facts cast doubt on probable cause. United States v.
+Vines, 9 F.4th 500, 511 (7th Cir. 2021) ("[M]isrepresentations or omissions that could impact the
+
+credibility assessment [of a witness] do not trigger a Franks hearing where probable cause is
+nevertheless established through other evidence."""
+
+        None of D.M.'s qualifications during her interviews reasonably placed her presumed
+
+reliability in dispute. She was a direct witness and was able to consistently articulate the details
+she remembered throughout each interview-especially as to the facts relied on in the search
+
+warrant affidavits-despite the fact that she claimed her memory was fuzzy or that she felt like it
+
+was a dream or that she was still intoxicated. Further, even if her reliability were in question,
+
+
+21
+  See, e.g., Wesley v. Campbell, 779 F.3d 421 (6th Cir.2015) (no probable cause based on uncorroborated sexual
+abuse claim by 7-year-old who had history of psychological problems); Hebron v. Touhy, 18 F.3d 421, 423 (7th Cir.
+1994) (where officer knew alleged victims were being evicted and likely bore a grudge against their landlord, it was
+unreasonable to arrest landlord on victims' report alone without further corroboration.).
+
+22
+  See, e.g., State v. Peterson, 133 Idaho 44, 48, 981 P.2d 1154, 1158 (Ct. App. 1999) (although officer failed to
+include in search warrant affidavit that juvenile informant had lied to the officer in the past and was expecting
+favorable treatment in return for providing information to police, no Franks violation because these omissions were
+not of a sufficient magnitude to compel an inference that they were intentionally or recklessly omitted, nor would it
+have substantially undermined the juvenile's credibility to the point of affecting probable cause.); Ogden v. D.C.,
+861 F.2d 303, 303 (D.C.Cir.1988) (although police failed to alert magistrate that eyewitness was homeless, a chronic
+alcoholic, had a less-than-sterling character and had trouble remembering certain events and times and had been
+drinking when he witnessed the event, it did not affect probable cause where police corroborated details of his story,
+his account was first-hand, no improper motives were suspected and the witness was sober when he made the
+identification.); State v. Altayeb, 11 A.3d 1122 (Conn. App. 2011) (omission of discrepancy in witness's recollection
+of license plate number did not defeat probable cause where other aspects of his account were corroborated).
+
+
+                                                          14
+there was other evidence included in the Exhibit As that corroborated her account. For example,
+
+the security camera from 1112 King Road picked up audio of a struggle at 4:17 a.m., which
+
+coincides with when D.M. stated she thought was crying coming from Ms. Kernodle's room and
+a male voice speaking. It was shortly after this she opened the door for a third time and saw the
+
+suspect walk by her toward the sliding glass door, which corresponds with the surveillance video
+
+showing the suspect vehicle leaving 1122 King Road at 4:20 a.m. In addition, law enforcement
+corroborated D.M.'s description of Defendant through its vehicle identification efforts, which led
+
+investigators to Defendant's driver's license information. The Exhibit As note that Defendant's
+physical description was consistent with D.M.'s account. See, Payne Exhibit A, Exh.D3-B at
+Bates 5167.
+
+       Defendant has shown no objective indication that D.M.'s interview statements were
+
+unreliable     particularly given the other corroborating evidence   and, therefore, no reason for
+law enforcement to include her qualifications in the affidavit. For this reason, it cannot be said
+that law enforcement intentionally or recklessly omitted the information. Further, the Exhibit As
+
+inferred that D.M. was traumatized when they noted that she stood in a "frozen shock phase"
+
+when she saw the intruder. This necessarily alerted the magistrate that D.M.'s memories were
+
+colored by trauma and shock, which goes to the issue of her reliability that Defendant targets in
+this motion.
+
+       Finally, even had the Exhibit As included D.M.'s qualifications to her memory, it would
+not have significantly undermined her credibility and would not have negated probable cause. It
+
+would be no surprise to the magistrate that a person experiencing what D.M. must have
+
+experienced would be shaken by what happened and would have questioned the reality of what
+she perceived. This does not render her unreliable. Additionally, the bulk of probable cause came
+
+from other sources, including the extensive vehicle identification efforts. Thus, even if the
+
+magistrate questioned the reliability ofD.M.'s account, she had sufficient grounds through other
+evidence to issue the warrants.
+        In sum, Defendant has not shown that D.M.'s various qualifications to her memory are
+
+material, exculpatory facts that were intentionally or recklessly omitted and that would have
+affected probable cause. It is evident from the applicable Exhibit As that D.M.'s account was
+
+largely relied upon to establish the timing of the homicides and a general description of the
+perpetrator, not to identify Defendant specifically. Her statements on these matters were
+
+
+                                                  15
+consistent. While any perceived weaknesses in her memory may be fodder for cross-
+
+examination, they do not negate probable cause. Consequently, a Franks hearing is not
+warranted.
+
+               3.      D.M.'s non-recognition of Defendant is immaterial.
+       Defendant also contends that law enforcement's failure to include D.M.'s non-
+
+recognition of Defendant in the Exhibit As warrants a Franks hearing. During her December 30,
+2022 interview with law enforcement, D.M. was shown Defendant's mug shot and asked by
+Detective Lake whether Defendant was the person she saw in her house. D.M. responded:
+       I have no clue. From what I remember, I just remember seeing this figure that was
+       .... more of like the skinnier tone build, and some mask on ... I don't know if it
+       was covering his mouth, his nose, or below his mouth and nose. I just remember
+       he was white, but I didn't know how he was white. I just knew he was. And ... I
+       knew he looked at me because of the bushy eyebrows.
+
+Exh. D23 at 97:15-98: 5.
+       However, the fact D.M. could not identify Defendant is hardly exculpatory or material to
+probable cause. See, United States v. Colkley, 899 F.2d 297, 302 (4th Cir.1990) (holding that
+omission of non-identification from photo spread was not material, and that the Fourth
+Amendment does not require an affiant to include all potentially exculpatory evidence in the
+
+affidavit). Her interview statements consistent described a black-clad, masked person who was
+not someone she thought she knew or could identify. Her inability to recognize Defendant
+
+unmasked is expected, particularly where her description as relayed in the Exhibit As describes
+
+"a mask that covered the person's mouth and nose." See, e.g., Exh. D1-C, p. 8. Thus, because her
+
+non-recognition is not material and exculpatory, Defendant cannot demonstrate the failure to
+include this fact in the probable cause affidavit warrants a Franks hearing. Defendant has not
+
+demonstrated law enforcement omitted it intentionally or recklessly, nor has he shown how
+
+including the information would have affected probable cause. One simply cannot say that, had
+law enforcement included a statement that D.M. (unsurprisingly) was unable to recognize
+Defendant from a photo, the magistrate would not have found probable cause. A Franks hearing
+is not warranted on this issue.
+
+
+
+
+                                                16
+                 Defendant Has Not Met His Franks Burden on Issue 4: Vehicle
+                 Identification"
+
+        In Issue 4, Defendant takes issue with Exhibit A insofar as it describes the suspect vehicle
+
+captured through various surveillance cameras. It states:
+        Law enforcement officers provided video footage of Suspect Vehicle 1 to vehicle
+        specialists with the Federal Bureau of Investigation that regularly utilize
+        surveillance footage to identify the year, make, and model of an unkn own vehicle
+        that is observed by one or more cameras during the commission of a criminal
+        offense. After reviewing the numerous observances of Suspect Vehicle 1, the
+        vehicle specialists initially believed that Suspect Vehicle 1 was a2011-2013
+        Hyundai Elantra. Upon furth er review, they indicated it could also be a2011-2016
+        Hyundai Elantra.
+
+Draft Exhibit A, Exh. D1-C.74
+        Defendant claims there are two material and exculpatory omissions in this paragraph.
+
+First, he asserts law enforcement should have disclosed the FBI's vehicle specialist "felt more
+comfortable" with the 2011-2013 date range for the suspect vehicle. Second, he asserts that the
+
+specialist's opinion expanding the date range was "predicated on the erroneous use of a video
+taken from Ridge [Road], which law enforcement knew or should have known was not the
+
+suspect vehicle." Am. Memo, p. 14. Defendant also faults the officers for failing to provide the
+
+magistrate with the footage reviewed by the specialist which, according to Defendant, would
+have demonstrated to the magistrate that a vehicle identification could not have been reasonably
+
+made.
+
+        The Court finds Defendant's challenges are unsupported by his proffer and do not
+warrant a Franks hearing.
+
+                  1.       That the FBI specialist may have been more comfortable with a narrower
+                           date range than that represented in Exhibit A is unsupported and
+                           immaterial.
+
+         Defendant's claim that the FBI vehicle specialist "felt more comfortable setting the year
+
+range of2011-2013" and "law enforcement knew their specialist was of the opinion the car was
+also certainly between 2011 and 2013" is based on an email chain between that specialist, Agent
+
+Anthony Imel, and another FBI agent about their investigation. However, the email chain does
+
+
+Issue 4 applies to all warrants.
+24
+  Similar statements were made in Blaker Exhibit A (Exh. D2 at Bates 5203-04), Mowery Exhibit A (Exh. D3-A at
+4229), and Payne Exhibit A (Exh. D3-B at Bates 5164).
+
+                                                      17
+not support his argument. What the email chain shows is that, on November 26, 2022, Agent
+
+Imel directed the FBI to "open up" their search to "2011-2016." Exh. D9 at Bates 15580. In
+
+doing so, he discussed the changes to the Hyundai Elantra in 2014 and 201 7 and stated that he
+wanted a "better shot of the vehicle's front fog lights and rear reflectors." He further added,
+
+"rather not leave anything out       -
+                                         better safe than sorry." Five minutes later he sent another email
+
+stating "yea I see the change in 2014 and [I'm] not really a fan of the 2014 much prefer the 2011-
+2013 but wanted to lay that out       -
+                                          have a good night. Will keep looking and send any new info I
+
+can come up with." Jd.
+
+         These emails demonstrate that it was Agent Imel's decision to open the date range to
+
+2011-2016, despite his "prefer[ence]" for 2011-2013. Exhibit A accurately captures this decision
+by stating that the specialist initially believed it was a2011-2013 but opened it up to 2011-2016
+upon further review. While Exhibit A did not call out that Agent Imel preferred narrower time
+frame, Defendant has not shown this omission to be exculpatory and material. Exhibit A is
+
+replete with evidence linking Defendant's vehicle and cell phone to Suspect Vehicle 1.
+Considered as a whole, it cannot be reasonably concluded that Agent Imel's "preference" for a
+narrower date range would have derailed the magistrate's finding of probable cause had it been
+
+included.
+         Probable cause is not an exact science and does not require that law enforcement
+
+establish with absolute certainty that the facts alleged in search warrant affidavits are in fact true.
+
+See, Messerschmidt v. Millender, 565 U.S. 535, 551(2012) (citation omitted). Simply because
+
+Agent Imel may have felt more comfortable with earlier years within the range he provided does
+not mean he felt "uncomfortable" with the later years. Thus, it is highly unlikely the magistrate
+
+would have disregarded the specialist's identification of the larger date range or otherwise
+declined to find probable cause simply because Agent Imel preferred the narrower range.
+
+Further, there is no evidence the information was intentionally or recklessly omitted."> Thus, a
+Franks hearing is not warranted on the issue.
+
+
+25
+  Defendant infers that it was intentionally or recklessly omitted by pointing out that one of the earlier search
+warrant affidavits (Exh. D10) and ISP's November 25, 2022 "Be on the Lookout (BOLO)"' bulletin (Exh. D12)
+indicated the suspect vehicle was a2011-2013 Hyundai Elantra. He posits that it was only after he was identified
+through Investigative Genetic Genealogy ("IGG") that the date range of the Hyundai was opened up to include the
+model year of Defendant's Elantra. However, the Court is not willing to accept Defendant's inference.
+Discrepancies between these documents and the later Exhibit As challenged by Defendant merely reflect that there
+was an initial belief that the suspect vehicle was a 2011-2013 that was subsequently revised. It is not indicative of an
+
+                                                           18
+                    2.    Defendant has not demonstrated a false representation or omission with
+                          regard to identification of the suspect vehicle.
+        Defendant next challenges Exhibit A on grounds that the FBI vehicle specialist's
+identification of Suspect Vehicle 1 as a2011-2016 Hyundai Elantra was based on video footage
+from Ridge Road that law enforcement knew or should have known was not Suspect Vehicle 1.
+
+Defendant states that he "knows" law enforcement based its identification of the vehicle on the
+
+Ridge Road footage "because we have the emails from the FBI's specialist, who explains on
+November 23, 2022, that their team is 'mainly looking at the window configuration', something
+these other images do not. But later that day, an FBI agent sends them images from this video,
+
+calling it   a   'GREAT one!" Am. Memo, p. 18.
+        However, Defendant's proffer does not show the FBI specialist's identification was, in
+fact, made on the Ridge Road footage. The FBI emails Defendant contends support his position
+contain no mention of "Ridge Road" footage and no mention that the FBI was "mainly looking at
+
+the window configuration.""° See, Exh. D9. Defendant asserts that the email stating "Got a
+
+GREAT one!" attached images from the Ridge Road footage, but there is nothing in the proffer
+establishing that images were, in fact, attached and, importantly, what those images were. Id. at
+Bates 15582. At the pre-Franks hearing, the Court inquired further into Defendant's support for
+
+his position that the identification of Suspect Vehicle 1 was based on the Ridge Road footage.
+Counsel again referred to the FBI emails and unlabeled screen shots reproduced on page 17 of
+Defendant's amended memorandum that Defendant claims were from the Ridge Road footage.
+This is insufficient to establish, beyond speculation, the Ridge Road footage was the basis for the
+identification.
+         Even assuming it were, however, Defendant has still failed to carry his burden under
+Franks. Because the vehicle identification came from the FBI                  which was disclosed to the
+
+magistrate in the Exhibit As         there is a presumption of reliability. See, Ventresca, 380 U.S. at
+
+
+
+
+intentional or reckless omission. Further, the FB1 emails clearly show that the specialist expanded the date range on
+November 26, 2022 well before Defendant was identified through IGG in mid-December of 2022.
+
+26
+  Defendant's lack of citations to the record was the reason the Court required Defendant to submit an amended
+Franks memorandum and exhibits. Defendant's continued failure to cure the problem on this issue indicates there is
+no evidence showing the vehicle identification was based on the Ridge Road footage. In any event, the Court will
+not scour the record to find factual support for Defendant's argument. }enable v. Internet 4 Auto Rent & Sales. Inc.,
+156 Idaho 574, 582, 329 P.3d 356, 364 (2014).
+
+
+
+                                                          19
+110-11 (1965) ("Observations of fellow officers of the Government engaged in a common
+
+investigation are plainly a reliable basis for a warrant applied for by one of their number.") Thus,
+at   raa   minimum, Defendant must establish that the search warrant affiants knew the FBI
+
+specialist's identification was based on incorrect footage yet intentionally or recklessly relied on
+it anyway to obtain warrants. There is no evidence to this end. Assuming the Ridge Road footage
+
+was, in fact, not of Suspect Vehicle 1, the affiants were not part of the FBI email chain which
+
+allegedly evidences the use of the Ridge Road footage to make the identification. Further, there
+is no evidence law enforcement provided the Ridge Road footage to the FBI for identification
+
+purposes knowing it was not of Suspect Vehicle 1. Consequently, a Franks hearing is not
+warranted.
+
+              C.     Defendant Has Not Met His Franks Burden on Issue 5: Misleading
+                     Timeline"'
+              In Issue 5, Defendant claims that law enforcement created a false narrative of their
+
+investigative timeline in Exhibit A so as to make it appear that Defendant was identified through
+their investigative efforts and not, in fact, through IGG. In other words, he argues that law
+
+enforcement, having already identified Defendant through IGG, tailored their Exhibit A to
+
+support probable cause for an already-identified suspect, not an unknown suspect. Defendant
+
+provides two examples of what he contends are misleading timelines about his identification, but
+these examples fall far short of the Franks standard.
+
+              First, Defendant notes that in Payne Exhibit A, Detective Payne states that on November
+29, 2022, officers from Washington State University (WSU) queried white Hyundai Elantras
+
+registered at the school and pulled up a 2015 white Elantra with Pennsylvania plates that was
+registered to Defendant. Exh. D3-B at Bates 5166-67. That same day, Detective Payne states
+another WSU officer was patrolling the area by Defendant's apartment and located a 2015 white
+
+Elantra with Washington plates. He ran the plate and it returned to Defendant. Jd. Defendant
+
+points out that Detective Payne was not even aware of the WSU officers' findings in this regard
+until December 20, 2022, after Defendant was already identified by IGG. However, he contends
+
+Payne Exhibit A makes it appear that Defendant was identified, in part, through the WSU
+queries.
+
+
+
+27
+     Issue 5 applies to all warrants.
+
+
+                                                       20
+          Second, Defendant takes issue with Detective Payne's focus on Suspect Vehicle 1's lack
+of front license plate. In Payne Exhibit A, he discussed his review of surveillance footage,
+noting:
+          A review of camera footage indicated that a white sedan, hereafter "Suspect
+          Vehicle 1", was observed traveling ... westbound on Styner Avenue at Idaho
+          State Highway 95 in Moscow at approximately 3:28 a.m. On this video, it
+          appeared Suspect Vehicle 1 was not displaying a front license plate.
+
+Exh. D3-B at Bates 5162-63.
+          Detective Payne later points out that Defendant registered his 2015 white Elantra with
+
+Washington State on November 18, 2022. He noted that, previously, the vehicle was registered
+in Pennsylvania which, unlike Idaho and Washington, "does not require a front license plate to
+
+be displayed[.]" Jd. at Bates 5167. Defendant contends that although Exhibit A makes it appear
+
+that law enforcement was focused on the lack of a front license plate early on, it was not until
+
+after he was identified through IGG that it became an object of inquiry.
+
+          In neither example has Defendant established Detective Payne's investigation timeline to
+
+be misleading or false, much less intentionally or recklessly so. There can be no question that
+
+Defendant was identified, in part, through the WSU officer's queries and through the suspect
+
+vehicle's lack of a front license plate, as observed in surveillance videos from the night of the
+murders. The fact that law enforcement had additional DNA evidence tying Defendant to the
+
+crime does not render it improper for law enforcement to rely on independent evidence
+
+accomplishing the same. It would arguably be irresponsible for law enforcement to rely solely on
+DNA evidence without making an effort to corroborate it, particularly given the novelty of IGG.
+Defendant has not established there is anything wrong with this approach. See, United States v.
+
+Taylor, 63 F.4" 637, 648 (7" Cir. 2023) (observing that requirement under Franks that search
+warrant affidavit be truthful and complete does not require that every fact recited therein be
+
+correct or that every detail of investigation be provided.). Indeed, what is important to probable
+cause is the totality of the evidence once all gathered and examined in light of what that
+
+collection of evidence shows, not looking at it in isolation as each piece of evidence was
+
+separately gathered.
+          Moreover, had law enforcement indicated in Exhibit A that the WSU query and lack of a
+front license plate only came across its radar after Defendant had been identified through IGG,
+
+Defendant has not explained how this would have eroded probable cause. Indeed, as discussed
+
+                                                  21
+below, including the IGG evidence would have provided more-not less                       probable cause
+supporting the search warrants. Consequently, a Franks hearing is not warranted on this issue.
+           E.        Defendant Has Not Met His Franks Burden on Issue 6: Dog Barking"®
+           In this issue, Defendant challenges omissions pertaining to the barking dog referenced in
+
+the Payne Exhibit A. It states that at 4:17 a.m., a security camera located at a nearby residence on
+
+King Road picked up "distorted audio of what sounded like voices or a whimper followed by a
+loud thud. A dog can also be heard barking numerous times starting at 4:17 a.m." Exh. D3-B at
+
+Bates 5161."° The only other information in the Payne Exhibit A pertaining to a dog refers to the
+
+fact that Kaylee Goncalves' dog, Murphy, was found in her bedroom by first responders. /d. at
+
+Bates 5157.
+           Defendant contends that Detective Payne failed to include three allegedly important
+
+pieces of information pertaining to the dog: 1) that the dog heard on the security camera
+continued to bark for thirty minutes after the suspect left; 2) that Detective Payne conducted a
+
+test to determine that the dog was likely outside while barking,*° and; 3) that Murphy was found
+
+without any blood on him even though the bedroom doors were open where the decedents were
+found.*! According to Defendant, this omitted information would have revealed that "whoever
+
+was in the house brought the dog back inside after the suspect vehicle left." Am. Memo, p. 23.
+He further argues this information is material and exculpatory because it "undermines the
+narrative and timeline that supports probable cause." Jd.
+
+            However, Defendant's argument assumes, without proof, there were no doors left open in
+the home after the suspect left. This assumption is not only speculative, but contrary to evidence
+
+in his proffer that the sliding glass door to the residence           the same door toward which D.M.
+
+reportedly saw the suspect walk            was left open. Exh. D14 at 521: 14-21; Exh. D23 at 103: 23-
+
+104:10. Thus, if the dog heard barking was in fact Murphy, it could well have come back inside
+
+
+28
+     Issue 6 applies to all warrants.
+
+29
+     This same security camera shows the suspect vehicle departing from the area of 1122 King Road at 4:20 a.m.
+
+3°
+     Exhibit D13 is a police report authored by Detective Mowery describing the test he and Detective Payne
+performed to ascertain whether the dog heard on the audio was inside or outside.
+
+3]
+  Exhibit D15-A is a police report indicating Murphy did not have blood on him and Exhibit D15-B is a screen
+capture of Officer Nunes's body camera when he arrived at the house, showing the Murphy lying on Ms. Goncalves'
+bed with no blood on him.
+
+
+                                                          22
+through the open door and gone into Ms. Goncalves' room on his own, where it evidently
+remained. There is simply no evidence to adopt Defendant's speculation that someone brought
+
+Murphy inside after the suspect left the residence. Consequently, Defendant has not shown that
+the failure of law enforcement to so speculate was a material and exculpatory omission that was
+
+intentionally or recklessly excluded. A Franks hearing is not warranted on this issue.
+           F.       Defendant Has Not Met His Franks Burden on Issue 7: Cell Phone Data*"
+           Issue 7 challenges Exhibit A insofar as it discusses data from Defendant's phone
+
+(referenced as the 8458 Phone in Exhibit A) and conclusions drawn therefrom. He asserts that
+Exhibit A falsely implies Defendant's location on the night of the murders based on improper
+
+speculation, misrepresentations and omissions about four topics: 1) the geo fence return; 2) the
+timing of the second AT&T warrant; 3) the time Defendant's phone stopped reporting, and; 4)
+the cell tower coverage area.*? Defendant's proffer on each of these topics is insufficient to
+
+warrant a Franks hearing.
+
+                    1.       The Geo Fence Return assertion was not a false or misleading statement.
+           Defendant first takes issue Detective Payne's assertions regarding the geo fence return. In
+
+Payne Exhibit A, Detective Payne informs the magistrate that "a query of the 8458 Phone in
+these returns did not show the 8458 Phone utilizing cellular tower resources in close proximity to
+
+the King Road Residence between 3:00 a.m. and 5:00 a.m." Exh. D3-B at Bates 5169. He then
+
+states:
+
+           Based on my training, experience, and conversations with law enforcement
+           officers that specialize in the utilization of cellular telephone records as part of
+           investigations, individuals can either leave their cellular telephone at a different
+           location before committing a crime or tum their cellular telephone off prior to
+           going to a locatton to commit a crime. This is done by subjects in an effort to
+           avoid alerting law enforcement that a cellular device associated with them was in
+           a particular area where a crime is committed. I also know that on numerous
+           occasions, subjects will surveil an area where they intend to commit a crime prior
+           to the date of the crime. Depending on the circumstances. this could be done a
+           few days before or for several months prior to the commission of a crime. During
+           these types of surveillance, it is possible that an individual would not leave their
+           cellular telephone at a separate location or turn it off since they do not plan to
+           commit the offense on that particular day.
+
+52
+     Issue 7 applies to all warrants issued after December 23, 2022.
+
+33
+   Defendant included a subsection on CSLI data, indicating that it supports a finding that Defendant traveled south
+from Pullman sometime after 2:42 a.m. This appears to be duplicative of the section regarding the time Defendant's
+phone stopped reporting to the network.
+
+                                                            23
+Id.
+
+         Defendant contends that Detective Payne's claim that criminals will turn off or leave
+their cell phone elsewhere before committing crimes is "highly speculative and conclusory." He
+
+argues that it is just as likely the phone was not present in the area.
+         Defendant has not demonstrated the statement was deliberately or recklessly false. What
+
+Payne Exhibit A shows it that Detective Payne       based on his training and experience-drew one
+
+conclusion about the lack of a return to the exclusion of other possibilities. While there certainly
+
+may be other reasons for the lack of a return, "[t]he mere fact that the affiant did not list every
+conceivable conclusion does not taint the validity of the affidavit." United States v. Burnes, 816
+F.2d 1354, 1358 (9th Cir.1987). Further, Detective Payne's conclusion was expressly based on
+his training and experience and conversations with other experts, which further belies any
+
+suggestion that it was deliberately or recklessly false.   A   Franks hearing is not warranted on the
+issue.
+
+                2.      Challenge to timing of the second AT&T Warrant is conclusory.
+         Defendant next challenges the one-hour turn-around from when law enforcement
+received the return on the first AT&T warrant and submitted the application for the second
+AT&T warrant. According to Defendant's expert, Thomas Slovenski, it takes one to two days at
+a minimum to secure call detail records from AT&T and then convert, analyze and peer review
+
+them. Exh. D7 (Aff. Slovenski, p. 6). He surmises that the fact Detective Payne was able to
+
+complete these tasks in one hour means that the FBI has already secured and analyzed the
+information and provided their analysis to Detective Payne who simply reported to the
+
+magistrate what he was told without telling the magistrate the truth about how the investigation
+
+truly unfolded. /d.
+         Franks does not contemplate such conclusory accusations. Fisher, 140 Idaho at 370, 93
+P.3d at 701 ("The challenger's attack must be more than conclusory and must be supported by
+more than a mere desire to cross examine.") Mr. Slovenski was not involved in the investigation
+
+and his attempt to impute untoward conduct to law enforcement lacks any foundation. As
+
+Detective Payne testified at a prior hearing in this matter, he received the return from the first
+AT&T warrant and immediately turned the material over to FBI Agent Ballance to begin
+deciphering it while Detective Payne started on the second search warrant application. Exh. D4-
+B at 22:16-25:19. While Defendant may wish to cross-examine Detective Payne on this issue, it
+
+
+                                                   24
+is not a basis for a Franks hearing. Further, even if the FBI had already secured the records prior
+
+to receiving the return on the first AT&T warrant, Defendant has not shown how the inclusion of
+
+this information in Exhibit A would have negated probable cause. A Franks hearing is not
+
+warranted.
+
+                3.      Defendant has not shown the alleged misstatement regarding when
+                        Defendant's phone stopped reporting was intentionally false or
+                        exculpatory.
+         Defendant next asserts that Detective Payne misrepresented the time Defendant's cell
+
+phone stopped reporting to the network to imply that Defendant was traveling toward Moscow
+between 2:47 a.m. and 2:54 a.m. when he was not. Am. Memo, p. 25. On this point, Defendant
+
+relies foremost on the affidavit of his expert, Mr. Slovenski, who states:
+         Affiant has found inaccurate information in Officer Payne's AFFIDAVIT FFOR
+         SEARCH WARRANT AND APPLICATION FOR AN ORDER FOR A PEN
+         REGISTRY OR A TRAP AND TRACE DEVICE' (Bates 003748-003774) dated
+         December 23, 2022.
+
+         Payne makes a false statement in his Affidavit. Payne states in his Affidavit,
+         Bates 003772 that 'At approximately 2:47 a.m. the 8458 Phone stops reporting to
+         the network...' This statement is erroneous. Payne has failed to advise the court
+         of the following:
+
+    1.   The 2:47 am traffic is continuous seven (7) minute stream on multiple towers
+                               raa
+
+
+
+         that ends at 2:54 am. Payne does not document this seven (7) minute traffic.
+
+    2.   Payne did not inform the magistrate about these handoffs, which would have
+         clearly and directly shown him the fact that on November 13, 2022, from 2:47 to
+         2:54, Mr. Kohberger's device was NOT heading to Moscow as purported by
+         Payne but was indeed heading southbound from Pullman, Washington.... The fact
+         that Payne either disregarded or was not aware of the handoffs and direction of
+         travel of Mr. Kohberger's device gives this Affiant grave concern over the lack of
+         training and experience Payne has in mobile forensics and the credibility of his
+         Affidavit.
+
+Exh. D7-A at pp. 4-6 (emphasis in original).
+         Defendant's other cellular expert, Sy Ray, likewise contends he has reviewed "multiple
+search warrant affidavits prepared by Detective Payne" and his statement that Defendant's cell
+
+phone stopped reporting to the network at 2:47 a.m. is "blatantly false" and not supported by the
+AT&T data. Exh. D7-B, p. 4.
+
+
+                                                 25
+        In addition to these two expert affidavits, Defendant includes in his proffer the AT&T
+
+call detail records ("CDRs") that purportedly reveal that the actual time the phone stopped
+
+reporting to the network was 2:54 a.m. Exh. D17 at p. 24.
+        As an initial matter, Defendant has not provided the search warrant affidavit identified by
+Mr. Slovenski with his proffer. The only search warrant affidavit authored by Detective Payne
+that Defendant has provided with his proffer is Payne Exhibit A, which is dated December 29,
+
+2022 and accompanied an application for a warrant for Defendant's arrest. See, Exh. D3-B. The
+Court cannot consider the effect the alleged misstatement would have on probable cause without
+the correct affidavit before it. However, the search warrant affidavit referenced by Mr.
+
+Slovenski is otherwise part of the record in this case as to other motions and the Court will take
+
+judicial notice of it for purposes of deciding this issue.*4
+        The Court does not find Defendant's proffer deserving of a Franks hearing. First,
+Defendant has not established the challenged statement is a misrepresentation. Detective Payne
+
+expressly qualified his statement by noting it was an approximation only. As he testified to at an
+earlier hearing in this matter, Detective Payne is not an expert in deciphering CDRs. Thus, he
+
+provided the records to FBI Special Agent Ballance to analyze and relied on Agent Ballance's
+analysis in drafting the Pen Register Affidavit. Exh. D4-B at 22:21-23: 9; 25: 9-19; 27: 11-17;
+36:6-37:9. That affidavit disclosed both Detective Payne's reliance on Agent Ballance's analysis
+and Agent Ballance's training and experience to the magistrate. To the extent the approximation
+
+was off, a seven-minute discrepancy (particularly one occurring more than one hour prior to
+
+homicides) is not so far outside the approximate window as to render the statement false.
+        Further, even if the statement could be characterized as false, Defendant has not shown it
+to be intentionally or recklessly so. In fact, not even Mr. Slovenski goes so far impute this mens
+
+rea to Detective Payne. Rather, he points out that Detective Payne "either disregarded or was
+
+unaware" of the handoff data that would have revealed the correct time the phone stopped
+
+reporting. Based on Detective Payne's self-described lack of expertise in analyzing CDRs, it is
+reasonable to infer the latter, which amounts to, at most, negligence. Further, Detective Payne
+
+
+
+
+   See, Affidavit for Search Warrant and Application for an Order For a Pen Register Or A Trap and Trace Device,
+34
+
+attached as Exhibit S-1 to State's Objection to Defendant's Motion to Suppress and Memorandum in Support Re:
+Pen Trap and Trace Device (Dec. 6, 2024) ("Pen Register Affidavit').
+
+                                                       26
+relied on Agent Ballance to decipher the CDRs, which he is entitled to do in executing probable
+
+cause affidavits.
+
+       Finally, Defendant has not shown Detective Payne's mistake in identifying the "handoff
+data" to be exculpatory. Mr. Slovenski claims it was exculpatory because a correct interpretation
+
+of the data would show the device "was NOT heading to Moscow as purported by Payne but was
+indeed heading southbound from Pullman, Washington." There are two problems with this
+
+assertion. First, the Pen Register Affidavit represents that the device was traveling south at 2:47
+
+a.m. when, according to Detective Payne, it last reported, to wit:
+
+       On November 13, 2022 at approximately 2:42 a.m., the 8458 Phone was utilizing
+       cellular resources that provide coverage to 1630 Northeast Valley Road, Apt
+       G201, Pullman, WA, hereafter the 'Kohberger Residence.' At approximately 2:47
+       a.m., the 8458 Phone utilized cellular resources that provide coverage southeast of
+       the Kohberger Residence consistent with the 8458 Phone leaving the Kohberger
+       Residence and traveling south through Pullman, WA.
+
+Pen Register Affidavit, Exh. A (emphasis added).
+
+        Thus, because the "exculpatory" information identified by Mr. Slovenski appears to have
+been represented in the affidavit, the Court is at a loss at to how a "correct" statement of the time
+
+the phone stopped reporting to the network would affect probable cause.
+
+        Second, even if the Pen Register Affidavit did misrepresent that Defendant's cell phone
+was headed to Moscow between 2:47 a.m. and 2:54 a.m. as opposed to southbound from
+
+Pullman, a correction would have no effect on probable cause. Traveling southbound from
+Pullman at 2:54 a.m.    more than an hour prior to the homicides-does not disprove that
+
+Defendant could have driven to Moscow after 2:54 a.m., after his phone stopped reporting to the
+
+network. As the affidavit points out, footage from multiple videos obtained from the
+
+neighborhood around 1122 King Road showed several sightings of a vehicle matching the
+
+description of Defendant's vehicle starting at 3:29 a.m. and ending at 4:20 a.m. Given the
+
+proximity of Pullman to Moscow, the fact that Defendant may have been traveling southbound in
+Pullman at 2:54 a.m. does not exclude him as the potential driver of the suspect vehicle from a
+
+probable cause standpoint.
+        Moreover, the strength of the other evidence described in the Pen Register Affidavit
+cannot be overlooked. The affidavit describes how CSLI data showed that Defendant's cell
+
+phone left his apartment at approximately 2:45 a.m. and started traveling south before it ceased
+
+
+                                                 27
+reporting to the network-approximately 90 minutes before the homicides occurred. The phone
+then started reporting to the network again approximately 90 minutes after the homicides
+
+occurred, at which time it was travelling south on Hwy. 95 just south of Moscow before looping
+back north into Pullman via Hwy. 195. Consistent with this CSLI, surveillance cameras from the
+Pullman area showed a white Hyundai Elantra consistent with Defendant's vehicle returning to
+area of Defendant's apartment at 5:25 a.m. As Detective Payne pointed out, individuals
+
+commonly turn off their phones prior to committing a crime to avoid alerting law enforcement of
+their presence near a crime scene. The obvious inference is that Defendant turned off his cell
+
+phone to avoid detection until he was clear of the crime scene.
+         In addition, the affidavit described footage from multiple surveillance videos that
+
+captured a vehicle consistent with Defendant's make three passes by 1122 King Road between
+3:29 a.m. and 4:20 a.m., at which time it departed from the residence at a high rate of speed. On
+
+one surveillance camera, according to Detective Payne, the suspect vehicle did not appear to
+
+have a front license plate. He noted that Defendant's vehicle had been registered in Pennsylvania
+
+at the time of the homicides, which does not require that front license plates be displayed.
+
+         Finally, CSLI evidence shows that at approximately 9:00 a.m. November 13, 2022-a
+mere three and one-half hours after Defendant's return to his apartment     Ihe again left his
+
+
+apartment and returned to Moscow, utilizing cellular resources that provided coverage to 1122
+
+King Road from between approximately 9:12 a.m. and 9:21 a.m. before travelling back to the
+area of his apartment at 9:32 a.m. This is consistent with Defendant returning to the scene of the
+
+crime.
+         Detective Payne also noted that Defendant's height, weight and ethnicity were consistent
+with D.M.'s description of the perpetrator. He informed the magistrate that Defendant was a
+Ph.D student in criminology at Washington State University and had studied how technological
+data is used by law enforcement. The inference to be drawn from this information is that
+
+Defendant knew, particularly from a technological perspective, how to cover his tracks.
+         When the extent of evidence recounted in the Pen Register Affidavit is considered as a
+
+whole, it is evident to the Court that had Detective Payne stated Defendant's cell phone was
+travelling southbound from Pullman when it stopped reporting to the network at 2:54 a.m., there
+
+
+
+
+                                                  28
+was still enough probable cause linking Defendant to the homicides to justify the issuance of the
+
+search warrant.*> Consequently, a Franks hearing is not warranted on this issue.
+
+                 4.       Defendant has not shown any omission regarding cell tower coverage area
+                          was reckless, intentional or material.
+        The final claim raised by Defendant is that Detective Payne omitted important
+information about cell tower coverage in Moscow when he stated:
+        The records for the 8458 Phone show the 8458 Phone utilizing cellular resources
+        that provide coverage to the area of 1122 King Road on at least twelve occasions
+        prior to November 13, 2022.
+
+Payne Exhibit A, Exh. D3-B at Bates 5173
+
+        According to Mr. Slovenski, the two towers that provide AT&T service to King Road
+also provide coverage to all of Moscow, including the areas Defendant is known to shop. Exh.
+
+D7, pp. 6-7. Thus, Defendant claims Detective Payne misled the magistrate about the location of
+Defendant's cell phone on these twelve occasions.
+        The accusation here is one of omission; specifically, whether Detective Payne recklessly
+or intentionally withheld from the magistrate that the same towers providing service to King
+
+Road also provide coverage to all of Moscow. There is no direct evidence that Detective Payne
+intended to mislead the magistrate, nor can it reasonably be inferred given that Defendant has not
+
+shown the omission to be material and exculpatory. While including the information may shed
+
+some doubt on whether Defendant was actually in the vicinity of Kings Road on these twelve
+
+occasions as opposed to some other nearby location, it does not disprove Detective Payne's
+statement or otherwise exculpate Defendant. Given the breadth of exculpatory evidence included
+
+in Payne Exhibit A, it is difficult to ascribe ill intent to this alleged omission. Further, and
+
+importantly, probable cause did not rise and fall on the evidence of Defetidant's twelve prior
+visits to Moscow. A Franks hearing is not warranted on this issue.
+
+
+
+
+35
+  The search warrant sought by Detective Payne through the Pen Register affidavit was for historic CDRs and CSLI
+for Defendant's cell phone for the preceding six month period, as well as authorization for a pen register and trap
+and trace device.
+
+
+
+                                                        29
+           G.       Defendant Has Not Met His Franks Burden on Issue 9: Footprint Outside
+                    D.M.'s Door*®
+           In Issue 9, Defendant challenges as false a statement made in the Payne Exhibit A about a
+
+footprint found outside D.M.'s door. Detective Payne stated:
+
+           During the processing of the crime scene, investigators found a latent shoe
+           print.... The detected shoe print showed a diamond-shaped pattern (similar to the
+           pattern of a Vans type shoe sole) just outside the door of [D.M.'s] bedroom
+           (located on second floor). This is consistent with [D.M.'s] statement regarding the
+           suspect's path of travel.
+
+Exh. D3-B at Bates 5162.
+           Defendant contends the last sentence is false, noting that the footprint is closer to her
+
+bedroom door than she reported the suspect to be, there are no other prints before or after it, and
+
+it is not positioned toward the sliding glass door, which is where D.M. said the suspect walked
+
+after passing by her.>" Defendant further claims it is an intentional or reckless statement because
+
+its only purpose was to corroborate D.M.'s unreliable statements.
+
+           There is nothing false or misleading about Detective Payne's statement. The shoe print
+was consistent with D.M.'s account. She told law enforcement she saw Defendant walked past
+her bedroom door after she opened it for a third time. See, Exh. D8-B ("And then I opened the
+
+door again and the guy is right there."); Exh. D8-C ("I think he was walking past my door and,
+
+like, saw me.... 1 would say [he was] about 3 feet [away from her]"). D.M.'s bedroom door is
+immediately at the landing at the base of the stairs leading to the upstairs bedrooms. D22. The
+shoe print was, therefore, reasonably within the suspect's path of travel as described by D.M.
+
+Further, the fact the footprint was located only in one spot and there were not others before and
+after it does not make Detective Payne's statement false about the path of travel. Consequently,
+
+Defendant has not shown Detective Payne's statement was false or otherwise misleading.
+
+           Additionally, Defendant has not established that D.M.'s interview statements were
+wholly unreliable, as discussed supra, or that there was otherwise a need to bolster her credibility
+in the magistrate's eyes through false corroborations. Consequently, even if the shoe print was
+
+not totally consistent with D.M.'s account, Defendant has not demonstrated that the statement
+
+
+
+36
+     Issue 10 applies to warrants issued December 29, 2022 and later.
+
+37
+     Exhibit D22 shows the footprint at the threshold of D.M.'s bedroom door.
+
+
+                                                           30
+was made deliberately or recklessly. Moreover, Defendant has not articulated how excision of
+the statement would have any bearing on probable cause. In fact, it would not. A Franks hearing
+
+is not warranted on this issue.
+           H.       Defendant Has Not Met His Franks Burden on Issue 11: Grand Jury
+                    Subpoenas
+           Issue 11 faults law enforcement for omitting information in the Exhibit A supporting the
+
+search warrant for Amazon records, which was issued May 8, 2023.°* Specifically, he asserts that
+
+the affiant, Detective Mowery, requested the warrant in reliance on federal Grand Jury
+
+Subpoenas issued by the FBI to Amazon, but did not tell the magistrate "information about the
+
+timing and scope of information obtained and relied upon." Am. Memo, p. 31. Defendant further
+states he is unable to ascertain whether the omission was material and exculpatory because the
+
+Grand Jury Subpoenas have not been disclosed.
+           Defendant has not established that this issue is the proper subject of a Franks motion. He
+has not provided the search warrant affidavit at issue, has not identified any false statement, and
+
+the only omission he challenges is that Detective Mowery did not disclose unidentified
+
+particulars about the timing and scope of information obtained from the Grand Jury Subpoenas.
+He admittedly cannot show this omission was material and exculpatory and, therefore, cannot
+establish that probable cause would have been affected had the omitted information been
+
+included. What this challenge appears to be is an attempt to use Franks as a means for discovery,
+which is not its purpose. Consequently, a Franks hearing is not warranted.
+           I        Defendant Has Not Met His Franks Burden on Issue 12: Lack of Connection
+                    Between Defendant and Victims*?'
+           In Issue 12, Defendant challenges law enforcement's omission in their Exhibit As of the
+
+fact that their investigation failed to reveal any connection between Defendant and the victims.
+Defendant claims this information was material and exculpatory because it sheds doubt on law
+enforcement's theory that Defendant was "the right person." Am. Memo, p. 32.
+
+
+
+
+38
+     Defendant does not provide the search warrant application for Amazon or the warrant itself.
+
+3°
+     Issue 12 applies to warrants issued December 24, 2022 and forward.
+
+
+                                                           31
+           However, Defendant has not established the lack of connection was a fact conclusively
+known to law enforcement at the time the search warrant applications were submitted.*° Thus, he
+cannot establish it was intentionally or recklessly omitted. Moreover, this omission was not
+
+material or exculpatory. Had law enforcement found a connection between Defendant and the
+
+victims prior to applying for search warrants, it is reasonable to assume the connection would
+have been disclosed in the search warrant affidavits. The fact it was not disclosed necessarily
+
+allowed the magistrate to reasonably infer that no connection had yet been found, yet she still
+found probable cause to authorize the search warrants, as was reasonable to do. Consequently,
+
+Defendant has not carried his burden under Franks on this issue.
+           J. Defendant Has Not Met His Franks Burden on Issue 13: Lack of Victim DNA in
+               Apartment and Vehicle"!
+           Similarly, Defendant challenges law enforcement's omission in the Exhibit As of the fact
+that lab testing performed by the Idaho State Police ("ISP") did not reveal the victims' DNA in
+
+Defendant's vehicle or his apartment. Exh. D25-A through D25-C (Lab Reports 28, 29, 32).
+Defendant contends the lack of DNA is "devastating" to law enforcement's theory of the case
+and was intentionally or recklessly omitted.
+
+           However, as with the prior issue, Defendant has not established when law enforcement
+knew of the lack of victim DNA in Defendant's vehicle and apartment. The three ISP Lab
+
+Reports relied upon by Defendant were issued on March 2, March 8 and May 23, 2023,
+respectively. Thus, it cannot be said that law enforcement knew of the lack of DNA until the last
+report was issued. Defendant has not provided or identified any search warrant affidavits
+submitted after May 23, 2023, much less explained why the lack of DNA was material to
+
+probable cause for those warrants.
+           In his reply, Defendant claims that the actual testing for DNA was performed by ISP long
+
+before the three Lab Reports were issued. He asserts he has "reason to believe" that the results of
+
+
+40
+  Defendant's argument presumes that Franks requires law enforcement to disclose that evidence does not exist or
+has not been found. This is not a realistic burden, particularly given that search warrant affidavits are typically
+executed under rapidly unfolding circumstances. Indeed, there is no requirement under Franks that law enforcement
+disclose every detail of an investigation or describe "every wrong turn or dead end they pursued." United States v.
+McMurtrey, 704 F.3d 502, 513 (78 Cir. 2013). Certainly, then, there is no requirement to disclose a lack of evidence,
+particularly when the obvious inference to be drawn from the absence of any mention of such evidence is that it does
+not exist or has not been located.
+
+41
+     Issue 13 applies to warrants issued January 5, 2023 and forward.
+
+
+                                                           32
+the testing were verbally transmitted to law enforcement at that time. However, the evidence
+
+submitted by Defendant does not support his assertion.
+
+        First, Defendant submits the ISP lab notes from Lab Report 28 and claims that the testing
+was done on February 13, 2023, three weeks before the report was actually issued. Exh. D33. A
+
+closer review of those lab notes reveals that testing of the various items at issue in Lab Report 28
+took place between February 13, 2023 and February 24, 2023. The final report was issued four
+
+working days after the last test. Thus, this evidence does not show that law enforcement knew
+well before Lab Report 28 was issued that there was no victim DNA on the tested items. This is,
+at best, Defendant's speculation.
+
+        Defendant also submits lab reports from a hair and fiber analysis performed by the FBI
+Lab. The first lab report, dated January 27, 2023, revealed that hair and fibers collected from the
+crime scene were not consistent with Defendant's hair sample. Exh. D31. The second lab report,
+dated February 28, 2023, revealed that hair and fiber samples collected from Defendant's vehicle
+
+and apartment were not consistent with the victims' hair samples. Exh. D32. Again, this
+
+evidence does not support Defendant's assertion that law enforcement knew of the lack of victim
+DNA in his vehicle and apartment as of January 5, 2023."
+        At best, it can be said that law enforcement was aware as of February 28, 2023 that the
+FBI's testing did not reveal the victims' hair/fibers in Defendant's apartment or vehicle, but it is
+evident from the various lab reports that law enforcement's investigation with regard to DNA
+was still continuing. Therefore, there was no basis for law enforcement to definitively aver there
+
+was an absence of victim DNA in the vehicle and apartment until the final reports were issued. In
+other words, Defendant has not demonstrated an omission, much less that it was intentional or
+
+reckless.
+
+        Further, Defendant has not demonstrated how including this "omission" would have
+affected the magistrate's finding of probable cause. He contends that it would affect all warrants
+
+issued January 5, 2023 and beyond, but he has not provided any search warrant affidavits from
+
+this time period for the Court's consideration. However, based on the Payne Exhibit A that is
+
+
+
+42
+  Defendant also submits what appears to be a worksheet from the DNA handling on January 23 and 24, 2023 by
+the ISP lab. Exh. D34. It is entitled "Differential DNA Extraction." There are no findings or conclusions made in the
+worksheet, nor is there any indication of what DNA samples were handled and what "DNA extraction" means
+within this worksheet. Thus, it is unclear how this worksheet supports Defendant's argument.
+
+
+                                                         33
+included in Defendant's proffer (Exh. D3-B), the probable cause as of December 29, 2022
+
+included, among other things, that the DNA profile obtained from the trash pull of the Kohberger
+
+family's trash was determined to be from the biological father of the source of DNA left on the
+knife sheath at the crime scene. Given this evidence, no reasonable magistrate would conclude
+that the lack of victim DNA in Defendant's vehicle and/or apartment weeks after the crime
+
+would negate probable cause. Thus, a Franks hearing is not warranted on this issue.
+        K. Defendant Has Not Established the Franks Elements By a Preponderance on
+           Issue 8: Defendant's Identification by IGG."
+        In Issue 8, Defendant challenges law enforcement's omission in Exhibit A that Defendant
+
+was identified through an allegedly unconstitutional use of IGG. He contends law enforcement
+should have disclosed in Exhibit A that: 1) the methods used by Othram Labs" to conduct the
+
+IGG testing allegedly did not meet minimum standards; 2) that the FBI failed to document its
+own IGG search using Othram's data; 3) that the FBI "manipulated" Othram's data to create a
+much larger DNA profile, and; 4) that the FBI violated its own policy and that of the commercial
+
+IGG databases it used when it uploaded the DNA profile to databases restricting law
+enforcement use. Defendant contends these omissions from Exhibit A were purposeful. He also
+
+argues the omissions were material and exculpatory because they would have undermined
+
+probable cause by exposing law enforcement's "false narrative" of the investigation."
+        As mentioned, the Court permitted a full Franks hearing on this issue. The Court's
+findings of fact on the evidence and testimony presented and its conclusions of law are fully set
+forth in its Memorandum Decision and Order on Defendant's Motion to Suppress re: Genetic
+
+Information, filed contemporarily herewith and incorporated herein. As the Court determined in
+that Order, law enforcement's use of IGG to identify Defendant as a potential suspect was not
+
+unconstitutional. The Court found that regardless of whether the FBI arguably contravened its
+
+
+
+
+43
+   Defendant does not identify what search warrants this issue applies to, but presumably it includes all warrants
+issued after Defendant was identified through IGG as a possible suspect.
+
+44
+  Othram Labs was the company Idaho State Police contracted with to perform the IGG testing on the DNA sample
+located on the knife sheath.
+
+*
+  Again, Defendant tries to place the focus of the probable cause evaluation on the "narrative" of the investigation.
+What is important for probable cause purposes is what the evidence is at the time the warrant is applied for, not the
+time sequence in which the evidence was developed.
+
+                                                          34
+own policy and contravened that of My Heritage and GEDMatch when it uploaded the DNA
+
+profile to their databases, it was not of constitutional importance.
+           Moreover, Defendant has not established that the search warrant affiants knew, when
+
+submitting their respective Exhibit As, that the FBI or Othram did anything "untoward" with
+regard to their IGG searches." Detective Payne was the only person who had submitted a search
+warrant affidavit from whom Defendant elicited testimony at the hearing with regard to IGG.*"
+
+Detective Payne testified that he knew the FBI was handling the IGG search after Othram Labs
+ceased work, but said his communication with the FBI about the issue was sparse and limited to
+
+check-ins to ensure the IGG search was continuing. He testified that, on December 19, 2022, the
+FBI provided him only with Defendant's name and instructed that it was to be considered solely
+a "tip." At some point after Defendant was identified through IGG, the FBI walked Detective
+
+Payne through the details of the family tree it had developed from its search, but that was all.
+Further, he testified to having no familiarity about the IGG databases or rules that applied to
+them. Given the lack of evidence Detective Payne knew or even had reason to know that Othram
+
+or the FBI did anything unconstitutional in their IGG searches, Defendant cannot establish any
+
+omission in this regard from Exhibit A was intentional or reckless.
+           Even assuming Detective Payne had been privy to the methods in which Othram and the
+FBI conducted the IGG search, Franks does not require law enforcement to divulge every detail
+of their investigation and describe every lead followed or rock unearthed for evidence.
+McMurtrey, 704 F.3d at 513. Probable cause affidavits are neither designed nor intended to be an
+opportunity for the reviewing magistrate to grade the police work on the case by requiring law
+enforcement to show every step that led to the evidence relied upon. As observed by one circuit
+
+court.
+
+            [T]here is no legal requirement that a police officer recite every fact that he knows
+           in a search warrant affidavit, so long as what he does say is sufficient to support a
+           judicial officer's finding of probable cause. See Ogden v. D.C., 861 F.2d 303, 303
+           (D.C.Cir.1988) ('An affidavit must be more than wholly conclusory, but it need
+           only provide the magistrate with a substantial basis for concluding that probable
+
+46There only evidence of allegedly untoward conduct was the FBI searching genealogy databases that did not permit
+law enforcement searches. There was no evidence presented that the methods used by Othram Labs to conduct the
+IGG testing failed to meet minimum standards. While there was evidence presented that the FB] created a larger
+SNP profile than Othram did, even Defendant's expert, Danny Hellwig, found no reason to suspect the FBI of
+wrongdoing in this regard.
+47
+     The Court found Detective Payne to be credible and reliable.
+
+                                                           35
+        cause exists; it need not present all the relevant information known to the police at
+        the time."'. In other words, "[t]he Fourth Amendment ... does not set forth some
+        general "particularity requirement." It specifies only two matters that must be
+        "particularly described" in the warrant: "the place to be searched" and "the
+        persons or things to be seized." United States v. Grubbs, 547 U.S. 90, 97, 126
+        S.Ct. 1494, 164 L.Ed.2d 195 (2006).
+United States v. Turner, 73 F. Supp. 3d 122, 125 (D.D.C. 2014).8
+
+        Likewise, there is no requirement that police include evidence as a strawman simply so
+that evidence can then later be attacked. See, United States v. Allen, 211 F.3d 970, 975 (6" Cir.
+
+2000 (en banc) (A warrant application "is judged on the adequacy of what it does contain, not on
+what it lacks, on what a critic might say should have been added.") The focus of an application
+
+for a search warrant is whether, based on the evidence that is presented, there is probable cause
+
+that evidence will be found in a particular place, not whether an evidence-gathering technique
+
+used was potentially unconstitutional. See, United States v. Loera, 923 F.3d 907, 927 (10th Cir.
+
+2019) (noting that when a magistrate issues a warrant based on potentially illegally obtained
+evidence, typically the manner in which the affidavit evidence is obtained is not before the
+
+magistrate, and the magistrate is not asked explicitly to endorse the evidence-gathering
+
+procedure.) While this may be fodder for a later motion to suppress, it is not a basis for a Franks
+challenge.
+        Franks, in cases of omission, asks simply whether the affiant left out evidence which, if
+known, would negate the inculpatory effect of the existing evidence and leave an insurmountable
+deficit in proof of probable cause. Defendant has not established that omitting Defendant's
+identification through IGG evidence or the means in which IGG was performed had this effect.
+
+Indeed, had the IGG information been included, even with the problems complained of by
+
+Defendant, its only effect would have been to add to probable cause, not detract from it.
+
+Consequently, relief under Franks is not warranted.
+
+
+
+
+48
+  See also, United States v. Colkley, 899 F.2d 297 (4" Cir. 1990) (noting that requiring officers to recite all evidence
+that might be construed as exculpatory opens up officers to "endless conjecture about investigative leads, fragments
+of information, or other matter that might, if included, have redounded to defendant's benefi.").
+
+                                                          36
+VI.   CONCLUSION
+      Based on the foregoing, Defendant's Motion for a Franks Hearing is DENIED.
+
+
+IT IS SO ORDERED.
+
+
+DATED this   /a ofy    February, 2025.
+
+
+
+
+                                           even Hip
+                                         District Judge
+
+
+
+
+                                            37
+                           CERTIFICATE OF MAILING
+        |HEREBY CERTIFY that on this            day of February, 2025, caused a
+                                                                              |
+
+
+
+
+true and correct copy of the above and foregoing instrument to be mailed, postage
+prepaid, or hand-delivered, to:
+
+
+William W. Thompson, Jr.
+Ashley Jennings
+LATAH COUNTY PROSECUTING ATTORNEY
+paservice@latahcountyid.gov
+
+Jeffery Nye
+DEPUTY ATTORNEY GENERAL
+Jeff.nye@aq.idaho.qov
+
+Anne Taylor
+ATTORNEY FOR DEFENDANT
+info@annetaylorlaw.com
+
+Elisa C. Massoth
+ATTORNEY FOR DEFENDANT
+emassoth@kmrs.net
+
+Jay Logsdon
+KOOTENAI COUNTY PUBLIC DEFENDER
+jay.loasdon@spd.idaho.qov
+
+
+
+                                               TRENT
+                                               Clerk   thé                ¢
+                                                                 IN       1
+
+
+
+
+                                               By:
+                                               Deputy Cot rt Clerk
+                                                             :        :
+
+
+
+
+                                                                                  38
+
+
+
+
+ORDER
+

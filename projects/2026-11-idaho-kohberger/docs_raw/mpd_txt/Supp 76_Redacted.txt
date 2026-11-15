@@ -1,0 +1,50 @@
+07/08/25                     Moscow Police Department                        1272
+10:43                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number     76                Date   11:09:50 12/15/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Forensic Extraction A
+
+Case # 22-M09903
+Date: 12/15/2022
+
+On December 13, 2022, I was requested to complete a forensic extraction on an
+iPhone provided by J     A . A    signed a Consent to Search form for the device
+and it was provided to me by ISP Detective Hugh Powell. The form has been
+uploaded to the case file.
+The phone was powered on and I placed it into Airplane Mode to protect any
+potential evidence on the phone from being removed or remotely deleted. I took
+photos of the device and attached them to the case file. The phone required a
+passcode to access the data on the device. A   provided a passcode of "      ".
+In examining the iPhone, I first looked for identifiers, indicia of use and
+ownership. The device was black in color with a black colored case. The device
+was running iOS 15.1 and showed a model number of MGFF3LL/A. The name of the
+phone was "J      iPhone." The phone had a serial number of               and
+IMEI #                . It showed the user as "        " with an email of
+         @gmail.com. The phone number assigned to the phone was               .
+In continuing with my examination of the phone, I made the following changes to
+the phone's settings:
+Auto-Lock was turned off.
+
+These changes allow the phone and the forensic computer to communicate and share
+information properly. The phone was then connected to the forensic computers
+running the following forensic software tools:
+Magnet Axiom version# 6.5.0.32778
+Cellebrite UFED Physical Analyzer version# 7.57.1.9
+
+This extraction was saved to a computer located in the secure computer forensic
+lab at the Moscow Police Department. An examination of the data will be
+conducted at my earliest convenience. The phone was returned to A .
+Det. Lawrence Mowery - 162
+Tue Dec 20 11:54:21 PST 2022
+Reviewed By:
+Sgt. Dustin Blaker #108
+Thu Dec 22 14:00:48 PST 2022
+

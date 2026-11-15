@@ -1,0 +1,41 @@
+07/08/25                        Moscow Police Department                     1272
+11:56                        Law Supplemental Narrative:             Page:      1
+  Details
+Incident Number       22-M09903          Name   Brett Payne
+Sequence Number       250                Date   11:18:32 11/14/23
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+ISP DOT 3D in LAS Format; Dog Impound Form-#157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+Item 862: DOT 3D LAS Thumb Drive
+Item 863: Dog Impound Form
+3.        Narrative
+On Tuesday, November 14, 2023 Det. Sgt. Gilbertson from ISP provided me with a
+thumb drive of the Dot 3D scans from 1122 King Road in LAS format. I booked the
+thumb drive into MPD evidence this same day. Reference ISP supplemental D22-30,
+Supp. 0197.
+
+On the same date I received an email from Dep. Olson from LCSO containing an
+attachment of the dog impound form 11/13/22. I printed this copy and booked it
+into MPD evidence the same day.
+4.        Other
+
+NA
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+CPL Payne #157
+Tue Nov 14 11:23:13 PST 2023
+Reviewed By:
+Capt. Dustin Blaker #108
+Tue Nov 28 14:05:33 PST 2023
+

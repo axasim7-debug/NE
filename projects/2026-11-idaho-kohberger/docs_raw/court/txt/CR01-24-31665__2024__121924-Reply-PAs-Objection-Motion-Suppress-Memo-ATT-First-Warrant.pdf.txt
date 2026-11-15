@@ -1,0 +1,473 @@
+                                                                           Electronically Filed
+                                                                           12/19/2024 5:54 PM
+                                                                           Fourth Judicial District, Ada County
+                                                                           Trent Tripple, Clerk of the Court
+                                                                           By: Jennifer Keyes, Deputy Clerk
+
+
+Anne Taylor Law, PLLC
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d’Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Jay W. Logsdon, First District Public Defender
+Idaho State Public Defender
+1450 Northwest Blvd.
+Coeur d’Alene, Idaho 83814
+Phone: (208) 605-4575
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Assigned Attorney:
+Anne C. Taylor, Attorney at Law, Bar Number: 5836
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+
+
+      IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+ STATE OF IDAHO,                                  CASE NUMBER CR01-24-31665
+
+                      Plaintiff,
+                                                  REPLY TO STATE’S OBJECTION TO
+ V.                                               DEFENDANT’S MOTION TO
+                                                  SUPPRESS AND MEMORANDUM IN
+ BRYAN C. KOHBERGER,                              SUPPORT
+
+                      Defendant.                  RE: AT&T FIRST WARRANT
+
+
+
+       COMES NOW, Bryan C. Kohberger, by and through is attorneys of record, and respectfully
+
+submits the following reply to the State’s Objection to Defendant’s Motion to Suppress and
+
+Memorandum in Support regarding the AT&T First Warrant filed with the Court on December 6th,
+
+2024. The words “proof upon oath” are not synonymous with “the affidavit for search warrant and
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO
+SUPPRESS AND MEMORANDUM IN SUPPORT RE: AT&T FIRST WARRANT                                    Page 1
+its exhibits are hereby incorporated”. A non-particularized general affidavit in support of a search
+
+warrant held in the hands of law enforcement, which never accompanied the electronically served
+
+warrant, cannot be relied upon to validate a warrant.
+
+       The issue addressed by the state, relating to this motion, is that of particularity. Mr.
+
+Kohberger maintains his argument as laid out in his opening memorandum and provides additional
+
+argument as the state’s objection is limited to the argument regarding particularity.
+
+       The Fourth Amendment requires particularity. “The particularity requirement’s objective
+
+is that those searches deemed necessary based on a probable cause determination by a magistrate
+
+should be as limited as possible.” State v. Teal, 145 Idaho 985, 991, 188 P.3d 927, 931 (2008).
+
+The particularity requirement means that a warrant must be “specific enough to enable the person
+
+conducting the search reasonably to identify the things authorized to be sized.” U.S. v. Spilotro,
+
+800 F.2d 959, 963 (9th Cir. 1986).       Mr. Kohberger is aware that the Supreme Court has
+
+acknowledged “that a court may construe a warrant with reference to a supporting application or
+
+affidavit if the warrant uses appropriate words of incorporation, and if the supporting document
+
+accompanies the warrant.” Groh v. Ramirez, 540 U.S. 551, 557–58, 124 S.Ct. 1284, 157 L.Ed.2d
+
+1068 (2004). The AT&T warrant was void of any language that the affidavit was incorporated
+
+therein. See State’s Exhibit S-2, page 1. The State relies incorrectly on Adamcik v. State, which
+
+upheld a warrant where “the opening paragraph of the warrant unambiguously referenced the
+
+affidavit and sworn testimony of Detective Sellers as the basis for the warrant.” 163 Idaho 114,
+
+125 (Idaho S. Ct. 2017). In this case, no such words exist in the warrant. The affidavit nor any of
+
+its exhibits were incorporated.
+
+       This warrant was served remotely. The affidavit was not made part of the search warrant.
+
+The officer serving the warrant did not attach the documents that may have provided clarity.
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO
+SUPPRESS AND MEMORANDUM IN SUPPORT RE: AT&T FIRST WARRANT                                    Page 2
+Those documents are therefore included in this filing as attachments 1. Where a supporting
+
+affidavit does not accompany the search warrant at the time of execution, the detail set out in the
+
+affidavit does not cure any deficiencies. U.S. v. Pilling, 721 F.Supp. 3d 1113, 1126 (D. Idaho 2024)
+
+(warrant suppressed where supporting affidavit was not provided to Apple). An affidavit is
+
+considered “to be part of a warrant, and therefore potential curative of any defects, ‘only if (1) the
+
+warrant expressly incorporated the affidavit by reference and (2) the affidavit either is attached
+
+physically to the warrant or at least accompanies the warrant while agents execute the search.’”
+
+SDI Future Health Inc., at 699 (citing United States v. Kow, 58 F.3d 423, 429 n. 3 (9th Cir.1995)).
+
+           In this situation the warrant contained a broad sweep of all kinds of information relating to
+
+location information – tower connections and hand-offs, other location programs, messaging, calls
+
+made and account information. The request was a wide sweep. The search warrant was emailed
+
+to AT&T and there is no indication the affidavit accompanied the search warrant.
+
+           The process described by the State as meeting the criteria of State v. Teal simply does not
+
+exist. In its incorporated Objection to the Motion to Suppress Apple Warrant, the State indicates
+
+that the “investigators necessarily had copies of the affidavit in their possession when they
+
+executed the warrant by emailing it to Apple.” See Apple Objection, p. 5. Further, the State offers
+
+that “[t]he effect of this is that the Affidavit for Search Warrant and appended Exhibit A cure any
+
+supposed deficiencies in the naked warrant.” See Apple Objection, pp. 5-6. An officer sitting at a
+
+computer executing a search warrant by submitting it electronically to AT&T and having the
+
+affidavit for search warrant in his hand is different than an officer being physically present when
+
+executing a search warrant and having the affidavit for search warrant available for reference.
+
+
+
+
+1
+    See Exhibit A - Receipt and Inventory of Warrant for AT&T, Return of the search warrant for AT&T, and Order
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO
+SUPPRESS AND MEMORANDUM IN SUPPORT RE: AT&T FIRST WARRANT                                                   Page 3
+       In response to the State’s arguments under “Defendant Has Not Demonstrated the Search
+
+Warrant Affidavits Contain Intentionally or Recklessly False Statements or Omissions,” Defendant
+
+refers the Court to and hereby incorporates “Defendant’s Reply in Support of Defendant’s Motion
+
+and Memorandum in Support for a Franks Hearing” and “Reply in Support of Motion to Suppress
+
+Genetic Information.”
+
+       DATED this ___19____ day of December, 2024.
+
+
+
+
+                                                   _____________________________
+                                                   ANNE C. TAYLOR
+                                                   ANNE TAYLOR LAW, PLLC
+
+
+
+                              CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___19____ day of December, 2024 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: emassoth@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO
+SUPPRESS AND MEMORANDUM IN SUPPORT RE: AT&T FIRST WARRANT                                Page 4
+                                                                                                   s TT52
+
+                                                                                                        eu   a
+LATAH COUNTY PROSECUTOR'S OFFICE
+                                                                                                        e
+Ashley S. Jennings
+Sr. Deputy Prosecuting Attorney
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843-0568
+(208) 883-2246
+ISB No. 8491
+paservice@latah.id.us
+
+
+
+         IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR. THE COUNTY OF LATAH
+
+In the Matter of the Application                      Case No. CR29-
+for a Search Warrant for:
+
+AT&T Mobility                                         RETURN OF SEARCH WARRANT
+11760 U.S. Highway 1, Suite 300
+North Palm Beach, FFL 33408-3029
+
+MPD Case No. 22-M09903
+
+STATE OF IDAHO )
+                        ss.
+County of Latah
+
+        I, CPL Brett Payne, the officer by whom this Warrant was executed, do certify the appended
+
+inventory contains a true and detailed account of all property taken by me or other officers pursuant
+
+to this Warrant, and that this Warrant and property have been duly returned before Judge Megan E.
+
+Marshall at 9:00 o'clocka.m., this 6" day of January, 2023.
+
+        I certify under penalty of perjury pursuant to the law the State of Idaho that the foregoing
+
+is true and correct.
+
+        01/06/2023
+        (Date)                                                Peace Officer
+
+
+
+
+RETURN OF SEARCH WARRANT                      004779
+
+
+                                   Exhibit A - AT&T - Page 1
+                                 AFFIDAVIT OF BRETT PAYNE
+
+
+STATE OF IDAHO)
+                        SS.
+County of Latah
+
+
+        I, CPL Brett Payne, being duly swom, do hereby state the following information is true and
+
+correct to the best of my knowledge and belief:
+
+
+       (1)      That I am employed by Moscow Police Department in the official. position of
+
+                Detective Corporal;
+
+       (2)      Affidavit has been a trained and qualified peace office for 4 years;
+
+        (3)     On 12/23/2022, Cpl Brett Payne obtained a search warrant for AT&T;
+
+        (4)     The warrant was served on 12/23/2022, by email (fax, email, etc);
+
+        (5)     On 12/23/2022, Lawrence Mowery received an e-mail from AT&T which
+
+                contained the requested information;
+
+        (6)     An inventory was prepared for all the items received; and
+
+        (7)     The information received was placed into evidence at the Moscow Police Department.
+
+       FURTHER your Affiant sayeth not.
+
+                                                          Cpu Bren             Vaya
+                                                       Affiant
+       I certify (or declare) under penalty of perjury pursuant to the law the State of Idaho that
+
+the foregoing is true and correct.
+
+
+        1
+                  :
+
+
+       (Date)                                                    (Signature)
+
+
+
+
+AFFIDAVIT                                      1
+
+                                               003780
+
+
+                                 Exhibit A - AT&T - Page 2
+       IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+               STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+IN THE MATTER OF                                   Case No.
+THE APPLICATION
+FOR A SEARCH WARRANT FOR
+AT&T                                               RECEIPT AND
+11760 U.S. Highway 1, Suite 300
+                                                   INVENTORY OF WARRANT
+
+North Palm Beach, FL 33408-3029
+
+
+
+  On the 23rd day of,          Recember....._. 2022 , at approximately 10:28 o'clock __.M.,
+the following peace officers: Detective Lawrence Mowery
+
+
+
+
+served the Search Warrant heretofore issued upon the place and/or person(s) described therein as
+
+directed in said Search Warrant. Entrance was obtained by: email
+
+
+
+
+   The person(s) found in said place were:
+
+
+
+   The property found and taken and the location within or upon said place and/or person(s) are
+as follows:
+
+DESCRIPTION OF PROPERTY                               LOCATION/PERSON
+509-592-8458
+
+
+
+
+RECEIPT AND INVENTORY                                                PAGE 1    OF2 PAGES
+
+
+                                             003781
+
+
+                               Exhibit A - AT&T - Page 3
+  This Receipt and Inventory was made in the presence of:
+
+
+
+
+  A copy hereof was given to the following named person(s) on the VETO)                     day of
+
+  D EtEm Fiz.                       ,2022;
+                  @       ATIT. Com
+
+
+
+
+   A copy hereof was left on this date in a conspicuous place in the place searched, there being no
+person(s) present during said search:    Serves           To   ATYT™
+
+  DATED this          6     day of              January             ,2023 .
+
+                                                                           AIST
+WITNESS                                               PEACE OFFICER
+
+
+    The undersigned person(s) hereby acknowledge receiving a copy hereof on this            day of
+                                           20     :
+
+
+
+
+RECEIPT AND INVENTORY                                                  PAGE 2 OF        2   PAGES
+
+
+
+                                             003782
+
+
+                               Exhibit A - AT&T - Page 4
+                                                                                                    ea fe
+
+                                                                                                            oy =
+
+
+
+
+LATAH COUNTY PROSECUTOR'S OFFICE
+ASHLEY S. JENNINGS                                                                                          my ea
+
+SR. DEPUTY PROSECUTING ATTORNEY
+Latah County Courthouse
+P.O. Box 8068
+Moscow, Idaho 83843-0568
+(208) 883-2246
+ISB No.8491
+paservice@latah.id.us
+
+           IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+                   STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+In the Matter of the Application                         Case No.
+for a Search Warrant for:                        )
+                                                 )
+AT&T Mobility                                    )       ORDER
+11760 U.S. Highway 1, Suite 300                  )
+North Palm Beach, FL 33408-3029
+
+MPD Case No. 22-M09903
+
+          In the above-titled matter, this Court having heretofore issued a Search Warrant, and the said
+
+Search Warrant having been served according to law, and the Return of Warrant having been duly
+
+made as directed in said Search Warrant to this Court, and a written inventory of the property found
+
+and seized having been duly made and taken before the undersigned Magistrate or Judge and filed
+
+
+herein;
+
+          NOW, THEREFORE IT IS HEREBY ORDERED that the said Peace Officer shall deliver or
+
+cause to be delivered, the property described in said inventory to the Moscow Police Department or
+
+such other law enforcement agency as may be appropriate for the purpose of preserving said property
+
+for use as evidence or until further order of a court of competent jurisdiction. Once any related
+
+criminal case has been concluded, including the expiration of time for appeal, or at such other
+
+appropriate time, the property can be released or disposed of upon authorization
+                                                                                    of the jurisdictional
+
+
+                                                     1
+ORDER                                           003783
+
+
+                                   Exhibit A - AT&T - Page 5
+prosecuting attorney.
+
+       IT IS FURTHER ORDERED that said property or any part thereof, may be delivered to any
+
+                                                                     or obtaining any tests, analysis, or
+person or laboratory or laboratories for the purpose of conducting
+
+identification of said property which is deemed necessary by the custodial law enforcement agency
+
+or jurisdictional prosecuting attorney without further order of this Court.
+
+        DATED                            ANS
+
+                                                        Megan E. Magshall
+                                                        Magistrate Judge
+
+
+
+
+ ORDER                                              2
+                                               003784
+
+
+                                Exhibit A - AT&T - Page 6
+

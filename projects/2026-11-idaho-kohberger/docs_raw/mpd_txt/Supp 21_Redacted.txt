@@ -1,0 +1,48 @@
+07/08/25                     Moscow Police Department                        1272
+10:07                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number     21                Date   15:40:18 11/17/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Cell Phone Warrants
+
+Case # 22-M09903
+Date: 11/17/2022
+
+On November 16, 2022, I applied for and was granted the following warrants for
+the cell phone providers serving the area around 1122 Kings Road in Moscow,
+Idaho:
+AT&T
+
+North Palm Beach, FL 33408-3029
+For a tower dump of all records and unique device/user identifiers pertaining to
+Timing Advance, Real Time Tool (RTT), Location Database of Record (LocDBoR)
+location information during the following listed dates, times and geographical
+boundaries (distance from GPS points):
+GPS Coordinates:                        Distance from Location: 0.50 miles
+Date: November 13, 2022 Time: 3:00 a.m. - 5:00 a.m. (PST)
+This warrant was served at approximately 1009 hours via email       @att.com.
+
+For the AT&T Call Detail Records (CDR) for the following phone accounts:
+AT&T Wireless Number:
+AT&T Wireless Number:
+AT&T Wireless Number:
+This warrant was served at approximately 0922 hours via email       @att.com.
+
+Verizon Wireless
+Attn: Custodian of Records
+
+Bedminster, NJ 07921
+For a tower dump or all records and unique device/user identifiers pertaining to
+Timing Advance, Real Time Tool (RTT), Location Database of Record (LocDBoR)
+location information during the following listed dates, times and geographical
+boundaries (distance from GPS points):
+GPS Coordinates:                        Distance from Location: 0.50 miles
+Date: November 13, 2022 Time: 3:00 a.m. - 5:00 a.m. (PST)
+

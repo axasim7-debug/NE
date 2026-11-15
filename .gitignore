@@ -12,3 +12,5 @@ research/reference_transcripts/
 research/reference_thumbs/
 projects/*/docs_raw/*.pdf
 projects/*/photos/*
+projects/*/docs_raw/**/*.pdf
+projects/*/docs_raw/**/*.html

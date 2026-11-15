@@ -1,0 +1,58 @@
+07/08/25                      Moscow Police Department                       1272
+10:21                      Law Supplemental Narrative:               Page:      1
+  Details
+Incident Number    22-M09903           Name   Lawrence Mowery
+Sequence Number     45                 Date   14:25:19 11/29/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Cellphone Warrant Return
+
+Case # 22-M09903
+Date: 11/17/2022
+
+On November 17, 2022, I received I began to receive data from the cell phone
+providers in response to the warrants served on them.
+
+At approximately 1352 hours, I received an email from     @sf-notifications.com
+informing me the files from Verizon for the requested phone Call Detail Records
+and Tower Dump Data was ready to be downloaded. I logged into the ShareFile
+portal and downloaded the corresponding files.
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also
+emailed a copy of the receipt to the Verizon at     @sf-notifications.com, as
+this was the originating email address associated with the documents.
+At approximately 1530 hours, I received an email from R     B
+       @inlandcell.com) of Inland Cellular. This email included files containing
+the data requested regarding the tower dump data.
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also
+emailed a copy of the receipt to the R     B       (      @inlandcell.com), as
+this was the originating email address associated with the documents.
+At approximately 1530 hours, I received an email from AT&T (        @att.com)
+informing me the files from AT&T for the requested phone Call Detail Records and
+Tower Dump Data. I logged into the Global Legal Demand Center portal and
+downloaded the corresponding files.
+
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also
+emailed a copy of the receipt to AT&T (        @att.com), as this was the
+originating email address associated with the documents.
+On November 18, 2022, at approximately 1323 hours, I received two emails from
+T-Mobile (          @T-Mobile.com). These emails included files containing the
+data requested regarding the T-Mobile Call Data Records and Tower Dump Data
+requested.
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also
+emailed a copy of the receipt to T-Mobile (          @T-Mobile.com), as this was
+the originating email address associated with the documents.
+Det. Lawrence Mowery - 162
+Tue Nov 29 14:25:27 PST 2022
+Reviewed:
+Sgt. J. W. Lawrence
+Wed Nov 30 07:09:26 PST 2022
+

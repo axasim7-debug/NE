@@ -1,0 +1,49 @@
+07/08/25                       Moscow Police Department                      1272
+11:50                       Law Supplemental Narrative:              Page:      1
+  Details
+Incident Number      22-M09903          Name   Brett Payne
+Sequence Number      232                Date   13:56:43 08/09/23
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Apple Warrant Return-#157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+Files stored on forensic computer
+3.        Narrative
+
+On August 1, 2023, I was granted a search warrant for all data and account
+information associated with the Apple Identifiers: Apple ID:
+                                                      and/or Apple ID:
+                       (               ) The warrant was granted and signed by
+Magistrate Megan Marshal with fourteen (14) days to serve the legal process. At
+approximately 1450 hours, the warrant was served via email to
+              @Apple.com.
+On August 7, 2023, I received an email from Apple Inc. stating the data
+requested pursuant to the warrant was available to download. Due to the
+encryption on the files, I forwarded the link to Det. Mowery to download and
+decrypt the data. On August 9, 2023, Det. Mowery informed me he had downloaded
+all the available data and was attempting to decrypt the data for review.
+A warrant return receipt and affidavit were completed and these documents were
+sent to the Latah County Prosecutor's Office to be returned to the court. A copy
+of the receipt was sent to               @Apple.com, as this was the originating
+email address associated with the documents.
+4.        Other
+
+NA
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+CPL Payne #157
+Wed Aug 09 14:01:49 PDT 2023
+Reviewed By:
+Capt. Dustin Blaker #108
+Fri Aug 11 12:46:32 PDT 2023
+

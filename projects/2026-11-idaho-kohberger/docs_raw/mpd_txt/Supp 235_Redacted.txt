@@ -1,0 +1,36 @@
+07/08/25                    Moscow Police Department                         1272
+11:52                    Law Supplemental Narrative:                 Page:      1
+  Details
+Incident Number   22-M09903             Name   Andrew Fox
+Sequence Number   235                   Date   12:19:47 08/16/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Forensic examination of Xana's old iPhone
+
+Case: 22-M09903
+Officer: Det. Fox #185
+
+On August 10th, 2023, I was able to use GrayKey and Axiom Magnet version 7.2 to
+examine an iPhone XR that had extensive damage to the rear of the phone. This
+iPhone was identified as evidence# 22M-2077, Item# 250. The serial number of the
+iPhone is              . The name associated with the phone was Xana Kernodle and
+the account email was identified as              @gmail.com and
+           @gmail.com.
+In examining the phone, the phone had not been used since May 11th, 2022. The
+contents of the phone belonged to Xana. After examination of the phone, I was
+unable to find anything of evidentiary value. The phone was secured in evidence.
+
+End of Report,
+Det. Andrew Fox #185
+Wed Aug 16 13:04:42 PDT 2023
+REVIEWED-Wed Aug 16 14:47:55 PDT 2023
+CPL Payne #157
+
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+ of Idaho that the foregoing is true and correct.
+

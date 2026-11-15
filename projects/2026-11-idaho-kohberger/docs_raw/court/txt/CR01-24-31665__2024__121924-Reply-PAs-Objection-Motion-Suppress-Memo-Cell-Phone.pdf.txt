@@ -1,0 +1,211 @@
+                                                                          Electronically Filed
+                                                                          12/19/2024 5:54 PM
+                                                                          Fourth Judicial District, Ada County
+                                                                          Trent Tripple, Clerk of the Court
+                                                                          By: Jennifer Keyes, Deputy Clerk
+Anne Taylor Law, PLLC
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d’Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Jay W. Logsdon, First District Public Defender
+Idaho State Public Defender
+1450 Northwest Blvd.
+Coeur d’Alene, Idaho 83814
+Phone: (208) 605-4575
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Assigned Attorney:
+Anne C. Taylor, Attorney at Law, Bar Number: 5836
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+
+      IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+ STATE OF IDAHO                                  CASE NUMBER CR01-24-31665
+
+                      Plaintiff,                 REPLY TO STATE’S OBJECTION TO
+                                                 DEFENDANT’S MOTION TO
+ V.                                              SUPPRESS CELL PHONE/USB FILE
+                                                 AND MEMORANDUM IN SUPPORT
+ BRYAN C. KOHBERGER,
+                                                 RE: MOSCOW POLICE FORENSIC
+                      Defendant.                 LAB WARRANT DATED JANUARY 9,
+                                                 2023
+
+
+
+
+       COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and submits
+
+the following Reply to the State’s Objection to his Motion to Suppress Cell Phone/USB File and
+
+Memorandum in Support Re: Moscow Police Forensic Lab Warrant Dated January 9, 2023.
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+CELL PHONE/USB FILE AND MEMORANDUM IN SUPPORT RE: MOSCOW
+POLICE FORENSIC LAB WARRANT DATED JANUARY 9, 2023                                          Page 1
+I.     The Warrant was General, and the Affidavit was Not Incorporated into the Warrant
+
+       or Served with the Warrants or on the Company that Searched the USB File.
+
+       The Fourth Amendment to the United States Constitution states:
+
+       The right of the people to be secure in their persons, houses, papers, and effects,
+       against unreasonable searches and seizures, shall not be violated, and no warrants
+       shall issue, but upon probable cause, supported by oath or affirmation, and
+       particularly describing the place to be searched, and the persons or things to be
+       seized.
+
+
+Article I, Section 17 of the Idaho Constitution is virtually identical to the Fourth Amendment,
+
+except that “oath or affirmation” is termed “affidavit.”
+
+       The Supreme Court has acknowledged “that a court may construe a warrant with reference
+
+to a supporting application or affidavit if the warrant uses appropriate words of incorporation, and
+
+if the supporting document accompanies the warrant.” Groh v. Ramirez, 540 U.S. 551, 557–58,
+
+124 S.Ct. 1284, 157 L.Ed.2d 1068 (2004). In SDI Future, the Ninth Circuit held that a statement
+
+on the face of the warrant noting “the supporting affidavit(s)” was sufficient as a suitable reference
+
+and incorporation. U.S. v. SDI Future Health, Inc., 568 F.3d 684, 699–700 (9th Cir. 2009). The
+
+subject warrant contained no language that the affidavit was incorporated. In misguided fashion,
+
+the State asserts that there is no requirement for specific language and relies on Adamcik v. State,
+
+which upheld a warrant where “the opening paragraph of the warrant unambiguously referenced
+
+the affidavit and sworn testimony of Detective Sellers as the basis for the warrant.” 163 Idaho
+
+114, 125 (Idaho S. Ct. 2017).
+
+        The Affidavit of Detective. Lawrence Mowrey swears that he personally served the
+
+“warrant” at the Moscow Police Department Forensic Lab. See Exhibit A Cell Phone
+
+Memorandum, p. 27. Further, the receipt and inventory of the warrant indicates that entrance was
+
+by “Key-Computer Forensic Lab.” Id. at p. 28.         Neither the affidavit nor the search warrant
+
+mention that the search would be conducted by a third-party. Rather, the search warrant was
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+CELL PHONE/USB FILE AND MEMORANDUM IN SUPPORT RE: MOSCOW
+POLICE FORENSIC LAB WARRANT DATED JANUARY 9, 2023                                             Page 2
+directed to the Moscow Police Department Forensics Lab. Id. at pp. 24, 25, 27. While the
+
+supporting affidavit might have been “in-hand” during the search as asserted in the incorporated
+
+Apple Objection, there was no language incorporating the affidavit into the search warrant.
+
+Further, there was no language in either the search warrant or the supporting affidavit authorizing
+
+the search by a third-party. After the return of warrant was produced to the magistrate, an order
+
+issued allowing a third party search. See Motion Exhibit A, pg 32. There is no evidence that the
+
+third party received a copy of the Affidavit in Support of Search Warrant.
+
+       An affidavit is considered “to be part of a warrant, and therefore potential curative of any
+
+defects, ‘only if (1) the warrant expressly incorporated the affidavit by reference and (2) the
+
+affidavit either is attached physically to the warrant or at least accompanies the warrant while
+
+agents execute the search.’” SDI Future Health Inc., at 699 (citing United States v. Kow, 58 F.3d
+
+423, 429 n. 3 (9th Cir.1995).
+
+II.    The Search Warrant Failed to Provide Specific Particularization of What to Search.
+
+       The Fourth Amendment requires particularity. “The particularity requirement’s objective
+
+is that those searches deemed necessary based on a probable cause determination by a magistrate
+
+should be as limited as possible.” State v. Teal, 145 Idaho 985, 991, 188 P.3d 927, 931 (2008).
+
+Even if the Affidavit of Search Warrant had been incorporated into the warrant, it could have
+
+described particularized items as opposed to the laundry list of the contents of the cell phone
+
+without designation of a duty to separate lawful items.
+
+       The particularity requirement means that a warrant must be “specific enough to enable the
+
+person conducting the search reasonably to identify the things authorized to be seized.” U.S. v.
+
+Spilotro, 800 F.2d 959, 963 (9th Cir. 1986). Once the warrant is specific enough, there must still
+
+be a search that provides guidelines to “distinguish items used lawfully from those the government
+
+had probably cause to seize.” Id. at 964. Not only did the state extract the entire contents of Mr.
+
+Kohberger’s cell phone, it has taken no action to sort through that which is lawful or applies to the
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+CELL PHONE/USB FILE AND MEMORANDUM IN SUPPORT RE: MOSCOW
+POLICE FORENSIC LAB WARRANT DATED JANUARY 9, 2023                                            Page 3
+charges. It has produced the warrant return without any reports indicating what it intends to use as
+
+evidence of “the crime to which the defendant was arrested: homicide.”
+
+III.   The Affidavit Submitted in Support of the Application for the Issued Search Warrant
+
+       Recklessly or Intentionally Omitted Material Information.
+
+       In response to the State’s arguments under “Defendant Has Not Demonstrated the Search
+
+Warrant Affidavits Contain Intentionally or Recklessly False Statements or Omissions,”
+
+Defendant refers the Court to and hereby incorporates “Defendant’s Reply in Support of
+
+Defendant’s Motion and Memorandum in Support for a Franks Hearing” and “Reply in Support
+
+of Motion to Suppress Genetic Information.”
+
+                                         CONCLUSION
+
+       Mr. Kohberger requests that this Court suppress all evidence obtained by police via the
+
+warrant that permitted them to search and extract the entire contents of Mr. Kohberger’s cell phone.
+
+       DATED this _19_ day of December, 2024.
+
+
+                                              BY:    _/s/ Elisa G. Massoth
+                                                     Elisa G. Massoth
+
+
+                               CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___19____ day of December, 2024 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+CELL PHONE/USB FILE AND MEMORANDUM IN SUPPORT RE: MOSCOW
+POLICE FORENSIC LAB WARRANT DATED JANUARY 9, 2023                                           Page 4
+

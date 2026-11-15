@@ -1,0 +1,29 @@
+07/08/25                    Moscow Police Department                         1272
+11:49                    Law Supplemental Narrative:                 Page:      1
+  Details
+Incident Number   22-M09903             Name   Andrew Fox
+Sequence Number   229                   Date   08:28:21 08/08/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Nom Nom Video
+
+Case: 22-M09903
+Officer: Det. Fox #185
+Date: 8/8/2023
+I was able to retrieve surveillance video from a Nom Nom server that had been
+stored at MPD. I was able to access the server and retrieve video footage from
+November 13th, 2022. This included multiple cameras from the store facing
+Pullman Rd. In review of the footage I was unable to locate anything of
+evidentiary value at this time. The video was loaded to a thumb drive and placed
+into evidence. The server was returned to Nom Nom.
+End of Report,
+Forensic Det. Andrew Fox #185
+Tue Aug 08 08:33:58 PDT 2023
+REVIEWED-Tue Aug 08 11:43:32 PDT 2023
+CPL Payne #157
+

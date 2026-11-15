@@ -1,0 +1,29 @@
+07/08/25                     Moscow Police Department                        1272
+11:43                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number   22-M09903             Name   Andrew Fox
+Sequence Number   215                   Date   13:19:14 07/05/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Concatenation of Videos
+
+Case: 22-M09903
+Officer: Det. Fox #185
+Date: 7/5/2023
+On June 15th, 2023, I was provided the entirety of the 1112 King Road
+surveillance videos. This included 1,464 (5) minute videos that ranged from 0055
+hours on 11/13/22 to 1722 hours on 11/17/2022. Using Axon Investigate version
+3.1.0 software I was able to concatenate (stitch) the videos together to
+multiple hour clips.
+As a result, I was able to compile the videos down to 17. The videos were
+placed on a portable hard drive and entered into evidence.
+End of Report,
+Det. Andrew Fox #185
+REVIEWED-Mon Jul 10 08:33:36 PDT 2023
+CPL Payne #157
+

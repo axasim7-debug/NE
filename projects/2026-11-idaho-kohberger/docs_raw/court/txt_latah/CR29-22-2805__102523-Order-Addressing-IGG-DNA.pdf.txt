@@ -1,0 +1,1739 @@
+                                                                       Filed: 10/25/202315:07:31
+                                                                       Second Judicial District, Latah County
+                                                                       Julie Fry, Clerk of the Court
+                                                                       By: Deputy Clerk - Reeves, Tamzen
+
+
+
+
+        IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF
+
+             THE STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+
+STATE OF IDAHO,
+                                                     Case No. CR29-22-2805
+               Plaintiff,
+                                                     ORDER ADDRESSING IGG DNA
+       vs.                                           AND ORDER FOR IN CAMERA
+                                                     REVIEW
+BRYAN C. KOHBERGER,
+
+               Defendant.
+
+
+                                       I.   INTRODUCTION
+
+       On November 13, 2022, four University of Idaho students were found murdered. As part
+                                                                                                       of
+
+law enforcement’s investigation into the homicides, the FBI employed the use of investigative
+
+                                               on a Ka-Bar knife sheath found at the crime scene.
+genetic genealogy (“IGG”) using DNA located
+
+                                                        tree of individuals whose DNA matched
+Through the IGG process, the FBI constructed a family
+                                                                                           to
+with the DNA found on the knife sheath. The FBI then sent local law enforcement a tip
+
+                                                                      was arrested on December 30,
+investigate Defendant Bryan Kohberger (“Kohberger”). Kohberger
+
+                                                                    and one count of Burglary.
+2022, and charged with four counts of Murder in the First Degree
+
+                                                  used to obtain the arrest warrant for Kohberger or
+Nothing about law enforcement’s use of IGG was
+
+to obtain the search warrant for his DNA.
+
+        The State has now ﬁled a motion to prevent the disclosure of the IGG information to
+                                                                                                 the
+
+                                                                                                 of
+defense. The defense opposes the motion and ﬁled a motion to compel requesting discovery
+
+                                                            the family tree built by the FBI.
+everything pertaining to the IGG investigation, including
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 1
+        Disclosure of information gathered from an IGG investigation is an issue of ﬁrst impression
+
+in Idaho. The State claims that the IGG information was not used to obtain any warrant and will not
+
+be used at trial. For the reasons set forth below, the Court ﬁnds that the defense is likely entitled to
+
+see at least some of the information from the IGG investigation, even if it may ultimately be found
+
+to have no relevance to Kohberger’s defense. However, because the Court has not seen exactly what
+
+information pertaining to the use of IGG is available, the Court cannot say precisely what should
+
+and what should not be disclosed at this time. Because of this uncertainty, the Court grants the
+
+State’s request for an in camera review of the IGG information. After such review, the Court will
+
+enter the appropriate discovery and protective orders.
+
+                                           II. BACKGROUND
+
+        On November 13, 2022, four University of Idaho students, Kaylee Goncalves, Madison
+
+Mogen, Xana Kernodle, and Ethan Chapin, were found deceased in Goncalves, Mogen, and
+
+Kernodle’s off-campus home on King Road in Moscow, Idaho. The cause of death for each was
+
+ruled a homicide.
+
+        While investigating the murders, law enforcement discovered “a tan leather knife sheath
+
+laying on the bed next to Mogen.” Aff. of Probable Cause, Statement of Brett Payne. “The Idaho
+
+State Lab later located a single source of male DNA (Suspect Proﬁle) left on the button snap of the
+
+knife sheath.” Id.
+
+        “Once law enforcement had single-source DNA from the Ka-Bar knife sheath, they
+
+conducted what is called a short tandem repeat (“STR”) analysis. STR DNA analysis involves
+
+looking at 20 regions within human DNA and allows law enforcement to make a direct comparison
+
+between two STR DNA proﬁles. Law enforcement submitted the STR DNA proﬁle obtained from
+
+the Ka-Bar knife sheath to the Combined DNA Index System (“CODIS”), a database of STR DNA
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 2
+                                                                                     the source of the
+proﬁles from convicted offenders, arrestees, and crime scene evidence, to identify
+
+DNA. No match was found.” Mot. for Protective Order at 2.
+
+       Meanwhile, law enforcement continued to investigate the homicides. They conducted a
+
+“video canvass” “in the area of the King Road Residence.” Aff. 0f Probable Cause, Statement of
+
+Brett Payne. The “video canvass” revealed a white sedan that piqued the interest of investigators.
+                                                                                                        Id.
+
+
+The video footage was provided to a forensic examiner with the FBI who initially identiﬁed
+                                                                                                  the
+
+
+sedan as a “201 1-2013 Hyundai Elantra,” but later “indicated it could be a 201 1-2016 Hyundai
+
+Elantra.” Id. On November 29, 2022, after reviewing video footage and asking law
+                                                                                      enforcement
+
+                                                     Elantra in the area, a 2015 white Elantra
+agencies to be on the lookout for a white Hyundai
+
+                                                            was located in Pullman, Washington. Id.
+registered to Defendant Bryan Kohberger (“Kohberger”)
+                                                                                           that
+        The State’s case alleges that with this information, law enforcement determined
+
+                                                          to investigators by a surviving roommate of
+Kohberger’s “physical description” matched that given
+
+the victims, and that Kohberger’s cellphone “travel [was] consistent
+                                                                       with that of the white Elantra”
+
+                                                                                     law enforcement
+in the early morning hours of November l3, 2022. Id. Based on this information,
+
+                                                                             video surveillance around
+believed Kohberger to be the driver of the white Elantra that was seen on
+
+                                                                               also obtained cell phone
+the King Road residence at the time of the homicides. Id. Law enforcement
+
+                                                                         had “utilize[ed] cellular
+records indicating that prior to the homicides, Kohberger’s cellphone
+
+                                                                     at least twelve occasions prior to
+ resources that provide coverage to the area of 1122 King Road on
+
+ November l3, 2022.” Id.
+
+        “On December 27, 2022, Pennsylvania Agents recovered the trash from the Kohberger
+
+                                                   That evidence was sent to the Idaho State Lab for
+ family residence located in Albrightsville, PA.
+
+                                            State Lab reported that a DNA proﬁle obtained from the
+ testing. On December 28, 2022, the Idaho
+
+
+
+
+ ORDER ADDRESSING IGG DNA
+ AND ORDER FOR IN CAMERA REVIEW - 3
+trash and the DNA proﬁle obtained from the sheath, identiﬁed a male as not being excluded as the
+
+
+biological father of Suspect Proﬁle.” Id.
+
+        On December 30, 2022, Kohberger was arrested and charged with four counts of Murder in
+
+the First Degree and one count of Burglary. A search warrant for Kohberger’s DNA was issued on
+
+                                                                              the STR proﬁle found on
+January 5, 2023. “A traditional STR DNA comparison was done between
+
+the Ka-Bar knife sheath and Defendant’s DNA. The comparison showed a statistical match
+                                                                                                —
+
+
+
+
+                                                         times more likely to be seen if Defendant is the
+speciﬁcally, the STR proﬁle is at least 5.37 octillion
+
+source than if an unrelated individual randomly selected from the general population
+                                                                                          is the source.”
+
+
+Mot. for Protective Oder at 5-6.
+
+                             III. INVESTIGATIVE GENETIC GENEALOGY
+                                                                                               State
+        On June l6, 2023, the State ﬁled a Motion for Protective Order. In its Motion, the
+
+brings to light law enforcement’s use of IGG
+                                               “to ﬁnd a lead” after the STR DNA proﬁle from the
+
+                                                                                             law
+knife sheath did not return a match in CODIS. It is unknown to this Court when exactly
+
+enforcement employed the use of IGG.
+
+        A brief discussion on what IGG entails is necessary to better understand the signiﬁcance, or
+
+insigniﬁcance, of its use in this case.
+                                                                                      in the
+        Consumer genetics has exploded, driven by the second-most popular hobby
+                                                                                          to
+        United States: genealogy. This hobby has been co—opted by law enforcement
+        solve cold cases, by linking crime-scene DNA with the DNA of a suspect's relative,
+        which is contained in a direct-to-consumer (DTC) genetic database. The relative's
+                                               or genetic informant, wordlessly guiding law
+        genetic data acts as a silent witness,
+        enforcement to a handful of potential suspects.
+
+
+
+         Driven mostly by genealogical hobbyists, the majority of the DTC ancestry genetic
+                                                                               which are
+         testing services rely on single nucleotide polymorphisms (SNPs),
+         mutations at the level of the individual nucleotides. . ..
+
+
+
+
+         SNP data can also reveal whether users share segments of their genome with other
+         users,          relatedness through a common ancestor. This works by analyzing
+                predicting
+
+
+ ORDER ADDRESSING IGG DNA
+ AND ORDER FOR IN CAMERA REVIEW - 4
+      the percentage of overlapping bits of genetic code, so-called “identical by descent”
+      sections, that one shares with relatives. Assuming no historical inbreeding, one
+      likely shares roughly 12% of their genome with ﬁrst cousins, about 3% with second
+      cousins, and less than 1% with third cousins. Thus, by ﬁnding and quantifying
+      overlapping genetic regions, DTC companies can predict genetic familial
+      relationships. . . .
+
+      The leading consumer genetics companies, 23andMe and Ancestry, allow
+      consumers to download their raw genetic data in plain-text format, which can then
+      be uploaded to third-party websites. These websites provide a range of additional
+      services, including interpreting the clinical relevance of mutations and allowing
+      individuals to expand the reach of their genealogical search. Up to 62% of DTC
+      customers will upload their genetic data to third—party websites for free or for a small
+      fee. One such third-party website is GEDMatch, an open-access service that is free
+       for the most basic searches.
+
+       GEDMatch users can connect with even more distant relatives who used different
+                                                                do so by uploading their
+       testing services like FamilyTreeDNA or My Heritage. They
+       SNP proﬁle, generated elsewhere, onto GEDMatch. The raw SNP data is analyzed
+                                                              a list of likely relatives
+       using a simple algorithm, and the site then produces
+                                                                        information with the
+       automatically, without the need to share any underlying genetic
+                                                        has cultivated a large community of
+       putative relative. In just a few years, GEDMatch
+       hundreds of thousands of users.   . . .
+
+
+
+
+       Because the identity of the person from whom the crime-scene sample came is oﬁen
+       unknown, law enforcement uses a false name--“John Doe,” for example--and
+       submits it to GEDMatch. Then, when their “John Doe” matches someone in the
+                                                                             who might be
+       database, they use genealogical data to determine a common ancestor
+       a great-great grandfather or grandmother. They then triangulate other data, such as
+                                                                        from that common
+       birth, voting, and military records, to build out the pedigrees
+                                                                       be suspects. As we
+       ancestor, identifying all of the potential individuals who may
+       each have about 1,000 fourth cousins and 5,000 ﬁfth cousins, depending on the
+                                                                       The methodology is
+       degree of relation, this process can be quite time-consuming.
+       known by different names. In the forensic genetics  research community, it is referred
+                                                                                           to
+       to as “long-range familial searches” (LRFS). Law enforcement sometimes refers
+       this as Forensic Genetic Genealogy (FGG).
+
+                                                                                          Catch
+Teneille R. Brown, JD, Why We Fear Genetic Informants: Using Genetic Genealogy to
+
+Serial Killers, 21 Colum. Sci. & Tech. L. Rev. 1 (2019).
+
+                                                                                            in 2019.
+       It is worth recognizing that the information above comes from an article published
+
+It is fair to assume that since 2019 DTC testing and law enforcement’s use of
+                                                                                IGG/FGG have
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 5
+increased exponentially. Bicka Barlow, one of the witnesses who testiﬁed on behalf of Kohberger,
+
+explained the process of IGG.
+
+       [T]he use of these databases [like GEDmatch] does not necessarily lead to a single
+       individual as a potential suspect. . . .
+
+           The determination of who is or is not a relative is subjective and based on the
+       . . .
+                                                                          in such a database
+       length of DNA shared between two individuals. The comparisons
+       do not yield an identiﬁcation of someone identical [to] the uploaded SNP data; rather
+       it would identify possible relatives who might be in the database.
+
+       Once a putative relative has been identiﬁed, a family tree is created, working
+       backwards to grandparents and possible great-great—grandparents. The family tree is
+                                                                                          and
+       then build [sic] down. The construction of these family trees is highly subjective
+                                                                                          . In
+       is based on the use of public records such as marriage and birth certiﬁcates. . .
+       some instances, contacting individuals for further family    information  [like out  of
+       wedlock births, name changes, or adoptions]. This process leads to a pool of
+       individuals rather than one speciﬁc individual.
+
+Decl. of Bicka Barlow at 3-4.
+
+        The State describes law enforcement’s use of IGG in this case as follows:
+
+                [I]nvestigators used IGG to begin the process
+                                                                 of developing a lead to the
+                                                                                        utilized
+        individual who left DNA on the Ka—Bar knife sheath. The Idaho State Police
+                                                                                           from
+        a private laboratory to develop a SNP [single nucleotide polymorphism] proﬁle
+        the DNA on the Ka-Bar knife sheath. The private laboratory       started  using genetic
+                                               but  after law  enforcement    decided  the FBI
+        genealogy to develop a family tree,
+        would take over, the private laboratory ceased its efforts and sent the  SNP  proﬁle to
+        the FBI.
+                The FBI uploaded the SNP proﬁle to one or more publicly available genetic
+                                                            members of the suspect based on
+        genealogy services to identify possible family
+        shared genetic data. The FBI could then View through the genetic genealogy
+                                                                                         who left
+        service’s portal information regarding potential relatives of the suspect
+        DNA on the Ka-Bar knife sheath. Based on information the FBI could see on the
+        genetic genealogy service’s portal, the
+                                                 FBI went to work building family trees of the
+                                               left at the crime scene in an attempt to identify
+        genetic relatives to the suspect DNA
+                                                                            tree using the same
+        the contributor of the unknown DNA. The FBI built the family
+                                                                               learn more about
+        tools and methods used by members of the public who wish to
+                                                                                     vital records
+        their ancestors. For example, the FBI consulted social media, viewed
+                                                                                        contained
+        such as birth and death certiﬁcates, and viewed other information already
+                                                                                      information
+        in the user portal for the genetic genealogy service, including unveriﬁed
+        submitted by other users of the genetic genealogy service. The
+                                                                             FBI   also  consulted
+                                                    to law enforcement for information on
+        subscription-based databases available
+        individual people. The product of the genealogy conducted by the
+                                                                                FBI was a family
+
+
+ ORDER ADDRESSING IGG DNA
+ AND ORDER FOR IN CAMERA REVIEW - 6
+        tree that contained the name, birthdate, and death date (if applicable) of hundreds of
+        relatives as well as their familial connections between each other and the suspect:
+        Bryan   C. Kohberger. The FBI then sent to local law enforcement a tip to investigate
+        Defendant.
+                The IGG process pointed law enforcement toward Defendant, but it did not
+                                                                     The FBI did not, for
+        provide law enforcement with substantive evidence of guilt.
+                                                                         from the Ka-Bar
+        example, conduct a direct comparison between the SNP proﬁle
+        knife sheath and Defendant’s SNP proﬁle. That type of direct  comparison required
+        the more  traditional STR DNA  analysis, which was conducted    by the Idaho State
+        Police, not the FBI.
+
+Mot. for Protective Order at 4—5.
+
+                                                                             or a family tree was used by law
+         Notably, nothing about the SNP proﬁle, the use of IGG,
+                                                                                                         warrant for
+enforcement in obtaining the arrest warrant for Kohberger, the January 5, 2023, search
+
+                                                                 case.‘
+Kohberger’s DNA, or any other search warrant in the
+
+         The State now seeks a protective order for “information related to the use of IGG
+                                                                                                            in this
+
+                                                                                                and not disclose to
+case.” Mot. for Protective Order at 6-7. Speciﬁcally, the State wishes to protect
+
+the defense the following:
+
+         l. The raw data related to the SNP proﬁle and the underlying laboratory
+                                                                                      chain of
+              documentation related to the development of the proﬁle, such as
+                                                                              notes, etc.
+              custody forms, laboratory standard operating procedures analyst
+
+         2.   All information related to IGG efforts in creating a family tree and identifying
+              Defendant’s potential relatives, including the identities of the genetic genealogy
+              service(s) and the personally identifying information
+                                                                     of Defendant’s relatives.
+
+Id. at 7-8.
+
+                                                                                                      to create the
+          While the FBI no longer has access to View much of the information it used
+
+family tree, the State acknowledges that the
+                                                      FBI does possess “the family tree itself, notes jotted
+
+                                                                                         created to document the
+down by FBI agents as they constructed the family tree, and any records
+
+
+
+
+                                                                                                  obtained from the SNP
+   At oral argument on August l8, 2023, the Court asked the State directly if any
+ 1
+                                                                                      information
+                                       tree created  was  used to obtain any warrant   in the case. The State represented
+ proﬁle, the use of IGG, or the family                                     IGG               tree was used in the afﬁdavit
+ that it was not. The Court has confirmed  that nothing  about  the use of      or a family
+                                             or in the afﬁdavit to obtain the search warrant for Kohberger’s
+                                                                                                                DNA.
+ to obtain the arrest warrant for Kohberger
+
+ ORDER ADDRESSING IGG DNA
+ AND ORDER FOR IN CAMERA REVIEW - 7
+removal of the SNP proﬁle from the genetic genealogy service(s) pursuant to the DOJ Policy.”2
+
+Mot. for Protective Order at 6. The State has represented that it has already disclosed the suspect
+
+SNP proﬁle to the defense. Reply in Supp. of Mot. for Protective Order at 2.
+
+          The defense opposes the State’s Motion for Protective Order, and on June 22, 2023, ﬁled
+
+Defendant’s Third Motion to Compel Discovery. A portion of that Motion to Compel asks that the
+
+State be required to turn over the following information related to the use of IGG:
+
+          1.   All reports generated by any lab that conducted SNP testing on any sample in
+               this case, including from samples where “unknown” males, not the defendant,
+               were identiﬁed.
+
+          2.   Copies of all communications between laboratory personnel and any other
+               person or organization, with regard to the instant case, including letters, memos,
+               emails, intemet posts, press releases, and records of other communications
+               (including communications with regard to any DNA proﬁle uploaded to any
+               public or private DNA database).
+
+          3.   All documentation associated with any database search, including, but not
+               limited to, CODIS, NDIS, GEDMatch, Family Tree DNA, and/or felon
+               databases, case sample databases, missing persons databases, and internal quality
+               assurance databases. The documentation should include, but is not limited to, the
+               input proﬁle, the input search parameters, the search output, all reports, all
+               correspondence, and any follow-up actions.
+
+          4.   Add documents related to any genetic genealogy search, including, but not
+               limited to, the creation of a user proﬁle(s), account(s) information, automated
+               search results, uploading of data, all queries and search results from any private
+               or public databank(s), family tree information, and all other documents, reports,
+               notes or other communications pertaining to genealogy DNA database searches.
+
+          5.   All documents related to any genetic genealogy investigations, including but not
+               limited to additional collection and/or testing of DNA samples, notes of any
+               interviews, documents obtained related to ancestry, and/or recommendation for
+               further testing.
+
+          6.   All documents related to comparison of any DNA samples collected during the
+               genealogy investigation to crime scene evidence.
+
+
+
+2
+    DO] policy required that Kohberger's SNP DNA profile be removed from the genetic genealogy
+service(s).
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 8
+       7.   The name and address bf all persons found to have sufﬁcient sharing
+            centimorgams with the “subject” proﬁle to be identiﬁed as a match in the report
+            created in this case.
+
+Def.’s Third Mot. to Compel Discovery at 3-4.
+
+       In support of its Motion to Compel and in opposition to the State’s Motion for Protective
+
+Order, the defense submitted the Declaration of Anne C. Taylor (defense counsel), Declaration of
+
+Bicka Barlow, Declaration of Stephen B. Mercer, Afﬁdavit of Leah Larkin, and the Declaration of
+
+Gabriella Vargas.
+
+       On July 14, 2023, the State ﬁled its Reply in Support of Motion for Protective Order and the
+
+Afﬁdavit of Rylene L. Nowlin.
+
+       On August 18, 2023, a hearing on the State’s Motion for Protective Order and Defendant’s
+
+Third Motion to Compel was conducted. The State was represented by William W. Thompson, Jr.,
+
+                                                                                           Anne C.
+Ashley S. Jennings, Jeff Nye, and Ingrid Batey. Kohberger was present and represented by
+                                                                               of evidence, the State
+Taylor, Jay Logsdon, and Elisa Massoth. Following the defense’s presentation
+
+reserved cross-examination of Leah Larkin and Gabriella Vargas.
+
+        On August 29, 2023, the State ﬁled a Notice of Intent not to Cross-Examine Defense
+
+Witnesses, District Court Decision, and Records to Explain Witness Contact. On August 30, 2023,
+
+the State ﬁled State’s Supplemental Response to Defendant’s Third Motion to Compel Discovery.
+
+On September 1, 2023, the defense ﬁled a Response to State’s Notice of Intent not to Cross-
+
+Examine Defense Witnesses, District Court Decision, and Records to Explain Witness Contact. On
+
+September 12, 2023, the State ﬁled a Supplement to
+                                                     State’s Notice of Intent not to Cross-Examine
+
+Defense Witnesses, District Court Decision, and Records to Explain Witness Contact. The issue is
+
+now ﬁilly submitted and ready for a decision.
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 9
+                                             IV. CASE LAW
+
+         The issue of disclosure of information gathered from an IGG investigation is an issue of ﬁrst
+
+impression in Idaho. The State claims that the IGG information will not be used at trial and was not
+
+used to obtain any warrant. While there is no precedent in Idaho, what limited cases are available
+
+from other jurisdictions are worth discussing.
+
+    1.   In the Matter of: Michael Green
+
+         First, in support of its position, the State submitted a Ruling on Motion to Compel
+
+Production of Discovery authored by a California trial court in the case of In the Matter of: Michael
+
+Green. Ex. A attached to Mot. for Protective Order. There, law enforcement found DNA on the
+
+victim’s nightgown. A private laboratory created an SNP DNA proﬁle of an unidentiﬁed male
+
+suspect. Law enforcement submitted that proﬁle to GEDmatch and received information about
+
+individuals who shared DNA with the suspect’s proﬁle. Law enforcement then identiﬁed Michael
+
+Green as a suspect. Law enforcement collected garbage discarded by Green, tested it for DNA, and
+
+compared that STR DNA proﬁle to the DNA located on the victim’s nightgown. The DNA
+
+matched. Law enforcement then got a search warrant for Green’s DNA, which also matched.
+
+         Green argued he was entitled to the genetic genealogy information including the family tree.
+
+Green asserted the information was necessary to ascertain the following: details of what, when,
+
+where, and how the investigation into him occurred; the identity of other possible DNA matches
+
+that surfaced so these individuals could be interviewed (since such evidence could be exculpatory if
+
+their DNA matched to the DNA on the nightgown); and possible violations of the Fourth
+
+Amendment.
+
+         The trial court held that the prosecution was not “obligated to discover to Green the
+
+requested Match Detail Reports, long-form Candidate Match Reports, family tree information, lists
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 10
+of people identiﬁed through the FGG investigation as being related by DNA to Green, or any other
+
+information from its FGG investigation.” The court reasoned,
+
+       [T]he evidence that is material to Green’s guilt or innocence is the testing that
+       followed the FGG investigation, which directly compared a fresh swab of Green’s
+       DNA with the DNA proﬁle collected from the victim’s nightgown. It is only this
+       evidence that the People intend to present at trial. The People are not obligated to
+       provide its preliminary search of the genealogy databases for possible matches,
+       which is investigatory in nature and is not exculpatory or material to Green’s
+       defense. Green has presented no evidence as a part of his motion or supplemental
+                                                                                  who share
+       ﬁlings that tend to show that the persons identiﬁed through GEDmatch
+       DNA with Green can otherwise be linked to the crime he is accused of committing.
+       A mere possibility that the information might help the defense does not establish that
+       this evidence is material.
+
+       While the IGG information was not found to be discoverable in In re: Michael Green, this
+
+Court located three opinions that suggest discovery of such information may, at times, be
+
+appropriate.
+
+    2. State v. Bortree
+
+       State v. Bortree, 2021 WL 3716803, rev'd and remanded on other grounds by State v.
+
+                                                                                  and an attempted
+Bortree, 170 Ohio St. 3d 310, 212 N.E.3d 874 (2022), involved a sexual assault
+
+                                                           at gunpoint and then forced to perform
+aggravated murder. In 1993, the Victim, Anita, was taken
+
+sexual acts on the perpetrator. The perpetrator then cut Anita’s throat and leﬁ her in a ditch. Anita
+
+survived and was able to provide law enforcement with a description of her attacker and his vehicle.
+
+Her clothing was collected for evidence, but at that time “DNA testing was in its infancy” and only
+
+blood-type testing was done. No suspect was identiﬁed.
+
+        In 2015, a suspect DNA proﬁle from the semen/saliva mixture left on Atina’s clothing was
+
+extracted. The DNA proﬁle was submitted to CODIS and matched to another “as-yet unidentiﬁed
+
+assailant.” Without a suspect, law enforcement turned to forensic genetic genealogy (“FGG”). First,
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 11
+a private lab analyzed the DNA and generated an SNP DNA proﬁle. AdvanceDNA then uploaded
+
+the “DNA ﬁle” to GEDmatch.
+
+       After uploading the ﬁle to GEDmatch, AdvanceDNA found a woman who shared
+
+approximately 3% of her DNA with the suspect sample, leading AdvanceDNA
+                                                                                to believe the
+
+
+woman was possibly a second cousin of the unknown suspect. AdvanceDNA then built out a family
+
+tree for the woman using public information on GEDmatch and other public records like marriage
+
+certiﬁcates and birth records. Once its work was completed, AdvanceDNA provided law
+
+enforcement with a “leads summary report” that focused on four brothers.
+
+       Law enforcement began investigating Ralph Bortree, one of the brothers identiﬁed by
+
+AdvanceDNA, because he ﬁt the physical description given by the Anita in 1993, owned a vehicle
+
+that matched the description given by Anita, and lived near Anita when the crime was committed.
+
+Law enforcement collected discarded cigarettes from Bortree. The cigarettes were tested for DNA
+
+and the DNA was consistent with the suspect DNA proﬁle obtained from Anita’s clothing. A
+
+warrant for Bortree’s DNA was then obtained and his DNA matched the DNA on Anita’s clothing.
+
+       Distinguishable from this case, the afﬁdavit for a search warrant of Bortree’s
+                                                                                        home
+
+
+contained a detailed description of the DNA process, including the use of FGG. It is unclear if the
+
+afﬁdavit for a search warrant for Bortree’s DNA also included FGG information.
+
+        Prior to trial, Bortree ﬁled a motion to suppress the testimony of the owner of
+
+AdvanceDNA, Amanda Reno, arguing that 1) the state failed to establish that Reno had complied
+
+with GEDmatch’s terms of service; 2) Reno did not preserve all her research to show how the
+
+Bortree family was identiﬁed as a lead; and 3) Reno relied, in part, upon unveriﬁed family trees
+
+                                                                The trial court denied Bortree’s
+uploaded on public ancestry websites by unknown individuals.
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 12
+motion. At trial, the state called Reno to explain how the FGG process created new leads in Anita’s
+
+case.
+
+           On appeal, Bortree argued the decision denying his motion to suppress was error. The Court
+
+of Appeals of Ohio disagreed, noting that 1) Reno testiﬁed that she had complied with GEDmatch’s
+
+terms of service and there was no evidence to the contrary; 2) Bortree was able to cross-examine
+
+Reno at both the suppression hearing and at trial about the process she used; and 3) it was
+
+inconsequential that Reno used unveriﬁed information from unknown individuals in narrowing the
+
+focus to the Bortree family because “the information provided by AdvanceDNA was merely a tool
+
+to provide leads to law enforcement. Law enforcement was then able to check the vehicles Bortree
+
+owned, etc., to ﬁnd if he would be a good possible suspect.” State v. Bortree, 2021 WL 3716803,
+
+rev'd and remanded on other grounds by State v. Bortree, 170 Ohio St. 3d 310, 212 N.E.3d 874
+
+(2022).
+
+           The Court of Appeals concluded that:
+
+           In this case the trial court found that the evidence did not establish any illegal
+           activity by engaging in forensic genetic genealogy research, and the research did not,
+           in fact, yield any substantive evidence that Bortree had engaged in any criminal
+           activity. Rather, ‘[i]t merely narrowed the focus of law enforcement.’ We agree with
+           the trial court's conclusion that the research merely narrowed the focus of law
+           enforcement, and consequently we can ﬁnd no error with the trial court's
+           determination to allow the testimony related to forensic genetic genealogy in this
+           matter.
+
+Id.
+
+      3.   State v. Burns
+
+           In March 2023, the Supreme Court of Iowa released a decision wherein the facts discuss law
+
+enforcement’s use of IGG. State v. Burns, 988 N.W.2d 352, 357 (Iowa 2023). In 1979 the victim,
+
+Martinko, was murdered. Years passed with no leads. In 2018, law enforcement employed the
+
+services of a private lab, Parabon, to perform “kinship analysis and genetic genealogy” on a suspect
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 13
+DNA proﬁle recovered from the crime scene. Parabon uploaded the DNA proﬁle to GEDmatch.
+
+Based on the information obtained, Parabon directed law enforcement to investigate the descendants
+
+of four sets of great-great grandparents.
+
+          Based on the information for Parabon and further investigation by law enforcement, police
+
+contacted an individual named Janice Burns and obtained her DNA. Parabon determined that the
+
+suspect DNA proﬁle was likely from Janice’s ﬁrst cousin. Janice had three ﬁrst cousins, all
+
+brothers. Police collected DNA from two of the brothers via their trash. The DNA did not match
+
+that of the suspect proﬁle. Police then collected DNA from a straw the third brother, Jerry Bums,
+
+discarded. The DNA on the straw could not be eliminated as the major contributor to the DNA
+
+found at the crime scene. Police then obtained a search warrant for Bum’s DNA, which matched the
+
+suspect sample.
+
+          The opinion does not discuss any discovery issues or suppression issues surrounding the use
+
+of IGG; however, the facts of the case suggest at least some information concerning the IGG was
+
+discovered to Burns such as the private lab used (Parabon), the genetic genealogy service used
+
+(GEDmatch), and how the information obtained led back to Burns (i.e., law enforcement contact
+
+with Janice). Without this information in the record, there would presumably be no mention of it on
+
+appeal.
+
+    4.    State v. Hartman
+
+          The Court of Appeals of Washington recently addressed whether a defendant had standing
+
+to challenge the DNA comparison of DNA collected at a crime scene with DNA in the GEDmatch
+
+database (i.e., the “analysis of the GEDmatch database”). State v. Hartman, 534 P.3d 423, 432
+
+
+(Wash. Ct. App. 2023).
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 14
+        In 1986, 12-year-old MW was raped and murdered. Semen was found on MW’s body, but
+
+over the next 30 years the DNA found did not match any suspect and did not match any proﬁle in
+
+CODIS. In 2017, law enforcement sent the DNA found on MW’s body to a genealogy consultant,
+
+Barbara Rae—Venter, and to a genetic genealogist at Parabon. Both Rae-Venter and Parabon
+
+uploaded the DNA sample to nongovemment consumer DNA databases, including GEDmatch,
+
+FamilyTree DNA, and MyHeritage. Through this, two second cousins of the unknown suspect
+                                                                                                   were
+
+
+identiﬁed. Parabon then used information from GEDmatch and other publicly available sources, like
+
+census records, vital records, social media, and newspaper archives, to build out a family tree.
+
+Parabon also contacted at least one family member to get additional information about the family
+
+tree.
+
+        Based on the IGG work, it was suggested that law enforcement investigate Gary Hartman
+
+and his brother. Police then collected garbage from each brother to test for DNA. The DNA located
+
+on Hartman’s garbage matched that found of MW’s body. A warrant was then obtained for
+
+Hartman’s DNA and that also matched.
+
+        Prior to trial, Hartman moved to suppress Parabon’s analysis and DNA evidence later
+
+collected or analyzed because of Parabon’s IGG work, including the analysis of DNA from
+
+Hartman’s discarded garbage. “Hartman argued that analyzing the consumer databases for ‘the
+
+DNA he shared with his close relatives was a warrantless, suspicionless search by a state actor that
+
+disturbed his private affairs in violation of the state and federal constitutions.” Hartman, 534 P.3d at
+
+429. Hartman “reasoned that the trial court should suppress ‘all evidence obtained’ because of
+
+Parabon’s analysis, including the tests that directly matched his DNA to the killer’s, as fruit of the
+
+poisonous tree.” Id.
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 15
+       The trial court found that Hartman “did not have standing to challenge the analysis of his
+
+relative’s DNA proﬁle, which his relatives volunteered to have analyzed and posted on an open—
+
+source, unrestricted website. The court concluded that Hartman did not have dominion or control
+
+over the item seized (his relative’s raw data DNA) nor the public database where the DNA proﬁles
+
+were compared (GEDmatch). Hartman had no authority to exclude others from accessing his
+
+relatives’ DNA proﬁles on GEDmatch.” Id. at 430 (internal quotation marks omitted). Further, the
+
+court found that “Hartman failed to show that the State intruded on his private affairs because any
+
+individual or entity could have directly accessed this voluntarily published and public information.
+
+Thus, Hartman had no standing to challenge the comparison with his relatives’ DNA proﬁles in the
+
+GEDmatch database. As a result, the tn'al court ruled that the State did not need a search warrant or
+
+court order to access GEDmatch due to the public and unrestricted availability of the GEDmatch
+
+data.” Id. Hartman was convicted of ﬁrst-degree murder after a bench trial. He then appealed the
+
+trial court’s ruling on his suppression motion.
+
+        Notably, Hartman did not assert a Fourth Amendment violation, only a violation of
+
+                                                                                      Amendment.
+Washington State’s constitution, which provides greater protections than the Fourth
+
+On appeal, Hartman asserted that he had “a reasonable expectation of privacy in the segments of his
+
+DNA that he had in common with relatives that those relatives voluntarily uploaded to GEDmatch.”
+
+Id. at 431. The Court of Appeals stated that “without the GEDmatch analysis, there would not have
+
+been a later warrant for Hartman’s DNA — just as there was not for the preceding three decades. It is
+
+                                                                     to any source. Thus, if the trial
+undisputed that Hartman never supplied a DNA sample voluntarily
+
+court had concluded that the GEDmatch investigation was unconstitutional, it would have inevitably
+
+                                                                  tree. . . . In sum, if Hartman is
+suppressed the other DNA evidence as the fruit of the poisonous
+
+successful in his challenge to the GEDmatch comparison, the later DNA comparisons of Hartman’s
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - l6
+DNA to the crime scene DNA would also be excluded because they would not have occurred absent
+
+the alleged [constitutional violation].” Id.
+
+        The Court concluded that “there is [no] privacy interest in common DNA that a relative has
+
+voluntarily uploaded to a public database.” Id. at 437. Thus, Hartman did not have a valid privacy
+
+interest in the segments of his DNA that he had in common with his cousins when his cousins
+
+
+voluntarily posted the genetic information on a public website. Therefore, Parabon’s investigation
+
+of GEDmatch’s database did not violate Washington’s constitution because it did not disturb
+
+Hartman’s private affairs. “Because there was no intrusion on Hartman’s private affairs, he had no
+
+standing to challenge the DNA comparison of DNA collected at the crime scene
+                                                                                     with the
+
+GEDmatch database.” Id. at 437—43 8.
+
+        While the case does not include speciﬁc information about what information was contained
+
+in the search warrant for Hartman’s DNA or what evidence the State intended to use at trial, it is
+
+clear that Hartman was provided discovery on the genetic genealogy investigation and prepared a
+
+suppression motion as a result of that information.
+
+                                               V. ANALYSIS
+
+        In Idaho, “Idaho Criminal Rule 16 governs discovery in criminal proceedings.” State v. Ish,
+
+166 Idaho 492, 510, 461 P.3d 774, 792 (2020). “Supervision of discovery is a discretionary power
+
+of the trial court. Trial courts have broad discretion . . . in determining whether or not to grant a
+
+motion to compel.” State v. Pendleton, No. 50078, 2023 WL 6133219, at *4 (Idaho Sept. 20, 2023).
+
+While “[d]ue process requires all material exculpatory evidence known to the State or in its
+
+                                                                                        that the
+possession be disclosed to the defendant,” “[t]here is no constitutional requirement
+
+                                                           defense of all police investigatory work on a
+prosecutor make a complete and detailed accounting to
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 17
+case.” Dunlap v. State, 141 Idaho 50, 64, 106 P.3d 376, 390 (2004) (citations and quotation marks
+
+omitted).
+
+         The State’s argument is that 1) the IGG information is not discoverable under Idaho
+
+Criminal Rule 16, and 2) if the information is discoverable, good cause exists for the Court to issue
+
+a protective order denying discovery of the IGG information. State’s Resp. to Def.’s Third Mot. to
+
+
+Compel Discovery at 2. “If the Court ﬁnds that the IGG information is relevant to guilt or
+
+punishment, the State is simply asking for an opportunity to provide additional information to the
+
+Court in camera, so the Court can decide whether the information the State seeks to protect contains
+
+exculpatory information.” Reply in Supp. of Mot. for Protective Order at 8.
+
+         The defense argues that the IGG information it seeks “falls within the ambit of Rule
+
+16(b)(4) and (5),” and that Kohberger “has a right to discover and question the investigation that led
+
+to him.” Objection to State’s Mot. for Protective Order at 3, 7.
+
+    1.   Rule 16(b)(4): Material to the preparation of the defense
+
+         In support of its argument that the IGG information is not discoverable, the State argues
+
+that “the IGG information is not material to the preparation of the defense” because “Defendant
+
+is charged with killing four people, not with being related to a particular person. The mere fact
+
+that uploading the completed SNP proﬁle into a publicly available genetic genealogy service led
+
+law enforcement to relatives of Defendant does not affect the strength of the evidence against
+
+him.” Mot. for Protective Order at 10-11. “The family tree built by the FBI merely pointed law
+
+enforcement to Defendant, and law enforcement followed that lead to develop the substantive
+
+evidence of guilt that was used for his arrest and that will be used at trial.” Reply in Supp. of
+
+Mot. for Protective Order at 7. The State contends that the only relevant DNA evidence is the
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 18
+DNA found on the knife sheath and the DNA taken directly from Kohberger because those DNA
+
+proﬁles can be directly compared, and, according to the State, matched.
+
+        The defense argues that the IGG information sought is material to the preparation of the
+
+defense because the defense must have an opportunity to challenge “how the IGG proﬁle was
+
+created and how many other people the FBI chose to ignore during their investigation.”
+
+Objection to State’s Mot. for Protective Order at 4. “The possibility of other relatives who might
+
+be similar to Mr. Kohberger is extremely important to the Defense in this case. The processes
+
+used in this method of identiﬁcation may be extremely important to Mr. Kohberger’s defense.
+
+The timing and steps utilized are extremely important to Mr. Kohberger’s case investigation and
+
+defense.” Decl. of Anne C. Taylor in Supp. of 3rd Mot. to Compel at 3. Additionally, the
+
+“defense team has discussed the use of statistics in this type of case with experts who have
+
+informed [defense counsel] that the manner of identifying Mr. Kohberger via this type of search
+
+may have signiﬁcant impacts on the statistical analysis of the CODIS proﬁle generated by the
+
+Idaho State Police Lab. Without access to the actual genetic genealogy search methods and
+
+results, it is impossible for qualiﬁed experts to address these issues.” Id. at 4.
+
+        Idaho Criminal Rule 16(b)(4) requires that on written request of the defendant, the
+
+prosecuting attorney must produce information that is “material to the preparation of the
+
+defense.”
+
+        As the Idaho Supreme Court recently explained,
+
+        Materiality in this context has not been deﬁned by the Idaho Criminal Rules, nor
+        by Idaho's case law. However, the Federal Rules of Criminal Procedure provide a
+        similar right to the defendant for the discovery of documents that are “material to
+        preparing the defense.” Fed. R. Crim. P. 16(a)(1)(E). Where a federal rule is
+        identical in material respects to an analogous Idaho rule, this Court may look to
+        decisions on the scope of the federal rule for guidance on interpreting our Idaho
+        rule.
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 19
+Pendleton, No. 50078, 2023 WL 6133219, at *5.
+
+       Federal court decisions have described “materiality” as follows:
+
+        ‘[M]ateriality’ is a low threshold    satisﬁed so long as the information     would
+       have helped to prepare a defense. To show materiality     under the federal rules the
+       defendant must demonstrate that the requested evidence bears some abstract
+       logical relationship to the issues in the case.     There must be some indication
+       that the pretrial disclosure of the disputed evidence would [enable] the defendant
+       significantly t0 alter the quantum 0fproof in his favor. The evidence is material as
+                                                                                    role in
+       long as there is a strong indication that it will play an important
+       uncovering admissible evidence, aiding witness preparation, corroborating
+       testimony, or assisting impeachment or rebuttal.
+
+Id. at *6 (internal citations and quotation marks omitted) (emphasis added).
+
+                                                                                            to show
+       Kohberger has presented enough evidence to meet the “low threshold” required
+
+at least some of the IGG information sought is material to the preparation of the defense.
+
+
+       First, the defense presented the Declaration of Bicka Barlow as well as testimony from
+
+Barlow at the August 18, 2023, hearing. Barlow is a licensed attorney in California who also has
+
+a B.S. in Genetics, an M.S. in Developmental Genetics, and a minor in Cellular Biology, and has
+
+worked on numerous DNA cases. Barlow opined that “[i]t is imperative to the defense in this
+
+case to know how Mr. Kohberger was identiﬁed and who else in his family tree might have been
+
+identiﬁed as a subject of investigation. . . . it is unknown to the defense in this case, whether
+
+                                                                                                    It is
+every lead or possible suspect was further investigated and ruled out by genetic testing.
+                                                                                            . . .
+
+
+
+
+not possible for any defendant to investigate family relatives who are unknown to him and may
+
+in fact have been in the area of the crime.” Decl. of Barlow at 6-7. Essentially, the defense would
+
+like to know whose DNA matched the suspect SNP DNA proﬁle uploaded to the genetic
+
+                                                                        tree. The defense could then
+genealogy service(s) and who else was then identiﬁed on the family
+
+investigate individuals who share DNA with Kohberger: to determine
+                                                                          if these individuals were
+
+around the King Road residence at the time of the murders and if law enforcement obtained these
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 20
+individuals’ DNA and tested it against the DNA found on the knife sheath. The defense seeks
+
+this information to determine whether Kohberger was or is the sole suspect.
+
+       Next, Barlow asserts that “an IGG search can impact the statistical rarity of a proﬁle in a
+
+manner similar to a cold hit search, meaning that the statistic that is generated by an analysis of a
+
+IGG search could yield a relevant and admissible statistic. . . . Research in the area of the impact
+
+of an IGG search on the statistical weight of a DNA comparison, using standard STR DNA
+                                                                                          a defense
+proﬁles, is ongoing.” Id. This idea was also echoed by defense expert Stephen Mercer,
+
+attorney with experience litigating DNA cases including work on two
+                                                                         IGG matters. Mercer
+
+testiﬁed that an SNP proﬁle can shed light on the reliability of an STR proﬁle, but ﬁrst one needs
+
+to know how the SNP proﬁle was obtained, the lab process, the family tree, and who on the
+
+
+family tree was not tested for STR purposes. Essentially, according to Barlow
+                                                                                 and Mercer, the
+
+
+SNP proﬁle and the information gathered from it can be used to attack the rarity and reliability of
+
+the STR proﬁle, which the State will present at trial. This information would potentially
+
+
+challenge the State’s statistic, based on the STR analysis, that “the comparison [between
+
+                                                                             match — speciﬁcally,
+Kohberger’s DNA and the DNA on the knife sheath] showed a statistical
+
+the STR proﬁle is at least 5.37 octillion times more likely to be seen if Defendant is the source
+
+than if an unrelated individual randomly selected from the general population is the source.”
+
+Mot. for Protective Oder at 5-6.
+
+                                                                                             the
+        Additionally, like in Hartman and Bortree, it is plausible that Kohberger may use
+
+IGG information obtained in discovery to challenge the admissibility of other evidence. While
+
+such a challenge seems futile since the IGG information was not used to obtain the search
+
+warrant for Kohberger’s DNA and will not be presented at trial by the State, the Court cannot say
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 21
+with cenainty that the defense team could not make a succeseful challenge if given the
+
+information they seek.
+
+       At least some of the IGG information the defense requests “bears some abstract logical
+
+relationship to the issues in the case,” and, based on the defense experts and the limited case
+                                                                                                  law
+
+on the use 0f IGG, there is “some indication that the pretrial disclosure of the disputed evidence
+
+would [enable] the defendant signiﬁcantly to alter the quantum of proof in his favor.” Pendleton,
+
+No. 50078, 2023 WL 6133219, at *6. The Court cannot say that the material sought will not
+
+“play an important role in uncovering admissible evidence, aiding witness preparation,
+
+corroborating testimony, or assisting impeachment or rebuttal.” Id. For
+                                                                           these reasons, Kohberger
+
+
+has met the “low threshold” required to show at least some of the IGG information is material to
+
+the preparation of the defense.
+
+    2. Rule 16(b)(5): Scientiﬁc tests or experiments
+
+        The State also argues that “the family tree created by the FBI [and notes made by the FBI
+
+                                                                              ‘results or reports’ of
+during the genealogy investigation] cannot accurately be described as the
+
+‘scientiﬁc tests or experiments’ and falls outside of Rule l6(b)(5).” Mot. for Protective Order at
+
+15. Rule l6(b)(5) “does not require the State to disclose what investigators do with the results or
+
+
+reports from scientiﬁc experiments.” Reply in Supp. of
+                                                           Mot. for Protective Order at 4. According
+
+to the State, the rule only requires the disclosure of the results or reports themselves, in this case
+
+the STR DNA proﬁle and the SNP DNA proﬁle created from the Ka-Bar knife.
+
+        Rule l6(b)(5) requires the following:
+
+                                                                          must permit the
+        [o]n written request of the defendant, the prosecuting attorney
+        defendant to inspect and copy any results or reports of physical or mental
+        examinations, and of scientiﬁc tests or experiments, made in connection with the
+        particular case, that are in the possession, custody or control of the prosecuting
+        attorney or the existence of which is known or is available to
+                                                                           the prosecuting
+        attorney by the exercise of due diligence.
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 22
+(emphasis added).
+
+       It is undisputed that the SNP proﬁle itself is the result of a scientiﬁc test done on
+
+evidence in the case. Thus, the question becomes is the family tree and notes related to building
+
+the family tree results or reports of scientiﬁc tests or experiments made in connection with the
+
+case. Arguably, although computer generated, the comparison of the suspect’s SNP proﬁle to
+
+other SNP proﬁles uploaded by individuals to genealogy services like GEDmatch is a scientiﬁc
+
+
+process. “SNP data can also reveal whether users share segments
+                                                                    of their genome with other
+
+users, predicting relatedness through a common ancestor. This works by analyzing
+                                                                                        the
+
+
+percentage of overlapping bits of genetic code, so—called
+                                                            ‘identical by descent’ sections, that one
+
+shares with relatives.” Teneille R. Brown, JD, Why We Fear Genetic Informants: Using Genetic
+
+Genealogy to Catch Serial Killers, 21 Colum. Sci. & Tech. L. Rev. l, 12 (2019).
+                                                                                      “FGG employs
+
+the GEDmatch algorithm to ﬁnd a percentage of shared genetic material, which in turn predicts
+
+                                                                                  what SNP proﬁles
+relationship.” Id. at 36. Thus, the results from that comparison process, i.e.,
+
+matched with the suspect’s SNP proﬁle, are results of scientiﬁc tests made in connection with the
+
+case that must be disclosed to Defendant. These results would not encompass the whole family
+
+tree that was likely built using publicly available sources or notes taken by agents working on the
+
+
+investigation. But these results would include the list of SNP proﬁles generated
+                                                                                     from the
+
+                                                                       and the percentage of DNA
+genealogy service(s) that connected with the suspect’s SNP proﬁle
+
+those profiles shared with the suspect proﬁle.
+
+    3. Rule 16(b)(8): Police Reports
+
+        The State argues “the records related to IGG” do not ﬁt the description of police “reports
+
+or memoranda.” Reply in Supp. of Mot. for Protective Order at 5. The State further argues that
+
+                                                                                          to records
+“[e]ven if the records constituted reports or memoranda, this subsection only applies
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 23
+‘in the possession of the prosecuting attorney,’ I.C.R. 16(b)(8), and the State does not possess the
+
+FBI’s records related to IGG.” Id. at 6. Again, the State acknowledges that the FBI has “the
+
+family tree itself, notes jotted down by FBI agents as they constructed the family tree, and any
+
+records created to document the removal of the SNP proﬁle from the genetic genealogy
+
+service(s) pursuant to the DOJ Policy.” Mot. for Protective Order at 6.
+
+       Rule 16(b)(8) requires that “[o]n written request of the defendant, the prosecuting
+
+attorney must furnish to the defendant reports and memoranda in possession
+                                                                                  of the prosecuting
+
+                                                                              with the investigation or
+attorney that were made by a police ofﬁcer or investigator in connection
+
+prosecution of the case.” (emphasis added).
+
+       Black’s Law Dictionary deﬁnes “report” as “[a] formal oral or written presentation of
+
+facts or a recommendation for action.” REPORT, Black's Law Dictionary (11th ed. 2019).
+
+“Memorandum” is deﬁned as “[a]n informal written communication used esp. in ofﬁces.”
+
+MEMORANDUM, Black's Law Dictionary (11th ed. 2019). Given the broad deﬁnitions of
+
+“report” and “memorandum,” the family tree and notes taken by
+                                                                    FBI agents during their
+
+                                                                             a police ofﬁcer or
+investigation arguably qualify as “reports and memoranda . . . made by
+
+investigator in connection with the investigation . . . of the case.”
+                                                                        The same would be true of any
+
+                                                         that developed the SNP proﬁle from the
+reports or memoranda made by the private laboratory
+
+DNA on the Ka-Bar knife sheath and started using genetic genealogy to develop a family tree
+
+since the lab employees were working as investigators in connection with the investigation of the
+
+case. However, without ﬁrst viewing the IGG material, the Court cannot say with certainty what
+
+does and what does not fall within the scope of Rule 16(b)(8).
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 24
+   4. Possession, custody, or control of the prosecuting attorney
+
+        As noted above, the State argued in its reply that information in possession of the FBI is
+
+not Within the “possession of the prosecuting attorney.” In a footnote in its Motion for Protective
+
+Order, the State made the same argument: “Even if the notes jotted down by the FBI agents or
+
+the family tree constituted reports or memoranda, as explained above, those records are not ‘in
+
+the possession of the prosecuting attomey.’” Mot. for Protective Order at 15. The State echoed
+
+this argument on August 18, 2023, asserting that the State and the Court had no authority to
+
+                                                                  to its investigative work on this
+require the FBI to turn over the materials it possesses related
+
+case.
+
+        Rule 16(b)(4) and Rule 16(b)(5) require discovery of materials “that are in the
+
+                                                                           Rule 16(b)(8) only
+possession, custody or control of the prosecuting attorney.” Similarly,
+
+requires disclosure of reports or memoranda within the “possession
+                                                                         of the prosecuting attorney.”
+
+Rule 16(b)(5) further requires disclosure of material if “the existence of which is known or is
+
+available to the prosecuting attorney by the exercise of due diligence.”
+
+        In interpreting “in the possession, custody or control of the prosecuting attorney,” the
+
+Idaho Supreme Court recently held that “if a law enforcement agency is involved in the
+
+                                                                    are material to that defendant's
+prosecution of a defendant, then that agency's records—which
+
+                                                                        or control of the prosecutor.
+guilt or innocence—are effectively within the possession, custody,
+
+While the prosecutor is not required to comb the ﬁles of every        agency, the prosecutor's
+
+possession, custody, or control of the evidence may be presumed
+                                                                       if the agency participates in the
+                                                                                    relevant and
+investigation of the defendant. Or . . . the investigating police agency holding
+
+material evidence acts as an ‘arm of the prosecution’ for the purposes of criminal discovery
+
+statutes.” Pendleton, No. 50078, 2023 WL 6133219, at *11.
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 25
+         Here, the FBI was working in conjunction with the Moscow Police Department and the
+
+Idaho State Police to investigate the homicides. From the Court’s understanding, the FBI set up a
+
+public tip line, conducted the IGG analysis, identiﬁed the suspect car as a 2011-2016 Hyundai
+
+Elantra, and possibly aided in interviewing witnesses outside of Idaho. The FBI was indeed a law
+
+enforcement agency acting as an arm of the prosecution to investigate this case. Thus, the FBI’s
+
+records pertaining to its work on this case are records within the possession, custody, or control
+
+of the prosecutor for the purposes of discovery. But see Professor Matthew Steffey, Mississippi
+
+Criminal Procedure: Proposed Rules and Comments, 31 Miss. C. L. Rev. 1, 118 (2013)
+
+(discussing Mississippi Criminal Rule 17.2(e), which discusses the prosecuting attorney’s
+
+disclosure obligations under Rule 17.2 that is like Rule 16. “The prosecuting attorney is not
+
+                                                               and material held by federal law
+generally deemed responsible for disclosure of information
+
+enforcement agencies”).
+
+    5. Disclosure by Order of the Court 16(b)(10)
+
+         Rule 16 also contains a broad provision allowing for the disclosure of material by court
+
+order:
+
+         On motion of the defendant showing substantial need in the preparation of the
+                                                                     otherwise covered by
+         defendant's case for additional material or information not
+         this Rule, and that the defendant is unable without undue hardship to obtain the
+         substantial equivalent by other means, the court may order the additional material
+         or information to be made available to the defendant. The court may, on the
+                                                                  or modify the order if
+         request of any person affected by the order, vacate
+         compliance would be unreasonable or oppressive.
+
+I.C.R. 16(b)(10) (emphasis added).
+
+         There is limited case law in Idaho discussing what constitutes a “substantial need in the
+
+preparation of the defendant’s case.” However, in State
+                                                          v.   Foldesi, an unpublished opinion from
+the Idaho Court of Appeal, Foldesi ﬁled a motion pursuant to Rule 16(b)(8), now Rule 16(b)(10),
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 26
+to obtain a copy of the Boise drug task force unit’s policies and procedures. State v.   Foldesi, No.
+
+34519, 2009 WL 9146255, at *2 (Idaho Ct. App. Feb. 6, 2009), Foldesi was charged with
+
+delivery of a controlled substance after a detective with the Boise drug task force purchased
+
+                                                                                         informant.
+methamphetamine from Foldesi as part of a controlled buy set up by a conﬁdential
+
+Foldesi’s lawyer explained he needed the information sought so that he could “cross-examine,
+
+                                                                                                  that
+intelligently, the ofﬁcer that was involved” in Foldesi’s case. Defense counsel further argued
+
+a violation of the task force’s policies and procedures could “go to the alibi defense.” The district
+
+court held that Foldesi had not shown a substantial need for the policies and denied his request
+
+for disclosure. During trial, Foldesi’s lawyer was able to cross-examine the ofﬁcers about what
+
+                                                                           and was able to establish
+policies and procedures were in place at the time of the controlled buy
+
+that they were not “followed verbatim.” Nonetheless, a jury found Foldesi guilty.
+
+        On appeal, the Court of Appeals held that “even if we assume, without deciding, that the
+
+district court abused its discretion in determining not to compel production of the information
+
+                                                                  was harmless.” State v. Foldest,
+sought in advance of the trial, we also conclude that the error
+
+No. 34519, 2009 WL 9146255, at *3 (Idaho Ct. App. Feb. 6, 2009). “Because Foldesi was able
+
+to demonstrate the ofﬁcers' noncompliance with their policies and procedure by cross-
+
+examination of the ofﬁcers during the trial, we conclude that he has not shown prejudice from
+
+the district court's ruling not to compel production of the policies and procedures before the
+
+trial.” Id.
+
+         Here, the State has made clear that it does not intend to produce any evidence or witness
+
+testimony at trial regarding the IGG information. Thus, unlike in Foldest, Kohberger
+                                                                                           will not
+
+have the opportunity to cross-examine anyone involved in the IGG investigation to challenge
+
+anything done during or learned from the IGG investigation.
+                                                                  For the reasons articulated above in
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 27
+discussing Rule 16(b)(4), Kohberger has established there is “substantial need” for at least some
+
+of the IGG information sought so that he can potentially challenge various parts of the State’s
+
+case against him. Although it is feasible that with the SNP proﬁle the defense may be able to
+
+conduct their own IGG investigation and learn what the State learned, such work would be time
+
+consuming and expensive and would constitute an undue hardship on the defense.
+
+   6. Rule 16(g)(2): Informants
+
+          The State argues that the genetic genealogy service(s) and the individuals related to
+
+                                                                                          identities
+Kohberger whose proﬁles matched Defendant’s SNP proﬁle are “informants” whose
+
+are protected from disclosure under Idaho Criminal Rule 16(g)(2) and Idaho Rule of Evidence
+
+
+509(a).
+
+          “Disclosure must not be required of an informant's identity unless the informant is to be
+
+                                                                         order under subsection (1) of
+produced as a witness at a hearing or trial, subject to any protective
+
+this rule or a disclosure order under subsection (b)(6) of this rule.” I.C.R. 16(g)(2).
+
+          It is well settled that an inforrner's identity need not always be disclosed in a
+          criminal trial nor in a preliminary proceeding to determine probable cause for an
+          arrest or a search. The nondisclosure policy exists to preserve anonymity and to
+          encourage citizens to communicate their knowledge of crime to law
+                                                                                  enforcement
+          ofﬁcials. However, the extent of informer privilege is not absolute and must give
+          way [w]here the disclosure of an inforrner's identity, or of the contents of
+                                                                                             his
+          communication, is relevant and helpful to the defense of the accused,           or  is
+          essential to a fair determination of cause. The decision to require disclosure of the
+          conﬁdential inforrner's identity is left to the discretion of the trial court. To
+          determine the extent of the informer privilege, the trial court must conduct an in
+          camera examination of the evidence pursuant to I.R.E. 509. Idaho Rule of
+          Evidence 509(c)(3) provides that in a criminal trial where the State invokes the
+                                                                                    relevant to
+          privilege, if it appears “that an informer may be able to give testimony
+          any issue in a criminal case the court shall give the public entity the opportunity
+          to show in camera facts relevant to determining whether the informer, can, in fact,
+          supply that testimony.”
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 28
+         The in camera hearing provides the trial court with an opportunity to determine
+         the nature and extent of the beneﬁt to the defendant from disclosure of a
+         conﬁdential informer's identity; it is desirable and proper to hold such a hearing
+         before ordering or denying disclosure. The decision whether to hold an in camera
+         hearing is discretionary and shall not be disturbed on appeal absent a clear
+         showing of abuse. The subsequent decision whether to require disclosure of the
+         identity of the conﬁdential informer is also left to the discretion of the trial court.
+
+State v. Hosey, 132 Idaho 117, 119, 968 P.2d 212, 214 (1998) (emphasis added).
+
+         While the individuals whose DNA matched with the suspect SNP DNA proﬁle are not
+
+informants in the traditional sense, the Court understands the State’s desire to protect the
+
+individuals from unnecessary exposure, who likely do not even know their DNA was used in this
+
+case. An in camera review of the family tree and other information used in the IGG investigation
+
+will help the Court better determine the beneﬁt to Kohberger’s defense in this case from
+
+disclosure of the identities of these individuals, which in turn will help the Court to put in place
+
+the appropriate protective orders.
+
+    7.   Rule 16(1): Protective Order
+
+         The State argues that good cause exists for the issuance of a protective order barring even
+
+the defense from seeing or knowing the information “to protect hundreds of innocent civilians
+
+from having their personal information, including their names, birthdates, and familial
+
+connections to the defendant in a high-proﬁle quadruple homicide from being disclosed. The
+
+disclosure of the IGG information risks harm not only to these indirect informants but also to the
+
+genetic genealogy service(s) used by the FBI and the IGG investigative technique.” Further,
+                                                                                                   the
+
+
+State contends that if the court requires disclosure of the IGG information, both the genetic
+
+                                                                              to make their
+genealogy services and customers of those services would be less likely
+
+information available for law enforcement use.
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 29
+       “At any time the court may, for good cause, deny, restrict, or defer discovery or
+
+inspection, or grant other appropriate relief. The court may permit a party to show good cause by
+
+a written statement that the court will inspect ex parte. If relief is granted, the court must preserve
+
+and seal the entire text of the party’s statement.” I.C.R. 16(1).
+
+        While the Court has determined the discovery of at least some of the IGG information in
+
+the FBI’s possession is warranted under Rule 16, the Court, as discussed above, will conduct an
+
+in camera review of the information to better understand the information and more precisely
+
+determine what exactly needs to be turned over and the scope of any protective orders that are
+
+necessary.
+
+                                           VI. CONCLUSION
+
+        For the reasons articulated above, the Court ﬁnds that Kohberger has made the requisite
+
+showing that at least some of the sought—after evidence 1) is “material to the preparation
+                                                                                                of the
+
+defense,” I.C.R. 16(b)(4); 2) encompasses “results or reports . . . of scientiﬁc tests or
+
+                                                                            include “reports and
+experiments” made in connection with the case, I.C.R. 16(b)(5); 3) may
+
+memoranda . . . that were made by a police ofﬁcer or investigator in connection with the
+
+investigation,” I.C.R. 16(b)(8)(2); and 4) may be of “substantial need in the preparation
+                                                                                                of the
+
+defendant’s case.”
+
+        However, the Court understands the State’s concerns with the identities of unknown
+
+relatives being made public and acknowledges the need for the issuance of protective orders. The
+
+State’s argument that the IGG investigation is wholly irrelevant since it was not used in obtaining
+
+                                                                                            is entitled to
+any warrants and will not be used at trial is well supported. Nonetheless, Kohberger
+
+view at least some of the IGG information in preparing his defense even if it may ultimately be
+
+found to be irrelevant. In balancing these interests, the Court will conduct an in camera review of
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 30
+all the IGG information in the possession, custody, or control of the State, including the FBI, to
+
+determine precisely what needs to be disclosed and what does not need to be disclosed, and issue
+
+any protective orders necessary.
+
+       so ORDERED this      2  I’r‘u
+                                   day of October
+
+                                                    zozwA/MV
+                                                      Jo C. Judge
+                                                      Dis 'ctJudge
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 31
+                                    CERTIFICATE OF SERVICE
+
+  I certify that copies of the Order Addressing IGG DNA and Order for In Camera Review were
+delivered by email to:
+
+          William W. Thompson, Jr., and Ashley S. Jennings
+          Latah County Prosecuting Attorney
+          Paservicefcblatahidus
+
+          Jeffery Nye
+          Deputy Attorney General
+          Jeff.nye@ag.idaho.gov
+
+          Ingrid Batey
+          Deputy Attorney General
+          Ingrid.batev@ag.idaho.gov
+
+          Anne C. Taylor and Jay Logsdon
+          Attorney for Defendant
+          pdfax@kcgov.us
+
+          Elisa C. Massoth
+          Attorney for Defendant
+          emassothﬁlkmrsnet
+
+
+
+
+               W
+on this    gé day of October 2023.
+                                                     County Clerk of the Court
+
+                                                     By:           '\
+
+                                                           Deputy Clerk
+
+
+
+
+ORDER ADDRESSING IGG DNA
+AND ORDER FOR IN CAMERA REVIEW - 32
+

@@ -1,0 +1,47 @@
+07/08/25                     Moscow Police Department                        1272
+11:36                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number    186                Date   11:25:13 04/13/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+ATT Extended Warrant
+
+Case # 23-M09903
+Date: 4/13/2023
+
+On March 29, 2023, I applied for a warrant for the Call Data Records for M
+Mogen               and Xana Kernodle               between the time period of:
+June 23, 2022, to August 1, 2022.
+A previous warrant requested the date range "August 1, 2022 to present." Based
+on information obtained from Washington State University, Bryan Kohberger moved
+to the Pullman, Washington on or about June 23, 2022. I requested both
+historical records and real time/provisional records in order to determine if
+Kohberger had any interactions with the victims leading up to the November 13,
+2022 crime.
+On March 30, 2023, the warrant was granted and signed by Magistrate Megan
+Marshal with fourteen (14) days to serve the legal process. On April 3, 2023, at
+approximately 0912 hours, the warrant was served via email (    @att.com). I
+received an email shortly after the submission, confirming the receipt of the
+request.
+On April 12, 2023, I received an email from AT&T with the data requested
+pursuant to the warrant was available to download. On April 13, 2023, I
+downloaded the files to the
+forensic computers located in the secure forensic computer lab at the Moscow
+Police Department.
+A copy of the data was provided to the FBI CAST Team for analysis.
+A warrant return receipt and affidavit were completed and these documents were
+sent to the Latah County Prosecutor's Office to be returned to the court. A copy
+of the receipt was sent to AT&T Global Legal Demand Center (        @att.com),
+as this was the originating email address associated with the documents.
+Det. Lawrence Mowery - 162
+Thu Apr 13 11:25:21 PDT 2023
+
+REVIEWED-Thu Apr 13 12:30:44 PDT 2023
+CPL Payne #157
+

@@ -1,0 +1,359 @@
+                                                                               Electronically Filed
+                                                                               3/24/2025 2:32 PM
+                                                                               Fourth Judicial District, Ada County
+                                                                               Trent Tripple, Clerk of the Court
+                                                                               By: Jennifer Keyes, Deputy Clerk
+
+
+LATAH COUNTY PROSECUTOR’S OFFICE
+WILLIAM W. THOMPSON, JR.,
+PROSECUTING ATTORNEY, ISB No. 2613
+MADISON ALLEN, ISB. No. 11501
+SPECIAL ASSISTANT ATTORNEY GENERAL
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+
+       IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+
+STATE OF IDAHO,
+           Plaintiff,
+                                                          Case No. CR01-24-31665
+V.
+                                                          STATE’S RESPONSE TO
+BRYAN CHRISTOPHER KOHBERGER,                              DEFENDANT’S MOTION TO
+          Defendant.                                      ADOPT VOIR DIRE PROCEDURE
+                                                          AND OBJECTION TO “MAGIC
+                                                          QUESTION”
+
+
+       COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney,
+
+and responds to Defendant’s Motion to Adopt Voir Dire Procedure and Objection to “Magic
+
+Question.” To the extent that Defendant is simply requesting that this Court follow the law and
+
+appropriately exercise its discretion, the State does not object. But as set forth more fully below,
+
+the State objects to some of the requests to the extent that they exceed what is required by law.
+
+                                        INTRODUCTION
+
+       Defendant makes five requests of this Court. First, the Defendant asks the Court for a
+
+
+STATE’S RESPONSE TO DEFENDANT’S VOIR DIRE MOTION                                                        1
+“significant opportunity to voir dire proposed jurors.” Second, the Defendant asks that he be
+
+permitted to determine through voir dire whether each prospective juror understands mitigation.
+
+Third, Defendant asks the Court to exercise diligence in denying improper Witherspoon
+
+challenges. Fourth, Defendant asks this Court to find that rehabilitation of disqualified jurors via
+
+the “magic question” violates the Defendant’s rights. And finally, the Defendant asks that voir dire
+
+be conducted individually and sequestered, after the juror questionnaire process.
+
+                                           ARGUMENT
+
+       1. The State does not object to the general proposition that Defendant ought to be
+          afforded adequate opportunity to voir dire proposed jurors; however, the State
+          reserves the right to object to specific lines of inquiry that may arise
+
+       Defendant argues that he should be afforded a “significant” opportunity to voir dire
+
+prospective jurors and goes on to argue that adequate voir dire is essential, and that the Court
+
+should not restrict voir dire questioning on the topic of the death penalty to “yes or no” questions.
+
+The State takes no issue with the Defendant’s general argument that adequate voir dire is essential,
+
+and that thorough questioning of prospective jurors ought to be afforded. Under well-settled
+
+precedent, defendants are entitled to question potential jurors about their ability to consider the
+
+death penalty as part of ensuring that an impartial jury be seated. Witherspoon v. Illinois, 391 U.S.
+
+510, 88 S.Ct. 1770 (1968).
+
+       As to Defendant’s argument that the Court should not restrict prospective jurors’ answers
+
+to a yes or no, the State also does not object. However, to the extent that Defendant’s request for
+
+“significant” voir dire goes beyond the requirements set forth in the case law, the State objects. In
+
+State v. Dunlap, a defendant appealed a trial judge’s decision to only allow five minutes for
+
+individual voir dire for sentencing phase of a death penalty case.155 Idaho 345, 363, 313 P.3d 1,
+
+19 (2013). The defendant argued that the five-minute time limit violated his right to a fair and
+
+
+
+STATE’S RESPONSE TO DEFENDANT’S VOIR DIRE MOTION                                                   2
+impartial jury. Id. In that case, the trial court had initially ruled that there would be no individual
+
+voir dire at all after considering “the comprehensive nature of the jury questionnaire and the court’s
+
+belief that the parties’ opportunity to ask follow-up questions of individual jurors based upon their
+
+responses to questions directed to the panel during general voir dire was sufficient to select an
+
+unbiased jury.” Id. at 364, 313 P.3d at 20. However, the court eventually decided to allow a five-
+
+minute individual voir dire of each of the jurors. The Idaho Supreme Court held that the trial court
+
+acted within its discretion and that Dunlap had failed to demonstrate error. The State recognizes
+
+that Dunlap addressed only the sentencing phase and is not asking this Court to restrict voir dire
+
+to a literal five minutes. Rather, Dunlap highlights the Court’s ability to utilize its discretion. Thus,
+
+recognizing the Court’s authority to supervise voir dire “subject such limitations as the court may
+
+order,” the State would respectfully submit that specific objections to the finer points of
+
+questioning of specific jurors are better addressed during the voir dire process itself. Idaho
+
+Criminal Rule 24(b).
+
+        2. The State does not object to mitigation being addressed in voir dire
+
+        Defendant argues that the defense must be permitted to determine through voir dire whether
+
+the prospective jurors understand mitigation and asks the Court to permit the Defendant to examine
+
+the issue of mitigation in a meaningful way with prospective jurors. To the extent that the
+
+Defendant is merely asking this Court to follow established precedent, the State does not object.
+
+As the Idaho Supreme Court explained in Dunlap v. State:
+
+        The United States Supreme Court has explained that when the state’s capital
+        punishment scheme requires the jury to weigh and consider mitigating evidence,
+        any juror who states that he or she will automatically vote for the death penalty
+        without regard to the mitigating evidence is announcing an intention not to follow
+        the instructions to consider mitigating evidence. Thus, jurors who deem mitigating
+        evidence to be irrelevant to their decision to impose the death penalty [and] those
+        jurors who refuse to give such evidence any weight should be disqualified for cause.
+        This is because consideration of the character and record of the individual offender
+
+STATE’S RESPONSE TO DEFENDANT’S VOIR DIRE MOTION                                                       3
+       and the circumstances of the particular offense is a constitutionally indispensable
+       part of the process of inflicting the penalty of death.
+
+159 Idaho 280, 309, 360 P.3d 289, 318 (2015) (cleaned up). Though the State does not object to
+
+the Court following the holdings of Dunlap and other binding precedent, the State also recognizes
+
+the Court’s authority under Idaho Criminal Rule 24(b) and reserves the right to object should the
+
+Defendant seek to go beyond what is set forth by law.
+
+       3. There is no reason to believe that the Court will not follow the holdings of
+          Witherspoon and Morgan, and thus, Defendant’s request is not ripe
+
+       Next, Defendant admonishes this Court to “be cautious that it not remove a juror for having
+
+qualms about death” because “improper removal of a single juror for opposing the death penalty
+
+is reversable error.” The State does not dispute that Witherspoon and Morgan are binding on this
+
+Court, and therefore does not object. However, to the extent that the Defendant may intend to ask
+
+this Court to go beyond the holdings of Witherspoon and Morgan, the State objects. The State
+
+further objects because the Defendant’s request is premature and not ripe for review.
+
+       In Witherspoon v. Illinois, the United States Supreme Court evaluated a state statute that
+
+allowed jurors in death penalty cases to be excluded when they possessed only “conscientious
+
+scruples against capital punishment.” 391 U.S. 510, 88 S.Ct. 1770 (1968). After the Court
+
+explained that “a man who opposes the death penalty, no less than one who favors it, can make the
+
+discretionary judgment entrusted to him by the State and can thus obey the oath he takes as a
+
+juror,” the Court held that a death sentence “cannot be carried out if the jury that imposed or
+
+recommended it was chosen by excluding veniremen for cause simply because they voiced general
+
+objections to the death penalty or expressed conscientious or religious scruples against its
+
+infliction.” Id. at 522-23, 88 S,Ct, at 1777.
+
+       In Morgan v. Illinois, the Supreme Court examined the inverse of Witherspoon—“whether
+
+
+
+STATE’S RESPONSE TO DEFENDANT’S VOIR DIRE MOTION                                                4
+[a] defendant is entitled to challenge for cause and have removed on the ground of bias a
+
+prospective juror who will automatically vote for the death penalty irrespective of the facts or the
+
+trial court’s instructions of law.” 504 U.S. 719, 726, 112 S.Ct. 2222, 2228 (1992). Relying on the
+
+Court’s holding in Ross v. Oklahoma, the Court concluded that “[a] juror who will automatically
+
+vote for the death penalty in every case will fail in good faith to consider the evidence of
+
+aggravating and mitigating circumstances as the instructions require him to do,” and that therefore,
+
+“based upon the requirement of impartiality embodied in the Due Process Clause of the Fourteenth
+
+Amendment, a capital defendant may challenge for cause any prospective juror who maintains
+
+such views.” Id. at 729, 112 S.Ct. at 2230.
+
+        In order to determine whether a prospective juror may be excluded based on his or her
+
+views on capital punishment, the “standard is whether the juror’s views would ‘prevent or
+
+substantially impair the performance of his duties as a juror in accordance with his instructions
+
+and his oath.’” State v. Abdullah, 158 Idaho 386, 422, 348 P.3d 1, 37 (2015) (quoting Wainwright
+
+v. Witt, 469 U.S. 412, 424, 105 S.Ct. 844, 852 (1985)); see also Adams v. Texas, 448 U.S. 38, 45,
+
+100 S.Ct. 2521, 2526 (1980) (“[A] juror may not be challenged for cause based on his views about
+
+capital punishment unless those views would prevent or substantially impair the performance of
+
+his duties as a juror.”).
+
+        “[T]his standard likewise does not require that a juror’s bias be proved with ‘unmistakable
+
+clarity ... because determinations of juror bias cannot be reduced to question-and-answer sessions
+
+which obtain results in the manner of a catechism.” Wainwright, 469 U.S. at 424, 105 S.Ct. at
+
+852. The Court recognized that “there will be situations where the trial judge is left with the
+
+definite impression that a prospective juror would be unable to faithfully and impartially apply the
+
+law . . . [t]his is why deference must be paid to the trial judge who sees and hears the juror.” Id.
+
+
+
+STATE’S RESPONSE TO DEFENDANT’S VOIR DIRE MOTION                                                  5
+at 425-26, 105 S.Ct. at 852-53; see also Uttecht v. Brown, 551 U.S. 1, 9, 18-19, 127 S.Ct. 2218,
+
+2224 (2007) (“Deference to the trial court is appropriate because it is in a position to assess the
+
+demeanor of the venire, and of the individuals who compose it, a factor of critical importance in
+
+assessing the attitude and qualifications of potential jurors.”).
+
+       The Defendant’s request that the Court “be cautious” in applying Witherspoon and Morgan
+
+cases is not just premature—it is presumptuous. The Court has discretion to make real time
+
+determinations about whether or not prospective jurors can fairly and impartially follow the law,
+
+and there is no reason to believe that the Court will not properly follow binding precedent in doing
+
+so. Thus, this matter is not ripe for adjudication.
+
+       4. Courts have long upheld the use of the “magic question” in voir dire
+
+       Defendant’s “magic question” argument—that it is improper to rehabilitate jurors by
+
+asking them if they can set aside their biases and decide the case solely on the evidence and
+
+instructions of law—flies in the face of long-established precedent. As the Idaho Supreme Court
+
+explained in Dunlap v. State, “a juror may be rehabilitated in voir dire, and the trial judge has
+
+discretion to determine whether the juror’s views would prevent or substantially impair his ability
+
+to perform his duties as an impartial juror.” 159 Idaho 280, 309, 360 P.3d 289, 318 (2015). As
+
+explained in detail in the previous section, the Court has the ability to evaluate “the demeanor of
+
+the venire, and of the individuals who compose it, a factor of critical importance in assessing the
+
+attitude and qualifications of potential jurors.” Uttecht at 9, 127 S.Ct at 2224. To the extent the
+
+Defendant has concerns about individual jurors, he should address them during voir dire and allow
+
+the Court to determine whether exclusion or additional follow-up is appropriate.
+
+       5. The State does not object to the use of individual voir dire during the jury selection
+          process.
+
+       The State agrees with the premise of the Defendant’s argument—that we must ask
+
+STATE’S RESPONSE TO DEFENDANT’S VOIR DIRE MOTION                                                  6
+prospective jurors to be vulnerably honest, particularly where it comes to bias and to views on the
+
+death penalty. In light of this fact, the State does not object to the Defendant’s suggestion that, if
+
+any aspect of voir dire is completed in a panel setting, that there be a process to address issues of
+
+bias outside the presence of other jurors. 1 As to the extent of questioning allowed, the State will
+
+respectfully defer to the wisdom of the Court, recognizing that Idaho’s appellate courts have
+
+upheld a Court’s ability to put reasonable time limits on voir dire. See State v. Dunlap, 155 Idaho
+
+at 363, 313 P.3d at 19.
+
+                                          CONCLUSION
+
+       As outlined above, the State has no objection to the Court following binding precedent.
+
+However, to the extent that the Defendant seeks to go beyond that, the State will likely object
+
+during voir dire proceedings.
+
+       DATED this 24th day of March 2025.
+
+
+
+
+                                               Madison Allen
+                                               Special Assistant Attorney General
+
+
+
+
+1 Defendant specifically suggests that prospective jurors could be subjected to voir dire on issues
+of bias in chambers. Recognizing the Court’s authority to conduct jury selection as the Court
+sees fit pursuant to Idaho Criminal Rule 24, the State takes no position on where such individual
+voir dire might occur so long as a record is made.
+STATE’S RESPONSE TO DEFENDANT’S VOIR DIRE MOTION                                                    7
+                                 CERTIFICATE OF DELIVERY
+
+         I hereby certify that true and correct copies of the STATE’S RESPONSE TO
+
+DEFENDANT’S VOIR DIRE MOTION were served on the following in the manner indicated
+
+below:
+
+Anne Taylor                                    ☐ Mailed
+Attorney at Law                                ☒ E-filed & Served / E-mailed
+PO Box 2347                                    ☐ Faxed
+Coeur D Alene, ID 83816
+                                               ☐ Hand Delivered
+
+         Dated this 24th day of March 2025.
+
+
+                                              __________________________________________
+
+
+
+
+STATE’S RESPONSE TO DEFENDANT’S VOIR DIRE MOTION                                      8
+

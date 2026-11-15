@@ -1,0 +1,1579 @@
+  Exhibits to Defendant’s 2nd Supplemental Response to Request for Discovery Regarding
+                                    Expert Witnesses
+
+
+
+                                      INDEX
+     D17     DAVID HOWELL
+            D17-A Expert Disclosure for David Howell (Bates 4159)
+            D17-B Report of David Howell (Bates 4160-4162)
+            D17-C Resume of David Howell (Bates 4163-4168)
+
+     D18     Gary Shutler, Ph.D.
+            D18-A Expert Disclosure for Dr. Gary Shutler (Bates 4169)
+            D18-B Report of Dr. Gary Shutler (Bates 4170-4174)
+            D18-C CV of Dr. Gary Shutler (Bates 4175-4188)
+
+
+
+
+EXHIBITS TO DEFENDANT’S 2nd SUPPLEMENTAL RESPONSE TO
+REQUEST FOR DISCOVERY REGARDING EXPERT WITNESSES                                   Page 1
+                                      EXHIBIT D17-A
+                                       David Howell
+
+       David Howell may testify for the defense as an expert regarding Amazon discovery.
+
+Mr. Howell’s opinion/testimony will be based on his experience, education, and trainings as
+
+detailed in his resume which is included with this response as Exhibit D17-C.
+
+        This response serves to supplement the information in the Report attached as
+
+Exhibit D17-B. The below is a summary of Mr. Howell’s anticipated testimony but does
+
+not repeat all specific findings that are detailed in his report. It is anticipated that Mr.
+
+Howell may testify in the following areas:
+
+        1. Amazon Records including how purchases are tracked, account activity, user
+
+            activity and the scope of Amazon records.
+
+This disclosure is provided as an aid. At the present time, Mr. Howell’s full scope of
+
+testimony is unknown. The State has not yet disclosed the opinions of their experts.
+
+
+
+
+                                                                                               D17-A
+                                                1
+
+                                             004159                                    3/3/25
+DAVID G. HOWELL
+
+The Defense discloses David Howell in this Supplemental Discovery Response. His resume is attached
+as “Exhibit A.”His prior testimony as an expert was in the Federal District of Idaho in U.S. v. Babichenko,
+Case No. 1:18-cr-00258.
+
+At Howell & Associates, Mr. Howell specializes in Online Brand Protection, Anti-Counterfeiting,
+Marketplace Channel Management, and Digital Forensics, guiding brands through the complexities of
+platforms like Amazon, eBay, Wish, Alibaba, AliExpress, Google Shopping, and others. Mr. Howell’s
+company protects brands and works to eliminate counterfeit threats. Mr. Howell has an extensive work
+history in the electronic commerce industry in the areas of brand protection, brand strategy, fraud
+investigations, algorithmic analysis, data manipulation risks, and market practices.
+
+It is anticipated that Mr. Howell of Howell & Associates will testify based on his experience and
+education as follows:
+
+    1. Amazon data requested versus produced, form of data produced, and a forensic examination of
+       the available produced data in this case.
+           o A forensic analysis of whether the dataset is complete, unaltered, and in a format suitable
+               for forensic examination.
+           o Identification of gaps in data provided by the State and how missing elements impact
+               forensic accuracy.
+           o Evaluation of metadata, timestamps, and tracking information within the Amazon data to
+               assess reliability and forensic validity.
+    2. The importance of full purchase history in an Amazon account to conduct an accurate forensic
+       examination of the data.
+           o A complete forensic review requires examining full purchase history, search logs,
+               recommendation exposure, and product interactions.
+           o Isolated purchases or searches without full historical context can lead to misleading
+               conclusions.
+           o Amazon’s data retention and account history logs are critical in determining user
+               behavior trends, purchase frequency, and algorithmic influences.
+    3. The role of Amazon’s Algorithm-Driven Recommendation System and Cross-Platform Tracking.
+           o Amazon’s AI and machine learning (ML) systems do not passively reflect searches; they
+               actively shape user experience and influence product visibility.
+           o The Buy Box system prioritizes certain sellers and dynamically adjusts pricing based on
+               AI predictions of consumer behavior.
+           o The Clickstream tracking system records user interaction data, affecting what products
+               are suggested or displayed.
+           o AI-powered algorithms determine rankings, auto-complete searches, and personalize
+               product placement.
+           o Amazon’s data models can reinforce specific product categories, repeatedly exposing
+               users to related items based on engagement rather than intent.
+    4. Omnichannel shopping extends beyond a single device.
+           o Amazon accounts are synchronized across multiple devices, including smartphones,
+               tablets, desktops, laptops, and smart home devices (Alexa, Echo, etc.).
+           o Shared household accounts introduce forensic challenges, as multiple individuals
+               contribute to search history, purchases, and product recommendations.
+           o Cross-device activity tracking allows Amazon to retain behavioral data across different
+               platforms, affecting search results and purchase recommendations.
+
+                                                                                                              D17-B
+
+                                                 004160
+                                                                                                      3/3/25
+        o   Retargeting ads from Google, Facebook, and YouTube further influence Amazon's search
+            suggestions and ad displays.
+5. The Influence of Amazon’s Advertising System on Click and Purchase Behavior.
+        o Amazon’s advertising ecosystem is deeply integrated into the search and
+            recommendation process.
+        o Sponsored listings, retargeting ads, and display ads shape user choices, often overriding
+            organic search results.
+        o Unlike a simple “search and buy” experience, Amazon actively pushes promoted content
+            through AI-driven ad targeting.
+        o Personalized recommendations are not neutral but based on bidding systems where
+            advertisers pay to appear in a user’s feed.
+6. Amazon’s Sponsored Products and Display Ads allow sellers to pay for visibility, impacting
+    product exposure and forensic interpretation.
+        o A product can appear in search results not because a user searched for it, but because an
+            advertiser paid for placement.
+        o The "Frequently Bought Together" and "Customers Also Bought" sections are influenced
+            by paid sponsorships and algorithmic weighting, not purely organic trends.
+        o To properly assess forensic relevance, all Amazon ad data should be reviewed, including:
+            a) What sponsored products were displayed to this account?
+            b) What retargeting ads followed the user across platforms based on past activity?
+            c) Were certain product recommendations organic, or manipulated through paid
+            placements?
+            d) Did Amazon’s algorithm repeatedly push certain products based on prior engagement
+            rather than active user searches?
+7. Cart and Wishlist Data are an important part of forensic examination as it relates to Amazon.
+        o The addition, removal, or modification of items in a cart or wishlist provides insight into
+            purchasing intent.
+        o Indecision and comparative shopping behaviors are common, and forensic analysis must
+            account for all list interactions.
+        o Amazon’s AI tracks wishlist and cart activity to refine recommendations and alter
+            subsequent search results.
+8. In his expert opinion, when evaluating the purchase or search of a product on Amazon as
+    evidence, it is essential to ensure that it is presented in its full context rather than in isolation.
+        o Forensic best practices require examining broader user engagement trends rather than
+            isolated transactions.
+        o A search or purchase cannot be evaluated without consideration of Amazon’s AI-driven
+            content curation and advertising models.
+        o Clickstream analysis, browsing history, and algorithmic reinforcement must be
+            considered before attributing a specific intent to an individual search or purchase.
+9. Many Amazon accounts, including the one in this case, are shared among family members,
+    making it difficult to attribute a single purchase to one specific individual.
+        o Amazon does not differentiate between users within a shared account.
+        o Without analyzing full account activity logs, it is not possible to determine who
+            conducted a specific search or made a purchase.
+        o Device usage history, login timestamps, and behavioral tracking data are critical to
+            accurate forensic conclusions.
+10. Obtaining and reviewing Amazon data prior to March 2022 is critical to the ability to draw
+    conclusions or put context into any purchasing.
+
+•   Pre-March 2022 purchase and search data is necessary to establish historical buying patterns and
+    determine whether a transaction was an anomaly or part of a long-term behavior trend.
+
+
+
+                                              004161
+•   Without earlier records, it is not possible to assess the evolution of search recommendations, AI
+    influences, or external advertising impact over time.
+
+11. The warrants in this case ask for extensive amounts of data and important categories of data, but
+    the data produced by the State does not reflect the whole of the data requested or supposedly
+    produced.
+
+•   The limited dataset does not include key forensic elements necessary for a comprehensive
+    analysis, including:
+    a) Sponsored ad exposure records.
+    b) Algorithmic recommendation tracking.
+    c) Complete purchase and browsing history.
+    d) Cross-device usage logs and user attribution data.
+•   Without a full forensic dataset, conclusions drawn from the available information lack reliability
+    and are inherently incomplete.
+
+
+
+
+                                             004162
+Contact
+Meridian Idaho 83646
+                                   David G. Howell
+208-340-5866 (Mobile)              Brand & Channel Compliance Expert | Author & Podcast Host |
+dghowell@me.com                    Pioneer in Marketplace Integrity & Anti-Counterfeiting | U.S. Army
+                                   Veteran | Trusted US Federal Contractor
+www.linkedin.com/in/davidghowell
+                                   Meridian, Idaho, United States
+(LinkedIn)
+www.linkedin.com/in/davidghowell
+(Portfolio)                        Summary
+icannwiki.com/index.php/
+David_Howell (Other)               As a proud U.S. Army veteran and Boise State University graduate,
+                                   I’ve channeled the discipline, leadership, and commitment to
+Top Skills                         excellence honed in military service into a career dedicated to brand
+E-commerce                         protection and channel compliance. My journey from the front lines of
+Intellectual Property              service to the forefront of safeguarding brands has spanned over two
+Brand Protection                   decades and continues to evolve with every new challenge.
+
+Languages                          I’ve had the privilege of working across multiple industries, protecting
+German & Spanish (Limited          the reputations and revenue streams of some of the world’s most
+Working)
+                                   recognized brands. From the trenches at MarkMonitor, Channel IQ,
+                                   and Vorey's, to founding Howell & Associates, my mission has been
+                                   clear: to help companies preserve their integrity in the chaotic, ever-
+                                   changing world of online marketplaces.
+
+
+                                   At Howell & Associates, we specialize in Online Brand Protection,
+                                   Anti-Counterfeiting, and Marketplace Channel Management, guiding
+                                   brands through the complexities of platforms like Amazon, eBay,
+                                   Wish, Alibaba, AliExpress, Google Shopping, and beyond. Our
+                                   commitment is to deliver actionable strategies and results that
+                                   protect brands, eliminate counterfeit threats, and drive revenue
+                                   growth.
+
+
+                                   As the host of the "Marketplace Dilemma" podcast, I explore the
+                                   intersection of brand protection and e-commerce, sharing industry
+                                   insights, and sparking conversations that matter. I believe in the
+                                   power of knowledge, collaboration, and the importance of staying
+                                   ahead of emerging threats.
+
+
+                                   My career has been about more than just success—it's about
+                                   creating partnerships rooted in trust, solving problems with military
+                           D17-C   precision, and delivering solutions that stand the test of time. If you're
+                                   committed to protecting your brand’s legacy and navigating the
+                        3/3/25                 004163
+                                                                   Page 1 of 6
+marketplace with confidence, let’s connect. Together, we can face
+the challenges head-on and ensure your brand thrives in a global
+economy.
+
+
+
+Experience
+Howell & Associates
+Founder
+January 2018 - Present (7 years 1 month)
+Boise, Idaho, United States
+
+We are a full-service consultancy specializing in Online Brand Protection, Anti-
+Counterfeiting, and Marketplace Channel Management. Whether it’s Amazon,
+eBay, Wish, Alibaba, Temu, TikTok, Facebook, AliExpress, Google Shopping,
+or beyond, we’re the experts in navigating the complex world of e-commerce
+platforms. We provide the insights and strategies to protect your brand,
+manage your channels, and combat unauthorized sellers and counterfeiters
+across the globe. From strategy to execution, we answer the Who, What,
+Where, When, Why, and How of safeguarding your online presence. http://
+www.HowellandAssociates.com - Proudly Veteran Owned.
+
+
+The Marketplace Dilemma
+Founder, Speaker, Blogger, Writter & Podcast Host
+August 2022 - Present (2 years 6 months)
+United States
+
+Almost Ready!
+
+
+Resolution Arms LLC
+President - Co-Founder
+June 2014 - Present (10 years 8 months)
+Meridian Idaho
+
+Resolution Arms is a Federally Licensed FFL/SOT Veteran Owned -
+Weapon training and custom manufacturing specializing in Military and Law
+Enforcement specific needs. Proudly Veteran Owned
+
+
+Vorys, Sater, Seymour and Pease LLP
+Director - Brand Protection
+February 2017 - February 2018 (1 year 1 month)
+Cincinnati, Ohio
+
+Vorys, Sater, Seymour and Pease LLP provides business and legal counsel to
+clients throughout the United States and around the world. Since its founding
+              004164
+                                   Page 2 of 6
+in 1909, our firm has grown into one of the largest law firms in the country,
+with nearly 375 attorneys who are located in seven offices in Ohio, Texas,
+Pennsylvania and Washington, D.C.
+
+
+Our firm is proud to represent thousands of clients, who range from start-
+up businesses to Fortune 500 corporations, from non-profit organizations to
+governmental entities and industry trade groups, and from individuals needing
+estate planning advice to defendants embroiled in sprawling, multi-state
+class action litigation. We offer each of those clients - large and small - an
+unflagging commitment to excellent legal representation and outstanding client
+service.
+
+
+Authentic Vision GmbH
+Business Advisor - Global Anti-Counterfeiting & Brand Strategy
+November 2014 - December 2017 (3 years 2 months)
+United States - North America
+
+Leverage substantial industry experience to guide client in expanding business
+within US markets and become a world leader in brand protection and product
+authentication technologies to mitigate anti-counterfeiting and diversion on a
+global level .
+
+
+Founded in 2012 as an official spin-off from the University of Applied
+Sciences Salzburg, Authentic Vision is best known for providing new and
+innovative ways of brand protection. The company holds several patents and
+is cooperating closely with universities and the world’s leading security printing
+companies to stay abreast of the latest developments in the fields of brand/
+value protection and custumer communication solutions.
+
+
+Channel IQ
+3 years 5 months
+
+Vice President, Brand Strategy
+February 2015 - September 2015 (8 months)
+Greater Chicago Area
+
+As a brand marketing & channel compliance expert, awarded promotion
+to position company as a premier provider of online trademark, brand and
+product intelligence solutions to leading global brands, manufacturers,
+distributors, and retailers.
+
+
+Built, aligned, and mobilized a products, sales and delivery teams in creating
+long-term relationships with clients.
+              004165
+                                    Page 3 of 6
+Combined research with analytical data to generate conceptual ideas for
+developing a brand strategy which meets or exceeds unique clients’ needs.
+
+
+Spoke at numerous industry conventions and teamed with prominent brands to
+design a highly effective brand protection program.
+
+
+Captured 3,000%+ ROI by conducting 15+ webinars to thousands of
+participants on the topic of problem solving in direct response to market
+changes.
+
+Director of Global Brand Management & Protection
+May 2012 - February 2015 (2 years 10 months)
+Greater Chicago Area & North American Markets
+
+Successfully established and sold entire brand protection department and
+including full suite of products and services which played a major role in
+propelling revenues by $2.5M and almost doubling customer base from 165 to
+300 within two years.
+
+
+Pioneered industry’s first brand protection investigation services program
+which led to removal and enforcement of 5,000+ illicit product offerings
+worldwide.
+
+
+CitizenHawk
+Senior Regional Manager - Intellectual Property, Brand Protection &
+Corporate Brand Management
+December 2009 - February 2012 (2 years 3 months)
+US and Asia Pacific - Regional
+
+Managed sales for corporate brand management/enforcement, online
+monitoring, and global IP recovery.
+
+
+Instrumental in reclaiming millions of dollars in lost revenue for highly
+renowned fortune 500 clients.
+
+
+Merged cutting-edge technology, an advanced understanding of the Internet,
+and proficiency in domain management and e-commerce to deliver superior
+client service.
+
+
+Metamend Online Marketing Experts
+Board Advisor - Brand Protection - North America Markets
+November 2005 - November 2009 (4 years 1 month)
+           004166
+                                    Page 4 of 6
+North America - Victoria British Columbia Canada & US Markets
+
+Advisor on best market practices on brand protection monitoring services
+and fraud solutions with critical accountability for defining sales processes,
+compiling accurate forecasts, monitoring industry climate, and providing
+regular feedback to executive leadership team.
+
+
+Directed in the Hiring, trained, mentored, and motivated sales personnel in
+delivering unparalleled customer service to maximize account retention.
+
+
+Determined staff compensation and orchestrated incentive programs to
+elevate morale and performance.
+
+
+MarkMonitor
+Senior Manager – Intellectual Property, Brand Protection, Corporate
+Brand Management
+May 2001 - June 2007 (6 years 2 months)
+Brought on board to fuel revenues for start-up company offering
+comprehensive, end-to-end solutions which enable clients to establish and
+defend brands against online threats.
+
+
+Collaboratively evolved MarkMonitor from a simple domain registration
+company to a global leader in corporate domain portfolio management;
+expanded services to include brand protection, fraud protection and
+monitoring, trademark management, anti-counterfeiting, and phishing
+protection.
+
+
+Proactively educated clients in online vulnerability of IP and products,
+formulated strategic sales plans, identified trends, prepared forecasts and
+annual budgets, analyzed variances, and initiated swift corrective action to
+control expenses.
+
+
+Devised standards for production, quality and customer-service, while
+cultivating and maintaining excellent rapport with key customers.
+
+
+Leveraged sales plan and quotas for multiple districts to attain and expand
+customer base.
+
+
+Coached, mentored, and counseled district sales representatives to achieve
+productivity targets.
+
+              004167
+                                    Page 5 of 6
+Explored new product opportunities and services, uncovered consumer needs
+and trends, and closely monitored competitive activity to launch compelling
+tactics and promotions for winning new business.
+
+
+US Army
+Sergeant
+November 1989 - July 1997 (7 years 9 months)
+United States
+
+I proudly served in the U.S. Army, with my primary MOS as 13M (MLRS M270
+Field Artillery), where precision, tactical execution, and strategic thinking were
+key to mission success. Throughout my military career, I was stationed across
+the U.S., Europe, and Korea, and deployed in major operations including
+Desert Storm, Bosnia, and Haiti.
+
+
+I also served as a 68W (Combat Medic). Additionally, I held the MOS of 31D
+(CID) in Germany, conducting investigations and supporting military justice.
+
+
+With a Top Secret security clearance, I was entrusted with sensitive missions
+and operated across diverse and challenging international settings. These
+experiences have ingrained in me the values of duty, leadership, and
+adaptability, which continue to guide my professional endeavors today.
+
+
+
+
+Education
+Boise State University
+Bachelor of Arts (B.A.), Political Science · (1995 - 1999)
+
+
+
+
+              004168
+                                    Page 6 of 6
+                                      EXHIBIT D18-A
+                                     Gary Shutler, Ph.D.
+
+         Dr. Gary Shutler may testify for the defense as an expert regarding DNA testing and
+
+lab practices. Dr. Shutler’s opinion/testimony will be based on his experience, education, and
+
+trainings as detailed in his curriculum vitae which is included with this response as Exhibit
+
+D18-C.
+
+         This response serves to supplement the information in the Report attached as
+
+Exhibit D18-B. The below is a summary of Dr. Shutler’s anticipated testimony but does
+
+not repeat all specific findings that are detailed in his report. It is anticipated that Dr.
+
+Shutler may testify in the following areas:
+
+         1. Analysis of DNA and DNA lab practices
+
+         2. CODIS database.
+
+This disclosure is provided as an aid. For further information about his opinion, please see
+
+Dr. Shutler’s Expert report filed herewith.
+
+
+
+
+                                                                                                 D18-A
+                                                 1
+
+                                              004169                                        3/3/25
+    2/20/2025
+
+    Gary Shutler, Ph.D
+    Forensic DNA Consultant
+    29622 4" Avenue S.
+    Federal Way, WA
+    98003
+    gescbs@hotmail.com
+
+
+Anne C, Taylor
+Anne Taylor Law Offices
+PO Box 2347
+Coeur d'Alene, Idaho
+83816
+Anne@AnneTavlorLaw.com
+Phone (208) 512-9611
+         -
+
+
+                                                                                                                     c
+                                                                                                                     o
+                                                                                                                     S
+                                                                                                                     wn
+                                                                                                                     ca
+                                                                                                                     O
+
+Idaho v Brian Kohberger
+                                                                                                                    Z
+    have been retained by the defense in Mr. Kohberger's case to assist on issues                                   W
+                                                                                    relating to DNA
+|
+
+
+
+                                                                                                                    O
+testing and lab practices.                                                                                          O
+
+
+Forensic Biology/DNA Experience
+
+
+             hold a 1975 B.Sc (Honours) from the University of Manitoba, a 1977 M.Sc.
+(Microbiology) from the University of Manitoba and a 1993 Ph.D. (Microbiology and
+Immunology) from the University of Ottawa, Ontario. My work experience includes 16 years
+(from 2002 to 2018) as the DNA Technical Leader/Manager, Washington State Patrol, Crime
+Laboratory Division with responsibility for all Forensic Biology/Serology and DNA Technical and
+Training manuals, validations and the DNA Quality Assurance System. My previous positions
+include casework and support service with the Royal Canadian Mounted Police
+                                                                                (RCMP) Forensic
+Laboratory System in the Ottawa and Winnipeg Laboratories. In the mid to late 1980's, initiated
+                                                                                           |
+
+
+
+
+the RFLP DNA Typing program for the RCMP prior to taking a period of educational leave.
+                                                                                            During
+the mid to late 1990's my work included validation studies of PCR STR analysis and its initial
+casework application for the RCMP in Canada. was involved with the genetic and
+                                                |
+                                                                                  physical
+mapping of the myotonic (muscular) dystrophy gene at the Children's Hospital of Eastern
+Ontario while completing my Doctorate Degree from the University of Ottawa in 1992.
+
+
+
+
+1                                                                                                      DEFENDANT'S
+                                                                                                 EXHIBIT NO. D18-B
+                                                                                                 IDENTIFICATION / EVIDENCE
+
+                                                    004170                                       CASE NO. CR01-24-31665
+                                                                                                 DATE: 3/3/25
+     |have been an independent forensic DNA consultant since approximately October, 2018. have      I
+
+
+     been qualified as an expert, had reports accepted and/or testified regarding DNA and/or
+     Forensic Biology/Serology matters in over 200 court cases in multiple venues. have retained
+                                                                                       |
+
+
+
+
+     memberships in several professional societies and have authored or co-authored many peer
+     reviewed scientific publications, served on many committees including SWGDAM, NU Forensic
+     DNA Panel TWG and as an OSAC Scientific Technical Review Panel Chair.
+
+
+
+     Materials Received and Basis of Opinions Formulated:
+     There were 10 Discovery submissions received in 2023 and 8 in 2024. These submissions
+     included 95 Folders, 31 Sub-Folders, containing about 696 PDF files with over 15,000 of
+     Redacted and Unredacted pages and over 13,000 photos, 375 JPEG files, 159 email files and DNA
+     data files. My opinions were formulated by examining these materials for information relevant
+     to the Forensic Biology screening and DNA analysis work conducted in the investigation. These
+c    discover materials included DNA analysis data along with the lab reports, analyst notes and
+O
+s    worksheets from the ISP Forensic lab. The ISPFS Biology DNA Casework Methods Rev12, Biology
+W
+     DNA Quality Manual-rev-11, Evidence Procedures Manual rev2 and Quality Manual rev8 were
+     also accessed.
+z
+a
+Wh   The above documents were reviewed as requested by counsel and Opinions were formulated.
+O
+
+         1)    |summarized and organized the results from the Biology and DNA Reports, reanalyzed
+              the DNA run data and reviewed analyst notes, worksheets and reports for
+                                                                                           any
+              significant shortcomings (mistakes, omissions, etc.). No significant, impactful issues
+              were observed in the protocols and procedures used.
+
+
+         2)   Overall the ISPFS DNA analysis lab work, in my opinion, was done to a
+                                                                                        high standard.
+              However, documentation in the casefile was poor. Notes for evidence examination had
+              minimal detail of how items were examined. This issue of concern was evident in the
+              lack of detail documented about how the knife sheath was co-examined at the time of
+              the Biology and Latent Prints examination. The only description on the
+                                                                                         swabbing of the
+              front strap was for the Biology notes stating "Used 1 swab to swab front
+                                                                                           strap (=item
+               1.1, v light gray transfer to swab, consumptive)." Both the Latent Print lab notes for Tina
+              Walthall and the Biology Lab notes for Stephanie Wilt's did not have the detail of
+                                                                                                   Rylene
+              Nowlin's December 12-13, 2022 emails, to Detective Talbott, on how the knife sheath
+              was examined and swabbed to preserve potential latent print evidence on the
+                                                                                                top of
+              the snap cap. It required Ms. Nowlin to contact one of the forensic scientists to
+                                                                                                 put all
+              that detail together to respond to the inquiry from Detective Talbott on how that exhibit
+              was processed. It certainly wasn't in either the latent print or biology notes from the
+              discovery material examined. Good documentation can prevent problems of this nature
+              and help mitigate memory lapses. There were also at least 9 male DNA reference
+
+
+
+
+                                                      004171
+     samples collected but not typed. They might have matched to unknown male B or D and
+     provided pertinent information to help with the investigation.
+
+
+3)   There are limitations of what information the Forensic Biology and DNA evidence
+     analysis results can provide. To understand the DNA evidence in this homicide case
+     investigation it is helpful to consider the following questions, in particular, for the only
+     DNA profiles reported that were recovered from inside crime scene evidence that were
+     not consistent with any of the victims. It is not unreasonable to expect that the
+     perpetrator(s) of such a violent crime would have left traces of DNA and possibly blood.
+
+         a.    Whose Unknown DNA was recovered from the DNA evidence? There were only
+               2 unknown male DNA profiles reported that were recovered from the inside
+
+               crime scene evidence that were not consistent with the victim Ethan Chapin.
+               One was called unknown male A from the Item 1.1, swab of the front strap ona
+               KA-BAR knife sheath (found close to a victim's body), of which only the
+               defendant cannot be excluded as the contributor. The other was called                o
+                                                                                                    a
+               unknown Maile B from Item 30, a swab of a small red stain on the underside of
+                                                                                                    c
+              the stair handrail, north wall, between the 1st and 2nd floors (ISPFS Crime           UO
+
+              Scene marker/identifier B) that excluded all 18 males who had their reference         Z
+              samples collected and tested. This presumed bloodstain's location was near
+                                                                                                    w
+              presumed bloodstains, Item 31.1, (ISPFS Crime Scene marker/identifier D)              co
+                                                                                                    O
+              found to be consistent with victim Ethan Chapin and presumed bloodstains
+              Item 72 on the north wall of stairwell and 73 on the half-wall (ISPD2 Crime
+              Scene marker/identifier 23 and 26 respectively) that were reported to be
+              consistent with victims Kaylee Goncalves and Madison Mogen. Refer to photos
+              in references for position information.
+
+
+        b.    What body fluid/cell material did the DNA come from? No body fluid testing of
+              the Item 1.1, swab of the KA-BAR knife sheath front strap, was reported. A
+              positive presumptive test for blood was reported from the Item 30, a swab of a
+              small red stain underside of the stair handrail, north wall, between the 1st and
+              2nd floors.
+
+
+        c.    When did the male DNA get deposited? There are no reliable, widely adopted
+              tests to determine when DNA from biological material was deposited. In this
+              case, neither of the Item 1.1, swab of the KA-BAR knife sheath front strap male
+              DNA profile or the item 30, a swab of a small red stain underside of the stair
+              handrail male DNA profile exhibited severe degradation often associated with
+              old deposits of biological material.
+
+
+
+
+                                            004172
+                  d.   How did the male DNA get deposited? The DNA recovered from item 1.1, swab
+                       of the KA-BAR knife sheath front strap could have come from direct contact if
+                       from skin cells and/or by deposits of body fluids with DNA content such as
+
+
+                       saliva and/or sweat. There is no confirmatory test or standardized set of factors
+                       to support that a specific sample was deposited by direct means versus indirect
+                       means. A Probabilistic mathematical approach would be required to evaluate
+                       one activity as opposed to the other.
+
+
+                       The DNA recovered from the presumed bloodstain on underside of the stair
+                       handrail, north wall, between the Ist and 2nd floors (item 30) must have been
+                       deposited after some minor injury by direct contact or indirect contact
+                       (secondary transfer), but it cannot be determined if the DNA recovered was
+                       deposited passively (before the crime) or actively (during the crime).
+
+       4)   There were missed opportunities with the Combined DNA Index System (CODIS).
+            The number of perpetrators involved in committing this complex crime is unknown.
+            it would have been prudent to have considered that more than 1 of the unknown
+            male profiles might be involved and use CODIS to help answer that question as a
+            case approach strategy by the lead law enforcement agency instead of assuming
+            only 1 possible perpetrator. Only unknown male A was searched and uploaded to
+            the National DNA Index System (NDIS} database. Furthermore, not all Forensic
+            unknown DNA profiles are eligible for the NDIS upload and would only be in the
+            State DNA Index System (SDIS). Manual or one time keyboard searches can be done
+            with Forensic unknown DNA profiles that have a minimum of at least 6 original
+            CODIS core loci and a moderate match estimate (MME} of at least 60,000 as
+            calculated by the CODIS software. Laboratory to laboratory one time search
+            requests can be done between NDIS participating lahoratories to search SDIS
+            databases from neighboring states. No manual search requests appear to have been
+            made for any of the unknown male profiles A, B or D.
+
+
+
+
+    References:
+
+
+PDF Photos 2577- 2580, 3734, 3720 (in Discovery folders 2.7.23 and 2.11.23) for ISP Lab Item 72
+-
+    collected by Payne/Hogan/Talbott- ISPD2 Marker #23; North wall of stairway area between
+and 2" floors; See Lab Reports 11, 22 and 26.
+
+
+
+
+                                                    004173
+PDF Photos 3720, 3722, 3729 (in Discovery folder 2.11.23) for ISP Lab Item 30      -
+                                                                                       collected by
+Youngling/Barie  -
+                     ISPFS Marker B; bottom of handrail on North wall of stairway area between
+15t and 2" floors; See Lab Reports 8, 11, 13.
+
+
+PDF Photos 2584, 3734 (in Discovery folder 2.11.23) for ISP Lab Item 73   -
+                                                                             collected by
+Payne/Hogan/Talbott     -
+                            ISPD2 Marker #26; half wall of stairway area between 1° and 2" floors;
+Lab Reports 11, 22 and 26.
+
+PDF Photos 3731 -3733 (in Discovery folder 2.11.23) for ISP Lab Item 31.1     -
+                                                                                  collected by
+Youngling/Barie ISPFS Marker D; top edge of half wall of stairway area between 15t and 2"
+                 -
+
+
+
+
+floors; L  eports 8, 11, and 13.
+
+
+
+
+Gary Shutler, Ph.D                                                                                    c
+Forensic DNA Consultant                                                                               =
+                                                                                                      wn
+                                                                                                      c
+
+
+
+
+                                                                                                      c
+                                                                                                      O
+
+
+
+
+                                                 004174
+                                                                                                          1
+
+
+                                          CURRICULUM VITAE                         February 2022
+                                        GARY G. SHUTLER, Ph.D.
+
+BUSINESS ADDRESS:
+
+                    Forensic DNA Consulting - lndependent
+                    29622 4th Avenue S
+                    Federal Way, WASHINGTON
+                    98003
+
+TELEPHONE:
+                    (253) 802-6006 (cell)
+
+E-MAIL:
+                    GGSCBS@hotmail.com
+                    Winnipeq 1 @comcast. net
+
+DEGREES:
+                    Ph.D. (Microbiology and lmmunology), University of Ottawa, Ontario, 1993
+                    M.Sc. (Microbiology), University of Manitoba, 1977
+                    B.Sc. (Honours), University of Manitoba,1975
+
+THESES:
+                    Genetic and physica! mapping of the myotonic dystrophy locus on human
+                    chromosome 19q13.3., Ph.D. Thesis, University of Ottawa - 1992.
+
+                    The effects of experimental inflammation on adaptive synthesis of rat liver fatty acid
+                    synthetase., MSc. Thesis, University of Manitoba - 1977
+
+FORENSIC CASEWORK EXPERIENCE AND COURT TESTIMONY:
+
+                    Forensic DNA Typing, over 200 DNA cases completed; court testimony provided in Ontario,
+                    Manitoba and British Columbia and Washington State.
+
+                    Forensic Serology - over 400 cases completed; court testimony provided in Manitoba,
+                    Northwest Territories, Ontario and Nova Scotia.
+
+
+EMPLOYMENT HISTORY:
+10118   - present
+                    Private Consultant work
+
+0sto2   - 10t18
+                    DNA Technical Leader
+                    Washington State Patrol
+                    Crime Laboratory Division
+                    Seattle, WA
+
+
+                                                                                                              D18-C
+
+
+                                                   004175                                                 3/3/25
+                                                                                         2
+
+
+10/95 - 05/02
+
+                lC Biology Section
+                R.C.M.P. F.L.W.,
+                Winnipeg, Manitoba
+
+10t92 - 10t95
+                Molecular Genetics Specialist
+                R.C.M.P. C.F.L.,
+                Biology Operations
+                Ottawa, Ontario
+
+09/88 - 10/92
+                Educational Leave
+                Ph.D. Graduate Student,
+                supervisor Dr. R.G. Korneluk
+                Department of Microbiology and lmmunology
+                University of Ottawa, Ottawa, Ontario
+
+08/85 - 09/88
+                lC Operational Support Serology,
+                R.C.M.P. C.F.L.,
+                Ottawa, Ontario
+
+05/78 - 08/85
+                Forensic Serology Laboratory Specialist
+                R.C.M.P., Forensic Laboratory Winnipeg,
+                Winnipeg, Manitoba
+
+o5n7 - o5n8
+                Understudy in Forensic Serology
+                R.C.M.P., Forensic Laboratory Winnipeg,
+                Winnipeg, Manitoba
+
+11n6 - O3n7
+                Microbiologist
+                Production Control Laboratory,
+                Calverts of Canada (div. of Seagrams),
+                Gimli, Manitoba
+
+
+
+AWARDS
+
+1t17            Chief's Coin for grant management activities - WSP
+
+11t15           Commendation and Chief's Coin - WSP
+
+02t98           Forensic Laboratory Services Directorate Certification of Appreciation
+
+02t94           Commissione/s Commendation for Outstanding Service
+
+
+
+
+                                                004176
+                                                                                                  3
+
+
+Quality Assurance Training & Experience
+   . Certified Technical Assessor - ASCLD/LAB-lnternational program since 06/03/2008
+   . FBI DNA Auditor Refresher Training 0413012009
+   . FBI DNA Auditor Refresher Training 02120-2112006
+   r ASCLD/LAB - lnternational Assessor Training Course 12105-0912005
+   o FBI DNAAuditorTraining 10115-1612003
+   r AOAC, Mid Canada Section - Laboratory Accreditation to the ISO 17025 Standard 05/30-31/2001
+   o AOAC, MidCanadaSection - MethodValidationandMeasurementof UncertaintyWorkshops05/30-
+       31t2001
+
+Management Certification
+   . Middle Management Certification - Washington State Criminal Justice Training Commission 1012014
+   o Middle Management Certification - Washington State Patrol, Academy, Shelton, WA 1012014
+
+Membership in Professional Societies & National Committees
+   . OSAC Scientific & Technical Review PanelChair -06-0812021
+   o American Academy of Forensic Science - fellow
+   o Canadian Society of Forensic Science - member and past Biology Section Chairperson
+   o Northwest Association of Forensic Sciences - member
+   . lnternational Society for Forensic Genetics - member
+   o American Society of Human Genetics - past member
+   o American Association for the Advancement of Science - member
+   o NIJ Forensic DNA TWG - member
+   o SWGDAM - Body Fluid ldentification Working Group member 2018-19
+   . SWGDAM - member from 0712002to 0412010
+   . SWGDAM - invited guest 07/1999
+
+SCHOLARLY & PROFESSIONAL ACTIVITIES
+9114-1612020 lnternational Symposium on Human ldentification,
+                 Virtual
+
+2n-8t2018        NIJ Forensic DNA Technology Working Group meeting,
+                 Arlington, Virginia
+
+11113-1412017 DNA Technical Leader Meeting at the CODIS Gonference,
+                 Norman, Oklahoma
+
+10t2-5t2017      lnternational Symposium on Human ldentification,
+                 Seattle, Washington
+
+11114-1612016 DNA Technical Leader Summit at the CODIS Conference,
+                 Norman, Oklahoma
+
+10125-2612016 NIJ Forensic DNA Technology Working Group meeting,
+                 Arlington, Virginia
+
+
+
+
+                                             004177
+                                                                                                      4
+
+9126-2912016 lnternational Symposium on Human ldentification,
+              Minneapolis, Minnesota
+
+6t09t2016     Promega Technology Tour,
+              Seattle, Washington
+
+11116-1712015 DNA Technical Leader Summit at the GODIS Conference,
+              Norman, Oklahoma
+
+10t23t2015    Washington State Bar Association - 22nd Annual Criminal Justice lnstitute,
+              Burien, Washington
+
+09114-1512015 NIJ Forensic DNA Technology Working Group meeting,
+              Arlington, Virginia
+
+05104-0812015 DNAView Training,
+              Seattle, Washington
+
+2117-2112014 American Academy of Forensic Sciences, Annual Meeting
+              Seattle, Washington
+
+11120-21120'13 2013 DNA Technical Leader Summit for Public Forensic Laboratories
+              Norman, Oklahoma
+
+09115-2012013 Northwest Association of Forensic Sciences Fall Meeting
+              Vancouver, Washington
+
+7129-3112013 Green Mountain DNA Conference
+              Burlington, Vermont
+
+7t19t2012     Laboratory Workflow and Rapid DNA Advisory Group, Promega
+              Denver, Colorado
+
+0518-1112012 Canadian Society of Forensic Science, AnnualGeneral Meeting,
+              Simon Fraser University, Burnaby, British Columbia
+
+04129-3012012 Fast DNA Focus Group, Morpho/ZyGEM/Lockheed Martin
+              Mesa, Orange County, California
+
+03127-2812012 NIJ Forensic DNA Technology Working Group meeting,
+              Arlington, Virginia
+
+01t06t2012    Annual Review of DNA Data Accepted at NDIS
+               FBI-NDIS on-line
+
+09126-2712011 Northwest Association of Forensic Sciences Fall Meeting
+              Tacoma, Washington
+
+07119-2112011 8th lnternational Conference of Forensic lnference and Statistics
+              UW, Seattle, Washington
+
+07t18t20't1    Statistical Methods for DNA Evidence - short course
+               Offered at 8th lnternational Conference of Forensic lnference and Statistics, UW, Seattle
+
+
+
+
+                                               004178
+                                                                                                 q
+
+
+              Washington
+
+06t2012011    Eleventh Annual DNA Grantee's Workshop
+              Arlington, Virginia
+
+02t21t2011    American Academy of Forensic Sciences, Annual Meeting
+              Chicago, lllinois
+
+01t06t2012    Annual Review of DNA Data Accepted at NDIS
+              FBI-NDIS on-line
+
+12t8-9t2010   California Association of Criminalists, Advanced DNA Mixture !nterpretation Workshop
+              Cal State/LAPDiLASD, California
+
+
+12t6-7t2010   California Association of Criminalists, Advanced DNA Mixture lnterpretation Workshop
+              UC Davis, California
+
+06t29t2010    Advisory Group on Forensics - Promega lnc.
+              Atlanta, Georgia
+
+06t14t2010    Tenth Annual DNA Grantee's Workshop
+              Arlington, Virginia
+
+02t25t2010    American Academy of Forensic Sciences, Annual Meeting
+              Seattle, Washington
+
+01122t2010    Annual Review of DNA Data Accepted at NDIS
+              FBI-NDIS on-line
+
+01t11t2010    SWGDAM Meeting partici pant; M ixtu re i nterpretation comm ittee
+              Fredericksburg, Virginia
+
+09t28t2009    Forensic YSTR Training Course - practice and theory of YSTRs
+              Marshall University
+
+o9t21t2009    National Governor's Association - Centre for Best Practices "Sustaining Forensic DNA
+              Programs" Workshop - Washington, D.C.
+
+07t22t2009    ABI HID Roadshow
+              Seattle, Washington
+
+07t12t2009    SWGDAM Meeti n g partici pant; M ixtu re i nterpretation comm ittee
+              Fredericksburg, Virginia
+
+04t30t2009    FBI DNA Auditor Training refresher
+              Raleigh, North Carolina
+
+02t02t2009    Leadership in Police Organizations - 3 week course
+              WSP Academy - Shelton, WA.
+
+01t2212009    Postconviction DNA testing Case Management Symposium - presenter
+              Palm Harbor, Florida
+
+
+
+
+                                             004179
+                                                                                                        6
+
+
+
+01t13t2009    SWGDAM Meeti n g partici pant; M ixtu re i nterpretation comm ittee
+              Fredericksburg, Virginia
+
+12t30t2008    Annual Review of DNA Data Accepted at NDIS
+              FBI-NDIS on-line
+
+12t09t2008    Mixture Deconvolution and Statistics - conducted a training workshop
+              for the Harris County Medical Examiner's Crime laboratory
+
+11t13t2008    SWGDAM Meeti n g partici pant; M ixtu re interpretation com mittee
+              Bethesda, Maryland
+
+11t3-9t2008   Northwest Association of Forensic Sciences Fa!! Meeting
+              Boise, ldaho
+
+08t12t2008    ABI HID Roadshow
+              Seattle, Washington
+
+07t14t2008    SWGDAM Meeti n g partici pant; M ixtu re i nterpretation com miftee
+              Fredericksburg, Virginia
+
+06t17t2008    Enhanced Sperm Elution and Fast Differential Extraction Seminar
+              Orchid Cellmark lnc. on-line
+
+06/03/2008    Certification as Technical Assessor - ASCLD/LAB
+
+05t15t2008    AudiUsite visit to Orchid Cellmark lnc Dallas outsourcing DNA lab
+              Dallas, Texas
+
+05t1312008    ln-State Workshop - NGA Center for Best Practices "lmproving Forensic DNA Policy
+              Project
+              Seattle, WA
+
+02t25t2008    Annual Review of DNA Data Accepted at NDIS
+              FBI-NDIS on-line
+
+02t19t2008    American Academy of Forensic Sciences, Annual Meeting
+              Washington, D.C.; meeting and participant in Mixture lnterpretation Workshop
+
+01/08/2008    SWG DAM Meeti n g partici pant; M ixtu re interpretation com m ittee
+              Fredericksburg, Virginia
+
+09t17t2007    NationalGovernor's Association - Centre for Best Practices "lmproving Forensic DNA
+              Policy Project" Workshop - Miami, Florida
+07t17t2007    SWGDAM Meeti ng partici pant; M ixtu re i nterpretation com miftee
+              Manassas, Virginia
+
+06t2212007    Wash i n gton Association of Prosecuti n g Attorneys Meeti n g ; presented " M itochondrial
+              DNA Typing, What Technology Can Offer," Chelan, Washington
+
+0Ot1512007 ASTAR - Language of the Sciences Regional WesUNorthwest Boot Camp Event One in
+
+
+
+
+                                               004180
+                                                                                              7
+
+              the National Resource Judge Program; presented "DNA and Criminal Forensics,"
+              University of Washington School of Law
+
+
+01t08t2007    SWGDAM Meeting participant; Serology/Evidence Screening sub-committee
+              Fredericksburg, Virginia
+09t17t2006    Advanced DNA Training Course - 3130 CE GeneMapperlD and 7500 Quantifiler
+              Marshall University
+
+07t10t2006    SWGDAM Meeting participant; Serology/Evidence Screening sub-commiftee
+              Fredericksburg, Virginia
+
+06/26/2006    Sixth Annua! DNA Grantee's Workshop
+              Washington D.C.
+
+06/06/2006    ABI HID Roadshow
+              Seattle, Washington
+
+03/1 3/2006   NEST Project workshop
+              Marshall University
+
+02t22t2006    AAFS meeting and workshops
+              Seattle, Washington
+
+02t20t2006    FBI DNA Auditor's Refresher Course
+              Seattle, Washington
+
+01t't0t2006   SWG DAM Meetin g partici pant; Serology/Evidence Screen i n g su b-com mittee
+              Fredericksburg, Virginia
+
+1215t2005     ASCLD/LAB - lnternational Assessor Training Course
+              Seattle, WA
+
+11t14t2005    NWAFS Conference
+              Seattle, Washington
+
+11t07t2005    NIJ Missing Persons Training
+              Denver, Colorado
+
+06/30/2005    SWG DAM Meeting partici pant; Serology/Evidence Screen i n g su b-comm ittee
+              FBI Academy, Quantico, Virginia
+
+01t17tos      SWG DAM Meeti n g partici pant; Serology/Evidence Screen in g su b-committee
+              FBI Academy, Quantico, Virginia
+
+09t23t04      ABI HID Roadshow; presenter
+              Anaheim, CA
+
+09t23t04      ABI HID Roadshow; presenter
+              Berkeley, CA
+
+07t12104      SWGDAM Meeti n g partici pant; Serology/Evidence Screen i ng su b-comm ittee
+              FBI Academy, Quantico, Virginia
+
+
+
+
+                                                004181
+                                                                                                              B
+
+
+
+06t28t04           Fifth Annual DNA Grantee's Workshop; presenter
+                   Washington D.C.
+
+o2t16to4           American Academy of Forensic Sciences, Annual Meeting
+                   Dallas, TX.
+
+01t04t04           SWGDAM Meeting participant; Serology/Evidence Screening sub-committee
+                   FBI Academy, Quantico, Virginia
+
+
+07t15t03           SWG DAM Meeting partici pant; Serology/Evidence Screen i n g su b-comm ittee
+                   FBI Academy, Quantico, Virginia
+
+
+06t23t03           Fourth Annual DNA Grantee's Workshop
+                   Washington D.C.
+
+01t14t03           SWGDAM Meeting participant; Serology/Evidence Screening sub-committee
+                   FBI Academy, Quantico, Virginia
+
+07t09t02           SWGDAM Meeti n g partici pant; Serology/Evidence Screen ing su b-comm ittee
+                   FBI Academy, Quantico, Virginia
+
+05102- present Technical Manager/Leader - Washington State Patrol Crime Laboratory Division
+
+05/01              Laboratory Accreditation to the ISO 17025 Standard and Method Validation and
+                   Measurement of Uncertainty Training - Mid-Canada Section of the Association of
+                   Analytical Chemists
+
+10/95 - 05i02      Technical Manager/Leader - Biology, RCMP Forensic Laboratory Winnipeg
+
+07t11t99           SWGDAM Meeti n g partici pant; STR I nterpretation Gu idelines su b-comm ittee
+                   FBI Academy, Quantico, Virginia
+
+02199    - 06/99   Biology Staffing Committee member - RCMP
+
+10t17-20t98        Behavioural Based lnterview Techniques Training - Canadian Police College
+
+1 1/93   - 10/95   Research Associate in Molecular Genetics at CHEO
+
+
+TEACHING EXPERIENCE:
+                   PHG 302 Forensic Genetics - School of Public Health, University of Washington, Guest
+                   Lecturer explaining how CODIS works.
+
+                   FORENSIC USE OF PCR ANALYSTS WORKSHOP - Canadian Society of Forensic Science
+                   and Northwest Association of Forensic Scientists joint meeting, Vancouver, B.C., 94-1 1 -01 -
+                   02, Guest lecturer.
+
+                   MIC 8227 (8CH8327) Frontiers in Molecular Biology (3h session/year) - University of
+                   Ottawa, Guest lecturer.
+
+
+
+
+                                                     004182
+                                                                                                                9
+
+
+                 MlC8224 Laboratory Demonstrator in Medical Microbiology (for Medicaland Graduate
+                 Students) - University of Ottawa, 1988i89 to 1989/90.
+
+
+
+PUBLICATIONS:
+Papers in Refereed Journals
+
+Shutler, G.G., Langstaff, J.M., Jamieson, J.C. and Burton, D.N. (1977) The effects of experimental
+inflammation on adaptive synthesis of rat liverfatty acid synthetase. Arch. Biochem. Biophys., 183,710-717,
+1977.
+
+Shutler, G.G. (1980) A study on the inter-relationship between fingerprint developing techniques and
+bloodstain identification and characterization. Can. Soc. Forens. Sci. J., 13,#2,1-8.
+
+Shutler, G.G. and Dawson, D.E. (1980) Characterizing human seminal fluid in the ABO, Lewis and
+Phosphoglucomutase typing systems. Can. Soc. Forens. Sci. J., 13, #3, 11-15.
+
+Shutler, G.G. and Dawson, D.E. (1981) Concentration of limited quantity bloodstains and seminalfluid stains.
+Can. Soc. Forens. Sci. J., 14,#1,15-21.
+
+Shutler, G.G. and Tompkins, D.C. (1988) Bloodstain characterization in the EAP, Hp, Hb, AK and Glol typing
+systems using minigels and the Phastsystem. Forens. Sci. lnt., 39, 97-104.
+
+Williams, R.E., Shutter, G.G. and R.G. Korneluk (1988) "DNATechnologyand DNA Fingerprinting in Forensic
+Science", in New Technoloqies and Penal Justice, Vol. 9. Proceedings of the 38th lnternational Course in
+Criminology, lnternational Centre for Comparative Criminology, University of Montreal Press. pp.230-286.
+
+Waye, J., Presley, L., Budowle, B., Shutler, G., and Fourney, R. (1989) A simple and sensitive method for
+quantifying human genomic DNA in forensic specimen extracts. BioTechniques, 7, #8, 852-855.
+
+Budowle, 8., Waye, J., Shutler, G., and Baechtel, F.S. (1990) A suitable restriction endonuclease for RFLP
+analysis of biological evidence samples. J. Forensic Sci., 35, 530-536.
+
+Shutler, G.G., MacKenzie, A.E., Brunner, H., Wieringa, 8., de Jong, P., Lohman, F.P., Leblond, S., Bailly, J.
+and Korneluk, R.G. (1991) Physical and genetic mapping of a noval chromosome 19 ERCCI marker showing
+close linkage with myotonic dystrophy. Genomics, 9, 500-504.
+
+Suhr, L.C., Shutler, G.G. and Korneluk, R.G. (1991) Simple rapid detection of PCR hetero duplexes in DNA
+mutations and polymorphisms. Clin. Chem., 37,2142.
+
+Tsilfidis, C., MacKenzie, A.E., Shutler, G.G., Leblond, S., Bailly, J., Johnson, K., Shelborn, P., Williamson, R.,
+Siegel-Bartelt and Korneluk, R.G. (1991) D19551 is closely linked with and maps distal to the myotonic
+dystrophy locus on 19q. Am. J. Hum. Genet., 49, 961-965.
+
+Aslanidis, C., Jansen, G., Ameniya, C., Shutler, G.G., Tsilfidis, C., Mahadevan, M. , Chen, C., Alleman, J.,
+Wormskamp, N.G.M., Vooijs, Buxton, J., Johnson, K., Smeets, H.J.M., Lennon, G.G., Carrano, A.V.,
+Korneluk, R.G.,Wieringa, B. anddeJong, P.J. (1992). Cloningof theessentialmyotonicdystrophyregionand
+mapping of the putative defect. Nature, 355, 548-550.
+
+
+
+
+                                                    004183
+                                                                                                           10
+
+Shutler, G., Korneluk, R.G., Tsilfidis, C., Mahadevan, M., Bailly, J., Smeets, H., Wieringa, B., Lohman, F.,
+Aslanidis, C. and de Jong, P.J. (1992) Physicalmapping and cloning of the proximalsegmentof the myotonic
+dystrophygene region. Genomics, 13, 518-525.
+
+Jansen, G., de Jong, P.J., Amemiya, C., Aslanidis, C., Shaw, D.J., Harley, H.G., Brook, J.D., Fenwick, R.,
+Korneluk, R.G., Tsilfidis, C., Shutler, G., Hermens, R., Wormskamp, N.G.M., Smeets, H.J.M. and Wieringa,
+B. (1992) Physical and genetic characterization of the distal segment of the myotonic dystrophy area on 19q.
+Genomics, 13, 509-517.
+
+Mahadevan, M., Tsilfidis, C., Sabourin, L., Shutler, G., Ameniya, C., Jansen, G., Neville, C., Narang, M.,
+Barcelo, J., O'Hoy, K., Leblond, S., Earle-MacDonald, J., de Jong, P., Wieringa, B. and Korneluk, R.G. (1992)
+Myotonic dystrophy mutation; An unstable trinucleotide repeat in the 3' untranslated region of the gene.
+Science, 255, 1253-1255.
+
+Shutler, G.G., MacKenzie, A.E. and Korneluk, R.G. (1994) The 1.5 Mb region spanning the myotonic
+dystrophy locus shows a uniform recombination frequency. Am. J. Hum. Genet., 54, 104-113.
+
+Roy, N., Mahadevan, M., Mclean, M., Shutler, G., Yaraghi, Z.,Baud, S., Besner-Johnston, A., Lefebvre, C.,
+Kang, Xiaolin, Salih, Maysoon, Aubry, H., Tamai, K., Guan, X., loannou, P., Crawford, T., de Jong, P., Surh,
+L., lkeda, J.-E., Korneluk, R. and MacKenzie, A. (1995) The gene for neuronalapoptosis inhibitory protein is
+partly deleted in individuals with spinal muscular atrophy. Cell, 80, 1-20.
+
+Shutler, G., Glassco, T., Kang, X., Korneluk, R. and Mueller, C. R. (1996) Genomicstructureof the human D-
+site binding protein (DBP) gene. Genomics 34, 334-339.
+
+Shutler, G., Gagnon, P., Verret, G., Kalyn, H., Korkosk, S., Johnston, E. And Halverson, J. (1999) Removalof
+a PCR lnhibitor and Resolution of DNA STR Types in mixed human-canine stains from a 5 year old case. J.
+Forensic Sci. aa(3), 623-626.
+
+Sweet, D. and Shutler, G. (1999) Analysis of Salivary Evidence From a Bite Mark on a Body Submerged in
+Water. J Forensic Sci. 44(5), 1069-1072.
+
+Miller Coyle, H., Shutler, G., Abrams, S., Hanniman, J., Neylon, S., Ladd, C., Palmbach, T. and Lee, H.
+(2003) A Simple DNA Extraction Method for Dried Leaf and Seed Samples of Cannabis sativa L. J. of
+Forensic Sci.48(2) 343-347 .
+
+Shutler, G. And Roy, T. (2012) Genetic anomalies consistent with gonadal mosaicism encountered in a
+sexualassault-homicide. Forensic Sci. lnternationalGenetics, 6(6), e159-160.
+
+Bright, J.A. et al, STRmixrM collaborative exercise on DNA mixture interpretation - (2019) Forensic Sci.
+lnternationalGenetics,40,l-8. https://doi.org/10.1016ij.fsigen.2019.01.006
+
+Books
+
+Shutler, G., An Overuiew of Histoical Developments in Forensic DNA Analysis, in Forensic Botanv -
+Principles and Applications to Criminal Casework, ed. Heather Miller Coyle, CRC Press, 2005.
+
+Palmbach, T. and Shutler, G., Legal Considerations for Acceptance of New Forensic Methods in Court, in
+Forensic Botanv - Principles and Applications to Criminal Casework, ed. Heather Miller Coyle, CRC Press,
+2005.
+
+
+Refereed Short Reports
+
+
+
+
+                                                  004184
+                                                                                                             11
+
+
+
+Shutler, G., Leblond, S., Bailly, J., MacKenzie, A.E., Tsilfidis, C. and Korneluk, R.G. (1991)An insertion
+polymorphism identified bythe probe pEO.8 (D195l't5) at 19q13.3.. NucleicAcids Res., 19, 1't59.
+Shutler, G., Tsilfidis, C., Leblond, S. and Korneluk, R.G. (1991) RFLP identified by the probe pKE0.8
+(D19S117)at human chromosome 19q13.3. NucleicAcids Res., 19, 1158.
+
+Korneluk, R.G., Tsilfidis, C., Shutler, G., Mahadevan, M., Bailly, J. and Surh, L. (1991) Athree allele insertion
+polymorphism is identified bythe human chromosome 19q13.3 probe pKEO.8 (D195119). NucleicAcids Res.,
+19, 1157.
+
+Tsilfidis, C., Shutler, G., Leblond, S. and Korneluk, R.G. (1991) A Sstl RFLP detected bythe probe pKE2.1
+(D1 9S1 16) localized to human chromosome 1 9q1 3.3. Nucleic Acids Res., 1 9, 1 1 58.
+
+
+Tsilfidis, C., Shutler, G., Mahadevan, M. and Korneluk, R.G. (1991)AfrequentHincllpolymorphism identified
+bythe human chromosome 19q13.3 probe pKEX0.8 (D19S118). NucleicAcids Res., 19,'1157.
+
+
+
+
+Abstracts
+
+Shutler, G.G. (1982) The evaluation of semen detection methods in the absence of spermatozoa for rape
+investigations. Can. Soc. Forens. Sci. J., 15,#314,178.
+
+Shutler, G.G. (1985) Detection of native indian variant markers (Gc, Tf, Alb) in dried bloodstains. Can. Soc.
+Forens. Sci., 18, #3,145.
+
+Shutler, G.G. and Tompkins, D.C. (1986) Evaluation of the PhastSystemtm for bloodstain analysis. Can. Soc.
+Forens. Sci., 19, H,263.
+
+Shutler, G.G. and Tompkins, D.C. (1986) A preliminary study on the application of DNA fingerprinting for
+bloodstains in criminalcases. Can. Soc. Forens. Sci. J., 19,#,263.
+
+Shutler, G.G., Macey, H.L., and Tompkins, D.C. (1987) Characterization of Bloodstains by PGM subtyping
+utilizing the Phastsystemh. 11th meeting of the lnternational Association of Forensic Science, Vancouver,
+B.C.
+
+Shutler, G.G. and Tompkins, D.C. (1987) The development of standardization protocolforABO grouping of
+blood and body fluid stains by ELISA technology. (ibid)
+
+Shutler, G.G. and Tompkins, D.C. (1987) An evaluation of casework materialfor suitability of analysis by
+recombinant DNA techniques. (ibid)
+
+Shutler, G.G., Monteith, N. and Korneluk, R.G. (1988) lnfluences on RFLP's generated by alteration of
+prehybridization and hybridization conditions. Genome 30 (suppl. 1),236.
+
+Korneluk, R.G., Leblond, S., Shutler, G.G., Bailly, J., Tsilfidis, C. and MacKenzie, A.E. (1990) Linkage
+disequilibrium between myotonic dystrophy (DM) and an extended chromosome 19 haplotype in French
+Canadians. J. Neurol. Sci., 98, 38.
+
+Korneluk, R.G., Tsilfidis, C, Shutler, G.G., Leblond, S., Bailly, J., MacLeod, H., Lahey, D. and MacKenzie, A.E.
+(1990) Two distinct chromosome 19 haplotypes show linkage disequilibrium with myotonic dystrophy (DM) in a
+
+
+
+
+                                                    004185
+                                                                                                             12
+
+French Canadian population. Am J. Hum. Genet. 47, 4186.
+
+Shutler, G.G., Leblond, S., Earle, J., de Jong, P. and Korneluk, R.G. (1990) Rapid chromosome walking
+toward the myotonic dystrophy gene by an ALU based PCR technique. Am. J. Hum. Genet., 47, M62.
+
+Tsilfidis, C., MacKenzie, A.E., Shutler, G.G., Leblond, S., Bailly, J., Johnson, K., Davies, J., Buxton, J. and
+Korneluk, R.G. (1990) A recombinant event maps the DNA probe p134c telomeric to the myotonic dystrophy
+(DM) locus on 19q. Am. J. Hum. Genet., 47, A202.
+Jansen, G., de Jong, P., Voovs, M., Aslanidis, C., Korneluk, R.G., Shutler, G., Wormskamp, N., Smeets, B.,
+Ropers, H. H. and Wieringa, B. (1 991 ) Genetic and physical definition of the myotonic dystrophy gene region.
+Am. J. Hum. Genet., 49,4405.
+
+Korneluk, R.G., Bailly, J., Shutler, G.G., Tsilfidis, C, Mahadevan, M., Neville, C., Narang, M., Foitzik, M. and
+MacKenzie, A.E. (1991) Progress in cloning the myotonic dystrophy gene. Am. J. Hum. Genet., 49,4404.
+
+Shutler, G.G., Tsilfidis, C., Neville, C. and Korneluk, R.G. (1991) Characterization of a CpG rich island from a
+region of human chromosome 19q13.3 which contains the myotonic dystrophy (DM) gene. Am. J. Hum.
+Genet., 49, A2370.
+
+
+Tsilfidis, C, Neville, C., MacKenzie, A.E., Shutler, G., Mahadevan, M., and Korneluk, R.G. (1991) Haplotype
+analysis of a French Canadian myotonic dystrophy (DM) population suggests the DM gene is contained within
+a 350 Kb region of chromosome 19q13.3. Am J. Hum. Genet., 49, 42036.
+
+Sabourin, L.A., Mahadevan, M., Narang, M., Shutler, G.G. and Korneluk, R.G. (1992) Myotonic dystrophy:
+transcriptional repression of the DM kinase in affected individuals is not an immediate effect of CTG
+trinucleotide expansion. Am. J. Hum. Genet., 51-4,4400.
+
+Shutler, G.G., MacKenzie, A.E., Neville, C., Mahadevan, M., Tsilfidis, C., Jansen, G., de Jong, P., Wieringa,
+B. and Korneluk, R.G. (1992) Correlation of the consensus genetic and physical maps of the myotonic
+dystrophy (DM) region. Am. J. Hum. Genet., 514,4400.
+
+Roy, N., McLean, M., Besner, A., Salih, M., Shutler, G., Korneluk, R.G. and MacKenzie, A. (1993) lsolation
+and characterization of yeast artificialclones (YAC) in the spinal muscularatrophygene region of 5q13. Am. J.
+Hum. Genet., 53-3, A1353.
+
+Shutler, G., Roy, N, Mclean, M., Sukhdeo, A., Stoddart, K., Kang, X., Yaraghi, 2., Besner, A., Baird, S.,
+lkeade, J., Korneluk, R. and MacKenzie, A. (1994) Characterization of a cDNA clone that maps to the critical
+region of spinal muscular atrophy (SMA) locus of 5q13. Am. J. Hum. Genet., 55-3, 1919.
+
+Mclean, M., Roy, N., Tamai, K., Shutler, G., Yaraghi, 2., Salih, Lefebvre, C., Besner, A., Aubry, H., Surh, L.,
+deJong, P., Korneluk, R.,lkeada, J. and MacKenzie,A. (1994) isolationof cDNAclonesfromwithinthespinal
+muscular atrophy (SMA) disease gene region. Am. J. Hum. Genet., 55-3, 2190.
+
+Fourney, R.M., Freageau, C.J., Bowen, K.L., Shutler, G.G., Elliott. J.C., Klevan, L., Hartley, J., Hu, and
+Carmody, G.R. (1995) STR match criteria:An evaluation of the precision and measurementwindowforSTR
+loci using internal molecular weight standards and automated fluorescent detecetion. Sixth international
+Symposium on Human ldentification, Scottsdale, Arizona.
+
+Fourney, R.M., Freageau, C.J., Bowen, K.L., Shutler, G.G., Elliott, J.C., Roussy, P.D. and Carmody, G.R.
+(1995) lnterpretation guidelines for fluorescent automated detection of STRs: Defining the allele and limits of
+detection. Sixth internationalSymposium on Human ldentification, Scottsdale, Arizona.
+
+
+
+
+                                                   004186
+                                                                                                        13
+
+
+
+Embil, J. Shutler, G., Abrams, S., Al-Barrak, A., Dyck, B., Olekson, K., McLeod, J. and Nicolle, L. (1999)
+Assaying for the presence of blood in multi-dose local anesthetic vials. The Canadian Journal of lnfectious
+Diseases, 10D, 86.
+
+Shutler, G. (2003) Cannabis DNA Typing, A Review of. Canadian Society of Forensic Science Annual
+General Meeting, Vancouver, BC.
+
+Shutler,G., Copp, T, and Chau, J (2004) Studies of PCR lnhibition, American Academy of Forensic Sciences,
+Annual Meeting, Dallas, TX.
+
+Shutler, G. (2004) lnterpretation of DNA Quantification Results Using QuantifilerrM Kits and the AB! PRISM@
+7000 Sequence Detection System, ABI Road show, Berkeley and Anaheim, CA
+
+Shutler G., Hodge P., Gauthier J., Currie J.(2004), lnterpretation of human DNA quantification results from
+the Applied Biosystem QuantifilerrM kits and PRISM@ 7000 Sequence Detection system. NIJ DNA Grantees
+Meeting, Washington, D.C.
+
+Shutler, G., DNA and Criminal Forensics (2007) ASTAR - University of Washington School of Law,
+Language of the Sciences RegionalWesUNorthwest Boot Camp, Event One in the National Resource Judge
+Program, Seattle, WA.
+Butler, J., Shutler, G. Gross, A., Carmody, G., Dolph, A., Sgueglia, J. and Kalafyt, T. DNA Mixture
+lnterpretation: Principles and Practice in Component Deconvolution and StatisticalAnalysis (2008) Workshop
+- American Association of Forensic Sciences 60th Anniversary Meeting, Washington D.C.
+Shutler, G (2008) lmprovement of Real Time PCR DNA Quantification Using NIST 2372, NorthWest
+Association of Forensic Science meeting, Boise, lD.
+
+Shutler, G (2008) Current Topics in Mixture lnterpretation Workshop, Northwest Association of Forensic
+Science meeting, Boise, lD.
+
+Shutler, G, Jagmin, A., Bruesehoff, N., Sanderson, J. and Hodge, P (2010) Lessons Learned in the
+Application of the NIST DNA Quantification SRM 2372 to Quantitative Real-Time PCR Analysis, American
+Association of Forensic Sciences 62nd Annual Scientific Meeting, Seattle, Washington
+
+Shutler, G. lnterpretation of DNA mixtures and the recommendations of the SWGDAM lnterpretation
+Guidelines for Autosomal STR Typing by Forensic DNA Testing Laboratories, California Association of
+Criminalists -Advanced Mixture lnterpretation Workshop (2010) Cal StaIe/LAPD/LASD, Los Angeles,
+California
+
+Shutler, G. lnterpretation of DNA mixtures and the recommendations of the SWGDAM lnterpretation
+Guidelines for Autosomal STR Typing by Forensic DNA Testing Laboratories, California Association of
+Criminalists - Advanced Mixture lnterpretation Workshop (2010) UC Davis, Pasadena, California
+
+Butler, J., Coble, M., Bille, T., Sgueglia, J., Shutler, G., Gombos, J. Adamowicz, M. and Wickenheiser, R.
+DNA Mixture Analysis: Principles and Practice of Mixture lnterpretation and Statistical Analysis using the
+SWGDAM STR lnterpretation Guidelines (201 1) Workshop - American Association of Forensic Sciences
+61 st Anniversary Meeting, Chicago lL.
+
+
+Shutler, G., Return of DNA Extracts to User Agencies: Bio Sample Storage in the 21st Century and
+beyond - Biomatrica Workshop (2011) @ American Association of Forensic Sciences 61st Anniversary
+Meeting, Chicago lL.
+
+
+
+
+                                                 004187
+                                                                                                             I4
+Shutler, G. and Hodge, P. Considerations in planning for the automation of DNA analysis in a forensic
+laboratory system (2011) Workshop - Northwest Association of Forensic Sciences Fall Meeting, Tacoma,
+Washington.
+
+Shutler, G. Deriving ldentifiler@ Plus lnterpretation Guidelines from lnternalValidation Results - Applied
+Biosystems Roadshow (2011) @ Northwest Association of Forensic Sciences Fall Meeting, Tacoma,
+Washington.
+
+Shutler, G. ls the Classic Criminalist Approach for SexualAssault DNA Case Management and Analysis
+StillValid? (2013\ @ Green Mountain DNA Conference, Burlington, Vermont.
+
+Shutler, G. Recent and Upcoming Changes in Forensic DNA Analysis Services (2015) Washington State
+Bar Association - 22nd Annual Criminal Justice lnstitute, Burien, Washington
+
+Shutler, G. Tracking Quality Variances - What Can We Learn? ln To Err is Human: We Know We are
+Going to Err, So What Do We Do?, workshop at 28th lnternational Symposium on Human ldentification,
+Seattle, Washington (2017)
+
+
+
+
+                                                  004188
+

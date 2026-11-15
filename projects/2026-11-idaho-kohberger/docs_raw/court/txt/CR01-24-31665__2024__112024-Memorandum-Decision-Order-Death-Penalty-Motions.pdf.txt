@@ -1,0 +1,2843 @@
+                                                                                             NO
+                                                                                                              FILED
+                                                                                            AM,                 PM
+
+
+                                                                                                       NOV 20 2024
+
+                                                                  TRENT TRIPPLE, Clerk
+               IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT By/ANNA  MEYER
+                                                                          DEPUTY
+                     THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+
+    STATE OF IDAHO,
+                                                                 Ada County Case No. CR01-24-31665
+                  Plaintiff,
+    V                                                            MEMORANDUM DECISION AND
+                                                                 ORDER ON DEATH PENALTY
+    BRYAN C. KOHBERGER,                                          MOTIONS
+
+                  Defendant.
+
+
+
+
+L           INTRODUCTION
+            Defendant is charged with one count of Burglary and four counts of Murder in the First
+
+Degree in connection with the deaths of four University of Idaho students. The State has filed a
+notice of intent to seek the death penalty pursuant to Idaho Code § 18-4004A. ("Notice")!
+
+            Before the Court are twelve motions filed by Defendant challenging various aspects of
+Idaho's capital punishment scheme. (collectively, "Death Penalty Motions"). A hearing on the
+
+
+'
+    Amended Notice Pursuant to Idaho Code § 18-4004A (Oct. 9, 2024).
+
+21. Motion to Strike State's Notice Pursuant to Idaho Code §18-4004A on Grounds of Arbitrariness (Sept. 5, 2024)
+    2. Motion to Strike Utter Disregard Aggravator (Sept. 5, 2024)
+    3. Motion to Strike HAC Aggravator (Sept. 5, 2024)
+    4. Motion to Strike Multiple Victims Aggravator (Sept. 5, 2024)
+    5. Motion to Strike Future Dangerousness Aggravator (Sept. 5, 2024)
+    6. Motion to Strike State's Notice of Intent to Seek Death Penalty on Grounds of Failure to Present Aggravators to
+Neutral Fact Finder (Sept. 5, 2024)
+ 7. Motion to Strike State's Notice of Intent to Seek Death Penalty on Grounds of International Law (Sept. 5, 2024)
+8. Motion to Strike State's Notice of Intent to Seek Death Penalty on Grounds of Contemporary Standards of
+Decency (Sept. 5, 2024)
+ 9. Motion to Strike the Death Penalty on Grounds of State Speedy Trial Preventing Effective Assistance of Counsel
+(Sept. 5, 2024)
+  10. Motion to Strike State's Notice of Intent to Seek Death Penalty on Grounds of Means of Execution (Sept. 5,
+2024)
+  11. Motion for Court Order Requiring the State: (1) to Provide Notice of Every Alleged Nonstatutory Aggravating
+Fact/Circumstance it May Rely On At Any Sentencing Trial; and (2) to Prove Beyond a Reasonable Doubt Every
+Alleged Nonstatutory Aggravating Fact/Circumstance (Sept. 5, 2024)
+ 12. Motion to Trifurcate the Proceedings and Apply Rules of Evidence During Eligibility Phase (Sept. 5, 2024).
+
+                                                             1
+motions was held on November 7, 2024, following which the Court took the matters under
+
+advisement. The Court concludes relief in Defendant's favor is not warranted on any of the
+
+motions.
+
+Il.     STANDARDS
+        The constitutionality of Idaho's capital punishment scheme is a question of law. State v.
+
+Abdullah, 158 Idaho 386, 450, 348 P.3d 1, 65 (2015). When a party challenges a statute on
+constitutional grounds, it "bears the burden of establishing that the statute is unconstitutional and
+
+must overcome a strong presumption of validity." State v. Manzanares, 152 Idaho 410, 418, 272
+
+P.3d 382, 390 (2012) Further, when considering these challenges, courts are "obligated to seek
+an interpretation of a statute that upholds its constitutionality." /d.
+
+        The interpretation of a treaty is a question of law, as are matters of statutory
+
+interpretation. Pocatello v. State, 145 Idaho 497, 505, 180 P.3d 1048, 1056 (2008); State v. Hall,
+163 Idaho 744, 796, 419 P.3d 1042, 1094 (2018).
+
+        Whether there is an infringement of a defendant's right to speedy trial presents a mixed
+
+question of law and fact. State v. Clark, 135 Idaho 255, 257, 16 P.3d 931, 933 (2000). A
+
+reviewing court will defer to the trial court's findings of fact if supported by substantial and
+competent evidence and will exercise free review of the trial court's conclusions of law. Jd.
+        A motion to trifurcate capital proceedings is a matter of discretion. United States v.
+Bolden, 545 F.3d 609, 618-19 (8th Cir. 2008); see also, Armand v. Opportunity Mgmt. Co., 155
+Idaho 592, 602, 315 P.3d 245, 255 (2013) (whether to order separate trials for any claims or
+
+issues is discretionary). Consequently, a trial court must: 1) correctly perceive the issue as one of
+
+discretion; 2) act within the outer boundaries of its discretion; 3) act consistently with the legal
+standards applicable to the specific choices available to it, and; 4) reach its decision by the
+
+exercise of reason. State v. Guerra, 169 Idaho 486, 493, 497 P.3d 1106, 1113 (2021).
+
+
+
+
+*Defendant also filed a Motion to Strike the Felony Murder Aggravator (Sept. 5, 2024), but that motion was
+rendered moot when the State amended the Notice to withdraw that particular aggravator.
+
+
+                                                        2
+Ill.     ANALYSIS?
+         A.       Motion to Strike State's Notice On Grounds of Arbitrariness
+         Defendant moves to strike the State's Notice on grounds that Idaho's capital sentencing
+
+scheme fails to narrow the class of first-degree murderers who are death-eligible defendants, thus
+
+permitting an arbitrary and capricious selection of defendants for death. He further argues
+Idaho's scheme is unconstitutional due to geographic disparities as to who is selected for the
+death penalty. These infirmities, according to Defendant, violate his Eighth Amendment
+
+protection against cruel and unusual punishment, his Fourteenth Amendment rights to due
+
+process and equal protection, the Idaho Constitution's corollary provisions, as well as the right to
+
+uniformity ofjustice provided by Article V, Sections 2 and 26 of the Idaho Constitution. In
+support of his argument, Defendant relies in large part on a study conducted and published in a
+law review article by Professor Aliza Cover of the University of Idaho College of Law.'
+         In response, the State contends that both arguments are foreclosed by binding precedent.
+
+It further argues that Professor Cover's article should be afforded little, if any, weight given
+
+foundational issues and lack of relevance.
+
+                  1.       Constitutional Requirements of a Capital Punishment Scheme
+         In imposing capital punishment, Idaho has a constitutional responsibility under the Eighth
+
+and Fourteenth Amendments to the U.S. Constitution to tailor and apply its laws in a manner that
+
+avoids the arbitrary and capricious infliction of the death penalty. Godfrey v. Georgia, 446 U.S.
+
+420, 428 (1980). To accomplish this, Idaho's capital sentencing scheme must "provide 'a
+
+meaningful basis for distinguishing the few cases in which [the penalty] is imposed from the
+
+many cases in which it is not.'" Jd. (quoting Gregg v. Georgia, 428 U.S. 153 (1976)).
+
+
+3In his motions, Defendant raises challenges under the U.S. Constitution and corollary provisions in the Idaho
+Constitution. However, he did not provide any argument or authority as to why this Court should interpret the
+protection afforded under Idaho's Constitution as more expansive than that provided by the U.S. Constitution. See
+e.g., State v. Donato, 135 Idaho 469, 472, 20 P.3d 5, 8 (2001) (explaining that this Court may declare the Idaho
+Constitution to provide greater protection than the federal constitution in some instances). Thus, unless otherwise
+noted, the Court will confine its analysis to U.S. Constitutional law.
+
+4
+  Aliza Plener Cover, Narrowing Death Eligibility in Idaho: An Empirical and Constitutional Analysis, 57 Idaho L.
+Rev. 559 (2022). The State objected to live testimony by Prof. Cover regarding her law review article on grounds
+that her opinions constituted legal opinions, lacked legal relevance and lacked foundation. The Court orally granted
+the objection, concluding her analysis was not relevant to the pertinent legal issues and finding her law review
+article to be a sufficient proffer for purposes of the motion.
+
+
+                                                          3
+Constitutional review of a state's capital punishment scheme addresses two separate aspects of
+the decision-making process: the eligibility decision and the selection decision. Tuilaepa v.
+
+California, 512 U.S. 967, 971 (1994). States must comply with the requirements of both for their
+respective schemes to be constitutional. Kansas v. Marsh, 548 U.S. 163, 174, (2006).
+                          a.       Eligibility Standards
+        The eligibility decision imposes a narrowing requirement on a state capital scheme. "To
+
+pass constitutional muster, a capital sentencing scheme must 'genuinely narrow the class of
+
+persons eligible for the death penalty and must reasonably justify the imposition of a more severe
+sentence on the defendant compared to others found guilty of murder.'" Lowenfield v. Phelps,
+
+484 U.S. 231, 244 (1988) (quoting Zant v. Stephens, 462 U.S. 862, 877 (1983)). State legislatures
+
+can satisfy the narrowing function in one of two ways: 1) by narrowing the definition of capital
+
+offenses, or; 2) by "more broadly defin[ing] capital offenses and provid[ing] for narrowing by
+
+jury findings of aggravating circumstances at the penalty phase." Jd. at 246; see also, Zant, 462
+U.S. at 878 ('statutory aggravating circumstances play a constitutionally necessary function at
+the stage of legislative definition: they circumscribe the class of persons eligible for the death
+
+penalty."'). For states that have attempted to satisfy the narrowing requirement through the
+enactment of statutory aggravators, the United States Supreme Court requires:
+
+        [T]he trier of fact must convict the defendant of murder and find one 'aggravating
+        circumstance' (or its equivalent) at either the guilt or penalty phase.... [T]he
+        aggravating circumstance must meet two requirements. First, the circumstance
+        may not apply to every defendant convicted of a murder; it must apply only to a
+        subclass of defendants convicted of murder. Second, the aggravating
+        circumstance may not be unconstitutionally vague.
+
+
+Tuilaepa, 512 U.S. at 972 (internal quotes and cites omitted).
+        That said, if a particular statutory aggravator is vague, state courts are permitted to further
+define the aggravator through a limiting construction so as to allow the state to meet its
+
+constitutional obligation to "provide some guidance to the sentencer" and avoid the arbitrary and
+
+capricious infliction of death. Arave v. Creech, 507 U.S. 463, 471 (1993) (quoting Walton v.
+Arizona, 497 U.S. 639, 654 (1990)) (emphasis in original).°
+
+
+  Consequently, an Eighth Amendment vagueness challenge to a specific aggravating factor must consider both the
+5
+
+
+statutory aggravator as well as any limiting construction placed upon the aggravator to determine whether it
+"adequately channels the discretion of the sentencing body in order to prevent the imposition of an arbitrary and
+capricious sentence." Dunlap v. State, 159 Idaho 280, 298-99, 360 P.3d 289, 307-08 (2015) (citations omitted).
+
+                                                         4
+                           b.      Selection Standards
+        The selection decision aspect of capital sentencing determines whether a death-eligible
+defendant should actually receive the death penalty. Tuilaepa, 512 U.S. at 972. This phase
+
+"requires individualized sentencing and must be expansive enough to accommodate relevant
+
+mitigating evidence so as to assure an assessment of the defendant's culpability." Jd.
+        What is important at the selection stage is an individualized determination on the
+        basis of the character of the individual and the circumstances of the crime. That
+        requirement is met when the jury can consider relevant mitigating evidence of the
+        character and record of the defendant and the circumstances of the crime.
+
+
+/d. (internal quotes and cites omitted, emphasis in original).
+
+
+                 2.        The Idaho Supreme Court has found Idaho's capital scheme to be
+                           constitutionally narrow.
+
+        Idaho has opted to satisfy the constitutionally imposed eligibility requirements through
+
+the adoption of statutory aggravators in addition to statutorily carving out a class of murders, i.e.,
+
+first-degree, to which the death penalty may apply.® Under Idaho law, first-degree murder is a
+
+potentially capital crime "if such person killed, intended a killing, or acted with reckless
+indifference to human life, irrespective of whether such person directly committed the acts that
+caused death." I.C. § 19-2515(1). If an individual falls into this category, at least one of the
+
+eleven statutorily enumerated aggravating circumstances-several of which are subject to
+
+limiting constructions-must be found beyond a reasonable doubt for the individual to be death-
+eligible. Zd. at § 19-2515(9).
+        Defendant contends Idaho's scheme has "so many aggravating circumstances, so broadly
+
+construed, that the aggravators accomplish no narrowing" and create a greater risk of arbitrary
+death sentences. However, the Idaho Supreme Court has determined that Idaho's approach
+
+accomplishes the "narrowing function" in the eligibility phase as required by the U.S.
+Constitution. Hall, 163 Idaho at 788, 419 P.3d at 1086 (citing State v. Wood, 132 Idaho 88, 102,
+967 P.2d 702, 716 (1996)).' Noting that while a particular aggravator may apply to many
+
+
+
+®1.C.§ 18-4003; 18-4004.
+7
+ See also, State v. Creech, 105 Idaho 362, 369, 670 P.2d 463, 470 (1983) ("In Idaho, the aggravating circumstances
+which a sentencing judge may consider in pronouncing sentence in a capital case are clearly laid out in I.C. § 19-
+
+                                                         5
+murders, the Court concluded no one aggravator "appl[ies] to every first-degree murder                          which
+is all the narrowing required by Tuilaepa." Id. (emphasis in original). Consequently, Defendant's
+
+argument is foreclosed by Hall.'
+           Moreover, in challenging Idaho's scheme, Defendant improperly focuses on the statutory
+
+aggravating factors in the aggregate rather than individually.? This approach was rejected by the
+Idaho Supreme Court in State v. Hairston, 133 Idaho 496, 988 P.2d 1170 (1999). There, the
+
+defendant argued that the combination of all statutory aggravators applied equally to all first-
+
+degree murder defendants and, therefore, did not provide a meaningful distinction between those
+
+deserving of the death penalty and those who were not. /d. at 508, 988 P.2d at 1182. The Court
+found "no legal basis" for considering the aggregate effect of Idaho's aggravators, noting that
+
+each aggravator must be considered individually. /d. (citing Arave, 507 U.S. at 470 (narrowing in
+
+the eligibility phase of capital proceedings focuses on whether the sentencer is required to find at
+
+least one aggravating fact beyond the murder itself)).'° Because the defendant failed to challenge
+
+any one particular aggravating circumstance, the Court refused to find Idaho's capital scheme
+
+"arbitrary and capricious." /d.
+           Defendant contends, however, that Hairston did not reach the question of whether
+
+Idaho's statutory scheme as a whole failed the narrowing function; rather he contends the Court's
+
+ruling was "on whether a Court could still determine who deserved death, not on whether the
+statutory structure had failed the narrowing function." Reply, p. 3. Defendant points out that, at
+the time of Hairston, judges-not juries-could still determine whether to impose the death
+
+
+2515, and thus, to the extent possible, arbitrariness or the influence of prejudice is avoided, but the necessary
+individual consideration is nonetheless preserved.")
+
+'The Idaho Supreme Court is "the ultimate authority in fashioning, declaring, amending, and discarding rules,
+principles, and doctrines of precedential law by application of which the lower courts will fashion their decisions.
+This Court has been and remains the final arbiter of Idaho rules of law, both those promulgated and those evolving
+decisionally." State v. Guzman, 122 Idaho 981, 987, 842 P.2d 660, 666 (1992).
+°
+ Defendant has also filed separate motions challenging the individual aggravators which, as discussed herein, are
+not meritorious.
+
+10
+     Similar "aggregating" arguments have been rejected around the country. See, e.g., State v. Hidalgo, 390 P.3d 783,
+791 (Ariz. 2017) ("Observing that at least one of several aggravating circumstances could apply to nearly every
+murder is not the same as saying that a particular aggravating circumstance is present in every murder.") cert denied,
+ 138 S.Ct. 1054 (2018); Steckel v. State, 711 A.2d 5, 12-13 (Del. 1998) ('[W]e find the relevant inquiry to be
+whether "the sentencer fairly could conclude that an aggravating circumstance applies to every defendant eligible for
+the death sentence," not ...whether, taken in combination, Delaware's statutory aggravating circumstances apply to
+virtually all defendants convicted of first degree murder.")
+
+
+                                                            6
+penalty.'' Thus, Defendant posits that whether Idaho's statutory scheme as a whole has provided
+sufficient narrowing to prevent juries from arbitrarily imposing death is a matter of first
+
+impression.
+           Defendant's attempt to distinguish Hairston is misplaced. The Court squarely held that
+there was no basis to consider whether the aggravators collectively performed the narrowing;
+
+rather, the relevant question was whether the applicable aggravator individually performed the
+
+narrowing. /d. at 508, 988 P.2d at 1182. Defendant has provided no basis for why the analysis
+should be different when a jury rather than a judge makes the determination.'? Indeed, in
+
+Tuilaepa      which was decided post Ring            the United States Supreme Court reiterated that the
+
+narrowing analysis focuses on the individual aggravator. Tuilaepa, 512 U.S. at 972 (noting the
+trier of fact must "find one 'aggravating circumstance'" and "the aggravating circumstance"
+
+must apply only to a subclass of defendants and may not be unconstitutionally vague).
+
+Consequently, Defendant's narrowing argument is further foreclosed by Hairston, which is
+binding on this Court."
+           Additionally, while the Eighth Amendment's narrowing analysis is typically confined to
+the eligibility phase, the narrowing effect of the selection phase and mandatory appellate review
+
+that focuses on who ultimately receives the death penalty cannot be ignored. See, Hidalgo, 390
+
+P.3d at 792 (noting that a narrowing challenge to Arizona's capital scheme cannot focus solely
+
+
+
+
+"In Ring v. Arizona, the U.S. Supreme Court held that an Arizona statute allowing a judge rather than a jury to find
+an aggravating circumstance violated the Sixth Amendment. 536 U.S. 584 (2002). Following Ring, Idaho amended
+its capital scheme to require that a jury find the aggravating circumstance unless a jury is waived. See, S.L. 2003, ch.
+19, § 4.
+
+12
+  In Hall, the defendant made a similar argument, asserting that the HAC aggravator may have been constitutional
+when determined by a judge, but not by a jury because juries are less sophisticated and experienced than judges. 163
+Idaho at 786, 419 P.3d at 1084. The Court found "no basis, principled or otherwise" for the argument. /d.
+
+13
+   Professor Cover's law review article likewise did not consider the effect of individual statutory factors on
+narrowing. She grouped the statutory aggravators into those which were "fuzzy" and those which are "clear" and
+then determined whether each death-eligible case was supported by cither a "fuzzy" or "clear" aggravator. Cover, 57
+Idaho L. Rev. at 588. This grouping does not provide sufficient guidance as to whether any one aggravator is the
+problem, the remedy for which would be to strike the aggravator as opposed to find the entire scheme
+unconstitutional. Zant, 462 U.S. at 884. A similar deficiency was raised by four members of the U.S. Supreme Court
+in denying certiorari in ffidalgo v. Arizona, 138 S.Ct. 1054 (2018). They acknowledged there was empirical
+evidence that 98% of Arizona's first-degree murder defendants were death-eligible, but the petitioner failed to
+provide information as to what specific aggravators were implicated in these cases. /d. at 1058. Consequently, the
+Court does not find Professor Cover's article to be relevant to the issue of whether Idaho's scheme is
+constitutionally narrow.
+
+
+                                                           7
+on the statutory aggravating circumstances because the selection phase and mandatory appellate
+
+review provide further narrowing.). For a death penalty scheme to be constitutional, both the
+
+eligibility phase and selection phase must contain safeguards to "ensure that the process is
+neutral and principled so as to guard against bias or caprice in the sentencing decision."
+
+Tuilaepa, 512 U.S. at 973.
+       Idaho's selection phase requires that the jury weigh all the mitigating circumstances
+
+against each applicable aggravating circumstance and determine whether the imposition of the
+death penalty would be unjust. I.-C. § 19-2515(8)(a). The jury must unanimously agree that the
+
+death penalty is warranted. Jd. at § 19-2515(3)(b). If the death penalty is imposed, the sentence is
+
+then reviewed by the Idaho Supreme Court to determine: 1) whether the sentence of death was
+
+imposed under the influence of passion, prejudice, or any other arbitrary factor, and; 2) whether
+the evidence supports the jury's or judge's finding of a statutory aggravating circumstance. I.C. §
+
+19-2827(c). Thus, importantly, eligible defendants are further narrowed through these phases,
+which Defendant's argument does not consider.
+
+               3.      Defendant has not demonstrated Idaho's capital scheme is geographically
+                       arbitrary.
+
+       Defendant additionally argues that Idaho's capital scheme produces unequal application
+
+of the death penalty based on geography. Specifically, he maintains that all first-degree murders
+in Idaho fall within one of the aggravating circumstances listed in I.C. § 19-2515, thus giving
+
+prosecutors complete discretion to determine whether the seek the death penalty. This, he argues,
+
+gives rise to county-by-county arbitrariness. That is, "whether you are chosen for the death
+penalty depends more on where you committed the crime than how you committed the crime."
+Min., p. 8. To this end, he cites to Professor Cover's study noting that between 2002 and 2019,
+there were roughly the same number of death-eligible cases in three largest counties     Ada,
+
+Canyon and Kootenai      as in the remaining counties put together. Cover, 57 Idaho L. Rev. at
+
+593-95. This arbitrariness, according to Defendant, deprives him of equal protection under the
+
+law, constitutes cruel and unusual punishment and violates uniformity ofjustice afforded by the
+Idaho Constitution, art. V, §§ 2, 26.
+
+       Defendant's argument fails for three reasons. First, as discussed, the premise underlying
+Defendant's argument is misplaced. Although at least one of Idaho's enumerated statutory
+
+aggravators could apply to nearly every first-degree murder, that is not the proper analysis in
+
+                                                 8
+determining narrowness. The question is whether individual aggravators narrow the class of
+
+death-eligible murderers. Hall, 163 Idaho at 788, 419 P.3d at 1086.
+        Second, Defendant's geography-based challenge was considered and rejected by the
+Idaho Supreme Court in Hairston. 133 Idaho at 517-18, 988 P.2d at 1191-92. There, the
+
+defendant presented a study showing that the imposition of the death penalty was higher in urban
+
+counties than in rural counties and that financial resources potentially played a role ina
+
+prosecutor's decision to seek the death penalty. /d. The defendant argued this rendered Idaho's
+death penalty scheme arbitrary and capricious, but the Idaho Supreme Court disagreed. Id.
+
+Namely, the Court noted that the study did not collect or analyze the underlying data giving rise
+to the cause of the discrepancy. While there were indications the discrepancy was economically
+
+driven, this was insufficient to implicate a constitutional concern. /d. In so holding, the Court
+noted that variance in the implementation of a state's capital scheme is constitutionally
+
+permissible so long as it is based on legitimate, objective factors such as the strength of evidence,
+the capability of law enforcement agencies, and the judgment of the sentencing authority. Jd.
+
+(citing McCleskey v. Kemp, 481 U.S. 279, 308 (1987)).'4 Without empirical evidence connecting
+the discrepancy to an impermissible factor, the Court noted it would not trigger constitutional
+
+concern. Id.
+
+        Defendant has not offered the empirical evidence required by Hairston. Professor Cover
+
+admittedly did not collect or analyze the data that would provide the reason for the county-by-
+county discrepancy in Idaho. She notes:
+        I did not systematically collect data on offense egregiousness, nor did I catalog all
+
+        possible aggravating and mitigating circumstances in each case. As a result, I
+        cannot report findings ... about whether Idaho's system is 'arbitrary and
+        capricious' in the sense that the distribution of death sentences across the universe
+        of death-eligible cases can be explained not by the merits or the case (i.e., the
+        weight of the aggravating and mitigation circumstances), but rather by an
+        arbitrary factor such as race, gender or geography.
+
+
+14
+   In McCleskey, the United States Supreme Court held that a statistical study showing that race likely influenced the
+imposition of the death penalty in Georgia was insufficient to establish arbitrariness in Georgia's death penalty
+scheme. In doing so, it observed that the study merely showed a "discrepancy that appears to correlate with race"
+rather than solid evidence that Georgia enacted its death penalty statute with a racially discriminatory purpose. 481
+U.S. at 312. The Court further recognized that implementation of the death penalty is a discretionary judgment, that
+prosecutorial discretion is "essential to the criminal justice process," and the Court would not infer that discretion
+was abused absent "exceptionally clear proof." /d. at 297.
+
+
+                                                          9
+Cover, 57 Idaho L. Rev. at 593.
+        Thus, her study fails to support Defendant's argument for the same reasons the study in
+Hairston failed. There is simply no basis to conclude that the discrepancy she observed is caused
+
+by unbridled prosecutorial charging discretion or any other constitutionally impermissible
+factor.'°
+
+        Third, to establish an equal protection violation, Defendant must establish not only the
+existence of purposeful discrimination, but that that the decision makers in his case, i.e., the
+
+Latah County Prosecutor, acted with a discriminatory purpose. McCleskey, 481 U.S. at 292. The
+fact that the death penalty was sought against Defendant in Latah County as opposed to Ada,
+
+Canyon or Kootenai undermines any suggestion that Defendant was discriminated against on the
+basis of geography. Indeed, according to Professor Cover's study, not a single notice of intent to
+
+seek the death penalty was filed in Latah County during the time period she studied.
+
+        Defendant, however, contends that McCleskey and, by extension, Hairston, have been
+limited by the subsequent case of Bush v. Gore, a voting rights case in which the United States
+
+Supreme Court held that a state's counties cannot subject fundamental rights to differing,
+
+arbitrary standards and that a "formulation of uniform rules to determine intent based on these
+
+recurring circumstances is practicable and ... necessary." 531 U.S. 98, 106 (2000). Defendant
+
+argues that under Bush, "there is an equal protection issue with disparities in rights for citizens
+based on geography." Min., p. 10.
+
+        This argument, however, has been rejected by other courts that have considered
+
+challenges to prosecutorial discretion over the death penalty. See, Michael T. Morley, Bush v.
+Gore's Uniformity Principle and the Equal Protection Right to Vote, 28 Geo. Mason L. Rev. 229,
+238 n. 62 (2020) (collecting cases). Primarily, these courts find that the principles of Bush do not
+
+apply in the criminal context given its expressly limited holding. Id.'6 Other court have found
+that because their state capital schemes do not give prosecutors unbridled discretion in pursuing
+
+the death penalty, there is not the same risk of unequal treatment present in Bush. See, Crowe v.
+
+
+
+  Further, Professor Cover's study excludes death penalty notices filed in Idaho after 2019, many of which
+5
+
+
+originated in smaller counties.
+
+'6In Bush, the Supreme Court specifically stated that "our consideration is limited to the present circumstances, for
+the problem of equal protection in election processes generally presents many complexities." 531 U.S. at 109
+(emphasis added).
+
+
+                                                         10
+Terry, 426 F. Supp. 2d 1310, 1354-55 (N.D. Ga. 2005), aff'd sub nom. Crowe v. Hall, 490 F.3d
+840 (11th Cir. 2007). For both of these reasons, this Court likewise rejects the argument.
+
+            In sum, the Court finds that both arguments advanced by Defendant in aid of his
+
+arbitrariness motion are foreclosed by binding precedent and his efforts to distinguish such
+
+precedent fail. The motion is denied.
+            B.       Motion to Strike Individual Aggravators
+            The State has identified four statutory aggravators in its Notice that it intends to rely upon
+in requesting the imposition of death in this case:
+
+            1.       At the time the murder was committed the defendant also committed
+                     another murder;
+
+            2.       The murder was especially heinous, atrocious or cruel, manifesting
+                     exceptional depravity;
+
+            3.       By the murder, or circumstances surrounding its commission, the
+                     defendant exhibited utter disregard for human life, and;
+
+            4.       The defendant, by his conduct, whether such conduct was before, during
+                     or after the commission of the murder at hand, has exhibited a propensity
+                     to commit murder which will probably constitute a continuing threat to
+                     society.!7
+
+
+            Through four separate motions, Defendant seeks to strike each of the foregoing
+aggravators for various reasons. The Court finds none of Defendant's arguments to be prevailing.
+                     1.        Utter Disregard Ageravator
+
+
+            The utter disregard aggravator applies when "[b]y the murder, or circumstances
+
+surrounding its commission, the defendant exhibited utter disregard for human life." I.C. § 19-
+
+2515(9)(f). In State v. Osborn, the Idaho Supreme Court applied a limiting construction to the
+aggravator, to wit: "the phrase is meant to be reflective of acts or circumstances surrounding the
+crime which exhibit the highest, the utmost, callous disregard for human life, i-e., the cold-blooded,
+
+pitiless slayer." 102 Idaho 405, 419, 631 P.2d 187, 201 (1981).
+
+
+
+
+17
+     These aggravators are set forth in I.C. § 19-2515(9)(b), (e), (f) and (i), respectively.
+
+
+                                                               11
+         In moving to strike the aggravator, Defendant argues that Osborn's limiting construction
+
+or "judicial gloss" as he characterizes it-is unconstitutional as it violates the separation of powers
+
+in Art. II, § 1 of the Idaho Constitution. He additionally argues that Idaho Criminal Jury Instruction
+
+("ICJY') 1714 defining the utter disregard aggravator overlaps with ICJI 1713 defining the
+"heinous, atrocious and cruel" aggravator described in I.C. § 19-2515(9)(e) ("HAC") and ignores
+the alleged legislature's intent that the killing be done recklessly. Neither argument has merit.
+
+                          a.      Neither Verska nor the separation ofpowers doctrine precludes
+                                  the limiting construction.
+
+         There is no dispute that Idaho's utter disregard aggravator, as narrowed by Osborn, has
+
+consistently been upheld as constitutional, including by the United States Supreme Court where, in
+Arave v. Creech, it rejected a constitutional vagueness challenge. 507 U.S. 463 (1993). Specifically,
+the Court found it unnecessary to decide whether the statutory language itself passed the
+
+constitutional muster, concluding instead that Osborn's limiting construction "adequately channels
+
+sentencing discretion as required by the Eighth and Fourteenth Amendments." /d. at 465, 471.
+
+Analyzing the language of the limiting construction, the Court noted that "[i]n ordinary usage, then,
+the phrase 'cold-blooded, pitiless slayer' refers to a killer who kills without feeling or sympathy."
+
+Id. at 472. These terms, the Court observed, "describe the defendant's state of mind: not his mens
+
+rea, but his attitude toward his conduct and his victim." This is not a subjective matter, reasoned
+
+the Court, but "a fact to be inferred from the surrounding circumstances." /d. (emphasis in
+
+original).
+         Likewise, the Idaho Supreme Court has repeatedly reaffirmed the constitutionality of the
+utter disregard aggravator with the Osborn limiting construction.'® It most recently did so in 2018
+
+where, in Hall, it declined to revisit whether the aggravator was unconstitutionally vague, noting the
+issue had previously been "properly resolved." 163 Idaho at 786-87, 419 P.3d at 1084-85.
+
+         Defendant, however, argues that Osborn's limiting construction violates the separation of
+
+powers in Art. II, § 1 of the Idaho Constitution. Specifically, relying on Verska v. St. Alphonsus
+
+Regional Medical Center, Defendant argues that the courts have no power to revise an unambiguous
+
+
+
+8crate    Dunlap, 155 Idaho 345, 377, 313 P.3d 1, 33 (2013); Abdullah, 158 Idaho at 463, 348 P.3d at 78; State v.
+Pizzuto, 119 Idaho 742, 772, 810 P.2d 680, 710 (1991), overruled on other grounds by State v. Card, 116 Idaho 129,
+774, P.2d 299 (1989); State y Card, 121 Idaho 425, 434, 825 P.2d 1081, 1090 (1991); State v. Charboneau, 116 Idaho
+129, 774 P.2d 299 (1989), overruled on other grounds by Card, 121 Idaho at 432, 825 P.2d at 1088; Srate v. Aragon,
+107 Idaho 358, 367, 690 P.2d 293, 302 (1984); Gibson v. State, 110 Idaho 631, 638, 718 P.2d 283, 290 (1986).
+
+                                                       12
+statute in order to avoid absurdity because "the wisdom, justice, policy, or expediency of a statute
+
+are questions for the legislature alone." 151 Idaho 889, 896, 265 P.3d 502, 509 (2011).
+
+        However, as the State points out, Verska merely held that the Court does not have the
+authority to modify an unambiguous statute if applying it as written results in a palpable
+
+absurdity. Jd. at 896, 265 P.3d at 509 ("we have never revised or voided an unambiguous statute
+on the ground that it is patently absurd or would produce absurd results when construed as
+
+written, and we do not have the authority to do so."). Verska did not limit a court's ability to
+
+interpret ambiguous statutes or inhibit a court from applying clarifying standards to
+
+constitutionally vague statutes, particularly in the face of a constitutional obligation to tailor a
+statutory aggravator to "avoid[] the arbitrary and capricious infliction of the death penalty."
+
+Godfrey, 446 U.S. at 428.
+        In fact, in Abdullah-decided after Verska       the Idaho Supreme Court rejected a similar
+
+separation of powers argument with regard to the limiting construction for both the utter
+
+disregard and HAC aggravators, holding the Court was "within its constitutional authority to
+
+narrowly construe an aggravating circumstance to avoid an unconstitutionally vague statute" and
+its ability to do so is not "constrained by the separation of powers doctrine." 158 Idaho at 464,
+
+348 P.3d at 79. Indeed, despite Verska, the Court has continued to uphold Osborn's limiting
+
+construction for the utter disregard aggravator. See, Dunlap, 155 Idaho at 377, 313 P.3d at 33;
+
+Abdullah, 158 Idaho at 463, 348 P.3d at 78. This binding precedent forecloses Defendant's
+argument.
+                        b.      ICJI 1714 is consistent with case law.
+       The "utter disregard" standard is set forth in ICJI 1714. It states:
+        'Exhibited utter disregard for human life,' with regard to the murder or the
+       circumstances surrounding its commission, refers to acts or circumstances
+       surrounding the crime that exhibit the highest, the utmost, callous disregard for
+       human life, i.e., the cold-blooded, pitiless slayer. 'Cold-blooded' means marked
+       by absence of warm feeling: without consideration, compunction, or clemency,
+       matter of fact, or emotionless. 'Pitiless' means devoid of or unmoved by mercy or
+       compassion. A 'cold-blooded, pitiless slayer' refers to a slayer who kills without
+       feeling or sympathy. The utter disregard factor refers to the defendant's lack of
+       conscience regarding killing of another human being.
+
+
+ICJI 1714.
+
+
+                                                   13
+        This language was taken directly from the jury instruction provided in Abullah, which the
+Idaho Supreme Court affirmed as both "accurate" and constitutional. 158 Idaho at 463, 348 P.3d
+
+at 78. Nevertheless, Defendant challenges ICJI 1714 on grounds that it tracks too closely with ICJI
+
+1713 for the HAC aggravator by focusing on the defendant's state of mind and, additionally,
+
+ignores the legislature's intent that the killing be done recklessly. Both arguments fail.
+        The Court approaches these arguments with the presumption that the ICJIs are
+
+"presumptively correct." State v. Mann, 162 Idaho 36, 43, 394 P.3d 79, 86 (2017) (quotes,
+citations, brackets omitted). While ICJI 1713 also focuses on a defendant's state of mind in
+
+instructing on the HAC aggravator,!? it is through a distinctly different lens and, in fact, the
+Idaho Supreme Court has found the two aggravators are not duplicative. See, Wood, 132 Idaho at
+
+104, 967 P.2d at 718 (noting it was "clear" from prior cases that the two aggravating factors were
+
+distinct). Further, in Osborn, the Court acknowledged the HAC and utter disregard aggravators
+could overlap and, therefore, held that the phrase "utter disregard [] be viewed in reference to
+acts other than those set forth in [other statutory aggravators]." 102 Idaho at 418-19, 631 P.2d at
+
+200-01. Hence, the jury will also be instructed that "[t]he same facts, without more, cannot be
+relied on to find more than one statutory aggravating circumstance beyond a reasonable doubt."
+
+ICJI 1723. Together, these instructions ensure that, to the extent there is potential for overlapping
+evidence between the utter disregard and HAC aggravators, the jury is to consider it only once.
+        As for Defendant's recklessness argument, had the legislature intended to import this
+standard into the utter disregard aggravator, it could have done so as it did with two other
+
+statutory aggravators. See, I.C. §§ 19-2515(9)(g), (h). The fact it did not indicates the legislature
+intended a different standard to apply than recklessness. State v. Staples, 548 P.3d 375, 378
+
+(Idaho Ct. App. 2023), reh'g denied (Nov. 13, 2023), review denied (Jan. 19, 2024) ("When the
+
+legislature uses different language, a different meaning applies.")
+        In sum, the Court finds the limiting construction applied by the Idaho Supreme Court to
+
+the utter disregard statutory aggravator does not contravene the separation of powers doctrine or
+
+
+
+
+19
+   Specifically, ICJI 1713 instructs, in part: "The terms 'especially heinous manifesting exceptional depravity,'
+'especially atrocious manifesting exceptional depravity,' or 'especially cruel manifesting exceptional depravity'
+focus upon a defendant's state of mind at the time of the offense, as reflected by [his] [her] words and acts."
+
+
+
+
+                                                         14
+Verska, nor does ICJI 1714 misconstrue the statute or duplicate the HAC limiting construction.
+
+Consequently, Defendant's motion is denied.
+                    2.       HAC Aggravator
+           The HAC aggravator applies when "the murder was especially heinous, atrocious or
+
+cruel, manifesting exceptional depravity." I.-C. § 19-2515(9)(e). In Osborn, the Idaho Supreme
+Court applied a limiting construction to this aggravator using language adopted from other states.
+
+102 Idaho at 418, 631 P.2d at 200. Regarding the "especially heinous, atrocious or cruel" portion of
+
+the aggravator, the Court adopted the following language from the Florida Supreme Court:
+
+           [H]einous means extremely wicked or shockingly evil; that atrocious means
+           outrageously wicked and vile; and that cruel means designed to inflict a high
+           degree of pain with utter indifference to, or even enjoyment of, the suffering of
+           others. What is intended to be included are those capital crimes where the actual
+           commission of the capital felony was accompanied by such additional acts as to
+           set the crime apart from the norm of capital felonies--the conscienceless or pitiless
+           crime which is unnecessarily torturous to the victim.
+
+
+Osborn, 102 Idaho at 418, 631 P.2d at 200 (quoting State v. Dixon, 283 So.2d 1 (Fla. 1973))."?
+           With regard to the "manifesting exceptional depravity" portion of the aggravator, the
+Court adopted the following from the Nebraska Supreme Court:
+           In interpreting this portion of the statute, the key word is 'exceptional.' It might
+           be argued that every murder involves depravity. The use of the word
+           'exceptional,' however, confines it only to those situations where depravity is
+           apparent to such an extent as to obviously offend all standards of morality and
+           intelligence.
+
+Id. at 418, 631 P.2d at 200 (quoting State v. Simants, 250 N.W.2d 881 (Neb. 1976), cert. denied,
+434 U.S. 878 reh. denied, 434 U.S. 961 (1977)).
+
+           The Court found this limiting construction removed any vagueness from the HAC
+
+aggravator, rendering it "sufficiently definite and limited to guide the sentencing court's
+discretion in imposing the death penalty." /d. Subsequently, the Court upheld this language as
+constitutional. Pizzuto, 119 Idaho at 773, 810 P.2d at 711; Charboneau, 116 Idaho 129, 774 P.2d
+299. The Ninth Circuit likewise found the construction constitutionally sufficient. Leavitt v.
+
+
+
+2°
+     This limiting instruction had been previously approved by the United States Supreme Court in Proffitt v. Florida,
+428 U.S. 242 (1976).
+
+                                                            15
+Arave, 383 F.3d 809, 836 (2004); see also, Hall, 163 Idaho at 786, 419 P.3d at 1084 (observing
+that the HAC aggravator with the limiting construction "has been determined constitutional time
+
+and time again.").
+
+                       a.       Neither Verska nor the separation o powers doctrine precludes
+                                the limiting construction.
+       As with the utter disregard aggravator, Defendant contends the HAC aggravator must be
+stricken because the limiting construction violates the separation of powers and Verska. For the
+
+same reasons that argument failed for the utter disregard aggravator, it fails here.
+
+                       b.       ICJI 1713 is consistent with case law.
+       Additionally, Defendant argues ICJI 1713 fails to track with Osborn's limiting
+construction. Specifically, Defendant contends ICJI 1713 "does away with" the limiting
+
+instruction on "manifesting exceptional depravity," which Osborn defined as confined to
+
+situations where "depravity is apparent to such an extent as to obviously offend all standards of
+
+morality and intelligence." 102 Idaho at 418, 631 P.2d at 200. However, ICJI 1713 is nearly
+identical to Osborn. The minimal differences between the two are legally inconsequential.
+
+       In sum, for the reasons set forth with regard to the utter disregard aggravator, the Court
+
+finds the limiting construction applied by the Idaho Supreme Court to the HAC statutory
+
+aggravator does not contravene the separation of powers doctrine or Verska. Additionally, the
+Court finds ICJI 1713 appropriately embodies that limiting construction. Consequently,
+Defendant's motion is denied.
+               3.      Future Dangerousness ("Propensity") Aggravator
+       The "propensity" aggravator applies when "the defendant, by his conduct, whether such
+conduct was before, during or after the commission of the murder at hand, has exhibited a
+
+propensity to commit murder which will probably constitute a continuing threat to society." I.C.
+
+§ 19-2515(9)(i). In Creech, the Idaho Supreme Court upheld the propensity aggravator as
+
+constitutional and, in doing so, provided a narrowing interpretation:
+
+       [I]t cannot be asserted that the 'propensity' circumstance could conceivably be
+       applied to every murderer coming before a court in this state. We would construe
+       'propensity' to exclude, for example, a person who has no inclination to kill but in
+       an episode of rage, such as during an emotional family or lover's quarrel, commits
+       the offense of murder. We would doubt that most of those convicted of murder
+       would again commit murder, and rather we construe the 'propensity' language to
+       specify that person who is a willing, predisposed killer, a killer who tends toward
+
+                                                  16
+         destroying the life of another, one who kills with less than the normal amount of
+         provocation. We would hold that propensity assumes a proclivity, a susceptibility,
+         and even an affinity toward committing the act of murder.
+
+
+105 Idaho at 370-71, 670 P.2d at 471-72.
+
+         Since Creech, the Idaho Supreme Court and Idaho's federal district court have, on
+
+multiple occasions, upheld the constitutionality of the propensity aggravator when combined
+with this limiting construction against challenges that it is vague or that it unconstitutionally
+lowers the burden of proof. Dunlap, 159 Idaho at 299, 360 P.3d at 308 (citing cases).
+
+         Nevertheless, Defendant seeks to strike the aggravator on three grounds: 1) its limiting
+construction fails to narrow the class of death-eligible defendants; 2) it is impermissibly vague,
+
+and; 3) it is irrelevant to culpability and, therefore, cannot be an aggravator. As noted by the
+
+State, this Court does not have the ability to overrule Creech and its progeny affirming the
+
+ageravator's constitutionality and application. Guzman, supra. However, even if the Court had
+such ability, Defendant's arguments are not persuasive.
+
+                           a.       Creech's limiting construction narrows the class of death-eligible
+                                    defendants.
+
+         Defendant contends that the limiting construction applied in Creech excludes only those
+found guilty of voluntary manslaughter from its reach"! and effectively makes anyone who is
+
+found guilty of murder a candidate for death." He notes that "murder" is defined in Idaho, in
+
+relevant part, as:
+
+         the unlawful killing of a human being ... with malice aforethought or the
+         intentional application of torture to a human being, which results in the death of a
+         human being. Torture is the intentional infliction of extreme and prolonged pain
+         with the intent to cause suffering. It shall also be torture to inflict on a human
+
+
+
+21Defendant points out that the Creech limiting construction expressly excludes "a person who has no inclination to
+kill but in an episode of rage, such as during an emotional family or lover's quarrel, commits the offense of murder"
+which, as Defendant notes, describes voluntary manslaughter. I.C. § 18-4006 (defining voluntary manslaughter as
+the unlawful killing of a human being without malice "upon a sudden quarrel or heat of passion.").
+
+22
+  This same general argument was advanced in Dunlap, where the defendant argued a jury instruction based on the
+Creech limiting instruction that the Court had previously approved was unconstitutional because it encompassed
+"anyone who commits first degree murder." 159 Idaho at 298-300, 360 P.3d at 307-09. The Court rejected the
+argument, noting that the jury instruction: 1) provided that the jury could not base a propensity finding solely on the
+fact that it found the defendant guilty of murder, and; 2) instructed that propensity "requires a proclivity, a
+susceptibility, and even an affinity toward committing the act of murder." /d.
+
+
+                                                          17
+        being extreme and prolonged acts of brutality irrespective of proof of intent to
+        cause suffering.
+
+
+1.C. § 18-4001.
+
+         He perfunctorily contends that Creech's limiting construction captures all torturers within
+its ambit. Defendant additionally argues that the definition of malice aforethought set forth in
+
+LC. § 18-4002?3 corresponds exactly with that of the limiting construction because both
+definitions rely on a lack of provocation and a propensity or inclination toward murder.
+
+Therefore, he contends the limiting construction provides no meaningful narrowing of murderers
+who may qualify under the propensity aggravator.
+
+        Defendant is incorrect that the aggravator and its limiting construction applies to every
+
+murder. Creech specifically states that the propensity aggravator does not apply to "every
+
+murderer coming before the court in this state." 105 Idaho at 370-71, 670 P.2d at 471-72.
+
+Hence, ICJI 1717 instructs that "a finding that the defendant has a propensity to commit murder
+which will probably constitute a continuing threat to society cannot be based solely upon the fact
+that you found the defendant guilty of murder."
+
+        Additionally, Defendant is incorrect that both rely on a lack of provocation. While one
+way to show malice is to demonstrate a lack of "considerable provocation," it is not the only
+way. Moreover, the limiting construction requires that the murderer have an innate desire for the
+act of murder, i.e., "a proclivity, a susceptibility, and even an affinity toward committing the act
+
+of murder." Creech, supra. This far exceeds the malice definition. Finally, the aggravator itself
+requires a finding that a person "probably constitute[s] a continuing threat to society." I.C. § 19-
+
+2515(9)(i). This is not a requirement for a finding of malice aforethought.
+                           b.       The aggravator is not impermissibly vague or confusing.
+
+        Defendant next argues that the propensity aggravator is impermissibly vague and
+
+confusing to the jury as it applies to evidence of mental illness."* Defendant posits that a person's
+
+
+
+23
+  Section 18-4002, I.C., states: "Such malice may be express or implied. It is express when there is manifested a
+deliberate intention unlawfully to take away the life of a fellow creature. It is implied when no considerable
+provocation appears, or when the circumstances attending the killing show an abandoned and malignant hear."
+
+24
+  Defendant does not argue the aggravator is vague in a constitutional sense; indeed, void for vagueness challenges
+have been rejected time and again, including by the United States Supreme Court in Jurek v. Texas, 428 U.S. 262
+(1976). His argument is that the jury may be confused in applying the aggravator as it relates to mental illness.
+
+
+                                                         18
+future dangerousness is invariably linked to that person's mental disturbances. Mental illness,
+
+however, is supposed to be viewed as a mitigating factor for death penalty purposes. Thus, juries
+are essentially asked to consider mental illness as both a mitigating and aggravating factor,
+
+rendering the evidence a double-edged sword. Citing to studies conducted by an American Bar
+Association task force created to study the subject of mental disability and the death penalty,"°
+Defendant points out that juries are confused by the "double intention" behind evidence of
+
+mental illness and typically apply it as an aggravator rather than a mitigator. Thus, he argues it
+
+should be stricken.
+
+        The United States Supreme Court recognized the dilemma described by Defendant in
+
+Penry v. Lynaugh, when it noted that the defendant's "mental retardation and history of abuse is
+thus a two-edged sword: it may diminish his blameworthiness for his crime even as it indicates
+
+that there is a probability that he will be dangerous in the future." 492 U.S. 302, 324 (1989),
+
+abrogated by Atkins v. Virginia, 536 U.S. 304 (2002), and holding modified by Boyde v.
+California, 494 U.S. 370, 379-80 (1990). With such double-edged evidence, an instruction must
+be given to the jury to "consider and give effect to" mitigating evidence as it bears on the extent
+
+to which a defendant is undeserving of a death sentence. /d. at 319.
+
+        As illustrated in Penry, double-edged evidence is dealt with through instructions on the
+mitigation side, not through striking an aggravator. Defendant has cited not one case in which the
+propensity aggravator was stricken as a result of potential jury confusion in weighing double-
+
+edged evidence. Additionally, as the State points out, Defendant has not filed notice under I.C. §
+18-207 that he will be relying on a mental condition and there is no indication by either party that
+
+evidence of mental illness will be presented at sentencing. Consequently, the motion is not ripe
+
+and, even if it were, striking the aggravator is not the solution.
+                          C.       The aggravator is relevant.
+
+        Defendant finally argues that future dangerousness is not relevant to culpability and
+should be stricken. To this end, he observes that the Eighth Amendment requires that defendants
+
+only be condemned to die if they are deserving based on their culpability, not their
+
+
+
+25
+  Ronald J. Tabak, Overview of Task Force Proposal on Mental Disability and the Death Penalty, 54 Cath. U. L.
+Rev. 1123, 1128-29 (2005) (observing that most jurors do not understand what "'mitigating" means or how to apply
+mitigating factors such as severe mental illness, which jurors often equate with future dangerousness, an
+aggravator.)
+
+
+                                                       19
+dangerousness. Because a person's propensity to commit murder in the future has no bearing on
+
+culpability, Defendant contends future dangerousness can only be considered, if at all, after the
+jury has already found a different statutory aggravator applies.
+       Defendant's argument, however, fails to recognize that a defendant's future
+
+dangerousness has long been a sentencing consideration, which places an emphasis on
+
+culpability. California v. Brown, 479 U.S. 538, 545 (1987) (O'Connor, J. concurring) (noting an
+"emphasis on culpability in sentencing decisions has long been reflected in Anglo-American
+jurisprudence."), holding modified by Boyde, 494 U.S. at 378-80. In Simmons v. South Carolina,
+the United States Supreme Court observed:
+
+       This Court has approved the jury's consideration of future dangerousness during
+       the penalty phase of a capital trial, recognizing that a defendant's future
+       dangerousness bears on all sentencing determinations made in our criminal justice
+       system. See Jurek v. Texas, 428 U.S. 262, 275, 96 S.Ct. 2950, 2958, 49 L.Ed.2d
+       929 (1976) (joint opinion of Stewart, Powell, and STEVENS, JJ.) (noting that
+       "any sentencing authority must predict a convicted person's probable future
+       conduct when it engages in the process of determining what punishment to
+       impose"); California v. Ramos, 463 U.S. 992, 1003, n. 17, 103 S.Ct. 3446, 3454,
+       n. 17, 77 L.Ed.2d 1171 (1983) (explaining that it is proper for a sentencing jury in
+       a capital case to consider "the defendant's potential for reform and whether his
+       probable future behavior counsels against the desirability of his release into
+       society").
+
+512 U.S. 154, 162 (1994).
+
+       As the State points out, the "protection of society" is the "primary consideration" in
+fashioning a sentence for a criminal defendant. State v. Toohill, 103 Idaho 565, 568, 650 P.2d
+707, 710 (Ct. App. 1982). A capital defendant's future dangerousness, therefore, is directly
+relevant to whether he or she is "culpable" for sentencing purposes.
+
+       In sum, the Court finds the propensity aggravator is sufficiently narrow to encompass
+
+only a select set of murderers, the jury will not be misled or confused as to its application as it
+relates to evidence of mental illness, and it is relevant to culpability. Consequently, Defendant's
+
+motion is denied.
+               4.      Multiple Victims Aggravator
+       The "multiple victims" aggravator applies when, "[a]t the time the murder was
+committed the defendant also committed another murder." I.C. § 19-2515(9)(b). In seeking to
+
+
+                                                  20
+strike this aggravator, Defendant contends it fails to speak to the severity of the crime, it violates
+the prohibition on double counting aggravator evidence and it impermissibly "scores" victims.
+
+The Court is not persuaded by these arguments.
+                       a.       The aggravator is relevant to culpability.
+
+       With regard to the first argument, Defendant contends "murders cannot be aggregated in
+a manner that makes the act of a malice aforethought murder aggravated." To this end, while he
+
+acknowledges this aggravator is intuitive and widely adopted, he contends that-standing
+alone-it fails to focus on the degree of the crime and allows for the imposition of the death
+penalty simply because there were two victims, without any additional evidence that gives
+
+insight into the culpability of the defendant. Thus, to render the act of two murders aggravated,
+the jury must necessarily resort to one of the other aggravators.
+
+       However, as the State points out, Defendant's argument is essentially a public policy
+argument lacking any legal authority at all. Indeed, in asserting that there is "no way in which
+two murders can be aggregated in a way that makes the act of murder aggravated except to resort
+
+to one of the other aggravators," Defendant refers to a law review article which states no such
+
+thing. In fact, it identifies "multiple victims" as a "legally relevant" factor influencing the
+
+punishment decision in capital cases. See, Jonathan R. Sorensen & James W. Marquart,
+Prosecutorial and Jury Decision-Making in Post-Furman Texas Capital Cases, 18 N.Y.U. Rev.
+L. & Soc. Change 743, 751 (1991).
+                       b.       The aggravator does not permit double counting.
+
+
+       Additionally, the multiple victim aggravator does not violate the prohibition on double
+counting aggravator evidence. This prohibition      typically given as a jury instruction (ICJ1
+1723)-allows a jury, in considering a particular aggravator, to consider the same evidence it
+previously considered for a different aggravator so long as it finds additional aggravating
+evidence to support a finding of the particular aggravator beyond a reasonable doubt. Abdullah,
+158 Idaho at 470, 348 P.3d at 85. This rule is based on the presumption that the "legislature did
+
+not intend to duplicate aggravating circumstances." Jd. (quoting Dunlap, 155 Idaho at 365, 313
+
+P.3d at 21.
+       Defendant notes, however, that the multiple victim aggravator has no additional
+
+aggravating evidence and, therefore, it is not possible for the jury to properly consider it. This
+argument assumes the jury will rely solely on the fact of multiple victims for the other statutory
+
+                                                  21
+aggravators. The State represents it intends to prevent sufficient evidence on all the applicable
+
+statutory aggravators to prevent the jury from double counting. In other words, the jury can find
+the multiple victim aggravator met and still use the evidence of multiple murders in finding the
+
+other statutory aggravators met because there will be other evidence. If they are not persuaded by
+
+the other evidence, ICJI 1723 instructs them they are not to make a finding that the aggravator is
+
+met.
+
+                                   The aggravator does not constitute victim-scoring.
+
+        Finally, Defendant argues the multiple murders aggravators effectively "scores" murder
+victims by saying a single dead person is not as valuable as two. He notes that the United States
+
+Supreme Court rejected scoring murder victims on a value scale in Booth v. Maryland, 482 U.S.
+
+496, 505-07 (1987). Booth, however, addressed this issue with regard to victim impact evidence,
+which the Court was concerned would permit a jury to find that defendants whose victims were
+assets to their community are more deserving of punishment than those whose victims are
+
+perceived to be less worthy. The multiple victims aggravator relies solely on the numbers of
+victims; not on victim impact evidence. Thus, the concern of comparative judgment articulated
+in Booth is simply not possible.?°
+
+        In sum, the Court find that the multiple victims aggravator is relevant to culpability, does
+
+not result in double-counting aggravating evidence when provided with ICJI 1723, and does not
+
+result in a comparison of victim worth. Consequently, Defendant's motion is denied.
+
+
+                 Motion to Strike State's Notice on Grounds of Failure to Present
+                 Aggravators to Neutral Factfinder
+
+        Defendant seeks to strike the death penalty on grounds that Idaho's capital scheme vests
+far too much discretion in the prosecutor in determining whether to pursue the death penalty,
+
+thus rendering it an arbitrary and unconstitutional process. He argues that the Fifth, Eighth and
+
+Fourteenth Amendments to the United States Constitution and Article I, Sections 6 and 13 to the
+
+
+
+26
+   Further, Booth was overturned in Payne v. Tennessee, where the Court observed that victim impact evidence is
+"not offered to encourage comparative judgments of this kind ... it is designed to show instead each victim's
+uniqueness as an individual human being." 501 U.S. 808, 823 (1991). It held: "We are now ofthe view that a State
+may properly conclude that for the jury to assess meaningfully the defendant's moral culpability and
+blameworthiness, it should have before it at the sentencing phase evidence of the specific harm caused by the
+defendant." /d. at 825.
+
+
+                                                       22
+Idaho Constitution require that the eligibility and selection decisions (i.e., whether a statutory
+
+aggravator is present and whether it is outweighed by mitigating circumstances) first be
+presented to a Grand Jury before the prosecutor can formally pursue the death penalty. While he
+
+acknowledges the weight of case law from both the United States Supreme Court and the Idaho
+Supreme Court is against him,"' he argues these cases must be overruled. The State responds that
+Defendant's argument is squarely foreclosed by binding precedent. The Court agrees.
+
+                  1.       Well-settled law mandates that the Fifth Amendment's Indictment Clause
+                           does not apply to the States.
+
+
+         Defendant's argument begins with the premise that the Indictment Clause of the Fifth
+Amendment of the United States Constitution should be afforded to the States. That clause
+
+provides: "[n]o person ... be held to answer for a capital, or otherwise infamous crime, unless on
+a presentment or indictment of a grand Jury." U.S. Const. amend. V. It was adopted by the
+
+framers, in part, in recognition of the importance the Grand Jury played in protecting the citizens
+from "unfounded accusation" by the government. Ex parte Bain, 121 U.S. 1, 11 (1887),
+
+overruled on other grounds by United States v. Cotton, 535 U.S. 625 (2002).
+         The Indictment Clause binds only the federal government. In Hurtado v. California, the
+United States Supreme Court considered whether the clause applied to the States through the
+
+Fourteenth Amendment for a capital offense. 1 10 U.S. 516 (1884). The Court held it did not, noting
+
+that grand jury screening was not "essential" to preserving that "spirit of personal liberty and
+
+individual right" which shaped the common law and was the ultimate concern of due process. /d. at
+
+523. In so holding the Court relied heavily on historical evidence suggesting that prosecution by
+
+indictment or presentment had never been viewed as the only means for initiating prosecutions that
+
+accorded with the core values of the common law. /d. at 538. The Court observed that as long as a
+
+state provides     in advance of instituting a felony prosecution         some threshold procedure that
+
+comports with "fundamental principles of liberty and justice" and "secure[s] the individual from the
+
+arbitrary exercise of the powers of government|[,]" the Fourteenth Amendment's due process
+
+
+
+
+27
+  The United States Supreme Court has long held that the Fifth Amendment requiring that a grand jury pass on any
+federal case involving the death penalty does not apply to the States. Hurtado v. California, 10 U.S. 516(1884). In
+                                                                                            1
+
+
+
+Abdullah, the Idaho Supreme Court held that statutory aggravators are not elements of a crime and, therefore, are not
+constitutionally required to be included in the indictment (and, by extension, determined by the Grand Jury). 158
+Idaho at, 459, 348 P.3d at 74.
+
+                                                         23
+guarantee is satisfied. [d. at 527, 535. According to the Court, an adversarial preliminary hearing
+before a magistrate meets this standard. /d. at 538.
+
+         Defendant contends that Hurtado failed to consider important underpinnings of the Fifth and
+
+Fourteenth Amendments, including the importance of the Grand Jury, how it came to be required by
+
+the Fifth Amendment and whether it was considered a part of Due Process when the Fourteenth
+
+Amendment was adopted. An examination of these factors will, according to Defendant, reveal that
+
+the Grand Jury's primary function was not to establish probable cause, but to exercise discretion as
+
+to what cases were worth pursuing in the first place. In so arguing, Defendant cites to more recent
+
+United States Supreme Court case law recognizing the importance of the Grand Jury act as a check
+
+on prosecutorial power. See, Cotton, 535 U.S. at 634. Defendant contends this vital role is not
+
+fulfilled a preliminary hearing before a magistrate and is an increasing important role to fill given
+the fact that prosecutors with unhampered discretion tend to overcharge cases to coerce pleas.
+
+        It is not, however, for this Court to second-guess Hurtado, which has remained
+
+unquestioned precedent for nearly 150 years. See, McDonald v. City of Chicago, 561 U.S. 742
+
+(2010) (describing Hurtado as a "governing decision" that "long predate[s] the era of selective
+incorporation")."8 Further, Defendant ignores the fact that Hurtado was based, in part, on the
+Court's view that an adversarial preliminary hearing before a magistrate was sufficient to protect
+citizens from the arbitrary exercise of governmental power, which would include misplaced
+
+prosecutorial charging discretion. 110 U.S. at 527, 538. In other words, the Court's concern was not
+
+solely with ensuring the existence of probable cause, but to protect more globally against an abuse
+of power by a prosecutor-something, according to Hurtado, proceedings before a magistrate could
+
+accomplish just as well as a Grand Jury. Therefore, there is nothing to be gained by applying the
+Fifth Amendment to the States.
+                 2.       Vesting charging discretion in the prosecutor does not violate the Eighth
+                          Amendment.
+
+
+        Defendant's corollary argument is that the unbridled discretion vested in prosecutors to
+seek the death penalty renders it an arbitrary and capricious process in violation of the
+
+28
+  Following this precedent, the Idaho Court of Appeals has held that the Fifth Amendment's Indictment Clause is
+inapplicable to Idaho prosecutions. State v. Simmons, 115 Idaho 877, 878, 771 P.2d 541, 542 (Ct.App. 1989)
+(quoting Alexander v. Louisiana, 405 U.S. 625, 633 (1972)); Warren v. Craven, 152 Idaho 327, 330-31, 271 P.3d
+725, 728-29 (Ct. App. 2012) (noting that, under Hurtado, a state felony prosecution need not be brought before a
+grand jury; an adversarial proceeding before a magistrate afforded under Idaho law does not violate due process).
+
+
+                                                        24
+prohibition against cruel and unusual punishment afforded by the Eighth Amendment. Defendant
+contends that, to comport with constitutional mandates, a prosecutor's decision to seek the death
+
+penalty must be supported by a Grand Jury finding of probable cause as to applicable statutory
+
+aggravators and, further, that the mitigating factors do not outweigh a particular statutory
+
+aggravator.
+        In advancing this argument, Defendant recognizes that the Idaho Supreme Court held
+
+relatively recently that statutory aggravators are not considered elements of the crime and,
+therefore, need not be included in the indictment. Abdullah, 158 Idaho ay 459, 348 P.3d at 74.
+
+However, he argues Abdullah "is wrong and should be overruled." Mtn., p. 8. Specifically, he
+asserts the Idaho Supreme Court failed to consider the issue through the Eighth Amendment, i.e.,
+
+the importance of the Grand Jury in protecting citizens against arbitrary acts by the government,
+
+including the arbitrary application of the death penalty by prosecutors.
+        In Abdullah, the defendant argued that the State was required by the Sixth Amendment
+
+and Article I, § 8 of the Idaho Constitution to allege the aggravating circumstances in the
+
+indictment. Id. at 457-58, 348 P.3d at 72-73. His argument was premised on Ring v. Arizona,
+
+where the U.S. Supreme Court held that Arizona's statutory aggravating factors were the
+
+"functional equivalent" of an element of a greater offense and, therefore, the Sixth Amendment's
+
+right to a jury trial requires that a jury, not the judge, find they exist. /d. 536 U.S. at 609. The
+Idaho Supreme Court rejected his argument. Pointing to its own prior case law and that issued by
+
+the "overwhelming majority of states," the Court held that Ring did not-and could not"?
+
+elevate statutory aggravating circumstances into an element of a crime and, therefore, they need
+
+not be alleged in the indictment and subjected to a probable cause determination. Abdullah, 158
+
+Idaho at 458-69, 348 P.3d at 73-74.
+
+        Defendant believes that Abdullah does not comport with Eighth Amendment
+
+jurisprudence because it permits unbridled prosecutorial discretion on the charging end.
+However, United States Supreme Court jurisprudence is not on his side. In Gregg, the Court
+rejected the argument that such prosecutorial discretion presents a constitutional violation. 428
+U.S. at 199 (Petitioner's argument "that the state prosecutor has unfettered authority to select
+those persons whom he wishes to prosecute for a capital offense" does not indicate that system is
+
+
+
+2°
+  The Court noted that only the state legislature has the power to designate elements of a crime. Abdullah, 158
+Idaho at 458, 348 P.3d at 73 (citing Porter v. State, 140 Idaho 780, 784, 102 P.3d 1099, 1103 (2004).
+
+                                                         25
+unconstitutional). As Justice White stated in his concurring opinion in Gregg, "[a]bsent facts to
+the contrary, it cannot be assumed that prosecutors will be motivated in their charging decisions
+
+by factors other than the strength of their case and the likelihood that a jury would impose the
+death penalty if it convicts." Jd. at 225 (White, J., concurring); see also, Proffitt v. Florida, 428
+
+USS. 242 (1976) (same). In McCleskey, the Court again recognized the propriety of allowing
+
+prosecutors to exercise discretion in capital cases, noting:
+
+       [T]he policy considerations behind a prosecutor's traditionally 'wide discretion'
+       suggest the impropriety of our requiring prosecutors to defend their decisions to
+       seek death penalties[.]
+
+
+       Discretion in the criminal justice system offers substantial benefits to the criminal
+       defendant.... [T]he capacity of prosecutorial discretion to provide individualized
+       justice is 'firmly entrenched in American law." As we have noted, a prosecutor
+       can decline to charge, offer a plea bargain, or decline to seek a death sentence in
+       any particular case. Of course, 'the power to be lenient [also] is the power to
+       discriminate,' but a capital punishment system that did not allow for discretionary
+       acts of leniency 'would be totally alien to our notions of criminal justice.'
+
+
+481 U.S. at 296, 311-12 (internal cites omitted).
+
+       Moreover, the Eighth Amendment is concerned with the arbitrary and capricious
+infliction ofpunishment. Defendant's myopic focus on prosecutorial discretion in deciding
+whether to pursue capital charges at the outset ignores all the other safeguards built into Idaho's
+
+capital scheme that serve to focus that discretion as the matter progresses toward the imposition
+(or not) of punishment. These include the requirement that the prosecutor allege facts sufficient
+to allow a jury to find a capital crime was committed and one requisite aggravator is present. See,
+
+e.g., U.S. v. Taylor, 648 S.Supp.2d 1237, 1241 (D. N.M. 2008) (rejecting same argument with
+
+regard to the Federal Death Penalty Act, which "limit[s] and guide[s]" prosecutor's discretion.);
+
+People v. Stewart, 520 N.E.2d 348, 357 (Ill. 1988) (prosecutor's discretion is not
+unconstitutionally unfettered since he may only pursue the death penalty if one or more statutory
+aggravators exist). Other circumstances that rein in a prosecutor's discretion include "factual
+nuances, strength of evidence, and, in particular, the broad discretion to show leniency." People
+v. Landry, 385 P.3d 327, 375 (Cal. 2016).
+
+       These factors all ensure that prosecutorial discretion is kept in check so that the ultimate
+decision by the jury to impose death-if the case reaches that point-is not arbitrary and
+
+                                                  26
+capricious. In fact, Defendant has not cited to a single case striking down a capital scheme as
+unconstitutional due to wide prosecutorial discretion in selecting whether to pursue the death
+
+penalty. Consequently, there is no basis to question the constitutionality of Abdullah, which is
+not only binding on this Court, but dispositive of Defendant's argument. Consequently, the
+
+motion is denied.
+
+       D.      Motion for Order Requiring State to Provide Notice of Non-Statutory
+               Aggravators and Prove Beyond a Reasonable Doubt.
+
+       In this Motion, Defendant moves for an order requiring the State to: 1) provide notice of
+
+any non-statutory aggravating facts or circumstances it intends to prove at the sentencing phase,
+and; 2) provide any such non-statutory aggravating fact or circumstance beyond a reasonable
+doubt to the unanimous satisfaction of the jury before any juror may consider any aggravating
+
+fact or circumstance as a reason to support the death penalty.
+
+       The State concedes that, by statute, it must disclose to Defendant "all relevant evidence in
+
+aggravation and mitigation" that it intends to present at the special sentencing proceeding. I.C. §
+19-2515(6). The term "all relevant evidence" includes non-statutory aggravating evidence. Hall,
+163 Idaho at 795-99, 419 P.3d at 1093-97. However, the State argues that it need not prove the
+
+non-statutory aggravating evidence beyond a reasonable doubt. The State is correct.
+       The sole issue to be determined is whether Idaho's death penalty statute requires that the
+State prove all non-statutory aggravating evidence beyond a reasonable doubt. When an issue
+
+calls for statutory interpretation, the following principles apply:
+       The objective of statutory interpretation is to derive the intent of the legislative
+       body that adopted the act. Statutory interpretation begins with the literal language
+       of the statute. Provisions should not be read in isolation, but must be interpreted in
+       the context of the entire document. The statute should be considered as a whole,
+       and words should be given their plain, usual, and ordinary meanings. It should be
+       noted that the Court must give effect to all the words and provisions of the statute
+       so that none will be void, superfluous, or redundant. When the statutory language
+       is unambiguous, the clearly expressed intent of the legislative body must be given
+       effect, and the Court need not consider rules of statutory construction.
+
+State v. Schulz, 151 Idaho 863, 866, 264 P.3d 970, 973 (2011).
+
+
+
+
+                                                  27
+               1.      I.C. § 19-2515 does not impose a reasonable doubt standard on non-
+                       statutory aggravating evidence.
+
+
+       Applying the foregoing principles, the Court finds that I.C. § 19-2515 does not require
+the State to prove its non-statutory aggravating circumstances beyond a reasonable doubt. The
+
+relevant provisions of I.C. § 19-2515 are as follows:
+
+       (3) Where a person is convicted of an offense which may be punishable by death,
+       a sentence of death shall not be imposed unless:
+
+
+       (a) A notice of intent to seek the death penalty was filed and served as provided in
+       section 18-4004A, Idaho Code; and
+
+
+       (b) The jury, or the court if a jury is waived, finds beyond a reasonable doubt at
+       least one (1) statutory aggravating circumstance. Where a statutory aggravating
+       circumstance is found, the defendant shall be sentenced to death unless mitigating
+       circumstances which may be presented are found to be sufficiently compelling
+       that the death penalty would be unjust. The jury shall not direct imposition of a
+       sentence of death unless it unanimously finds at least one (1) statutory
+       aggravating circumstance and unanimously determines that the penalty of death
+       should be imposed.
+
+
+       (4) Notwithstanding any court rule to the contrary, when a defendant is
+       adjudicated guilty of murder in the first degree, whether by acceptance of a plea
+       of guilty, by verdict of a jury, or by decision of the trial court sitting without a
+       jury, no presentence investigation shall be conducted; provided however, that if a
+       special sentencing proceeding is not held or if a special sentencing proceeding is
+       held but no statutory aggravating circumstance has been proven beyond a
+       reasonable doubt, the court may order that a presentence investigation be
+       conducted.
+
+
+       (5)(a) If a person is adjudicated guilty of murder in the first degree, whether by
+       acceptance of a plea of guilty, by verdict of a jury, or by decision of the trial court
+       sitting without a jury, and a notice of intent to seek the death penalty was filed
+       and served as provided in section 18-4004A, Idaho Code, a special sentencing
+       proceeding shall be held promptly for the purpose of hearing all relevant evidence
+       and arguments of counsel in aggravation and mitigation of the offense.
+
+
+       (6) At the special sentencing proceeding, the state and the defendant shall be
+       entitled to present all relevant evidence in aggravation and mitigation. Disclosure
+       of evidence to be relied on in the sentencing proceeding shall be made in
+                                                 28
+       accordance with Idaho criminal rule 16. Evidence admitted at trial shall be
+       considered and need not be repeated at the sentencing hearing.
+
+
+       (8) Upon the conclusion of the evidence and arguments in mitigation and
+       aggravation:
+
+       (a) With regard to each statutory aggravating circumstance alleged by the state.
+       the jury shall return a special verdict stating:
+
+
+       (i) Whether the statutory aggravating circumstance has been proven beyond a
+       reasonable doubt: and
+
+
+       (ii) If the statutory aggravating circumstance has been proven beyond a
+       reasonable doubt, whether all mitigating circumstances, when weighed against the
+       aggravating circumstance, are sufficiently compelling that the death penalty
+       would be unjust.
+
+
+       (9) The following are statutory aggravating circumstances, at least one (1) of
+       which must be found to exist beyond a reasonable doubt before a sentence of
+       death can be imposed....
+
+
+I.C. § 19-2515 (emphasis added).
+       As the Idaho Supreme Court determined in Hail, the plain language of the statute clearly
+distinguishes the "statutory aggravating circumstances" enumerated in subsection (9) and from
+"all relevant evidence in aggravation and mitigation" in subsection (6), both of which may be
+considered by the jury when determining an individualized sentence. 163 Idaho at 798, 419 P.3d
+
+at 1096 ("[I]f it wanted to restrict the evidence presented to that which is relevant only to the
+
+statutory aggravators, the Legislature could have said something like 'all relevant evidence in
+
+support of the statutory aggravators and mitigation,' but it did not.")
+
+       Moreover, it is only with respect to the statutory aggravating circumstances that the
+statute imposes the condition of proof beyond a reasonable doubt. The statute is silent as to the
+
+burden of proof required for the non-statutory evidence in aggravation. Had the Legislature
+
+wished to impose such a burden on the non-statutory evidence, it certainly could have done so.
+The fact it did not indicates that it did not intend for the same level of proof to apply.
+       In fact, as the State points out, the Idaho Supreme Court has suggested that non-statutory
+
+aggravating circumstances presented under I.C. § 19-2515 need not be found beyond a
+
+                                                  29
+reasonable doubt. In analyzing the statute in Hall, the Idaho Supreme Court cited approvingly to
+
+a passage in its opinion in Creech, where it first recognized the admissibility of non-statutory
+
+aggravating circumstances under I.C. § 19-2515. Hall, 163 Idaho at 797, 419 P.3d at 1095. That
+passage provides:
+          This court is not limited as to the circumstances it may find in aggravation to
+         those listed [as statutory aggravators]. Thus, that section of the court's findings
+         denominated '5. Facts and Arguments Found in Aggravation,' although including
+         circumstances not statutorily listed and not expressly found beyond a reasonable
+         doubt, is not in error. I.C. § 19-2515(a) permits the court, upon the suggestion of
+         either party that there are circumstances which might properly be considered in
+         aggravation or mitigation, to hear those circumstances. That language strongly
+         suggests that a judge should hear all relevant evidence which either party desires
+         to set forth. Such an interpretation is not contradicted by I.C. § 19-2515(f), which
+         merely lists the statutory aggravating circumstances, at least one of which must
+         exist beyond a reasonable doubt if the ultimate sanction of death is to be imposed.
+
+
+Id. (quoting Creech, 105 Idaho 362, 369, 670 P.2d 463, 470 (1983)) (emphasis added).°°
+
+         Defendant, however, contends that the State overstates the import of Creech given that it
+was decided under a pre-Ring version of I.C. 19-2515 when judges                    rather than the jury-had to
+
+provide written findings as to the statutory aggravators. See, I.C. § 19-2515 (1977). The Court's
+reference to the word "expressly," according to Defendant, was solely in reference to what the
+
+judge had to put in the written findings; it did not hold that non-statutory aggravators could be
+found without proof beyond a reasonable doubt.
+
+         While Defendant is correct that Creech's holding did not go this far, his attempt to parse
+the meaning of "expressly" in Creech is unavailing. The version of statute at issue in Creech is
+
+not fundamentally different than its current form, with the exception that the jury now makes the
+
+written findings rather than the judge. Importantly, both versions differentiate between "statutory
+
+aggravating circumstances" and "all relevant evidence in ... aggravation" and only require that
+the former be established beyond a reasonable doubt. Compare, I.C. §§ 19-2515(c), (f) (1977)
+
+with I.C. §§ 19-25                           2022). To interpret Creech's use of the word "expressly" as
+
+
+
+30
+  See also, State v. Creech, 132 Idaho 1, 14, 966 P.2d 1, 14 (1998) ("As long as the court finds at least one statutory
+aggravating factor beyond a reasonable doubt, it is free to consider and weigh other aggravating factors individually
+as well.")
+
+
+
+                                                          30
+suggesting that non-statutory aggravators must also be found beyond a reasonable doubt but need
+not be set forth in writing reads into the statute language that does not exist.
+
+       Moreover, the case law cited by Defendant in support of his suggested interpretation of
+LC. § 19-2515 provides no such support. In People v. Tennyson, the Supreme Court of Colorado
+considered whether Colorado's former death penalty statute required a jury to find beyond a
+
+reasonable doubt that the mitigating factors presented did not outweigh the proven statutory
+
+aggravating factors before death could be imposed. 788 P.2d 786, 790 (Colo. 1990) (interpreting
+C.R.S. § 16-11-103, repealed in 2002). The court concluded it did, citing the "strong concern for
+reliability of any sentence of death." /d. at 792.
+        Tennyson, however, speaks only to the proof required in the weighing process of
+
+mitigating evidence against statutory aggravators; it did not address whether non-statutory
+aggravating evidence had to be proven beyond a reasonable doubt. Moreover, Idaho's statute
+already prescribes a standard of proof for this weighing     the mitigating evidence must be
+
+"sufficiently compelling" when weighed against the statutory aggravating circumstance. I.C. §
+19-2515(8)(a)(ii). Further, the Idaho Supreme Court has rejected the "beyond a reasonable
+doubt" standard in this weighing process, noting:
+       The weighing process, in our opinion does not involve shifting the burden of
+       persuasion but is concerned instead with the presentation of relevant information
+       to the sentencer in order that a reasoned and considered decision can be reached.
+       The defendant's burden is merely to raise, in the aggravation-mitigation hearing,
+       any factors which might possibly tend to mitigate his culpability for the offense.
+       He has full opportunity to present and argue those factors. The court below then
+       evaluates those factors under the guidelines set forth in the statute. His decision,
+       including his reasoning, is then set forth in detail and this court reviews the entire
+       process. While it is possible to speak of a 'burden' of persuasion on the defendant
+       to establish why he should receive leniency, we feel that, under our sentencing
+       process, the facts speak for themselves once presented. The completeness of the
+       evaluative process below and the mandatory review by this court, we feel,
+       withstands constitutional scrutiny.
+
+
+Osborn, 102 Idaho at 417, 631 P.2d at 199; see also, ICJ] 1722 ("The existence of
+
+mitigating factors need not be proven beyond a reasonable doubt.").
+       In sum, in interpreting I.C. § 19-2515, the Court "cannot insert into statutes terms or
+
+provisions which are obviously not there." Datum Constr., LLC v. RE Inv. Co., LLC, 173 Idaho
+
+
+                                                     31
+159, 540 P.3d 330, 335 (2023). To adopt Defendant's position would require the Court to do just
+that. Consequently, his motion is denied.
+
+       E.      Motion to Trifurcate Proceedings and Apply Rules of Evidence At Eligibility
+               Phase.
+
+       While Defendant acknowledges that Idaho's death penalty scheme provides for two
+
+phases-a guilt phase and a penalty phase       he contends it must be trifurcated to ensure his
+
+constitutional rights are maintained. To this end, he argues the penalty phase should be divided
+
+into two parts: one addressing whether he is eligible for the death penalty (i.e., whether there is
+
+proof of a statutory aggravator beyond a reasonable doubt) and one determining the appropriate
+punishment (weighing all relevant evidence). If the State is permitted to present all evidence
+relevant to both statutory and non-statutory aggravating circumstances at one time, Defendant
+
+contends a jury may be confused as to what evidence applies to what statutory aggravator and
+
+misapply the evidence. Trifurcating would ensure that the jurors consider the appropriate
+aggravator at the appropriate time. He also contends that, once trifurcated, the Idaho Rules of
+Evidence should apply to the eligibility phase, given that it is akin to a guilt phase.
+       The State responds that Defendant's position is simply one of public policy and ignores
+the plain language of I.C. § 19-2515 and binding appellate decisions. It points out that I.-C. § 19-
+
+2515 calls for a single sentencing proceeding, which has been the general practice of capital
+
+cases in Idaho and contemplated by Idaho's Death Penalty Sentencing Instructions. The State
+
+further points out that Defendant's proposition of leaving the presentation of mitigating evidence
+
+to the last phase would have the unintended consequent of highlighting aggravating evidence.
+
+       This issue is a matter of first impression in Idaho. Balancing the benefits and detriments
+that may be posed by trifurcation, and considering trifurcation is an exception to the rule, the
+
+Court will proceed in accordance with I.C. § 19-2515 rather than depart on an extra-statutory
+
+quixotic journey through trifurcation.
+                1.     The birth of bifurcated death penalty proceedings in Idaho.
+       In the 1972 case of Furman v. Georgia, the United States Supreme Court determined that
+
+the death penalty constituted cruel and unusual punishment in violation of the Eighth
+
+Amendment if "it [was] administered arbitrarily or discriminately." 408 U.S. 238, 249 (1972)
+
+(Douglas, J., concurring). The decision served to invalidate most every capital punishment
+
+
+
+                                                  32
+scheme adopted by the states for giving too much discretion to the sentencer. In response, state
+
+legislatures, including Idaho's, revamped their death penalty statutes.
+       One of the statutory structures that emerged allowed the sentencer to weigh aggravating
+
+and mitigating circumstances in a separate sentencing phase conducted after the guilt phase. In
+
+Gregg, the United States Supreme Court considered and approved one such scheme adopted by
+Georgia. 428 U.S. at 162. Georgia's scheme specified statutory aggravating circumstances, one
+of which must be found by the sentencer beyond a reasonable doubt before a defendant was
+eligible for the death penalty. /d. at 196-97. The sentencer was also permitted to consider any
+other appropriate aggravating or mitigating circumstances prior to recommending a sentence of
+
+death. Jd. To accomplish this, Georgia adopted a bifurcated system that segregated the guilt
+
+phase from the penalty phase. /d. at 190-91. In finding the bifurcated system best addressed the
+constitutional deficiencies identified in Furman, the Gregg Court quoted approvingly from the
+
+drafters of the Model Penal Code, to wit:
+
+        '(If a unitary proceeding is used) the determination of the punishment must be
+       based on less than all the evidence that has a bearing on that issue, such for
+       example as a previous criminal record of the accused, or evidence must be
+       admitted on the ground that it is relevant to sentence, though it would be excluded
+       as irrelevant or prejudicial with respect to guilt or innocence alone. Trial lawyers
+       understandably have little confidence in a solution that admits the evidence and
+       trusts to an instruction to the jury that it should be considered only in determining
+       the penalty and disregarded in assessing guilt.
+
+
+       ... The obvious solution    .   .   is to bifurcate the proceeding, abiding strictly by the
+       rules of evidence until and unless there is a conviction, but once guilt has been
+       determined opening the record to the further information that is relevant to
+       sentence. This is the analogue of the procedure in the ordinary case when capital
+       punishment is not in issue; the court conducts a separate inquiry before imposing
+       sentence.'
+
+
+Id. (quoting ALI, Model Penal Code s 201.6, Comment 5, pp. 74-75 (Tent. Draft No. 9, 1959)).
+
+       While the Court was clear that Georgia's scheme was not the only way a death penalty
+statute could pass the constitutional muster, it indicated it was "the best." Jd. at 195.
+
+       Like Georgia, Idaho revamped its death penalty scheme in response to Furman by, inter
+alia, providing for a separate sentencing phase during which the court would weigh
+circumstances in aggravation or mitigation. I.C. § 19-2515 (1977). This bifurcated process
+
+                                                      33
+continues to this day. During the guilt phase, the jury decides whether a defendant is guilty of
+
+first-degree murder. I.C. § 19-2515(5)(a). During the penalty phase-or "special sentencing
+
+proceeding"      the state and the defendant may present "all relevant evidence in aggravation and
+
+mitigation" including victim impact evidence (which is a form of non-statutory aggravating
+evidence). Id. at §§ 19-2515(5)(a), (6).
+        The jury must then decide: 1) whether the State has proven at least one aggravating
+circumstance beyond a reasonable doubt (eligibility decision) and, if so; 2) whether all the
+
+mitigating circumstances, when weighed against the statutory aggravating circumstance, is
+sufficiently compelling that the death penalty would be unjust (selection decision). /d. at § 19-
+2515 (3)(b), (8). Because the penalty phase is a sentencing hearing, the rules of evidence do not
+
+apply, nor is it subject to the Confrontation Clause. State v. Dunlap, 155 Idaho 345, 375, 378,
+313 P.3d 1, 31, 34 (2013).
+
+                  2.       Pros and cons of the trifurcated approach
+
+        As in other capital schemes, the bifurcated approach is the default rule in Idaho and, as
+discussed, the one envisioned by statute. It necessarily results in a wide spectrum of evidence-
+
+subject to different evidentiary standards          being presented to the jury all at once, thus blurring
+the line between the eligibility decision and the selection decision. As outlined by one legal
+
+commentator analyzing the Federal Death Penalty Act: >!
+
+        [T]he jury hears all of the evidence of ... statutory aggravating factors,
+        nonstatutory aggravating factors, and mitigating factors in a single proceeding
+        before making these two determinations. Receiving all of this information in a
+        unitary proceeding creates a problem because the jury's determination of whether
+        the defendant is eligible for the death penalty may be influenced by irrelevant
+        evidence. The jury may find the defendant eligible for the death penalty based on
+        evidence that, even if established beyond a reasonable doubt, fails to satisfy the
+        statutory requirements of death eligibility.
+
+Donald M. Houser, Reconciling Ring v. Arizona with the Current Structure of the Federal
+Capital Murder Trial: The Case for Trifurcation, 64 Wash. & Lee L. Rev. 349, 356-57 (2007).
+
+        This "influence" noted by the commentator is particularly acute with regard to victim
+
+impact evidence, which may present the danger of coloring the jury's determination in the
+
+
+3!
+   The Federal Death Penalty Act is a bifurcated scheme similar to Idaho's, but it additionally requires during the
+eligibility phase that the jury find the defendant had the requisite intent. 18 U.S.C. § 3591.
+
+                                                          34
+eligibility phase, despite the fact such evidence is not relevant to any of the statutory aggravators.
+As noted by one federal court:
+           To pretend that such [victim impact] evidence is not potentially unfairly
+           prejudicial on issues to which it has little or no probative value is simply not
+           realistic, even if the court were to give a careful limiting instruction. Rather, such
+           potent, emotional evidence is a quintessential example of information likely to
+           cause a jury to make a determination on an unrelated issue on the improper basis
+           of inflamed emotion and bias-sympathetic or antipathetic, depending on whether
+           one is considering the defendant or the victims' families.
+
+
+United States v. Johnson, 362 F. Supp. 2d 1043, 1107 (N.D. Iowa 2005), aff'd in part, 495 F.3d
+951 (8th Cir. 2007).
+
+           In addition, courts and commentators contend bifurcation can lead to juror confusion over
+
+what evidence is relevant to what decision (eligibility or selection) and what burden of proof
+
+applies. Margo A. Rocklin, Place the Death Penalty on a Tripod, or Make it Stand on its Own
+Two Feet? 4 Rutgers J. L. & Pub. Pol'y 788, 796 (Fall, 2007) (citing cases). Further, courts have
+
+noted that bifurcation results in the presentation of lengthy, often emotionally charged non-
+
+statutory aggravating and mitigating evidence that may not be necessary should the state fail to
+establish a statutory aggravator beyond a reasonable doubt in the first place. Bowers, 2023 WL
+
+1108392 at * 6.
+
+           Yet another problem cited with the bifurcated system is the difficulty in applying it post-
+Ring, which many state and federal courts and legal commentators interpret as rendering the
+statutory aggravators elements of the offense of capital murder as opposed to sentencing factors.
+
+Rocklin, supra at p. 794 (discussing Ring, 536 U.S. at 585-87). As a result, it has been held that
+the evidentiary rules and confrontation rights               which courts have long held do not apply the
+
+sentencing®?         now apply to the presentation of evidence of statutory aggravators, i.e., the
+
+eligibility decision, but not the selection decision. Jd. at 806-07 (collecting cases).*4 It has been
+
+
+32
+     It should be noted that the scope of victim impact testimony in Idaho is limited. See discussion infra at p. 39.
+
+
+  See, e.g, Williams v. New York, 337 U.S. 241, 246-51 (1949) (noting that, to effectively make individualized
+33
+
+
+punishments, a sentencing judge should be able to consider "the fullest information possible," unimpeded by
+evidentiary procedural limitations)
+
+34See also, United States v. Lujan, 2011 WL 13210246, at *8 (D.N.M. 2011) ("If the penalty phase is reached, the
+Confrontation Clause would apply in the eligibility stage due to Ring's requirement that facts necessary to expose
+[the defendant] to a death sentence must be found by a jury"; however, "[i]f [the defendant] is found eligible for
+
+                                                             35
+observed that a bifurcated approach where rules of evidence and confrontation rights apply to
+
+some evidence (statutory aggravating circumstances) and not other (non-statutory aggravating
+
+and mitigation circumstances) would lead to jury confusion and not ensure the protection of a
+
+defendant's constitutional rights. /d., p. 807.
+
+         In light of these issues, some courts have opted for trifurcation between the guilt phase,
+
+the eligibility decision and the selection decision. See, David McCord, Hon. Mark W. Bennett,
+
+The Proposed Capital Penalty Phase Rules of Evidence, 36 Cardozo L. Rev. 417, 433 (2014)
+
+(citing cases); United States v. Bowers, 2023 WL 1108392 (W.D. Pa. 2023) (granting motion to
+trifurcate based on potential prejudicial introduction of extensive victim impact testimony
+
+irrelevant to an eligibility determination and summarizing federal cases granting trifurcation). In
+
+fact, in Bowers, the court noted that "where a request for trifurcation has been made, the majority
+of courts grant such relief." /d. at *5.
+         There are, however, downsides to trifurcation that have been recognized by courts and
+commentators. It could significantly prolong proceedings, result in repetition in the presentation
+
+of evidence and witness testimony to the extent proof of the non-statutory and statutory
+aggravators overlap, and delay relief for the victims. Bowers, 2023 WL 1108392 at
+                                                                                                      *
+                                                                                                          5; see also,
+United States v. Bolden, 545 F.3d 609, 619 (8th Cir. 2008) (finding motions to trifurcate should
+not be "routinely granted" because trifurcation "further extends and complicates what is already
+
+a long and complicated proceeding" and concerns over jury confusion can be remedied by clear
+
+instructions. )
+
+         In addition, trifurcation creates a process where the mitigating evidence is left to the end,
+
+after the jury has heard prolonged inculpatory evidence and may have already made up its mind.
+
+In other words, a jury may be less receptive to mitigating factors if it is left to the end. See,
+
+Adam Trahan and Daniel Stewart, Examining the Utility of Frontloading Mitigation in Capital
+Cases When Faced with Overwhelming Evidence of Guilt, 51 No. 2 Crim. Law Bulletin ART 4
+
+
+
+
+death, the trial would proceed to the selection stage and the general rule allowing hearsay at sentencing would
+apply."); United States v. Umana, 750 F.3d 320 (4th Cir. 2014) ("[T]he Confrontation Clause does not preclude the
+introduction of hearsay statements during the sentence selection phase of capital sentencing."); United States v. Fell,
+531 F.3d 197, 239 (2d Cir. 2008) (trifurcated capital trials allow the district court "to delineate clearly between the
+applications of the Confrontation Clause in the eligibility and selection phases"); State v. Carr, $02 P.3d 546, 594-
+95 (Kan. 2022), cert. denied, 143 S. Ct. 581, 214 L. Ed. 2d 344 (2023) (holding Confrontation Clause applies to
+eligibility evidence during penalty phase, but not to selection evidence.)
+
+
+                                                          36
+(Spring 2015).*
+                    3.       Trifurcation is not warranted.
+           Defendant's arguments in favor of trifurcation into a guilt phase, eligibility phase and
+selection phase largely echo those noted above. Defendant contends that operating under a
+
+bifurcated model in his case would cause substantial prejudice, confuse the jury and violate his
+
+constitutional rights, including his right to confrontation, his right to due process, his right to a
+fair trial and his protection against cruel and unusual punishment. He anticipates there will
+
+substantial evidence of non-statutory aggravation               including emotionally-charged victim impact
+evidence and evidence of his own past and character                 none of which is relevant to the four
+
+statutory aggravators charged by the State. He argues he will be unfairly prejudiced by the free-
+for-all presentation of statutory and non-statutory aggravating evidence at once and there is good
+chance the jury will be unable to segregate the evidence properly, despite careful instructions.
+
+Moreover, he contends that because the eligibility decision is, under Ring, akin to the guilt phase,
+it should be subjected to the Rules of Evidence just like any other enhancement evidence
+
+permitted under Idaho law.*°
+           The Court, however, does not believe trifurcation will be as beneficial as Defendant
+
+hopes. Since it was enacted, I.C. § 19-2515 has contemplated a bifurcated process in capital
+cases. Thus, trifurcation-even if permissible under Idaho statutory law                    is an exception, not the
+
+rule. The Court does not find the exception is warranted here.
+
+           First, as Defendant acknowledges, the Idaho Supreme Court has long held that the Rules
+of Evidence do not apply at capital sentencing proceedings. Dunlap, 155 Idaho at 375, 378, 313
+P.3d at 31, 34. "Instead, the admission of evidence in capital sentencing proceedings is governed
+
+by Idaho Code § 19-2515(6), which provides that 'the state and the defendant shall be entitled to
+
+present all relevant evidence in aggravation and mitigation.'" /d.
+           The Court has also long held that the Confrontation Clause is inapplicable to such
+
+proceedings. In Sivak v. State, the Court held that the United States Constitution "does not
+
+35
+  In fact, in a capital post-conviction case pending in Kootenai County, the defendant is asserting a claim for
+ineffective assistance of trial counsel based on counsel's request for a trifurcated proceeding, which the trial court
+adopted. Renfro v. State, Kootenai Co. Case No. CV-17-9393 (Amended Petition For Post-Conviction Relief (Feb.
+19, 2019)). Post-conviction counsel asserts that trifurcation did more harm than good because it permitted the front-
+loading of negative aggravating evidence without a corresponding emphasis on mitigating evidence. /d.
+
+36
+     See, e.g., LC. § 19-2514 (persistent violator enhancement); I.C. § 19-2520 (firearm enhancement).
+
+
+                                                           37
+require that a capital defendant be afforded the opportunity to confront and cross-examine live
+witnesses in his sentencing proceedings." 112 Idaho 197, 216, 731 P.2d 192,211 (1986). This
+
+holding was "based, in part, on the belief that modern penological policies, which favor
+sentencing based on the maximum amount of information about the defendant, would be
+thwarted by restrictive procedural and evidentiary rules." /d. at 215, 731 P.2d at 210 (citing
+
+Williams v. New York, 337 U.S. 241, 246-50 (1949)).
+       This Court is bound by these holdings. Moreover, Ring does not warrant revisiting the
+law in this regard. As the Idaho Supreme Court observed in Abdullah, Ring did not elevate
+
+statutory aggravating circumstances into "elements" of the underlying murder; only the
+
+legislature has the power to so act. 158 Idaho at 458, 348 P.3d at 73 (declining to require the
+State, based on Ring, to allege the aggravating circumstances as elements in the indictment).
+
+Consequently, even if this Court were to trifurcate the proceedings, it could not apply the Rules
+of Evidence to the eligibility phase or subject it to the Confrontation Clause.
+       Without these evidentiary limits, there could undoubtedly be a significant amount of
+evidence presented in aggravation and mitigation. However, the Court is not concerned over the
+
+potential for juror confusion. Juries are presumed to follow their instructions, and the ICJIs
+
+governing death penalty proceedings are clear as to how the jury is to apply the evidence. Thus,
+the risk that the jury will consider improper evidence or apply the wrong standard in determining
+
+whether a statutory aggravator applies is negligible.
+
+       Moreover, any risk of jury confusion is outweighed by the very real concern that
+Defendant will be prejudiced by trifurcation because mitigating evidence will be left for the final
+
+phase. By way of example, one of the statutory aggravators asserted by the State is future
+
+dangerousness under I.C. § 19-2515(9)(i). The jury will be asked whether Defendant "by his
+
+conduct, whether such conduct was before, during or after the commission of the murder at hand,
+has exhibited a propensity to commit murder which will probably constitute a continuing threat
+
+to society." /d. Under Defendant's trifurcated suggestion, the State will be able to introduce
+
+evidence relevant to this aggravator at the eligibility phase, but Defendant will not be able to
+
+present mitigating evidence. Thus, the jury will be asked to determine whether Defendant poses a
+risk of future danger based entirely on one-sided evidence.
+
+       Similarly, the Court finds persuasive the legal commentators who have advocated for
+more front-loaded mitigating evidence in capital proceedings rather than leaving it until the end,
+
+
+                                                 38
+after the jurors have been exposed to nothing but inculpatory evidence. This could potentially
+
+dilute the impact mitigating evidence may have, thus leading to a post-conviction claim similar
+
+to that pending in Renfro.
+
+        The most compelling reason to trifurcate the proceedings is to avoid the risk that the
+victim impact evidence may color the jury's perception of the mitigating evidence. There is no
+
+question that the victim impact evidence will be heart-wrenching and difficult to hear. However,
+victims have rights as well, including the right to be heard at sentencing. I.C. § 19-5306(1)(e).
+
+Further, there are several precautions to guard against undue prejudice. First, in homicides, only
+immediate family members may offer victim impact statements. State v. Payne, 146 Idaho 548,
+
+575, 199 P.3d 123, 150 (2008). Further, the family members are statutorily limited in what they
+can say. I.C. § 19-2515(5)(a). They are not permitted to offer characterizations or opinions about
+
+the crime, about the defendant or about the appropriate sentence. Jd; Payne, 146 Idaho at 573
+
+199 P.3d at 148. They are merely permitted to present "a quick glimpse of the life [the
+
+defendant] chose to extinguish." Jd. (quoting Payne v. Tennessee, 501 U.S. 808, 830 (1991)
+
+(O'Connor, J., concurring).
+        Additionally, references to or arguments using religious authority as the basis for
+punishment are improper and have been condemned by virtually every court to consider their
+use. /d. (citing Sandoval v. Calderon, 241 F.3d 765, 776-77    (9 Cir.2000)). The Idaho Supreme
+Court opined that "[t]his is so because the death penalty may only be imposed when the fact
+finder carefully focuses on the specific statutory factors and because reference to religious
+
+authority undermines the fact finder's role and sense of responsibility in sentencing a defendant
+to death." Jd.
+
+        Finally, this Court can further impose restrictions on victim impact evidence to ensure it
+is not unduly prejudicial. The Court may require that victim impact statements be presented in
+
+writing prior to the sentencing hearing so they can be reviewed to ensure they stay within the
+permitted parameters. The Court may also instruct the victims to read from their statements and
+avoid emotional outbursts when speaking. Together, these precautions will help avoid the
+
+potential that victim impact evidence will taint a jury's eligibility decision in a way that leads to
+undue prejudice. Consequently, the Court does not find that trifurcation is necessary to protect
+
+Defendant's rights.
+
+
+
+
+                                                  39
+         F.        Motion to Strike Death Penalty on Grounds of State Speedy Trial Preventing
+                   Effective Assistance of Counsel.
+
+         In seeking to strike the death penalty, Defendant's multi-faceted argument begins with
+
+the premise that this Court should overrule decades of Idaho appellate precedent and conclude
+
+that the right to a speedy trial guaranteed by Article I, Section 13 of the Idaho Constitution
+
+should no longer be governed by the Barker factors but should be subject to a six-month speedy
+
+trial clock. He then asserts that, as a capital defendant, he cannot obtain effective assistance of
+
+counsel within a six-month period. Thus, at the time he waived his statutory and constitutional
+
+speedy trial rights, he was presented with an unconstitutional Hobson's choice between his
+constitutional right to a speedy trial and his constitutional right to effective assistance of counsel.
+
+He argues this choice rendered his waiver involuntary and deprived him of his constitutional
+
+speedy trial rights. The only remedy, he contends, is striking the death penalty.
+         The State points out that well-settled case law-which is binding on this Court                         provides
+otherwise. Further, the State notes that Defendant waived his speedy trial rights, which is
+
+dispositive of any contention that such rights have been infringed. The State is correct.
+                   1.       Speedy Trial Rights
+         A criminal defendant in Idaho enjoys a constitutional right to a speedy trial under both
+the U.S. Constitution and the Idaho Constitution. U.S. Const. Amend. 6 ("In all criminal
+
+prosecutions, the accused shall enjoy the right to a speedy and public trial[.]"); Idaho Const. art.
+1, § 13 ('In all criminal prosecutions, the party accused shall have the right to a speedy and
+
+public trial[.]"). While the text is similar, these rights are not identical, with the "key difference"
+being when the speedy trial clock begins.>" However, for the past fifty years, the Idaho Supreme
+Court has analyzed a defendant's rights under both constitutional provisions using the four-factor
+
+balancing test set forth in Barker v. Wingo, 407 U.S. 514 (1972). State v. Lindsay, 96 Idaho 474,
+531 P.2d 236 (1975) (adopting Barker); State v. Lankford, 172 Idaho 548, 535 P.3d 172, 184
+
+(2023) (reaffirming Barker). Those factors are: "(1) the length of the delay; (2) the reason for the
+delay; (3) whether the defendant asserted the right to a speedy trial; and (4) the prejudice to the
+defendant." /d. (citing Clark, 135 Idaho at 258, 16 P.3d at 934).
+
+
+37
+  The clock begins for the federal right at the time of arrest and for the state right at the earlier of the time of arrest
+or the time charges are filed. Lankford, 172 Idaho at 560, 535 P.3d at 184 (citing State v. Young, 136 Idaho 113, 117,
+29 P.3d 949, 953 (2001).
+
+
+                                                            40
+         In addition, I.C. § 19-3501 affords criminal defendants a statutory speedy trial right that
+
+provides "additional protection" beyond what it required by the U.S. and Idaho Constitutions.
+Clark, 135 Idaho at 258, 16 P.3d at 934.38 That statute mandates, in relevant part, that unless
+"good cause" is shown, an indictment or prosecution must be dismissed "if a defendant, whose
+trial has not been postponed upon his application, is not brought to trial within six (6) months
+from the date that the defendant was arraigned before the court in which the indictment is
+
+found." I.C. § 19-3501(3).
+
+                  2.       This Court is bound by Lindsay to apply the Barker factors, which avoid a
+                           "Hobson's choice."
+
+         Defendant contends that in adopting Barker to analyze speedy trial violations under the
+
+Idaho Constitution, the Idaho Supreme Court in Lindsay misconstrued the framers' intent to
+
+define the speedy trial guaranty by reference to the corollary statutory right provided by what is
+
+now I.C. § 19-3501. This Court, however, is bound by Lindsay. Guzman, 122 Idaho at 987, 842
+
+P.2d at 666. Consequently, Defendant's state constitutional speedy trial right is governed by the
+
+Barker factors.
+
+         Moreover, the application of the Barker factors obviates any argument that Defendant
+was faced with a Hobson's choice between his constitutional right to a speedy trial and
+
+constitutional right to effective assistance of counsel, thus rendering his waiver of speedy trial
+
+rights involuntary. The Idaho Supreme Court has found that a constitutionally permissible reason
+to delay trial is to allow defense counsel an adequate time to prepare. Lankford, 172 Idaho at
+
+563, 535 P.3d at 187 (holding delay to allow prosecutors and defense counsel to prepare for trial
+was reasonably necessary and, therefore, not a violation of defendant's constitutional speedy trial
+
+rights). See also, United States v. Ashimi, 932 F.2d 643, 648 (7th Cir. 1991) (rejecting the
+argument that the constitutional rights to a speedy trial and effective assistance of counsel are
+
+mutually exclusive; a delay in trial to permit adequate pretrial investigation merely results in a
+
+
+
+
+38
+   In Clark, the Idaho Supreme Court considered whether the Barker test applied to analyze "good cause" required
+by I.C. § 19-3501. 135 Idaho at 258-60; 16 P.3d at 934-36. After reviewing other jurisdictions' various approaches,
+it held that "good cause" means "a substantial reason that rises to the level of a legal excuse for the delay." /d. In
+determining whether the reason for delay constitutes good cause, the Court held that the Barker factors may be
+considered "only insofar as they bear on the sufficiency of the reason itself." /d. (quoting State v. Petersen 288
+N.W.2d 332, 335 (lowa 1980)).
+
+
+                                                          41
+less speedy trial, not necessarily a constitutional violation); Stuard v. Stewart, 401 F.3d 1064,
+
+1068-69 (9" Cir. 2005) (same).
+
+        Further, while Defendant's election to waive speedy trial rights resulted in him missing
+out on the statutory benefit of a six-month deadline under I.C. 19-3501 there is nothing
+
+impermissible when a defendant is forced to choose between a statutory right and a constitutional
+right. Stuard, 401 F.3d at 1069 ("Simmons is not violated when a defendant is forced to choose
+between a statutory right and a constitutional right."); Ashimi, 932 F.2d at 648 (same).
+
+Consequently, Defendant's assertion that his waiver was not voluntary because he was forced to
+choose between two constitutional rights falls flat. As it stands, Defendant has validly waived all
+
+speedy trial rights, which is dispositive of any claim that he has been deprived thereof. State v.
+
+Youngblood, 117 Idaho 160, 162, 786 P.2d 551, 553 (1990).
+                  3.      Defendant has not presented a valid basis for second-guessing Lindsay.
+
+        Even if this Court were not bound by Lindsay, Defendant's argument that it was wrongly
+decided is unavailing. Defendant's argument begins with the premise that "constitutional
+
+provisions must be construed in light of the law prior to their adoption." State v. Green, 158
+Idaho 884, 887-88, 354 P.3d 446, 449-50 (2015). Defendant points out that at the time of
+
+ratification of Idaho's Constitution in 1889, Idaho's speedy trial statute provided that, absent
+
+good cause showing, an indictment must be dismissed if a defendant, "whose trial has not been
+
+postponed upon his application, is not brought to trial at the next term of the Court in which the
+indictment is triable, after it is found." R.S. 1887, § 8212 (1864).°?
+
+        At that time, the power to fix the time and place, i.e., term, for holding court was vested
+in the "judges of the supreme court." United States v. Kuntze, 2 Idaho 446, 21 P. 407, 408
+
+(1889); People v. Heed, 1 Idaho 402, 406-06 (1871). However, Article V, Section 11 of the
+Idaho Constitution reined in this discretion to set terms somewhat by prescribing that district
+
+court be held "at least twice in each year[.]" It further provided: "This section shall not be
+
+construed to prevent the holding of special terms under such regulations as may be provided by
+
+law." Idaho Const. art. V, § 11. See also, I.C.A. § 1-706 (1932) (requiring at least two terms each
+
+year for the district court in each county to be fixed by court order). Thus, the setting of court
+
+
+
+39
+   With regard to the word "term," the Act provided: "Each term must be held until the business is disposed of, or
+until a day fixed for the commencement of some other term in the district court." R.S. 1887, § 3831.
+
+
+                                                        42
+terms-by which statutory speedy trial deadlines were measured                    became a shared
+
+responsibility between the judiciary and the legislature.
+         Up until Lindsay was decided in 1975, the Idaho Supreme Court construed the speedy
+trial right guaranteed by Article I, Section 13 with reference to I.C. § 19-3501. In Schrom v.
+
+Cramer, the Court noted:
+         Under constitutional provisions providing for a speedy trial, the authorities
+         consistently hold that the term 'speedy trial', being of indeterminate meaning, is
+         subject to some construction by the legislature, and that statutes similar to our
+         Section 19-3501 I.C., are to be read in connection with the constitutional
+         provision and are to be given effect as a legislative definition of what constitutes a
+         speedy trial under the constitution.
+
+         Our statute was a part of the Criminal Practice Act of 1864. It was in force and
+         effect at the time of the adoption of our constitution and has been in force at all
+         times since. The statute and the constitutional provision as read and construed
+         together delimit the rights of an accused to a dismissal of an information for
+         undue delay of trial.
+
+
+76 Idaho 1,4-5, 275 P.2d 979, 981 (1954).
+
+         However, in Lindsay, Defendant contends the Idaho Supreme Court erroneously veered
+away from this approach by adopting the federal Barker test rather than continuing to rely on I.C.
+§ 19-3501 in analyzing whether a defendant's state constitutional speedy trial right was violated.
+
+As previously discussed, a defendant's speedy trial right under I.C. § 19-3501 was dependent on
+"terms" set through a joint effort between the legislature and the judiciary. By adopting Barker
+rather than abide by I.C. § 19-3501, Defendant contends the Idaho Supreme Court effectively
+
+made the judiciary the sole voice in determining whether a defendant's state constitutional
+
+speedy trial rights were violated. Had the Court not made this error, the state constitutional
+
+speedy trial right would continue to be defined by I.C. § 19-3501, which was amended by the
+
+legislature in 1980 to require a defendant to be brought to trial within six months."
+
+40E
+    ffective March 31, 1975, the Idaho legislature repealed I.C. § 1-706 which required at least two court terms per
+year in each county. This repeal was in response to this Court's promulgation of I.R.C.P. 77(a), effective January 1,
+1975, which abolished terms of court. This effectively precluded determining the statutory right to a speedy trial by
+reference to "terms of cour." State v. Carter, 103 Idaho 917, 920, 655 P.2d 434, 437 (1981). Thus, the Idaho
+legislature amended I.C. § 19-3501 to provide a fixed period of six months within which they be brought to trial.
+1980 Idaho Sess.Laws, ch. 102, § 1.
+
+
+
+
+                                                         43
+       While creative, there are two flaws in Defendant's argument. First, insofar as he relies on
+Green for the proposition that "constitutional provisions must be construed in light of the law
+
+prior to their adoption[,]" Green has been abrogated on this point. State v. Clarke, 165 Idaho
+393, 397, 446 P.3d 451, 455 (2019). In Clarke, the Idaho Supreme Court observed the problem
+created by this approach, noting:
+
+       Green should stand for the principle that preexisting statutes and the common law
+       may be used to help inform our interpretation of the Idaho Constitution, but they
+       are not the embodiment of, nor are they incorporated within, the Constitution. To
+       hold otherwise would elevate statutes and the common law that predate the
+       Constitution's adoption to constitutional status.
+Id.
+
+       Thus, while the version of I.C. § 19-3501 in existence at the time Art. 1, § 13 of the Idaho
+Constitution was ratified certainly colors the framers' intent, it cannot control the analysis.
+
+       The second flaw is that the six-month speedy deadline now imposed by I.C. § 19-3501
+was not in effect when Art. 1, § 13 was ratified. Rather, the statute measured the speedy deadline
+
+by court terms, which the legislature abolished long ago. Therefore, even if Defendant were
+correct that the speedy trial right guaranteed by the Idaho Constitution is to be strictly interpreted
+
+by reference to I.C. § 19-3501 as it existed in 1889, it could not be interpreted as imposing a six-
+month time limit.
+
+       Moreover, even though the Idaho Supreme Court pre-Lindsay acknowledged the
+
+importance of I.C. § 19-3501 in defining what was meant by Idaho's constitutional guarantee to
+a speedy trial, it also recognized that whether a defendant was deprived of his or her
+
+constitutional speedy trial rights cannot simply be measured by time. In Ellenwood v. Cramer,
+the Idaho Supreme Court observed:
+
+       The right of a defendant to a speedy trial was recognized at common law and this
+       right has been embodied in our Constitution. Idaho Statutes, Sec. 19-3501, I.C.,
+       has defined in substance what is meant by a speedy trial, that is, one accused of
+       crime should be tried not later than the next term of court subsequent to being
+       held to answer, unless the trial is postponed upon defendant's application, or with
+       his consent, or other lawful, valid reason.
+
+
+       This Court, in Jn re Rash, 64 Idaho 521, 134 P.2d 420, 422, defined 'speedy trial'
+       as 'as soon as reasonably possible'.
+
+
+
+
+                                                 44
+          One accused of crime is entitled to be tried under fixed standards and rules, free
+          from capricious and oppressive unnecessary delays and with reasonable diligence.
+          The term speedy trial is relative, and must be considered and construed and
+          applied depending upon all surrounding facts and circumstances. No arbitrary,
+          fixed standard applicable to all situations can be defined. Time must, in many
+          cases, be allowed for preparation, assembling of witnesses, or other reasons, and
+          all circumstances and conditions must be considered in determining whether or
+          not one accused of crime was accorded a speedy trial within the meaning of the
+          constitutional provision.
+
+Ellenwood v. Cramer, 75 Idaho 338, 343, 272 P.2d 702, 705 (1954).
+
+          Indeed, in Lindsay, the Court recognized that the adoption of the Barker factors
+
+comported with its own historic approach of "refer[ing] to considerations in addition to the mere
+
+passage of time" in determining whether a defendant has been deprived of speedy trial rights.
+
+Lindsay, 96 Idaho at 475, 531 P.2d at 237. This approach is consistent with how I.C. § 19-3501
+has- since its territorial days         been defined, i.e., by allowing trial to be prolonged beyond the
+
+next court term upon a showing of "good cause.""! Consequently, the Court does not find
+
+Defendant's argument for calling Lindsay into question supportable.
+          G.      Motion to Strike State's Notice on Grounds of International Law
+          Defendant next contends that Idaho's death penalty scheme violates the International
+
+Covenant on Civil and Political Rights ("ICCPR"), ratified by the United States in 1992.42 The
+ICCPR prohibits, inter alia, "cruel, inhuman or degrading treatment or punishment" and the
+arbitrary deprivation of life. ICCPR, Pt. II, arts. 6, 7. He asserts Idaho's failure to comply with
+the ICCPR violates his state and federal constitutional due process rights. The State responds that
+
+Idaho's death penalty does not run afoul of the treaty. The Court agrees.
+                   1.       The ICCPR provides no additional protection than the U.S. Constitution.
+          It is well-recognized that "[a]n international agreement creates obligations binding
+
+between the parties under international law." Restatement (Third) of Foreign Relations Law §
+
+
+"' Rule
+         28, I.C.R., sets forth six factors that a court may consider in determining whether there is good cause for
+failure to bring a defendant to trial within the statutory time frame. These factors are very similar to those set forth in
+Barker.
+
+"At Defendant's request, the Court takes judicial notice under IRE 201(c)(2) of the following documents appended
+to Defendant's motion: 1) the United Nations General Assembly Resolution 217A(111), 10 December 1948 (Exh.
+A); 2) the [CCPR (Exh. B); 3) the International Covenant on Economic, Social and Cultural Rights (Exh. C), and; 4)
+the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Exh. D).
+
+                                                           45
+102, cmt. f. At issue here is the ICCPR, which prohibits "cruel, inhuman or degrading treatment
+or punishment" and the arbitrary deprivation of life. ICCPR, Pt. III, arts. 6, 7 Defendant
+                                                                               7.
+
+
+
+
+contends that the breadth of Idaho's capital selection process, the excessive delays between
+
+sentencing and execution, the conditions of confinement and the implementation of the death
+
+penalty violate these provisions.
+         However, these provisions provide no greater protection than what is already provided
+under the United States Constitution. While the United States ratified the ICCPR, it agreed to
+
+abide by the foregoing prohibitions only to the extent that the Fifth, Eighth and Fourteenth
+
+Amendments of the United States Constitution ban cruel and unusual punishment. See 138 Cong.
+
+Rec. S4781-01 (daily ed., April 2, 2992) ("That the United States considers itself bound by
+article 7 to the extent that 'cruel, inhuman or degrading treatment or punishment' means the cruel
+
+and unusual treatment or punishment prohibited by the Fifth, Eighth, and/or Fourteenth
+
+Amendments to the Constitution of the United States."). The ICCPR does not prohibit the death
+
+penalty and, in fact, sanctions its imposition for "the most serious crimes" in countries that allow
+for it, to wit:
+
+         In countries which have not abolished the death penalty, sentence of death may be
+        imposed only for the most serious crimes in accordance with the law in force at
+        the time of the commission of the crime and not contrary to the provisions of the
+         present Covenant and to the Convention on the Prevention and Punishment of the
+         Crime of Genocide. This penalty can only be carried out pursuant to a final
+        judgement rendered by a competent court.
+
+ICCPR, art. 6, { 2.
+         Further, when the United States ratified the ICCPR in 1992, it specifically reserved the
+
+right "subject to its Constitutional constraints, to impose capital punishment on any person (other
+than a pregnant woman) duly convicted under existing or future laws permitting the imposition
+
+of capital punishment, including such punishment for crimes committed by persons below
+eighteen years of age." See 138 Cong. Rec. S4781-01 (supra).
+         Thus, the ICCPR, as adopted by the United States, does not impose any additional limits
+on the application of the death penalty in the United States than what it already constrained by
+
+the United States Constitution. See, White v. Johnson, 79 F.3d 432, 440 & n. 2 (Sth Cir.) (noting
+
+that even if it were to consider the merits of the defendant's ICCPR claim, it would do so under
+
+
+
+                                                 46
+the Senate's reservation that it only prohibits cruel and unusual conduct under the Eighth
+
+Amendment.).
+                 2.       The ICCPR does not create enforceable rights, nor can it be used to
+                          "interpret" constitutional protections.
+
+        Even assuming the ICCPR afforded broader rights than what is constitutionally
+
+guaranteed, it could not serve as an independent basis for Defendant's claim. Treaties only affect
+United States law if they are self-executing or otherwise given effect by congressional
+
+legislation. Whitney v. Robertson, 124 U.S. 190, 194] (1888). Congress specifically declared that
+Articles 1 through 24 of the ICCRP "are not self-executing." See 138 Cong. Rec. 54781-01
+
+(supra). Further, it has been held by virtually every court that has addressed the issue that the
+ICCPR is not self-executing, has not been given effect by congressional legislation and creates
+no enforceable individual rights. State v. Odom, 137 S.W.3d 572, 599 (Tenn. 2004) (collecting
+
+cases). Defendant has not cited to a single case to the contrary.
+        Recognizing this hurdle, Defendant urges this Court to overlook the ICCPR's non-self-
+executability and instead construe the Eighth Amendment in accordance with the ICCPR
+pursuant to the "Charming Betsy" canon of interpretation. This canon encourages judges to
+select an interpretation of an ambiguous statute that accords with U.S. international obligations,
+
+including those expressed in non-self-executing treaties. Rebecca Crootof, Judicious Influence:
+Non-Self-Executing Treaties and the Charming Betsy Canon, 120 Yale L.J. 1784 (2011). As
+Defendant notes, this canon has not been used to interpret constitutional provisions, but he
+
+argues it should be done here lest the Court place "our country in breach of a treaty." Mtn., p. 7.
+        This argument defies logic. Defendant is essentially asking the Court to construe the
+
+Eighth Amendment as incorporating the ICCPR as a minimum standard based on an obscure
+canon of statutory interpretation. To the extent the Charming Betsy canon even applies to
+
+
+
+43
+   See also, Booker v. McNeil, 2010 WL 3942866, at *40 (N.D. Fla. Oct. 5, 2010), aff'd sub nom. Booker v. Sec'y,
+Fla. Dep't of Corr., 684 F.3d 1121 (11th Cir. 2012) (ICCPR does not create judicially-enforceable individual rights
+and does not entitled defendant from relief from death penalty); Halvorsen v. Com., 258 S.W.3d 1, 12 (Ky. 2007)
+(rejecting ICCPR claim in context of challenge to execution delay); State v. Davis, 9 N.E.3d 1031, 1051 (Ohio 2014)
+("[T1he ICCPR provides no basis, independent of the Eighth Amendment, for holding that delay between execution
+and sentence deprives the state of the right to execute the death sentencef.]"); Jenkins v. Broomfield, 2023 WL
+8441491, at *40 (C.D. Cal. Oct. 17, 2023) (concluding ICCPR claim "lacks support in clearly established federal
+law."); State v. Horton, 2016 WL 1742989, at *6 (Ariz. Ct. App. May 3, 2016) (finding ICCPR is not binding on
+any court in the United States); Rouse v. Walden, 420 P.3d 992 (Haw. App. 2018) (same).
+
+
+                                                        47
+constitutional provisions, a necessary prerequisite to its application is a finding of ambiguity.
+
+Crootof, at 1799 ("Once a court has determined that a non-self-executing treaty codifies
+
+customary international law, it may use the treaty, in conjunction with the Charming Betsy
+canon, when interpreting an ambiguous statute."). Defendant has advanced no argument that the
+
+Eighth Amendment's "cruel and unusual punishment" language is ambiguous.
+        In sum, the ICCRP provides no basis for relief. In accordance with the weight of
+
+authority, the Court finds it is not self-executing, has not been given effect by Congress and
+
+provides Defendant with no enforceable right. Moreover, Defendant has provided no basis by
+which the ICCRP should be used as a tool to interpret the meaning of the Eighth Amendment.
+
+Consequently, the motion is denied.
+        H.       Motion to Strike State's Notice on Grounds of Contemporary Standards of
+                 Decency
+
+        Relying on various data points and information from several fronts, Defendant contends
+that the imposition of the death penalty no longer comports with the evolving standards of
+
+society and, therefore, the State's effort to impose the death penalty against him violates his
+constitutional right to be free from cruel and unusual punishment under both the state and federal
+
+constitutions. U.S. Const. amend. VIII; Idaho Const. art. I, §§ 6, 13.
+
+        In response, the State points out that only nine years ago, the Idaho Supreme Court
+
+rejected this argument in Abdullah," which it reaffirmed four years ago in the case of Hairston v.
+State® with regard to defendants under the age of twenty-one. The State contends Defendant has
+
+not established any significant change since those cases were decided that would warrant a
+
+finding that the death penalty is no longer constitutional. The Court agrees.
+                  1.      Evolving Standards of Decency       Legal Standards
+        The Eighth Amendment, applied to the States through the Due Process Clause of the
+Fourteenth Amendment, forbids the infliction of cruel and unusual punishment. U.S. Const.
+
+amend. VIII. Long ago, the U.S. Supreme Court recognized that the phrase "cruel and unusual"
+
+is to be defined by "the evolving standards of decency that mark the progress of a maturing
+
+society." Trop v. Dulles, 356 U.S. 86, 101 (1958) (plurality).
+
+
+
+44158 Idaho at 455-56, 348 P.3d at 70-71.
+
+
+45167 Idaho 462, 468, 472 P.3d 44, 50 (2020) (Hairston IN).
+
+                                                        48
+       Ascertaining the standards of decency require consideration of "objective indicia of
+society's standards, as expressed in legislative enactments and state practice to determine
+whether there is a national consensus against the sentencing practice at issue." Graham v.
+
+Florida, 560 U.S. 48, 61 (2010) (quotes and citation omitted). Then, guided by "the standards
+elaborated by controlling precedents and by the Court's own understanding and interpretation of
+
+the Eighth Amendment's text, history meaning, and purpose, the Court must determine in the
+
+exercise of its own independent judgment whether the punishment in question violates the
+
+Constitution." /d. (quotes and citations omitted).
+
+               2.      The Death Penalty Remains Consistent with Contemporary Standards of
+                       Decency.
+
+       The Idaho Supreme Court has held time and again that Idaho's death penalty statute does
+not violate the Eighth Amendment. Abdullah, 158 Idaho at 455-56, 348 P.3d at 70-71. In fact, in
+
+Abdullah, the Court considered and rejected the argument that the death penalty is inconsistent
+with society's evolving standards of decency. The Court observed that, at the time of the 2015
+
+decision, thirty-two states continued to allow for the death penalty as an option and, therefore, it
+was difficult to view the practice as objectively intolerable. /d. It held that, "absent some
+
+legislative or executive action," it could not conclude Idaho's death penalty statute was
+unconstitutional based on evolving standards of decency and public opinion. /d.
+
+       The Court revisited the issue five years later in Hairston JJ, when the petitioner argued
+the death penalty for offenders under the age of twenty-one at the time of the offense was
+
+inconsistent with "emerging national, international, and state trends" against such punishment.
+
+167 Idaho at 467, 472 P.3d at 49. In support, the petitioner presented, inter alia, national
+
+Statistics regarding the abolition of and moratoria against the death penalty across the nation,
+
+evidence of international developments against execution, and evidence of emerging medical and
+
+scientific consensus that defendants under twenty-one are just as deserving as constitutional
+
+protection against the death penalty than those under eighteen. Id.
+       While the Court acknowledged the trends, it reaffirmed that it "subscribes to the views of
+
+legislative bodies as the basis for determining a national consensus[.]" /d. Absent evidence of
+legislative or executive action or of consensus among those states that continue to exercise the
+death penalty that it is unconstitutional for offenders under twenty-one years old, the Court was
+
+unwilling to depart from United States Supreme Court precedent setting eighteen years old as the
+
+                                                 49
+line at which death penalty eligibility rests. Jd. at 468, 472 P.3d at 50 (citing Roper v. Simmons,
+
+543 U.S. 551, 574 (2005).
+
+           In arguing the death penalty no longer comports with the contemporary standards of
+
+decency, Defendant follows the same tact as the petitioner in Hairston II, citing to: 1) the decline
+of executions carried out nationwide over the past ten years; 2) the increasing number of state
+abolishing the death penalty or attempting to do so; 3) the decline in public support for the death
+penalty, and; 4) anti-death penalty sentiment expressed in the international community, by
+religious organizations and by the medical and pharmaceutical field.
+           However, the Idaho Supreme Court has been clear                to determine whether the death
+
+penalty remains consistent with the evolving standards of decency, the focus must be on
+
+legislative and executive action. Of this, Defendant has presented very little. It is true that since
+Abdullah was issued in 2015, five additional states no longer have a viable death penalty statute                    -
+
+
+
+
+Delaware (2016), New Hampshire (2019), Colorado (2020), Virginia (2021), and Washington
+
+(2023).*° This still leaves twenty-seven states that still currently have the death penalty.*" As
+observed in Abdullah, it is difficult to conclude the death penalty contravenes evolving standards
+
+of decency when a majority of the states of this nation continues to provide for it as a
+punishment.*®
+
+           Moreover, while Defendant points to ten states that currently have pending legislation to
+abolish the death penalty, legislation that is merely pending reveals very little about evolving
+
+standards of decency. "[T]he clearest and most reliable objective evidence of contemporary
+
+values is the legislation enacted by the country's legislatures." Atkins v. Virginia, 536 U.S. 304,
+
+
+
+46Death Penalty Information Center, https://deathpenaltvinfo.org/curriculum/high-school/state-by-state-data/state-
+summaries (last visited Nov. 13, 2024).
+
+47
+ Although three of those twenty-seven states-California, Oregon and Pennsylvania-have gubernatorial
+moratoria in place on executions, it still leaves approximately half of the states with enforceable death penalty
+regimes.
+
+48
+     Moreover, even though there is a nationwide decrease in the number of executions performed each year, this does
+not necessarily corollate with evolving standards of decency. There can be many reasons executions are delayed,
+including changes in the law or unavailability of drugs, both of which delayed executions in Idaho. See, e.g.,
+Hairston y. Ramirez, 746 F. App'x 633, 634 (9th Cir. 2018) (remanding to district court to consider whether counsel
+was ineffective in presenting mitigation evidence in light of U.S. Supreme Court case decided while Hairston's
+appeal was pending); Pizzuto v. Tewalt, 2023 WL 4901992, at *2 (D. Idaho Aug. 1, 2023) (discussing how the
+unavailability of chemicals to perform lethal injection caused the repeated rescheduling of Pizzuto's execution
+date.).
+
+
+                                                          50
+312 (2002) (emphasis added). More illuminating is that fact that voters in both California (the
+
+most populous state) and Nebraska have stated by way of referendum that the death penalty
+
+remains appropriate.""
+
+            In sum, Defendant has demonstrated no significant legislative or executive action taken
+
+since Abdullah and Hairston II with respect to the death penalty that would signify a
+
+consequential change to societal standards of decency. Nor has Defendant cited to any court case
+in the past few years that the death penalty should be abolished due to evolving standards of
+
+decency. Consequently, there is no basis to depart from settled law upholding Idaho's death
+
+penalty statute as constitutional.
+            IL.      Motion to Strike State's Notice on Grounds of Means of Execution.
+            Defendant seeks to strike the State's Notice on grounds that Idaho's statutory methods of
+
+execution violate the Eighth and Fourteenth Amendments to the U.S. Constitution and its Idaho
+corollaries. Currently, there are two methods of execution are prescribed by Idaho statute: lethal
+
+injection and firing squad. I.C. § 19-2716. Defendant asserts that Idaho currently does not have
+the ability to kill a person by lethal injection®® and the firing squad is not only currently
+
+unavailable,>! it is cruel and unusual. To this end, he provides the affidavit of Barbara Wolf,
+M.D. opining as to the conscious pain and suffering an individual executed by firing squad will
+suffer.°? Defendant further argues that it is unconstitutional to allow him to sit on death row
+
+without knowing how he will be executed.
+
+
+
+49
+  Id. at https://deathpenaltyinfo.org/state-and-federal-info/state-by-state/nebraska; https://deathpenaltyinfo.org/state-
+and-federal-info/state-by-state/california (last visiting Nov. 13, 2024).
+
+50
+   Defendant provides no basis for his assertion that death by lethal injection is not available in Idaho. In February of
+2024, Idaho attempted to execute Thomas Creech by lethal injection, yet was unable to do so due to the inability to
+establish reliable intravenous access, not because the drugs were unavailable. Creech v. State, 2024 WL 4678228, at
+*7 (Idaho Nov. 5, 2024). In fact, Creech was scheduled for a second attempt of execution by lethal injection on
+November 13, 2024, but it was suspended due to a stay imposed by Idaho's federal district court. Therefore, at the
+current time, it appears that death by lethal injection is an available means of execution in Idaho. Moreover, even if
+it were not, any anxiety Defendant may experience from not knowing how he is going to be executed does not
+implicate the Eighth Amendment. /d. at *7 (the psychological strain, the subsequent nightmares and trauma Creech
+experienced preparing for the failed execution and in anticipation of a second execution attempt is not an Eighth
+Amendment violation).
+
+5!
+     The facility for the firing squad has not yet been built.
+
+52
+   The State objected to live testimony by Dr. Wolf on grounds that, because the issue is not ripe, her opinions would
+not aid the trier of fact in determining a fact of consequence. IRE 702. The Court orally granted the objection,
+finding Dr. Wolf's affidavit to be a sufficient proffer for purposes of the motion.
+
+                                                                 51
+          The State responds that Defendant's motion must be denied as it is not ripe, it is
+foreclosed by United States Supreme Court jurisprudence, and it is facially insufficient because
+
+he has failed to identify an alternative method of execution. The Court agrees.
+
+                 1.      Defendant's motion is not ripe.
+         To be justiciable, an issue must be ripe. "Ripeness is that part ofjusticiability that 'asks
+whether there is any need for court action at the present time.'" 4.C. & CE. Invs., Inc. v. Eagle
+
+Creek Irrigation Co., 173 Idaho 178, 540 P.3d 349, 358 (2023) (quoting Davidson v. Wright, 143
+Idaho 616, 620, 151 P.3d 812, 816 (2006) (internal citations omitted)).     "[A] litigant ... must
+demonstrate that an actual controversy exists and that the requested relief will provide actual
+
+relief, not merely potential relief." Id. (internal quotes omitted; emphasis in original).
+         There is no hard and fast rule as to when a method of execution claim becomes ripe. The
+Ninth Circuit holds that a challenge to the method of execution becomes ripe "when the method
+is chosen." Pizzuto v. Tewalt, 997 F.3d 893, 902 (9th Cir. 2021). Other courts have set other
+
+thresholds. See, Gallo v. State, 239 S.W.3d 757, 780 (Tex. Crim.App. 2007) (challenge to lethal
+
+injection not ripe on direct appeal since there was no execution date and current method of
+execution may not exist in the future); Rigterink v. State, 66 So.3d 866, 897-98 (Fla. 2011)
+
+(method of execution claim becomes ripe when the death warrant is signed); State v.
+
+Washington, 330 P.3d 596, 662 (Or. 2014) (when all direct and collateral review proceedings
+have concluded and death warrant has issued); State v. Johnson, 244 8.W.3d 144, 165 (Mo.
+
+2008) (after the setting of an execution date); Harris v. Johnson, 376 F.3d 414, 418 (Sth Cir.
+2004) (when execution by lethal injection was an event "reasonably likely to occur in the
+future'"').
+
+
+         Notably, in all of these cases, the defendants were already on death row. Defendant has
+presented no case where a capital defendant who has not yet even been found guilty of murder
+can challenge the method of execution. Instead, he claims it should be decided now to avoid his
+
+own "fate of ever-increasing fear and distress." However, this runs counter to the ripeness
+
+doctrine, which requires that an actual, not potential, controversy. The method of execution that
+is currently statutorily authorized in Idaho-lethal injection and, if unavailable, firing squad-
+
+may change in the future. Assuming Defendant is convicted, and the death penalty is imposed, it
+would likely be at least a decade before he is executed. To decide now as to the constitutionality
+
+
+
+                                                   52
+of any given method would amount to an advisory opinion. Avoidance of Defendant's distress is
+not a basis to contravene well-settled rules ofjusticiability. Consequently, the motion fails.
+
+
+                  2.       Lethal injection and firing squad have been found constitutional by
+                           the U.S. Supreme Court.
+
+         Even if Defendant's motion were ripe, it has been foreclosed by prior United States
+
+Supreme Court precedent finding both lethal injection and the firing squad to be constitutional
+methods of execution. In Wilkerson v. Utah, the Court upheld a sentence of death by firing
+
+squad, finding it did not contravene the Eighth Amendment. 99 U.S. 130, 134-135 (1879). While
+Defendant disputes that Wilkerson actually found death by firing squad passed the constitutional
+
+muster, that is precisely what Wilkerson held, i.e., "Cruel and unusual punishments are forbidden
+
+by the Constitution, but ... the punishment of shooting as a mode of executing the death penalty
+for the crime of murder in the first degree is not included in that category, within the meaning of
+
+the eighth amendment." Moreover, the United States Supreme Court consistently cites to
+
+Wilkerson as "uph[olding]} a sentence to death by firing squad imposed by a territorial court,
+
+rejecting the argument that such a sentence constituted cruel and unusual punishment." Baze v.
+Rees, 553 U.S. 35, 48 (2008).
+
+         Additionally, in Baze, the Court found the three-drug protocol states commonly used for
+lethal injection did not violate the Eighth Amendment. 553 U.S. 35, 207. Subsequently, in
+
+Glossip v. Gross, the Court approved of the use of midazolam in lethal injection executions and
+cited approvingly to a list of "courts across the county [that] have held that the use of
+
+pentobarbital in executions does not violate the Eighth Amendment. 576 U.S. 863, 871, 881
+
+(2015).°> Defendant has not advanced any basis to question these holdings.
+                  3.        Defendant has failed to identify an alternate method of execution.
+
+         Finally, a prerequisite to an Eighth Amendment challenge to a method of execution is
+demonstrating an available alternate method, which Defendant has not done. "The Eighth
+Amendment does not guarantee a prisoner a painless death[.]" Bucklew v. Precythe, 587 U.S.
+
+53
+  In fact, the U.S. Supreme Court has never invalidated a State's chosen procedure for carrying out a sentence of
+death as the infliction of cruel and unusual punishment. Baze, $53 U.S. at 48. To prevail on such a claim, a person
+must show aa 'substantial risk of serious harm,' an 'objectively intolerable risk of harm' that prevents prison officials
+from pleading that they were 'subjectively blameless for purposes of the Eighth Amendment.'" /d. at 50 (quoting
+Farmer v. Brennan, 511 U.S. 825, 842, 846, and n. 9 (1994). "Simply because an execution method may result in
+pain, either by accident or as an inescapable consequence of death, does not establish the sort of 'objectively
+intolerable risk of harm' that qualifies as cruel and unusual. /d.
+
+                                                           53
+119, 132-33 (2019). Rather, it forbids "long disused (unusual) forms of punishment that
+intensified the sentence of death with a (cruel) 'superadd[ition]' of 'terror, pain, or disgrace.'" Jd.
+
+(quoting Baze, 553 U.S. at 48 (THOMAS, J., concurring in judgment). Moreover, a requirement
+of all Eighth Amendment method-of-execution claims is "identifying an available alternative."
+Id. at 136. As the Court pointed out in Bucklew:
+
+       Distinguishing between constitutionally permissible and impermissible degrees of
+       pain ... is a necessarily comparative exercise. To decide whether the State has
+       cruelly 'superadded' pain to the punishment of death isn't something that can be
+       accomplished by examining the State's proposed method in a vacuum, but only by
+       'compar[ing]' that method with a viable alternative. Glossip, 576 U.S., at
+       135 S.Ct., at 2737-2738; see Baze, 553 U.S. at 61, 128 S.Ct. 1520.
+
+
+Id.
+
+       Defendant acknowledges he has not identified an alternative method, but contends his
+
+claim is distinct from the method-of-execution claims in Bucklew, Baze and Glossip. He argues
+Idaho's chosen methods are unconstitutional because they threaten Idaho's citizens with a means
+
+of execution that "cannot be carried out without causing undue pain." Reply, p. 4. However, this
+is not a distinction that can be drawn. Undue pain is precisely the question that the foregoing
+
+method-of-execution cases address. To strike a method of execution as unduly painful under the
+
+Eighth Amendment, Defendant must come forward with an alternative method. He has not done
+so, thus foreclosing his claim.
+
+
+IV.    ORDER
+       Based on the foregoing analysis, Defendant's Death Penalty Motions are hereby
+
+DENIED.
+
+
+IT IS SO ORDERED.
+
+
+DATED this                 November, 2024.
+
+
+                                               Stev       ppler
+                                               Administrative District Judge
+
+
+                                                   54
+                           CERTIFICATE OF MAILING
+        |HEREBY CERTIFY that on this  a    Hay       of November, 2024, caused a
+                                                                       |
+
+
+
+true and correct copy of the above and foregoing instrument to be mailed, postage
+prepaid, or hand-delivered, to:
+
+
+William W. Thompson, Jr.
+Ashley Jennings
+LATAH COUNTY PROSECUTING ATTORNEY
+paservice@latah.id.us
+
+Jeffery Nye
+Ingrid Batey
+DEPUTY ATTORNEY GENERAL
+Jeff.nye@ag.idaho.gov
+Ingrid.batey@aq.idaho.gov
+
+Anne Taylor
+ATTORNEY FOR DEFENDANT
+info@annetaylorlaw.com
+
+Elisa C. Massoth
+ATTORNEY FOR DEFENDANT
+emassoth@knrrs.net
+
+Jay Logsdon
+KOOTENAI COUNTY PUBLIC DEFENDER
+jay.logsdon@spd.idaho.gov
+
+
+
+
+                                                            use
+
+
+
+
+                                              Dep        uftCler     os
+
+
+
+
+ORDER
+

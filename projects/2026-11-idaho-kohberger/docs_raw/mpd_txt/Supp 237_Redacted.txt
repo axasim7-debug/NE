@@ -1,0 +1,41 @@
+07/08/25                       Moscow Police Department                      1272
+11:52                       Law Supplemental Narrative:              Page:      1
+  Details
+Incident Number      22-M09903          Name   Brett Payne
+Sequence Number      237                Date   09:00:57 08/23/23
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Microsoft One Drive Download- #157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+Fowarded to Det. Mowery for decription
+3.        Narrative
+
+On Monday, August 22, 2023, I received an email from the Microsoft Law
+Enforcement Portal stating there was data available for download reference
+submission locator                  . This request was made by Det. Mowery and I
+was an alternate recipient on the request. I logged onto the secure portal and
+downloaded the available file with Hash value:
+
+I downloaded the file and then forwarded it to Det. Mowery as my computer did
+not have the software necessary to view the files.
+4.        Other
+
+NA
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+CPL Payne #157
+Wed Aug 23 09:01:51 PDT 2023
+Reviewed By:
+Capt. Dustin Blaker #108
+Wed Aug 23 11:07:47 PDT 2023
+

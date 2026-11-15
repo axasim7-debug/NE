@@ -1,0 +1,36 @@
+07/08/25                     Moscow Police Department                        1272
+10:21                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number     46                Date   14:35:08 11/29/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+TMobile Amended Warrant
+
+Case # 22-M09903
+Date: 11/29/2022
+
+On November 26, 2022, I requested and was granted an amended TMoblie Tower Dump
+Data Warrant to include devices within a 2-mile radius. The original warrant
+included only .5 miles.
+On November 26, 2022, at approximately 2059 hours, the warrant was served on
+T-Mobile via email at           @t-mobile.com. On November 28, 2022 I received
+an email with the files provided pursuant to the warrant. These files were
+downloaded to a computer in the secured computer forensic lab at the Moscow
+Police Department. An examination of the data will be conducted at my earliest
+convenience.
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also
+emailed a copy of the receipt to T-Mobile            @T-Mobile.com), as this was
+the originating email address associated with the documents.
+Det. Lawrence Mowery - 162
+Tue Nov 29 14:35:15 PST 2022
+Reviewed:
+Sgt. J. W. Lawrence
+Wed Nov 30 07:30:34 PST 2022
+

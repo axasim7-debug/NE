@@ -1,0 +1,39 @@
+07/08/25                       Moscow Police Department                      1272
+12:05                       Law Supplemental Narrative:              Page:      1
+  Details
+Incident Number      22-M09903          Name   Brett Payne
+Sequence Number      276                Date   10:11:33 05/02/24
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Lab Report Thumb Drive Receipt-#157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+Item 881 Thumb Drive
+3.        Narrative
+
+On Thursday, May 2, 2024 I received a thumb drive from Evidence Custodian T
+S          . E.C. S           had downloaded lab reports from a secure link in
+response to a request from the Prosecuting Attorney's Office. I reviewed the
+folders on the thumb drive and found they contained lab reports reference the
+SNP profile as well as the trace evidence analysis for this case.
+I booked the thumb drive into MPD evidence on the same day.
+4.        Other
+
+NA
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+CPL Payne #157
+Thu May 02 10:12:21 PDT 2024
+Reviewed by:
+Capt. Dustin Blaker #108
+Mon May 06 09:29:45 PDT 2024
+

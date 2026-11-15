@@ -1,0 +1,39 @@
+07/08/25                     Moscow Police Department                        1272
+10:31                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number     60                Date   16:49:08 12/05/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Yahoo Warrant Goncalves
+
+Case # 22-M09903
+Date: 12/4/2022
+
+On December 1, 2022, I applied and was granted a warrant for any data associated
+with Kaylee Goncalves' Yahoo Account using the following identifiers:
+                 @yahoo.com
+On December 1, 2022, at approximately 1355 hours, the warrant was served via the
+Yahoo Law Enforcement Portal located at https://lawenforcementrequests.oath.com.
+On December 4, 2022, I received an email from Yahoo stating the data requested
+pursuant to the warrant were available to download. I received an email with a
+link to download the data. I logged into the Law Enforcement Portal and began
+downloading the files to the forensic computers located in the secure forensic
+computer lab at the Moscow Police Department.
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also
+emailed a copy of the receipt to K     V      (            @yahooinc.com), as
+this was the originating email address associated with the documents.
+
+Det. Lawrence Mowery - 162
+Mon Dec 05 16:49:12 PST 2022
+
+Reviewed:
+Sgt. J. W. Lawrence
+Wed Dec 07 08:41:01 PST 2022
+

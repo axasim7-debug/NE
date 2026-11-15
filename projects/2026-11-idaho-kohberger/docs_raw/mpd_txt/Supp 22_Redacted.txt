@@ -1,0 +1,50 @@
+07/08/25                      Moscow Police Department                       1272
+10:07                      Law Supplemental Narrative:               Page:      1
+  Details
+Incident Number    22-M09903           Name   Lawrence Mowery
+Sequence Number     22                 Date   17:19:10 11/17/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+_     __
+A      G           Files
+
+Case # 22-M09902
+Date: 11/17/2022
+
+On November 15, 2022, I received and email from S     G        , the        of
+Kaylee Goncalves. He stated he had access to some of Kaylee's messages and
+phone calls. S     stated he would have                   , A     , contact me
+about those files.
+I was able to speak to A      and she sent me various files, including an image
+from the Spokesman Review showing a camera on a nearby residence, text messages
+between Kaylee and J    D      , text messages between Kaylee and her Uber
+driver (E   ), a recent phone call list, and video from the Grub Truck Twitch.tv
+feed.
+I attached these files to the case file. The communication between Kaylee and
+D       was located on D         phone examinationand the Twitch feed was
+previously downloaded.
+
+In the image showing the camera, it was found that residence was at      King
+Road. The SDCard from the camera was brought to the Moscow Police Department,
+but was the file system of the card was not recognized by any of the forensic
+computers. The card was returned to the owner and reinstalled into the camera.
+On November 17, 2022, Ofc John Rosinsky re-contacted the owner of the camera,
+P     C      via phone. C      stated she was out of town, but sent a video to
+Ofc Rosinsky showing a figure walk to the dumpster and appear to look inside.
+
+To preserve any potential evidence on the camera, I asked C      if we could
+seize the entire device, including the SDCard, to which she stated yes. C
+stated she would not be back in Moscow until approximately November 28, 2022. I
+directed C      to contact me when she returns to her residence, at which time I
+will attempt to connect the camera back to her WIFI router and view video from
+the device.
+Det. Lawrence Mowery - 162
+Thu Nov 17 17:19:19 PST 2022
+Reviewed:
+Sgt. J. W. Lawrence
+Fri Nov 18 09:09:14 PST 2022
+

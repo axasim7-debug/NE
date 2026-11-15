@@ -1,0 +1,313 @@
+                                                                     Filed: 02/24/2025 15:05:35
+                                                                     Fourth Judicial District, Ada County
+                                                                     Trent Tripple, Clerk of the Court
+                                                                     By: Deputy Clerk Waters, Renee
+                                                                                      -
+
+
+
+
+LATAH COUNTY PROSECUTOR'S OFFICE
+WILLIAM W. THOMPSON, JR., ISB No. 2613
+PROSECUTING ATTORNEY
+ASHLEY S. JENNINGS, ISB No. 8491
+SENIOR DEPUTY PROSECUTOR
+Latah County Courthouse
+522 S. Adams Street, Ste. 211
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+
+       IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+
+ STATE OF IDAHO,                                        Case No. CR01-24-31665
+                 Plaintiff,
+                                                                    REDACTED
+                                                        STATE'S MOTION IN LIMINE
+                                                        RE: SELF-AUTHENTICATION
+                                                        OF RECORDS IN RELIANCE
+ v                                                      ON LR_E. 803(6) AND (8), LR.E.
+                                                        902(4) AND (11) AND/OR LR.E.
+ BRYAN C. KOHBERGER,                                    803(24)
+                 Defendant.
+
+
+
+
+       COMES NOW the State of Idaho, by and through the Latah County Prosecuting
+
+Attorney, and respectfully moves for orders in limine allowing the admission of certain evidence
+
+in accordance with Idaho Rule of Evidence 803(6), (8) and (24), "Idaho Rules of Evidence Rule
+
+803. Exceptions to the Rule Against Hearsay   -
+                                                  Regardless of Whether the Declarant is Available
+
+as a Witness."
+
+       [.R.E. 803(6) states the following:
+
+
+
+STATE'S MOTION IN LIMINE RE: SELF-AUTHENTICATION OF RECORDS IN RELIANCE
+ON L.R.E. 803(6) AND (8), IR.E. 902(4) AND (11) AND/OR LR.E. 803(24) (SEALED)                        1
+            (6) Records of a Regularly Conducted Activity. A record of an act,
+            event, condition, opinion, or diagnosis if:
+               (A) the record was made at or near the time by – or from
+               information transmitted by – someone with knowledge;
+               (B) the record was kept in the course of a regularly conducted
+               activity of a business, organization, occupation, or calling, whether
+               or not for profit;
+               (C) making the record was a regular practice of that activity;
+               (D) all these conditions are shown by the testimony of the
+               custodian or another qualified witness, or by a certification that
+               complies with Rule 902(11) or (12); and
+               (E) the opponent does not show that the source of information or
+               the method or circumstances of preparation indicate a lack of
+               trustworthiness.
+
+       I.R.E. 803(8) states the following:
+
+              (8) Public Records. A record or statement of a public office if:
+                     (A) it sets out:
+                             (i) the office's regularly recorded and regularly
+                             conducted activities; or
+                             (ii) a matter observed while under a legal duty to
+                             report, or factual findings resulting from an
+                             investigation conducted under legal authority, but
+                             not including:
+                                      (a) a statement or factual finding offered by
+                                      the public office in a case in which it is a
+                                      party; or
+                                      (b) an investigative report by law
+                                      enforcement personnel or a public office’s
+                                      factual finding resulting from a special
+                                      investigation of a particular complaint, case,
+                                      or incident, except when offered by an
+                                      accused in a criminal case; and
+                     (B) the opponent does not show that the source of
+                     information or other circumstances indicate a lack of
+                     trustworthiness.
+
+       At trial, the State intends to introduce the following certified statement(s) and/or
+
+record(s) under I.RE. 803(6) and/or I.R.E. 803(8):
+
+   •   1320 Linda Lane surveillance footage for November 13, 2022 (Hard drive provided on
+       4/5/22, AV000147)
+   •   1330 Linda Lane surveillance footage for November 13, 2022 (Hard drive provided on
+
+
+STATE’S MOTION IN LIMINE RE: SELF-AUTHENTICATION OF RECORDS IN RELIANCE
+ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) (SEALED)               2
+       4/5/22, AV000147)
+   e   Albertson's (Clarkston, WA) video surveillance and business records for November 13,
+       2022 (Hard drive provided on 4/5/23)
+   e   Amazon financial and user records for Bryan Kohberger (Hard drive provided on 4/5/23;
+       AV000236, AV000243, AV000398; AV000832)
+   e   AT&T phone records for Bryan Kohberger, Madison Mogen, Xana Kernodle
+       (AV000228; Hard drive provided on 4/5/23)
+   e   Bagel Shop video surveillance video for November 13, 2022 (Hard drive provided on
+       4/5/23)
+   e   Bank of America bank records for     B.F.      and Xana Kernodle (Hard drive
+       provided on 4/5/23; AV000133; AV000254)
+   e   Banner Bank banking records for Ethan Chapin (Hard drive provided on 4/5/23;
+       AV000255)
+   e   Café Artista video surveillance video for November 13, 2022 (Hard drive provided on
+       4/5/23)
+   e   Corner Club video surveillance video for November 12-13, 2022 (Hard drive provided on
+       4/5/23; AV000076 and AV000143)
+   e   Corner Club financial transaction receipts of sale for November 13, 2022 (Bates Pages
+       342-480)
+   e   Costco (Clarkston, WA) surveillance video for November 13, 2022 (AV000229; Hard
+       drive provided on 4/5/23)
+   e   DeSales student records regarding Bryan Kohberger (AV000291)
+   e   Dick's Sporting Goods record of sale for Bryan Kohberger (AV000270)
+   e   Discover financial records for Kaylee Goncalves (AV000256; Hard drive provided on
+       4/5/23)
+   e   Door Dash records for Xana Kernodle and Ethan Chapin (AV000265; Hard drive
+       provided on 4/5/23)
+   e   Early Warning Records (AV000213)
+   e   Elan Financial records for Kaylee Goncalves (Hard drive provided on 4/5/23)
+   e   E&S Services (1300 Johnson Ave., Pullman, WA) surveillance video for November 13,
+       2022 (Hard drive provided on 4/5/23)
+   e   Farmer's Insurance surveillance video for November 13, 2022 (Hard drive provided on
+       4/5/23)
+   e   Floyd's Cannabis Co surveillance video for November 13, 2022 (Hard drive provided on
+       4/5/23)
+   e   ForisDax (Crypto.com) financial records for Bryan Kohberger (AV000863)
+   e   Grub Truck video surveillance video for November 13, 2022 (Hard drive provided on
+       4/5/23)
+   e   Harbor Freight business and surveillance records (Hard drive provided on 4/5/23;
+       AV000350)
+   e   Idaho Central Credit Union (ICCU) bank records for Madison Mogen (Hard drive
+       provided on 4/5/23; AV000257)
+   e   Indian Mountain Lake surveillance and records (AV000427)
+
+
+
+STATE'S MOTION IN LIMINE RE: SELF-AUTHENTICATION OF RECORDS IN RELIANCE
+ON LR.E. 803(6) AND (8), LR.E. 902(4) AND (11) AND/OR LR.E. 803(24) (SEALED)                   3
+   e   Joann Fabrics financial records (AV000868)
+   e   Latah County Sheriff's Office Deputy Darren Duke body camera video on August 21,
+       2022 (AV000100)
+   e   Latah County Sheriffs Office citation issued on August 21, 2022 (Bates Number 13012-
+       13013)
+   e   Marshall's financial records for Bryan Kohberger (AV000269, AV000350, AV0000861)
+   e   National Weather Service records for November 12 and 13, 2022. (Bates Pages 15720-
+       15738)
+   e   Numerica Bank records for Kaylee Goncalves (Hard drive provided on 4/5/23,
+       AV000258, AV000828 and AV000849)
+   e   PayPal/Venmo financial records (Hard drive provided on 4/5/23; AV000215, AV000260,
+       AV000793)
+   e   PNC Bank records for Bryan Kohberger (A V000862)
+   e   PenTele Data records (AV000241; AV000866)
+   e   Pennsylvania State Employees Credit Union (PSECU) for Bryan Kohberger (AV000226;
+       AV000242; AV000259)
+   e   PetCo financial records for Kaylee Goncalves (AV000867)
+   e   RiteAid financial records (AV000871)
+   e   Ross financial records (AV000861)
+   e   Sunset Mart (1311 9. Main St., Moscow, ID) surveillance video for November 13, 2022
+       (Hard drive provided on 4/5/23)
+   e   Sunset Mart (1455 SE Bishop Blvd., Pullman, WA) surveillance video for November 13,
+       2022 (Hard drive provided on 4/5/23)
+   e   Target financial records (AV000253; AV000263; AV000861; AV000864)
+   e   TikTok user records for Xana Kernodle (Hard drive provided on 4/5/23)
+   e   TJX financial records for     D.M.          (AV000865)
+   e   T-Mobile phone records for Kaylee Goncalves,        D.M.           AV000345)
+   e   Umpqua bank records for        D.M.          (Hard drive provided on 4/5/23; AV000261)
+   e   Under Armor transaction records for Bryan Kohberger (AV000271)
+   e   US Chef Store (Clarkston, WA) video surveillance for November 13, 2022 (Hard drive
+       provided on 4/5/23)
+   e   Ulta financial records (AV000869)
+   e   Verizon phone records for Ethan Chapin,        B.F.           v.D.      (AV000303;
+       hard drive provided on 4/5/23)
+   e   Walmart surveillance and financial transaction records for Bryan Kohberger (AV000252;
+       AV000384)
+   e   Washington Department of Motor Vehicles surveillance video for November 18, 2022
+       (AV000140; AV000830)
+   e   Washington Department of Motor Vehicles registration documents for Bryan Kohberger
+       (AV000140)
+   e   Washington Trust Bank records for Bryan Kohberger (AV000227)
+   e   Wells Fargo bank records for Madison Mogen (Hard drive provided on 4/5/23,
+       AV000155, AV000261, AV000262(a))
+
+
+STATE'S MOTION IN LIMINE RE: SELF-AUTHENTICATION OF RECORDS IN RELIANCE
+ON LR.E. 803(6) AND (8), L.R.E. 902(4) AND (11) AND/OR LR.E. 803(24) (SEALED)                 4
+   e   Winco financial records for Bryan Kohberger (AV000861)
+   e   Winco financial records and video surveillance for B.F.        DM.
+       Kaylee Goncalves, Madison Mogen, and/or Xana Kernodle (AV000860; Hard drive for
+       4/5/23)
+   e   Washington State University (WSU) video surveillance for November 13, 2022 (Hard
+       drive provided on 4/5/23)
+   e   WSU parking records (AV000375, AV000394, AV000430)
+
+       The State relies on I.R.E. 803(24) in the alternative, which states as follows:
+
+               (24) Other Exceptions.
+               (A) In General. A statement not specifically covered by any of the
+               foregoing exceptions if:
+                      (i) the statement has equivalent circumstantial guarantees
+                      of trustworthiness.
+                      (ii) it is offered as evidence of a material fact;
+                      (iii) it is more probative on the point for which it is offered
+                       than any other evidence that the proponent can obtain
+                       through reasonable efforts; and
+                       (iv) admitting it will best serve the purposes of these rules
+                       and the interests ofjustice.
+               (B) Notice. The statement is admissible only if, before the trial or
+               hearing, the proponent gives an adverse party reasonable notice of
+               the intent to offer the statement and its particulars, including the
+               declarant's name and address, so that the party has a fair
+               opportunity to meet it.
+
+I.R.E. 902(4) and (11) provide for self-authentication of these records as follows:
+
+       L.R.E. 902(4) states:
+
+               (4) Certified Copies of Public Records. A copy of an official
+               record--or a copy of a document that was recorded or filed in a
+               public office as authorized by law--if the copy is certified as
+               correct by:
+                   (A) the custodian or another person authorized to make the
+                   certification; or
+                   (B) a certificate that complies with Rule 902(1), (2), or (3), an
+                   Idaho statute, or a rule prescribed by the Supreme Court.
+
+       L.R.E. 902(11) states:
+
+               (11) Certified Domestic Records of a Regularly Conducted
+               Activity. The original or a copy of a domestic record that meets
+
+
+STATE'S MOTION IN LIMINE RE: SELF-AUTHENTICATION OF RECORDS IN RELIANCE
+ON LR.E. 803(6) AND (8), LR.E. 902(4) AND (11) AND/OR LR.E. 803(24) (SEALED)              5
+               the requirements of Rule 803(6)(A)-(C), as shown by a
+               certification of the custodian or another qualified person. As used
+               in this subsection, “certification” means a written declaration
+               signed in a manner that, if falsely made, would subject the maker
+               to a criminal penalty in the jurisdiction where the certification is
+               signed. Before the trial or hearing, the proponent must give an
+               adverse party reasonable written notice of the intent to offer the
+               record – and must make the record and certification available for
+               inspection – so that the party has a fair opportunity to challenge
+               them.
+
+
+       The State intends to obtain certifications of the above listed items prior to the April 21,
+
+2025, exhibit deadline. This filing hereby provides notice of the State’s intent to introduce and
+
+rely on certain evidence as required under I.R.E. 803(6) and (8), I.R.E. 902(4) and (11), and/or
+
+I.R.E. 803(24), and the State respectfully moves for orders in limine admitting these records as
+
+self-authenticated and/or exceptions to the hearsay rule.
+
+       RESPECTFULLY SUBMITTED this 24th day of February 2025.
+
+
+
+                                                      Ashley S. Jennings
+                                                      Senior Deputy Prosecuting Attorney
+
+
+
+
+STATE’S MOTION IN LIMINE RE: SELF-AUTHENTICATION OF RECORDS IN RELIANCE
+ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) (SEALED)                      6
+                                 CERTIFICATE OF DELIVERY
+
+         I hereby certify that true and correct copies of the STATE’S MOTION IN LIMINE RE:
+
+SELF-AUTHENTICATION OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E.
+
+902(4) AND (11) AND/OR I.R.E. 803(24) were served on the following in the manner indicated
+
+below:
+
+Anne Taylor                                       ☐ Mailed
+Attorney at Law                                   ☒ E-filed & Served / E-mailed
+PO Box 2347                                       ☐ Faxed
+Coeur D Alene, ID 83816
+                                                  ☐ Hand Delivered
+
+         Dated this 24th day of February 2025.
+
+
+                                                 __________________________________________
+
+
+
+
+STATE’S MOTION IN LIMINE RE: SELF-AUTHENTICATION OF RECORDS IN RELIANCE
+ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) (SEALED)           7
+

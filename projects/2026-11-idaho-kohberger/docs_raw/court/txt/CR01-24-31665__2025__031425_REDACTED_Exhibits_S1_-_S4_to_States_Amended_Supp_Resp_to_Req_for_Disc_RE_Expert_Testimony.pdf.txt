@@ -1,0 +1,856 @@
+                                     EXHIBIT S-1
+                     Amended Supplemental Expert Disclosure: Shane Cox
+
+       The State of Idaho has previously disclosed Shane Cox, Litigation and Regulatory
+
+Manager II Law Enforcement Response (LER) for Amazon.com. The State incorporates
+
+its previous response and attachments filed on December 18, 2024, and is hereby
+
+supplementing that response as follows.
+
+       Cox can summarize records obtained from Amazon.com for Bryan C. Kohberger
+
+as follows:
+
+
+   The Amazon.com account is registered to customer "Bryan C. Kohberger" using the
+
+    email address bryanchristopher1994@gmail.com ("Bryan C. Kohberger Account'').
+
+   The account records show that Bryan C. Kohberger has been a "[c]ustomer since"
+
+   October 23, 2017.
+
+   The address history for the Bryan C. Kohberger Account lists 1 19 Lamsden Drive,
+
+   Albrightsville, PA 18210-7004 as the address for Bryan Kohberger. This address was
+
+   added on October 23, 2017. The other address listed on the account for Bryan
+
+   Kohberger is 1630 NE Valley Rd. G 201, in Pullman, Washington, 99163-4400. This
+
+   address was added on July 11, 2022. The phone number that is listed for Bryan
+
+
+   Kohberger for both addresses is 570-520-5889.
+
+   The account also lists 119 Lamsden Drive, Albrightsville PA 18210-7004 as the
+
+   address for Michael Kohberger.
+
+   There are six separate credit cards on file for this account: three cards issued to Bryan
+
+   C. Kohberger (Visas ending in             IB. and I); two credit cards issued to
+   Michael Kohberger (Discover ending in            and Visa ending in          ; and one credit
+
+
+
+EXHIBIT S-1                                                        STATE'S EXHIBIT
+Amended Supplemental Disclosure: Shane Cox                                                    1
+
+
+
+
+                                                                            S-1
+                                                                         CR01-24-31665
+    card issued to Maryann Kohberger (Visa ending in
+
+e   On March 20, 2022, at 20:04:43 UTC, the customer purchased an electronic Amazon
+
+    gift card for $130.00 using the Bryan C. Kohberger Account. The billing information
+
+    for this purchase was Bryan Kohberger, 119 Lamsden Dr., Albrightsville, PA 18210-
+
+    7004. The billing phone number listed for the purchase was 570-205-5889. The credit
+
+    card used was a Visa ending in           issued to Bryan C. Kohberger.
+
+e   On March 21, 2022, at 00:28:59 UTC, the customer purchased a "KA-BAR 9926
+
+    Sharpener" for $23.40 using the Amazon electronic gift card through the Bryan C.
+
+    Kohberger Account. On the same day and time, the customer purchased a "KA-BAR
+
+    Full Size US Marine Corps Fighting Knife, Straight" for $86.15 using the Amazon
+
+    electronic gift card through the same Amazon.com account. The billing information
+
+    for these purchases was Bryan Kohberger, 119 Lamsden Dr., Albrightsville, PA
+
+    18210-7004. The billing phone number listed for the purchases was 570-205-5889.
+
+    The items were shipped to Bryan Kohberger at 119 Lamsden Dr., Albrightsville, PA
+
+    18210-7004.
+
+e   On March 21, 2022, at 15:25:56 UTC, the customer purchased "Omega 3 Vegan DHA
+
+    Supplements   -
+                      Garden of Life" for a total amount of $44.78 using the Bryan C.
+
+    Kohberger Account. $20.45 of this purchase was purchased using the Amazon
+
+    electronic gift card. That left a balance owing of $24.33, which was put on Bryan C.
+
+    Kohberger's Visa ending in          The billing information was for Bryan Kohberger,
+
+    119 Lamsden Dr., Albrightsville, PA 18210-7004. The billing phone number listed for
+
+    this purchase was 570-205-5889. The item was shipped to Bryan Kohberger at 119
+
+    Lamsden Dr., Albrightsville, PA 18210-7004.
+
+EXHIBIT S-1
+Amended Supplemental Disclosure: Shane Cox                                                 2
+•   Amazon.com click activity associated with the Bryan C. Kohberger Account shows
+
+    that the customer viewed pages associated with KA-Bar style knives on Amazon.com
+
+    on March 20, 2022 (the same day the customer purchased the Amazon electronic gift
+
+    card) and on March 21, 2022 (the same day the customer purchased the KA-Bar knife
+
+    and sharpener).
+
+•   On March 22-27, 2022, the Amazon.com click activity for the Bryan C. Kohberger
+
+    Account shows each day that the customer was viewing pages associated with the
+
+    shipping progress of the Amazon.com order for the KA-Bar knife and sharpener that
+
+    were purchased on March 21, 2022.
+
+•   On November 15, 2022, Amazon.com click activity for the Bryan C. Kohberger
+
+    Account shows that the customer navigated to a page related to the deletion of account
+
+    activity.
+
+•   On November 23, 2022, and December 6, 2022, the Amazon.com click activity for the
+
+    Bryan C. Kohberger Account shows the customer was viewing pages associated with
+
+    Ka-Bar style knives with sheaths from this Amazon.com account.
+
+
+
+
+EXHIBIT S-1
+Amended Supplemental Disclosure: Shane Cox                                              3
+                                 EXHIBIT S-2
+                 Amended Supplemental Expert Disclosure:
+
+        The State of Idaho has previously disclosed                      Forensic
+
+Accountant (FoA) for the Federal Bureau of Investigation (FBI). The State incorporates its
+
+previous response and attachments filed on December 18, 2024, and is hereby
+
+supplementing that response as follows.
+
+                            Anticipated Summary Evidence Testimony
+
+                  will testify and answer questions about summary exhibits pursuant to
+
+Idaho Rules of Evidence Rule 1006 which mirrors the Federal Rules of Evidence. A
+
+significant portion                testimony will relate to the presentation of summary
+
+evidence pursuant I.R.E. 1006, allows for the introduction of summary evidence to aid the
+
+jury in the examination of testimony or documents in evidence. See e.g., United States v.
+
+Behrens, 689 F.2d 154, 161-62 (10th Cir.), cert. denied, 459 U.S. 1088 (1982). The rule
+
+provides that "[t]he proponent can use a summary, chart, or calculation to prove the
+
+content of voluminous writings, recordings, or photographs that cannot be conveniently
+
+examined in court." The proponent of summary evidence under the rule "must make the
+
+originals or duplicates available for examination or copying, or both, by other parties at a
+
+reasonable time and place." Jd. I.R.E. 1006.
+
+        The proponent of a summary introduced pursuant to Rule 1006 must establish the
+
+admissibility of the underlying documents as a condition precedent to introduction of the
+
+summary. United States v. Samaniego, 187 F.3d 1222, 1223 (10th Cir. 1994). The
+
+underlying documents do not have to be admitted, but they must be established as
+
+admissible. Jd. Summaries must fairly represent the underlying documents upon which
+
+
+EXHIBIT S-2                                                         STATE'S EXHIBIT
+Amended Supplemental Expert Disclosure:                                                        1
+
+
+
+
+                                                                            S-2
+                                                                         CR01-24-31665
+they are based. United States v. Conford, 336 F.2d 285, 287-88 (10th Cir. 1964). The
+
+Tenth Circuit has repeatedly approved the use of Rule 1006 summaries, particularly
+
+where, as here, the summaries will aid the jury in organizing the information contained in
+
+a large number of documents into understandable form. Swallow v. United States, 307
+
+
+F.2d 81, 84 (10th Cir. 1962) (summaries approved in cases involving complicated
+
+documentary proof); Behrens, 689 F.2d at 161-62. Rule 1006 treats properly admitted
+
+summaries as evidence in their own right rather than just presentations of other evidence
+
+in a more coherent form, as long as the underlying evidence is admissible. Samaniego, 187
+
+F.3d at 1223-24.
+
+         Regarding disclosure, a summary witness's anticipated testimony is not required
+
+under either the Idaho Criminal Rules or Idaho Rules of Evidence. Even so, the State of
+
+Idaho makes this disclosure as a courtesy, expressly reserving its right to revise the subject
+
+matter                summary testimony. The State of Idaho has previously produced
+
+financial and non-financial records that are broad in scope and relate to multiple financial
+
+accounts, footage produced by financial institutions, purchase records, and cryptocurrency
+
+records (detailed below).
+
+                   will provide summary testimony regarding the source, location, timing,
+
+and disposition of the transactions he reviewed in the financial records. His testimony will
+
+be accompanied by various summary charts he prepared to aid his testimony. His
+
+
+testimony will identify which financial records he relied upon, the source and use of
+
+funds, links between records, and overall summaries of the accounts. His "testimony [will]
+
+rest[] on the personal knowledge [he] gained during the course of [his] examination" of
+
+records obtained in this case. United States v. Weaver, 281 F.3d 228, 231 (D.C. Cir. 2002).
+
+EXHIBIT S-2
+Amended Supplemental Expert Disclosure:                                                     2
+The fact that he "performed 'routine computations and culling through of documents' to
+
+arrive at [his] conclusions [does] not require [him] to be qualified as an expert" for this
+
+testimony. /d. (citing United States v. Lemire, 720 F.2d 1327, 1350 (D.C.Cir.1983)). This
+
+notice serves to supplement the information in                reports by summarizing areas of
+
+anticipated testimony but does not repeat the specific findings that are detailed in his
+
+reports attached to State's initial response as Exhibits S-7(a)-(b)
+
+        While reserving its right to revise the subject matter of             testimony, the
+
+State anticipates            can provide summary testimony regarding the following:
+
+1.                  can summarize information from accounts in the name of Bryan
+
+
+        Kohberger received from Crypto.com/Foris Dax, Washington Trust Bank (WTB),
+
+        and Pennsylvania State Employees Credit Union (PSECU). His summary of the
+
+        financial data can be broken down by postdate, location, amount, transaction type,
+
+        and/or payor/payee name. His analysis of the bank accounts covers the time frame
+
+        of January 1, 2022 through December 15, 2022, noting that the WTB account was
+
+        opened on August 26, 2022.                can also refer to signature cards and other
+
+        documents used to open the below accounts:
+
+       Bank Name                          Account Name              Account
+                                                                    Number/User ID
+       Pennsylvania State                 Bryan C Kohberger
+       Employees Credit Union
+
+
+       Washington Trust Bank              Bryan C Kohberger
+
+       Foris Dax Inc DBA                  Bryan C Kohberger
+       Crypto.com
+
+
+
+
+EXHIBIT S-2
+Amended Supplemental Expert Disclosure:                                                         3
+2.      For the Bryan Kohberger accounts,                 can discuss certain transactions,
+
+        particularly automated teller machine (ATM) withdrawals, occurring in the month
+
+        of November 2022.                 can also describe a transaction payable to the
+
+        Washington Department of Licensing.                  can explain that he observed
+
+        photographic footage, as provided by the financial institutions, linked to Bryan
+
+        Kohberger's accounts. For example, he can explain he observed Bryan Kohberger,
+
+        the account holder, in a white vehicle making these ATM withdrawals.
+
+3.                 can summarize information from accounts associated with Bank of
+
+        America, Banner Bank, Discover, Idaho Central Credit Union, Numerica Credit
+
+        Union, Paypal/Venmo, and Wells Fargo. These are accounts set up in the names of
+
+        the victims (Madison Mogen, Kaylee Goncalves, Ethan Chapin, Xana Kernodle,
+
+
+        Bethany Funke, and Dylan Mortensen) in this matter.
+
+4.                 can summarize records obtained from Amazon.com for Bryan
+
+                               can discuss Bryan Kohberger's Amazon purchase history,
+        Kohberger.,
+
+        gift card purchases, click data, and customer information for his account. He can
+
+        specifically outline Bryan Kohberger's Amazon.com records as follows:
+
+         e    The Amazon.com account is registered to customer "Bryan C. Kohberger"
+
+              using the email address bryanchristopher1994@gmail.com ("Bryan C.
+
+              Kohberger Account'). The account records show that Bryan C. Kohberger has
+
+              been a "[c]ustomer since" October 23, 2017.
+
+         e    The address history for the Bryan C. Kohberger Account lists 119 Lamsden
+
+              Drive, Albrightsville, PA 18210-7004 as the address for Bryan Kohberger.
+
+              This address was added on October 23, 2017. The other address listed on the
+
+EXHIBIT S-2
+Amended Supplemental Expert Disclosure:                                                       4
+                                                                                              A
+              account for Bryan Kohberger is 1630 NE Valley Rd. G 201, in Pullman,
+
+              Washington, 99163-4400. This address was added on July 11, 2022. The
+
+              phone number that is listed for Bryan Kohberger for both addresses is 570-
+
+              520-5889.
+
+              The account also lists 1 19 Lamsden Drive, Albrightsville PA 18210-7004 as
+
+              the address for Michael Kohberger.
+
+              There are six separate credit cards on file for this account: three cards issued
+
+              to Bryan C. Kohberger (Visas ending in         e   HB, and BM); two credit
+              cards issued to Michael Kohberger (Discover ending in           and Visa ending
+
+              in   7):   and one credit card issued to Maryann Kohberger (Visa ending in
+
+
+              7).
+              On March 20, 2022, at 20:04:43 UTC, the customer purchased an electronic
+
+              Amazon gift card for $130.00 using the Bryan C. Kohberger Account. The
+
+              billing information for this purchase was Bryan Kohberger, 119 Lamsden Dr.,
+
+              Albrightsville, PA 18210-7004. The billing phone number listed for the
+
+              purchase was 570-205-5889. The credit card used was a Visa ending in
+
+              issued to Bryan C. Kohberger.
+
+              On March 21, 2022, at 00:28:59 UTC, the customer purchased a "KA-BAR
+
+              9926 Sharpener" for $23.40 using the Amazon electronic gift card through the
+
+              Bryan C. Kohberger Account. On the same day and time, the customer
+
+              purchased a "KA-BAR Full Size US Marine Corps Fighting Knife, Straight"
+
+              for $86.15 using the Amazon electronic gift card through the same
+
+
+
+EXHIBIT S-2
+Amended Supplemental Expert Disclosure:                                                          5
+              Amazon.com account. The billing information for these purchases was Bryan
+
+              Kohberger, 119 Lamsden Dr., Albrightsville, PA 18210-7004. The billing
+
+              phone number listed for the purchases was 570-205-5889. The items were
+
+              shipped to Bryan Kohberger at 119 Lamsden Dr., Albrightsville, PA 18210-
+
+              7004.
+
+              On March 21, 2022, at 15:25:56 UTC, the customer purchased "Omega 3
+
+              Vegan DHA Supplements       -
+                                              Garden of Life" for a total amount of $44.78
+
+              using the Bryan C. Kohberger Account. $20.45 of this purchase was
+
+              purchased using the Amazon electronic gift card. That left a balance owing of
+
+              $24.33, which was put on Bryan C. Kohberger's Visa ending in       a.    The
+
+              billing information was for Bryan Kohberger, 119 Lamsden Dr.,
+
+              Albrightsville, PA 18210-7004. The billing phone number listed for this
+
+              purchase was 570-205-5889. The item was shipped to Bryan Kohberger at 119
+
+              Lamsden Dr., Albrightsville, PA 18210-7004.
+
+              Amazon.com click activity associated with the Bryan C. Kohberger Account
+
+              shows that the customer viewed pages associated with KA-Bar style knives on
+
+              Amazon.com on March 20, 2022 (the same day the customer purchased the
+
+              Amazon electronic gift card) and on March 21, 2022 (the same day the
+
+              customer purchased the KA-Bar knife and sharpener).
+
+              On March 22-27, 2022, the Amazon.com click activity for the Bryan C.
+
+              Kohberger Account shows each day that the customer was viewing pages
+
+              associated with the shipping progress of the Amazon.com order for the KA-
+
+              Bar knife and sharpener that were purchased on March 21, 2022.
+
+EXHIBIT S-2
+Amended Supplemental Expert Disclosure:                                                      6
+         e    On November 15, 2022, Amazon.com click activity for the Bryan C.
+
+              Kohberger Account shows that the customer navigated to a page related to the
+
+              deletion of account activity.
+
+         ¢    On November 23, 2022 and December 6, 2022, the Amazon.com click
+
+              activity for the Bryan C. Kohberger Account shows the customer was viewing
+
+              pages associated with Ka-Bar style knives with sheaths from this
+
+              Amazon.com account.
+
+        Pursuant to I.R.E. 1006, the State (the proponent of the summary evidence) has
+
+provided the originals or duplicates for the contents of the records to defense as follows
+
+(and can produce them in court if so ordered):
+
+ Description of Discovery                     Location of               Date Discovered
+                                              Discovery
+ Amazon records for Bryan Kohberger           AV000236                  5/18/23
+                                              AV000243                  5/18/23
+                                              AV000388                  7/12/23
+ Crypto.com records for Bryan                 AV000863                  2/12/24
+ Kohberger
+ Dick's Sporting Goods records for            AV000270                  5/18/23
+ Bryan Kohberger
+ Essa Band and Trust records for Bryan        AV000319                  6/5/23
+ Kohberger
+ Marshall's records for Bryan Kohberger       AV000269                  5/18/23
+                                              AV000861                  2/12/24
+ Pennsylvania State Employees Credit          AV000226                  5/18/23
+ Union (PSECU) for Bryan Kohberger            AV000259                  5/18/23
+ PNC Bank records for Bryan Kohberger         AV000862                  2/12/24
+ Ross records for Bryan Kohberger             AV000861                  2/12/24
+ Synchrony (Paypal) records for Bryan         AV000225                  5/18/23
+ Kohberger                                    AV000260-
+ Target records for Bryan Kohberger           AV000253                  5/18/23
+                                              AV000861                  2/12/24
+                                              AV000864                  2/12/24
+ Under Armour records for Bryan               AV000271                  5/18/23
+ Kohberger
+
+EXHIBIT S-2
+Amended Supplemental Expert Disclosure:                                                      7
+ Venmo records for Bryan Kohberger              AV000215                   5/18/23
+ Walmart records for Bryan Kohberger            AV000252                   5/18/23
+ Washington Trust Bank (WTB) for                AV000227                   5/18/23
+ Bryan Kohberger
+ Winco records for Bryan Kohberger,             AV000860                   2/12/24
+                                                AV000861                   2/12/24
+
+
+
+                                   Anticipated Expert Testimony
+
+        Idaho Criminal Rule 16(7) requires that, at the defendant's request, the State must
+
+disclose the information for any testimony the state intends use at trial pursuant to I.R.E.
+
+702, 703, or 705. See I.C.R. 16(7). The summary must describe the "witness's opinions,
+
+the facts and data for those opinions, and the witness's qualifications." /d.
+
+        Since 2017,             has been employed by the Federal Bureau of Investigation
+
+
+("FBI'') as a Forensic Accountant. In 2024,         vas       selected to serve as the Relief
+
+Supervisor for the Salt Lake City Division Forensic Accountant squad. In his role, he has
+
+experience in reviewing, compiling, and examining financial data, reporting his findings,
+
+and preparing summary charts. He has been primarily engaged in violent crime
+
+
+investigations, including investigations involving missing persons, child abductions,
+
+harassment and extortion, prison gangs, organized crime drug enforcement task force, and
+
+attempted bombings and explosive violations. Before he joined the FBI,                 worked
+
+for nearly four years at the Idaho State Tax Commission as a fraud investigator in its Non-
+
+Filer Tax Department. There, he analyzed business and personal financial information to
+
+determine appropriate tax liabilities             qualifications have been set forth in detail
+
+in the Curriculum Vitae which was disclosed with the State's December 18, 2024, filing.
+
+        At trial,           will primarily testify to his analysis of the financial records and
+
+the purchases made by Bryan Kohberger. He can interpret bank documentation and
+
+EXHIBIT S-2
+Amended Supplemental Expert Disclosure:                                                         8
+provide an analysis of Bryan Kohberger's transactions leading up to, and after, November
+
+13, 2022 (i.e. the date of the homicides in Moscow, Idaho). These opinions will provide
+
+context and help the jury understand the nature of the financial records, spending habits,
+
+and transactions, including:
+
+1.      Knowledge of Bank Information: The State intends to ask                 to render an
+
+
+        expert opinion, based upon his experience and knowledge of the banking industry.
+
+                  «xn explain certain terminology on bank documents or describe
+
+        procedures normally carried out at banks. For example, he can describe the process
+
+        of opening bank accounts online, and the information collected during the
+
+        application process. He can also discuss ATM withdrawals, and the collection of
+
+        video and photographic information received from financial institutions.
+
+2.      Analysis of Spending Habits, Debit Card Purchases, and ATM Withdrawals: The
+
+        State intends to ask              to provide an expert opinion, based on his experience
+
+        in reviewing financial records as part of an investigation             can discuss the
+
+        spending habits, debit card purchases, and ATM withdrawals he observed in the
+
+        WTB and PSECU accounts both prior to, and after, the dates of the homicides in
+
+        Moscow, Idaho.
+
+            a.                 will state that Bryan Kohberger's WTB account was opened
+
+                    on August 26, 2022, with a deposit of $50. On August 30, 2022,
+
+                               observed a $2,000.23 ACH deposit in the account. The
+
+                    account was inactive until November 2022. On November 13, 2022,
+
+                    and forward,              observed eight ATM withdrawals               will
+
+                    explain that the first ATM withdrawal occurred at 10:49 a.m. on
+
+EXHIBIT S-2
+Amended Supplemental Expert Disclosure:                                                        9
+                    November 13, 2022, which comports with the date of the homicides in
+
+                    Moscow, Idaho. On that same date,                 a discuss the images he
+                    reviewed of Bryan Kohberger in a white vehicle conducting this ATM
+
+                    transaction.
+
+            b.                     ill note that the white vehicle in the ATM transaction
+
+                    footage did not have a license plate visible from the front as of
+
+                    November 13, 2022,                wit discuss another ATM transaction
+
+                    where he observed Bryan Kohberger in the same vehicle, but now with
+
+                    a Washington license plate visible from the front as of November 22,
+
+
+                    2022. He will explain he observed a financial transaction made payable
+
+                    to the Washington Department of Licensing on November 18, 2022.
+
+            c.                 can discuss his analysis of the PSECU account, stating that he
+
+                    did not observe ATM withdrawals during the dates of January 1, 2022,
+
+                    through November 30, 2022. Instead,                will explain that Bryan
+
+                    Kohberger largely used his debit card to make purchases, including
+
+                    purchases in Moscow, ID as well as Pullman, Washington where he
+
+                    lived              win also speak to transactions occurring in
+
+                    Pennsylvania before Bryan Kohberger moved to the Pullman,
+
+                    Washington area in the summer of 2022.                 will state he
+
+                    observed Bryan Kohberger used his debit card at stores located in
+
+                    Moscow, ID in the months leading up November 2022.                      will
+
+                    state that Bryan Kohberger's last known debit card purchases in
+
+
+                    Moscow, Idaho took place at Target and Marshalls on November 10,
+
+EXHIBIT S-2
+Amended Supplemental Expert Disclosure:                                                        10
+                    2022.
+
+            d.                  an state that the WTB and PSECU financial records reveal
+
+                    that Bryan Kohberger conducted ATM withdrawals only on and after
+
+                    November 13, 2022 (the date of the homicides). The review also
+
+                    indicates a change in spending habits, in that Bryan Kohberger's debit
+
+                    card purchases in Moscow, Idaho halted after November 10, 2022, just
+
+                    days prior homicides.
+
+
+
+
+EXHIBIT S-2
+Amended Supplemental Expert Disclosure:                                                    1]
+                                   Exhibit S-3
+             Amended Supplemental Expert Disclosure: Lawrence Mowery
+
+       The State has previously disclosed Lawrence Mowery, Forensic Detective for the
+
+Moscow Police Department. The State incorporates its previous disclosures for Mowery
+
+filed on December 18, 2024, and January 7, 2025, in this response. It is anticipated the
+
+State will call Detective Mowery to testify generally as an expert in the field of digital
+
+forensics in addition to testifying in areas not requiring special expertise such as search
+
+warrant applications, etc.
+
+       The expert testimony anticipated by Mowery is the expertise necessary to extract
+
+the contents of previously disclosed devices. The remainder of his testimony will be
+
+factual testimony based on his review of the data provided from the extractions.
+
+       It is anticipated that Mowery will provide testimony that during his review of the
+
+following devices he did not find any connection to Bryan Kohberger:
+
+       1. MacBook Air A1932 belonging to Kaylee Goncalves
+
+       2. MacBook Air A1466 belonging to Dylan Mortensen
+
+       3. MacBook Air A2179 belonging to Xana Kernodle
+
+       4. MacBook Air A1932 belonging to Madison Mogen
+
+       5. Dell Latitude 5310 belonging to Madison Mogen
+
+       6. Dell Precision 5530 belonging to Kaylee Goncalves including but not limited
+
+           to Extreme Network account information
+
+       7. iPad A2377 belonging to Bethany Funke
+
+       8. iPhone belonging to Dylan Mortensen
+
+       9. iPhone belonging to Bethany Funke
+
+                                                                      STATE'S EXHIBIT
+EXHIBIT S-3
+Amended Supplemental Expert Disclosure: Lawrence Mowery                                       1
+                                                                              S-3
+                                                                           CR01-24-31665
+       10. iPhone belonging to Ethan Chapin
+
+       11. iPhone belonging to Eric Gower
+
+       12. iPhone belonging to Kaylee Goncalves
+
+       13. iPhone belonging to Madison Mogen
+
+       14. iPhone belonging to Xana Kernodle
+
+       15. iPhone belonging to Emily Alandt
+
+       16. iPhone XR belonging to Jack Ducoeur
+
+       17. Apple/iCloud accounts belonging to Defendant, Bethany Funke, Dylan
+
+           Mortensen, Jack Ducoeur, Kaylee Goncalves, Madison Mogen, Ethan Chapin,
+
+           Xana Kernodle
+
+       18. AT&T records associated with Defendant, Jack Showalter, Madison Mogen,
+
+           Xana Kernodle, Madison Mogen
+
+       19. Google/Gmail accounts belonging to Defendant, Kaylee Goncalves
+
+       20. Google Geofence for latitude/longitude points 1 46.722462, -117.012067 and
+
+           point 2 46.721613, -117010266 and point 3 46.722572, -117008987 and point
+
+           4 46.721584, -117.009005
+
+       21. DoorDash records associated with Ethan Chapin, Xana Kernodle, Molly
+
+           McMichaels
+
+       22. Match/Tinder accounts belonging to Defendant, Kaylee Goncalves, Madison
+
+           Mogen
+
+       23. Meta accounts belonging to Bethany Funke, Dylan Mortensen, Ethan Chapin,
+
+           Madison Mogen, Xana Kernodle, Jack Ducoeur, Kaylee Goncalves
+
+       24. Snapchat accounts belonging to Madison Mogen, Xana Kernodle, Kaylee
+
+
+EXHIBIT S-3
+Amended Supplemental Expert Disclosure: Lawrence Mowery                                 2
+             Goncalves, Ethan Chapin, Jack Ducoeur, Dylan Mortensen, and Bethany
+
+             Funke
+
+       25. TikTok accounts belonging to Defendant, Madison Mogen, Kaylee Goncalves,
+
+             Xana Kernodle, Dylan Mortensen, Bethany Funke, Ethan Chapin
+
+       26. T-Mobile records associated with Dylan Mortensen, Kaylee Goncalves
+
+       27. Tower dump records for Verizon, AT&T, and T-Mobile, Inland Cellular
+
+       28.           2567 account records associated with Molly McMichaels
+
+       29. Reddit accounts belonging to Kaylee Goncalves
+
+       30. Uber records belonging to Eric Gower
+
+       31. Verizon records associated with Ethan Chapin, Bethany Funke, Jack Ducoeur
+
+       32. Yahoo accounts belonging to Kaylee Goncalves
+
+       It is anticipated that Mowery will provide testimony that during his review of the
+
+
+following devices, he did not find any references to Kaylee Goncalves, Madison Mogen,
+
+Ethan Chapin, Bethany Funke, Xana Kernodle, or Dylan Mortensen:
+
+       33. Reddit accounts belonging to Defendant
+
+       34. Amazon accounts associated with Defendant
+
+       35. DropBox accounts associated with Defendant
+
+       36. Microsoft OneDrive accounts associated with Defendant
+
+       37. Strava account belonging to Defendant
+
+       38. Twitter accounts belonging to Defendant
+
+       39. YikYak accounts belonging to Defendant
+
+       40. YouTube accounts belonging to Defendant
+
+       41. Computer tower (seized from 1630 NE Valley Rd, Apt. G201) belonging to
+
+
+EXHIBIT 9-3
+Amended Supplemental Expert Disclosure: Lawrence Mowery                                     3
+           Defendant
+
+       42. Samsung cell phone model SM-S908U belonging to Defendant
+
+       43. SIM card for Samsung cell phone belonging to Defendant
+
+       44. Intel 512 GB NVMePCIe hard drive belonging to Defendant
+
+       45. Seagate Barracuda 1 TB hard drive belonging to Defendant
+
+       46. Samsung 256 GB SSD model 850 EVO belonging to Defendant
+
+       47. Acer laptop model N22C2 belonging to Defendant
+
+       48. Hard Drive for Acer laptop belonging to Defendant
+
+       49. Data acquisition from Hyundai Elantra belonging to Defendant
+
+
+
+
+EXHIBIT S-3
+Amended Supplemental Expert Disclosure: Lawrence Mowery                   4
+                                   Exhibit S-4
+                  Amended Supplemental Expert Disclosure: Neil Uhrig
+
+        The State has previously disclosed Neil Uhrig, Forensic Examiner and Detective
+
+Sergeant for the Post Falls Police Department in the Fall of 2022. The State incorporates
+
+its previous disclosure for Uhrig filed on December 18, 2024, in this response. It is
+
+anticipated the State will call Mr. Uhrig to testify as an expert in the field of digital
+
+forensics.
+
+        The expert testimony anticipated by Uhrig is the expertise necessary to extract the
+
+contents of previously disclosed devices.
+
+        Separately, it is anticipated that Uhrig will provide testimony that during his
+
+review of the listed devices he did not find any connection to Bryan Kohberger.
+
+
+
+
+                                                                        STATE'S EXHIBIT
+EXHIBIT S-4
+Amended Supplemental Expert Disclosure: Neil Uhrig                              S-4           1
+                                                                             CR01-24-31665
+

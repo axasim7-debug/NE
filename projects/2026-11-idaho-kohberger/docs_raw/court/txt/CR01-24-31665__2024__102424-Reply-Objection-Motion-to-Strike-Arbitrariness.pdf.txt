@@ -1,0 +1,228 @@
+                                                                         Electronically Filed
+                                                                         10/24/2024 2:12 PM
+                                                                         Fourth Judicial District, Ada County
+                                                                         Trent Tripple, Clerk of the Court
+Anne Taylor Law, PLLC                                                    By: Jennifer Keyes, Deputy Clerk
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d’Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Jay W. Logsdon, First District Public Defender
+Idaho State Public Defender
+1450 Northwest Blvd.
+Coeur d’Alene, Idaho 83814
+Phone: (208) 605-4575
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Assigned Attorney:
+Anne C. Taylor, Attorney at Law, Bar Number: 5836
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+
+
+
+     IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+             STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+STATE OF IDAHO                                   CASE NUMBER CR01-24-31665
+
+                     Plaintiff,
+                                                 REPLY TO STATE’S OBJECTION TO
+V.                                               DEFENDANT’S MOTION TO STRIKE
+                                                 STATE’S NOTICE OF DEATH
+BRYAN C. KOHBERGER,                              PENALTY ON GROUNDS OF
+                                                 ARBITRARINESS
+                     Defendant.
+
+
+
+       COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and hereby
+
+submits the following Reply to the State’s Objection in response to his Motion to Strike the
+
+Death Penalty on Grounds of Arbitrariness.
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO STRIKE
+STATE’S NOTICE OF DEATH PENALTY ON GROUNDS OF ARBITRARINESS                               Page 1
+         Mr. Kohberger had argued that the death penalty in Idaho is as arbitrary as it was when
+
+the United States Supreme Court struck it down in Furman because its aggravators are so broad
+
+and numerous that all forms of murder can be noticed for death. The State responded that this is
+
+not true, relying on the ruling in Tuilaepa v. California, 512 U.S. 967, 972 (1994).
+
+Unfortunately for the State, Tuilaepa does not stand for the proposition that a single aggravator
+
+narrows who is eligible for the death penalty, nor was it an issue that a state’s aggravators taken
+
+as a whole make every murder death penalty eligible. See id. at 975-77. The only case ever to
+
+reach the United States Supreme Court on this issue is Hidalgo v. Arizona, 583 U.S. 1196
+
+(2018), which disappointingly did not result in an authoritative opinion. However, the case did
+
+provide a concurring opinion by Justice Breyer joined by Justice Ginsburg, explaining that if it
+
+could be shown that a state has adopted a scheme that would capture all first-degree murder, it
+
+fails to satisfy the narrowing requirement. Id., at 1198.
+
+         The State, however, doubles down on its improper reading of Tuilaepa by claiming that
+
+State v. Hall, 163 Idaho 744, 788 (2018), supports its interpretation of the law. That case focuses
+
+on a single aggravator, not all of them, just as Tuilaepa did, and is of no assistance to the State’s
+
+point.
+
+         The State then attempts to weave Mr. Kohberger’s arguments into one by claiming that
+
+State v. Hairston, 133 Idaho 496 (1999), supports its argument. Mr. Kohberger had, of course,
+
+noted that the Court in Hairston ruled, incorrectly in his view, that the geographical issues in
+
+Idaho as to the seeking of the death penalty created a constitutional issue. The State now relies
+
+on the case to argue that the Idaho Supreme Court has already ruled on the narrowing function in
+
+Idaho. However, the Court’s ruling in Hairston was:
+
+         While we doubt Hairston's underlying assumption [that Idaho provides no
+         meaningful narrowing], we find no legal basis for the review of all Idaho first
+         degree murder cases that he suggests. Each aggravating circumstance must
+         provide a principled basis for distinguishing between those who deserve the death
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO STRIKE
+STATE’S NOTICE OF DEATH PENALTY ON GROUNDS OF ARBITRARINESS                                  Page 2
+       penalty and those who do not. Arave v. Creech, 507 U.S. 463, 123 L. Ed. 2d 188,
+       113 S. Ct. 1534 (1993). However, the Eighth and Fourteenth Amendments do not
+       call for the elimination of all discretion in a judge's capital sentencing
+       decisions. The court's discretion must be directed by "'clear and objective
+       standards'" to minimize the risk of wholly arbitrary and capricious action. Lewis v.
+       Jeffers, 497 U.S. 764, 111 L. Ed. 2d 606, 110 S. Ct. 3092 (1990). See,
+       e.g., Creech v. Arave, 507 U.S. 463, 473-74, 123 L. Ed. 2d 188, 113 S. Ct. 1534
+       (1993). Hairston has not challenged a particular aggravating circumstance, and we
+       do not find Idaho's death penalty scheme as a whole to be arbitrary and
+       capricious.
+
+Id. at 508. The Court’s ruling was on whether a Court could still determine who deserved death,
+
+not on whether the statutory structure had failed the narrowing function. The case predates the
+
+requirement that juries determine punishment, and predates Hidalgo, so the Court could hardly
+
+be blamed for not recognizing what Hairston’s attorneys were arguing. The issue, an issue thus
+
+far undecided in this state, is whether Idaho has failed to provide sufficient narrowing to prevent
+
+allowing juries to arbitrarily sentence people to death. Neither Hairston nor the State’s brief
+
+provide any holding or argument regarding how Idaho’s scheme accomplishes this task.
+
+       The State then focuses on the states that have considered the argument and come up with
+
+a rather odd grouping of supporters- Hidalgo itself, followed by Delaware, which no longer has
+
+the death penalty, Virginia, which no longer has the death penalty, and Colorado, which no
+
+longer has the death penalty. In essence, the State argues “look at these states that realized the
+
+death penalty is a gross injustice- just before they did, they rejected this argument.” The State’s
+
+ostrich argument should be as unconvincing in Idaho as it now is in these states.
+
+       The State’s final and weakest argument is that the narrowing function in Idaho is fulfilled
+
+by letting a jury decide who lives and its rejection of the death penalty for the severely mentally
+
+ill. Assuming the State intended this as a serious argument, this Court need merely consider the
+
+cases previously cited to see that a blanket “no severely mentally ill defendants” rule does not
+
+provide proper narrowing any more than “kill whomever you wish”- which was literally the
+
+problem articulated in Furman.
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO STRIKE
+STATE’S NOTICE OF DEATH PENALTY ON GROUNDS OF ARBITRARINESS                                Page 3
+       Mr. Kohberger also argued that geography plays the greatest role in Idaho as to who gets
+
+the death penalty, based on the work of Professor Cover. The State responded that Professor
+
+Cover did not make any such claim. The State relies on Professor Cover acknowledging she
+
+cannot draw conclusions as to why the death penalty is sought in any particular place. (Mot., Ex.
+
+A, p.593). Mr. Kohberger argues that what matters at a constitutional level is that the cases that
+
+receive a filing seeking death and the cases that receive the death penalty have no discernible
+
+qualitative difference from each other- but they can easily point to where they were filed. A
+
+system that claims to be based on “justice” should and must be better.
+
+       Finally, the State attempts to assault Professor Cover’s article. It attacks its foundations,
+
+claiming this Court cannot know whether Professor Cover reviewed the right materials to reach a
+
+conclusion. It does so in what it claims are three different ways but all boil down to the same
+
+complaint. The State’s nitpicking is telling. Any rational being could foresee upon reviewing
+
+Idaho’s statutory scheme that it would be far too broad to not apply to every first-degree murder.
+
+It is, frankly, disappointing that our judiciary requires a study to make plain what everyone
+
+already knows. See, Hidalgo v. Arizona, 583 U.S. 1196 (2018). The State’s argument is that of
+
+Sgt. Schulz in Hogan’s Heroes, screaming “I see nothing!” in the face of the obvious.
+
+       Mr. Kohberger hopes this Court recognize the validity of his challenge and strike down
+
+this unconstitutional scheme.
+
+       DATED this ___24____ day of October, 2024.
+
+
+
+                                             BY:
+                                                     JAY W. LOGSDON
+                                                     FIRST DISTRICT PUBLIC DEFENDER
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO STRIKE
+STATE’S NOTICE OF DEATH PENALTY ON GROUNDS OF ARBITRARINESS                                 Page 4
+                              CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___24____ day of October, 2024 addressed to:
+
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Ingrid Batey – via Email: ingrid.batey@ag.idaho.gov
+       Jeff Nye – via Email: jeff.nye@ag.idaho.gov
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO STRIKE
+STATE’S NOTICE OF DEATH PENALTY ON GROUNDS OF ARBITRARINESS                            Page 5
+

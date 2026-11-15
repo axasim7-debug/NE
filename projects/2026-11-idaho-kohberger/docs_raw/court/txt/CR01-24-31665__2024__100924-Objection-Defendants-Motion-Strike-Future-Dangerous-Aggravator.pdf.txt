@@ -1,0 +1,309 @@
+                                                                             Electronically Filed
+                                                                             10/9/2024 5:16 PM
+                                                                             Fourth Judicial District, Ada County
+                                                                             Trent Tripple, Clerk of the Court
+                                                                             By: Jennifer Keyes, Deputy Clerk
+
+
+LATAH COUNTY PROSECUTOR’S OFFICE
+WILLIAM W. THOMPSON, JR., ISB 2613
+PROSECUTING ATTORNEY
+INGRID BATEY, ISB 10022
+SPECIAL ASSISTANT ATTORNEY GENERAL
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+
+        IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+STATE OF IDAHO,
+           Plaintiff,                          Case No. CR01-24-31665
+
+V.                                             STATE’S OBJECTION TO DEFENDANT’S
+                                               MOTION TO STRIKE THE FUTURE
+BRYAN C. KOHBERGER                             DANGEROUSNESS AGGRAVATOR
+           Defendant.
+
+
+
+       COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney,
+
+and hereby objects to the Defendant’s Motion to Strike the Future Dangerousness Aggravator in
+
+this case. For the following reasons, Defendant’s motion should be denied.
+
+                                         ARGUMENT
+
+       To Defendant’s credit, he acknowledges from the outset that his Motion to Strike the Future
+
+Dangerous Aggravator (often referred to as the “propensity” aggravator) flies in the face of well-
+
+established precedent. Defendant’s Motion to Strike Future Dangerousness Aggravator, pp. 3-4.
+
+
+
+STATE’S OBJECTION (FUTURE DANGEROUSNESS) - 1
+Specifically, Defendant acknowledges that the Idaho Supreme Court and the United States
+
+Supreme Court have upheld the constitutionality of considering propensity as an aggravator in a
+
+capital case. Id. (citing State v. Creech, 105 Idaho 362, 670 P.2d 463 (1983) (citing Jurek v. Texas,
+
+428 U.S. 262, 96 S.Ct. 2950 (1976))). However, Defendant dismisses with a figurative handwave
+
+the Idaho Supreme Court’s decision in Creech and the United States Supreme Court’s holding in
+
+Jurek v. Texas—both of which are which are binding on this Court—as “problematic” and plows
+
+ahead with three arguments in support of his motion. First, he asserts that the propensity aggravator
+
+fails to narrow the class of death eligible defendants. Second, he contends that the propensity
+
+aggravator is impermissibly vague. Finally, he claims that the propensity aggravator is irrelevant
+
+to culpability and therefore cannot be an aggravator.
+
+   A. This Court Cannot Overrule the Idaho Supreme Court.
+
+         As elsewhere in his briefing on the death penalty, Defendant asks this Court to enter a
+
+ruling contrary to a specific holding of the Idaho Supreme Court. This, of course, the Court cannot
+
+do. The Idaho Supreme Court unambiguously set forth its authority in State v. Guzman:
+
+                To this Court falls the obligation to be and remain the ultimate
+                authority in fashioning, declaring, amending, and discarding rules,
+                principles, and doctrines of precedential law by application of which
+                the lower courts will fashion their decisions. This Court has been
+                and remains the final arbiter of Idaho rules of law, both those
+                promulgated and those evolving decisionally.
+
+State v. Guzman, 122 Idaho 981, 987, 842 P.2d 660, 666 (1992). Having admitted that binding
+
+appellate caselaw forecloses his argument, Defendant’s motion should be denied on this basis
+
+alone.
+
+
+
+
+STATE’S OBJECTION (FUTURE DANGEROUSNESS) - 2
+   B. The Propensity Aggravator Appropriately Narrows the Class of Death-Eligible
+      Defendants.
+       As noted above, Defendant acknowledges that the constitutionality of the propensity
+
+aggravator was upheld by the Idaho Supreme Court in State v. Creech. There, the Court held that
+
+the propensity aggravator narrows the class of death-eligible defendants, and even provided an
+
+example of the type of murder that would not fall within the scope of the propensity aggravator:
+
+               Here . . . it cannot be asserted that the “propensity” circumstance
+               could conceivably be applied to every murderer coming before a
+               court in this state. We would construe “propensity” to exclude, for
+               example, a person who has no inclination to kill but in an episode
+               of rage, such as during an emotional family or lover’s quarrel,
+               commits the offense of murder. We would doubt that most of those
+               convicted of murder would again commit murder, and rather we
+               construe the “propensity” language to specify that person who is a
+               willing, predisposed killer, a killer who tends toward destroying
+               the life of another, one who kills with less than the normal amount
+               of provocation. We would hold that propensity assumes a
+               proclivity, a susceptibility, and even an affinity toward committing
+               the act of murder.
+
+
+Creech at 370-71, 105 Idaho 471-72. Ignoring the specific example provided by the Creech Court,
+
+Defendant complains that “the [Idaho] Supreme Court’s gloss is a list of synonyms that define
+
+anyone who would commit murder as already defined by the legislature” and “does not accomplish
+
+the genuine narrowing required by the Eighth Amendment.” Unfortunately for the Defendant,
+
+one’s personal interpretation or belief about the Idaho Supreme Court’s holding in Creech is
+
+irrelevant to this Court’s determination. See Guzman at 987, 842 P.2d 666 (holding that the Idaho
+
+Supreme Court “remains the final arbiter of Idaho rules of law”).
+
+
+
+
+STATE’S OBJECTION (FUTURE DANGEROUSNESS) - 3
+   C. The Aggravator is not Impermissibly Vague.
+
+       Here again, Defendant acknowledges that the law is not on his side. Under his heading
+
+“I.C. § 19-2515(9)(i) is impermissibly vague,” Defendant next writes that “the United States
+
+Supreme Court held that future dangerousness was not vague as it was something judges had to
+
+do all the time” in Jurek v. Texas. Def. Motion to Strike Future Dangerousness Aggravator, p. 6
+
+(citing Jurek v. Texas, 428 US 262, 96 S.Ct. 2950 (1976)).
+
+       Defendant is correct—the United States Supreme Court upheld the constitutionality of a
+
+future dangerousness or “propensity” aggravator in Jurek v. Texas. Id. In Jurek, the Court
+
+addressed an argument similar to the one that Defendant poses to this Court. Id. In the Texas
+
+statutory scheme at issue in Jurek, jurors in a capital sentencing proceeding had to answer three
+
+questions related to aggravation in the affirmative. Id. One of those questions was “whether there
+
+is a probability that the defendant would commit criminal acts of violence that would constitute a
+
+continuing threat to society.” Id. at 269. On appeal, the Jurek defendant argued that “it is
+
+impossible to predict future behavior and that the question is so vague as to be meaningless.” Id.
+
+at 274. Rejecting that contention, the Jurek Court held that “prediction of future criminal conduct
+
+is an essential element in many of the decisions rendered throughout our criminal justice
+
+system,” and that “[w]hat is essential is that the jury have before it all possible relevant
+
+information about the individual defendant whose fate it must determine.” Id. at 275-76.
+
+Accordingly, the Court concluded, the Texas statutory scheme did not violate the Constitution.
+
+Id. at 276. The Court also explained that “[b]y authorizing the defense to bring before the jury at
+
+the separate sentencing hearing whatever mitigating circumstances relating to the individual
+
+defendant can be adduced, Texas has ensured that the sentencing jury will have adequate
+
+guidance to enable it to perform its sentencing function.” Id.
+
+STATE’S OBJECTION (FUTURE DANGEROUSNESS) - 4
+       Defendant then argues that the propensity aggravator should be struck for the sake of clarity
+
+to the jury, arguing that there is potential for confusion where certain types of mental disorders
+
+could be taken as both aggravation and mitigation, arguing that “practically speaking, every case
+
+where a jury is asked to find a person is likely to pose a threat of future dangerousness will involve
+
+underlying significant disturbances in that person’s mental functioning.” Def. Motion to Strike
+
+Future Dangerousness Aggravator, p. 7. Defendant asserts that “[f]rom the Supreme Court’s view,
+
+a mental illness of a type that renders a person unable to understand the meaning of or reason for
+
+it bars the application of the death penalty.” Id, p. 8. In support of this argument, Defendant cites
+
+to Ford v. Wainwright. 477 U.S. 399, 106 S.Ct 2595 (1986). But that case is wholly irrelevant to
+
+the Defendant’s argument. Ford v. Wainright dealt with a defendant who had appeared to be
+
+intellectually normal at the time of his conviction and sentencing to death. Id. Ford developed a
+
+severe mental illness in the years that followed, displaying symptoms of schizophrenia that
+
+included referring to himself as “Pope John Paul III” and claiming to have appointed nine new
+
+justices to the Florida Supreme Court. Id. at 402-03, 106 S.Ct. 2597-98 (1986). The Court
+
+ultimately remanded the case for a determination of the defendant’s sanity, explaining that “it is
+
+no less abhorrent today than it has been for centuries to exact in penance the life of one whose
+
+mental illness prevents him from comprehending the reasons for the penalty or its implications.”
+
+Id. at 417, 106 S.Ct.2605. In any event, there is nothing in the record that suggests that the
+
+Defendant in this case has “a mental illness of a type that renders [him] unable to understand the
+
+meaning of or reason for” the application of the death penalty. Nor is there any indication as of
+
+this time that evidence of mental illness would be presented at sentencing by either the prosecution
+
+or the defense, as neither party has yet filed notice under Idaho Code § 18-207. Accordingly, this
+
+argument is wholly irrelevant or alternatively, not ripe.
+
+
+
+STATE’S OBJECTION (FUTURE DANGEROUSNESS) - 5
+   D. Future Dangerousness is a Relevant Sentencing Consideration.
+
+       Defendant’s assertion that future dangerousness is irrelevant to punishment is without
+
+merit. As the Defendant himself pointed out in discussing Jurek, the United States Supreme Court
+
+characterized prediction of future dangerousness as “an essential element in many of the decisions
+
+rendered throughout our criminal justice system.” Jurek v. Texas, 428 US 262, 96 S.Ct. 2950
+
+(1976)). Additionally, Idaho’s appellate courts place protection of society against the future
+
+dangerousness of defendants at the forefront of all sentencing decisions. State v. Toohill, 103 Idaho
+
+565, 568, 650 P.2d 707, 710 (Ct. App. 1982). As the Idaho Court of Appeals explained in State v.
+
+Toohill, “it is clear, as a matter of policy in Idaho, that the primary consideration is ‘the good order
+
+and protection of society.’ All other factors must be subservient to that end.” Id. (citing State v.
+
+Moore, 78 Idaho 359, 363, 304 P.2d 1101, 1103 (1956)).
+
+                                          CONCLUSION
+
+       Defendant’s motion is contrary to settled Idaho Supreme Court and United Supreme Court
+
+precedent. It should be denied.
+
+RESPECTFULLY SUBMITTED this 9th day of October 2024.
+
+
+
+                                                       __________________________________
+                                                       Ingrid Batey
+                                                       Special Assistant Attorney General
+
+
+
+                                                       _______________________________
+                                                       William W. Thompson, Jr.
+                                                       Prosecuting Attorney
+
+
+
+
+STATE’S OBJECTION (FUTURE DANGEROUSNESS) - 6
+                              CERTIFICATE OF DELIVERY
+
+
+I hereby certify that true and correct copies of the STATE’S OBJECTION TO DEFENDANT’S
+
+MOTION TO STRIKE THE FUTURE DANGEROUSNESS AGGRAVATOR was served on the
+
+following in the manner indicated below:
+
+      Anne Taylor                            ☐ Mailed
+      Attorney at Law                        ☒ E-filed & Served / E-mailed
+      PO Box 2347
+                                             ☐ Faxed
+      Coeur D Alene, ID 83816-9000
+                                             ☐ Hand Delivered
+
+       Dated this 9th day of October 2024.
+
+                                               ____________________________________
+                                               Kim K. Workman
+
+
+
+
+STATE’S OBJECTION (FUTURE DANGEROUSNESS) - 7
+

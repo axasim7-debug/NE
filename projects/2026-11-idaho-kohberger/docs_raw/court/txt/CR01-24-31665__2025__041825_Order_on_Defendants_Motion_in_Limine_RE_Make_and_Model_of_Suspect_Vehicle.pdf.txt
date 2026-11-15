@@ -1,0 +1,261 @@
+                                                                                Filed: 04/18/2025 10:15:22
+                                                                                Fourth Judicial District, Ada County
+                                                                                Trent Tripple, Clerk of the Court
+                                                                                By: Deputy Clerk Waters, Renee
+                                                                                                 -
+
+
+
+
+          IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+
+               THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO,
+
+             Plaintiff,                          Ada County Case No. CR01-24-31665
+ V
+                                                 ORDER ON DEFENDANT'S MOTION IN
+ BRYAN C. KOHBERGER,                             LIMINE RE: MAKE AND MODEL OF
+                                                 SUSPECT VEHICLE
+             Defendant.
+
+
+
+I.     INTRODUCTION
+       In the early morning hours of November 13, 2022, surveillance videos from various
+
+locations near the crime scene picked up footage of what law enforcement believed to be the
+
+same vehicle as "Suspect Vehicle 1"     the white sedan that was seen arrive at and then depart
+
+from the area of1122 King Road at the time of the homicides. From one such video, law
+
+enforcement determined the vehicle was a2011-2016 Hyundai Elantra.
+
+       Defendant seeks an order precluding the State from referring to the vehicles depicted on
+the various surveillance videos as the same vehicle, i.e., Suspect Vehicle 1, and from asserting
+
+that Suspect Vehicle 1 is a 2014-2016 Hyundai Elantra. He argues that these are speculative
+
+conclusions that invade the province of the jury. The State responds that it intends to elicit expert
+
+testimony establishing the vehicles are the same, and such testimony will be neither speculative
+nor otherwise improper.
+
+       Oral argument on the motion was held on April 9, 2025, after which the Court took the
+
+matter under advisement. The Court finds that the State may present expert opinion that the
+
+vehicles depicted in the videos are the same vehicle as Suspect Vehicle 1, as well as the make
+and model thereof.
+
+II.    STANDARD
+       The admissibility of expert opinion testimony is discretionary. State v. Almaraz, 154
+Idaho 584, 590, 301 P.3d 242, 248 (2013). The trial court must: 1) correctly perceive the issue as
+
+one of discretion; 2) act within the boundaries of such discretion; 3) act consistently with any
+
+
+
+                                                  1
+legal standards applicable to the specific choices before it, and; 4) reach its decision by an
+exercise of reason. /d.
+
+II.        FACTS
+           Following the homicides, law enforcement gathered video surveillance from various
+locations surrounding the crime scene, including from 1112 King Rd., a residence immediately
+
+to the northwest of the crime scene. That video footage showed a white sedan         Suspect Vehicle
+    1-enter the King Road neighborhood at 4:04 a.m. and then depart from the area at a high rate of
+speed at 4:20 a.m. The same footage showed what law enforcement believed to be the same
+vehicle make three initial passes by the crime scene in the thirty minutes before its 4:04 a.m.
+
+entry.
+           Surveillance videos from five other locations within .6 miles of the crime scene also
+
+captured what law enforcement believed to be Suspect Vehicle 1 in the hour preceding the
+crime.' Based on the direction of travel and time stamps from these videos, investigators mapped
+what they believed to be Suspect Vehicle 1's route of travel." One of the surveillance videos
+
+relied upon by law enforcement was from a camera located at 1125 Ridge Road. Video footage
+
+captured at 4:01 a.m. from this camera provided a clear view of the white sedan depicted therein,
+which law enforcement believed shared similar class characteristics to a 2014-2016 Hyundai
+Elantra.* While there is no continuous footage showing the vehicle identified in the Ridge Road
+
+footage traveling to the crime scene, the Ridge Road camera was located .3 miles down the road
+from the crime scene. From this collective evidence, investigators believed the vehicle seen on
+
+the Ridge Road footage at 4:01 a.m. was Suspect Vehicle 1 captured on the 1112 King Road
+
+footage at 4:04 a.m.
+IV.        ANALYSIS
+           Based on the lack of continuous footage showing the vehicles captured in the various
+
+surveillance videos travelling to the crime scene at 4:04 a.m., Defendant argues it would be
+
+improper for the State to identify those vehicles at Suspect Vehicle 1 or otherwise identify
+Suspect Vehicle 1 as a 2014-2016 Hyundai Elantra. He argues any such testimony is speculative
+
+
+
+'
+    Exh. S-2 (Agent Rob Hille's Surveillance Review Report)
+
+2
+    Exh, S-3 (Maps)
+
+3
+    Exh. S-4, pp. 2-3 (Agent Anthony Imel's Report); Exh. S-5 (Make-Model Chart 3)
+
+                                                         2
+and, therefore, not relevant, unfairly prejudicial and invades the province of the jury. The State
+
+responds that the testimony is based on logical, educated inferences drawn by law enforcement
+from the surveillance videos. It adds that the testimony does not invade the province of the jury
+
+and is highly relevant to determine whether the vehicle captured at 4:04 a.m. on the 1112 King
+
+Road camera was Defendant's vehicle.
+       To the extent Defendant is attempting to prohibit the State from arguing or asserting as
+fact that the vehicles are the same or that Suspect Vehicle 1 is a 2014-2016 Hyundai Elantra, he
+
+is correct that it would be speculative and improper without expert testimony to provide a basis
+
+to make this contention. However, this proscription does not prevent the State from eliciting such
+
+opinions from law enforcement and asserting this as an allegation during the trial, based on that
+
+testimony.
+       An opinion is speculative when it "theorizes about a matter as to which evidence is not
+sufficient for certain knowledge" and "suggests only possibilities[.]" State v. Caliz-Bautista, 162
+Idaho 833, 836, 405 P.3d 618, 621 (Ct. App. 2017) (citations omitted). Here, law enforcement's
+
+opinion that the vehicle captured on the Ridge Road camera at 4:01 a.m. is Suspect Vehicle 1
+captured at 4:04 a.m. on the 1112 King Road footage is not based on unsupported theories or
+
+possibilities. Rather, the opinion is based on the investigators' training and experience and
+educated inferences drawn from their review of surveillance footage from six locations within a
+
+mile of the crime scene during the hour preceding the crime. From this evidence, the
+
+investigators were able to map what they believed was the suspect vehicle's route of travel
+
+preceding the crime, as well as identify its make and model.
+       Defendant ignores this collection of evidence and focuses instead on solely two points of
+
+reference. However, the investigators had multiple data points from which they could reasonably
+
+infer that the vehicle seen on Ridge Road at 4:01 a.m. was the same that had been seen driving
+
+throughout the area in the preceding hour, including the three passes by the crime scene. Further,
+based on the direction of travel of the Ridge Road vehicle and its distance from and location
+
+respective to 1112 King Road, it is likewise reasonable to infer, notwithstanding the lack of
+continuous footage, that it continued traveling along Ridge Road until it reached King Road.
+
+       Such opinion testimony would not usurp the jury's role as fact finder. The jury is tasked
+with determining whether Defendant committed the alleged crimes. The State asserts that the
+
+perpetrator drove Suspect Vehicle 1 and, based on the totality of evidence, that it was
+
+
+                                                 3
+Defendant's Hyundai Elantra. The investigators' observations and inferences about the route of
+travel of the vehicle, its make and model, whether the Ridge Road footage from 4:01 a.m. and
+
+the King Road footage from 4:04 a.m. depict the same vehicle, and whether the depictions were
+
+all the perpetrator's vehicle are relevant to this determination. The jury is free to weigh this
+
+evidence and the investigators' testimony against that offered by Defendant and decide for itself
+what the surveillance videos depict and whether it supports its ultimate conclusion bearing on
+
+Defendant's guilt.
+
+       Finally, Defendant's only articulated basis for excluding the testimony JRE 403 is that it
+would be prejudicial due to its speculative nature. Because the Court has found otherwise, there
+is no basis for its exclusion under IRE 403, as its relevance in substantially outweighed by the
+
+factors with which Rule 403 is concerned.
+
+V.     ORDER
+       Based on the foregoing, Defendant's Motion in Limine re: Make and Model of Suspect
+
+Vehicle is DENIED.
+
+
+
+
+IT IS SO ORDERED.
+
+DATED this   /         of April, 2025.
+
+
+
+
+                                              'seVen Hippfer
+                                               District Judge
+
+
+
+
+                                                  4
+                                    CERTIFICATE OF SERVICE
+
+|
+ hereby certify thaton 4/18/2025       served a true and correct copy of the
+ORDER ON DEFENDANT'S MOTION IN LIMINE RE: MAKE AND MODEL OF SUSPECT VEHICLE
+LATAH COUNTY PROSECUTING ATTORNEY'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.gov
+
+ASHLEY JENNINGS
+SENIOR DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JOSHUA D. HURWIT
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: jeff.nye@aq.idaho.gov
+
+MADISON ALLEN
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Madison.allen@aq.idaho.qov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetaylorlaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+FIRST DISTRICT PUBLIC DEFENDER
+JAY W. LOGSDON
+VIA EMAIL: jay.logsdon@spd.idaho.qov
+
+BICKA BARLOW
+Pro Hac Vice
+VIA EMAIL: bickabarlow@sbcaiobal.net
+
+
+
+
+                                                       TRENT TRIPPLE
+                                                       Clerk of the Court
+
+                                                 By:
+                                                       Deputy Clerk   4/18/2025 10:16:39   AM
+
+
+
+
+CERTIFICATE OF SERVICE
+

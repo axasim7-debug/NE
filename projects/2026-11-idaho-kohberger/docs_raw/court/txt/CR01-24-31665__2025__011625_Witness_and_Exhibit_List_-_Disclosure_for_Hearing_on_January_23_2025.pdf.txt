@@ -1,0 +1,666 @@
+                                                                      Filed: 01/16/2025
+                                                                      Fourth Judicial District, Ada County
+                                                                      Trent Tripple, Clerk of the Court
+                                                                      By: Deputy Clerk Waters, Renee
+                                                                                          -
+
+
+
+
+LATAH COUNTY PROSECUTOR'S OFFICE
+WILLIAM W. THOMPSON, JR., ISB 2613
+PROSECUTING ATTORNEY
+JEFF NYE, ISB 9238
+SPECIAL ASSISTANT ATTORNEY GENERAL
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+         IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                   STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+STATE OF IDAHO,
+                Plaintiff,                      Case No. CR01-24-3 1665
+
+V.
+                                                DISCLOSURE FOR HEARING ON
+                                                JANUARY 23, 2025
+BRYAN C. KOHBERGER
+                 Defendant.
+
+
+
+
+         COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney,
+
+and discloses the following exhibits and expert witness for the hearing scheduled for January 23,
+
+2025. The State also reserves the right to call the witnesses disclosed by the defense.
+
+Exhibits:
+
+     e   Idaho State Police PO230376 dated November 29, 2022, and included attachments,
+
+         attached hereto as Exhibit S-1.
+
+     e   Affidavit of Michael D. Lang attesting to State's Exhibit S-5 attached to the December 6,
+
+         2024, "State's Objection to Defendant's Motion to Suppress and Memorandum in Support
+
+
+
+
+DISCLOSURE FOR HEARING
+ON JANUARY 23, 2025                                                                                  1
+           RE: Pennsylvania Search Warrant for 119 Lamsden Drive, Albrightsville, PA and
+
+           Statements Made” attached as Exhibit S-2.
+
+   •       Numerous exhibits and affidavits have been filed with the parties’ pleadings and briefing
+
+           on the motions to be heard starting on January 23, 2025, and the State will utilize those.
+
+Expert Witness:
+                                        David Mittelman, PhD
+
+           Dr. David Mittelman is a renowned scientist and DNA testing expert with over 25 years of
+
+experience in genetics and genomics. He has co-authored nearly 50 peer-reviewed articles, with
+
+his work cited more than 6,100 times. Dr. Mittelman began his career with the Human Genome
+
+Project and trained in Human Genetics at Baylor College of Medicine. A pioneer in genome
+
+technology, he has advanced DNA sequencing and SNP microarray technologies, driving
+
+innovation in biomedical research, diagnostics, and forensic science. His CV is attached to this
+
+disclosure as State’s Exhibit S-3.
+
+           Dr. Mittelman is the founder and Chief Executive Officer of Othram, a private company
+
+specializing in forensic genetic genealogy. Othram performed work in this case, and Dr. Mittelman
+
+will testify about the work performed consistent with the Othram reports disclosed in this case.
+
+           Dr. Mittelman may also testify on the following topics:
+
+       •    The role that Othram plays in a criminal investigation such as the investigation that took
+
+            place in this case. The agreement Othram has with the Idaho State Police, and the services
+
+            Othram agreed to provide and provided in this case.
+
+       •    How Othram develops a SNP or WGS data set, including the steps involved and the
+
+            information revealed—and not revealed—during the process. Dr. Mittelman will explain
+
+            that the testing done in this case did not reveal medical information about Bryan
+
+DISCLOSURE FOR HEARING
+ON JANUARY 23, 2025                                                                                     2
+          Kohberger. He will discuss how the data collected by Othram is insufficient for medical
+
+          testing and what additional testing and analysis would be required above and beyond
+
+          Othram’s process to determine medical information.
+
+     •    How Othram does not offer any services related to medical information and only does
+
+          forensic work. Dr. Mittelman will explain that additional certifications would be
+
+          necessary for Othram to perform testing and analysis for medical information.
+
+     •    The difference between using a SNP profile and STR for testing, including an explanation
+
+          that a lab can perform either type of testing from raw DNA material.
+
+     •    The State may also utilize Dr. Mittelman to respond to testimony provided by Mr. Hellwig
+
+          or Dr. Larkin on any of the topics disclosed by the defense on January 9, 2025.
+
+         The State submits that Dr. Mittelman’s knowledge and expertise is essential to the State
+
+in presenting its case and respectfully requests that Dr. Mittelman be allowed to remain in the
+
+courtroom during the testimony of Dr. Larkin and Mr. Hellwig to assist State’s counsel as an
+
+expert advisory witness pursuant to I.R.E. 615(a)(3).
+
+         RESPECTFULLY SUBMITTED this 16th day of January 2025.
+
+
+___________________________________                   _______________________________
+William W. Thompson, Jr.                              Jeff Nye
+Prosecuting Attorney                                  Special Assistant Attorney General
+
+
+
+
+DISCLOSURE FOR HEARING
+ON JANUARY 23, 2025                                                                                 3
+                                CERTIFICATE OF DELIVERY
+
+       I hereby certify that true and correct copies of the State's Disclosure for Hearing on January
+
+23, 2025, was served on the following in the manner indicated below:
+
+Anne Taylor                                     ☐ Mailed
+Attorney at Law                                 X E-filed & Served / E-mailed
+PO Box 9000
+                                                ☐ Faxed
+Coeur D Alene, ID 83816-9000
+                                                ☐ Hand Delivered
+
+       Dated this 16th day of January, 2025.
+
+
+
+
+DISCLOSURE FOR HEARING
+ON JANUARY 23, 2025                                                                                4
+           WANS
+                                                                        Purchase Order
+                                                                                 No. PO230376
+
+                                                                Vendor No.        83183586700
+       IDAHO STArs POLICE                                       Order Date:     11/29/22
+       7Oo 3.                                                   Ship Via:
+                        BAA2                                    Billing Adress: Idaho State Police
+                                                                                700 S. Stratford Dr
+    Vendor: IRS SAM HLH                                                         Meridian ID 83642-6202
+            OTHRAM INC
+            8301 NEW TRAILS DR SUITE 110
+            THE WOODLANDS TX 77381                              Deliver to:       Idaho State Police
+                                                                                  Forensics District 3
+                                                                                  700 S. Stratford Drive
+                                                                                  Meridian ID 83642
+
+
+
+Quantity   Units       Item Description               Vendor Item No.                     Unit Price        Total Cost
+   1       EACH        RUSH FGGS SNP PANEL                                                 5,000.00          5,000.00
+   1       EACH        {IDAHO STATE POLICE CONTRACT                                          4,500.00        4,500.00
+                       M2022-4843
+                       PROJECT UIMOSCOW
+
+
+
+
+                                                                                                              9,500.00
+
+Comments for Vendor:                                              (LOL P      Debie B   ers-Rudolph
+
+                                                                              208-884-7033
+
+                                                                                                        State's Exhibit
+
+                                                                                                              S-1
+                                                                                                           CR01-24-31665
+       OTHRAM                                                                                Agency !D: D22000030 /
+       REQUEST                                                                                   Lab # M2022-4843
+
+
+Quote 21728-Q03
+Othram, Inc.                                         Idaho State Police Forensic Services          Quote No:             21728-Q03
+2829 Technology Forest Blvd, Suite 100               700 South Stratford Drive                     Date:                 2022-11-25
+The Woodlands, TX 77381                              MERIDIAN, ID 83642                            Valid For:                 30 days
+United States                                        UNITED STATES
+solve@othram.com                                     rylene.nowlin@isp.idaho.gov
+
+
+
+
+Service              Details                                                                                   Qty               Total
+
+Rush FGGS®           Forensic DNA testing for DNA evidence which will generate a SNP profile                     1           $5000.00
+SNP Panel            file that can be used for 1:1 comparisons or genealogical search. The
+                     deliverable is a file that can be uploaded to a genealogical database. Rush
+                     service features 4-5 week turn-around-time.
+
+Idaho State          Contract Pricing for ISP includes SNP Panel + Records Research +                            1           $4500.00
+Police               Oatabase Upload. Previously agreed upon rates.
+Contract
+
+
+
+                                                                                                            Total       $9500.00
+
+
+
+
+All quoted rates are based on the understanding that the parties will enter into, and agree to be bound by, Othram's form of Services
+
+Agreement, which will cover and apply to all services provided by Othram, including those services contemplated by this Quote. IF this
+understanding !s not correct, all quoted rates are subject to change.
+How to Budget for FGG Casework
+The budget for developing investigative leads using Forensic Genetic Genealogy varies based the quallty of the available DNA
+evidence and the needs of the investigating agency. The following diagram can help estimate the costs of FGG casework.
+Prior to any testing, Othram will assess the case and provide a free budgetary estimate.
+
+
+Workflow & Pricing Structure
+ Deliverable Option 1: SNP Profile (Phases 1              -
+                                                              2)
+
+  Deliverable Option 2: investigative Leads {Phases                     3)
+
+
+
+
+Phase One
+
+Assessment + Suitability
+                                              >
+                                                      >            Phase Two
+
+                                                                   Developing a SNP Profile
+                                                                                                                     >    Phase Three
+
+                                                                                                                            Investigative Leads
+
+@                                                                                              &                 NEEDED   @ Database Upload                                 [FE
+    $0 per case                                                      $0 to $999 per item
+                                                                                                                                                               2
+                                                                                                                              $1,750 per profile
+                  and                                                Otvam's proprietary Genomic Filtering &
+           portat hitpyffrequest.cthram.com                          Repair service enables us to develop @                   DNA Database Upload Service includes
+                                                                     DNA profile from damaged DNA. The
+                                                                                                                              the upload of the profile to GEDMatch
+                                                                               aplied based on the quality of                 and FamilyTree DNA databases (if
+                                                                     the DNA extract.
+                                                                                                                              needed) and a gnealogical report that
+    $849 per item                                                                                                             confirms   successful
+                                                                     Cases wil require 0, 1 or 2 rounds of DNA
+    DNA extraction from evidence or skeletal                         repak.
+    remains optimized for the development of                                                                                  2
+                                                                                                                                  Fee cubject to change besed on 3rd
+    a SNP profile.                                                   Forensic-Grade Genome                                    party database jees
+
+                                                                     Sequencing®
+
+@ Proprietary                                                        $2,499 per item                                      @ Records Research                                {fe
+    $499 per case                                                                                                             (Genealogy)
+                                                                     Othram's proprietary Forensic Grade
+                                                                     Genome Sequencing (FGGS) generates a                     $2,499 per case
+    Othram's proprietary QC essesament                               SNP profile file that can be uploaded and
+    evaluates the quarttity, quality, and                            searched in genselogical databases.                      Records Rensarch leveragas Othram's
+    suitabiity of DNA                 testing. This                                                                           proprietary tools and datasets, and public
+    step helps determina if            steps such                                                                                        to                identification
+    2s Genomic            & Repair or
+                   needed. After QC, the
+                   heve @ final budget for the
+                                                              e $2,499 per sample
+                                                                     Mixture Mitigation                                            a       profite Flat-rate per case
+
+
+
+    cose.                                                                                                                 @                   Testing
+                                                                     Surcharge applied to mixtures dependig
+                                                                                                                              $0 to $399 per test
+                                                                     on the complaxity of the mixture. Mixture
+          the DNA samptn ines not pass OC                                                                                     Tests candidate relationships between
+                                                                     Surcharge Is inclusive of one edditional
+       there are no fiether Gants to agency.
+                                                      :
+                                                                     round of FGGS   sequencing                                                a SNP penel. A report
+                                                                                                                              will be issued for eah KinSNP® test
+                                                                     of a victim's reference samola.
+                                                                                                                              based on the results of the predicted
+                                                                                                                              relationship.
+
+
+       Report           if the    does not                                                                                        Report can be issued alter the success
+       advance               QC
+
+
+
+
+ Questions? Please contact us at solve@othram.com
+                                                                                                                                              ()OTHRAM
+ LATAH COUNTY PROSECUTOR'S OFFICE
+ WILLIAM W. THOMPSON, JR., ISB No, 2613
+ PROSECUTING ATTORNEY
+ ASHLEY S. JENNINGS, ISB No. 8491
+ SENIOR DEPUTY PROSECUTOR
+ Latah County Courthouse
+ 522 S. Adams Street, Ste. 211
+ Moscow, ID 83843
+ Phone: (208) 883-2246
+ ISB No. 2613
+ paservice@latahcountyid.gov
+
+
+
+
+        IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+
+ STATE OF IDAHO,                                      Case No. CR01-24-31665
+                 Plaintiff,
+                                                     AFFIDAVIT OF SERGEANT
+                                                     MICHAEL D. LANG
+
+ BRYAN C. KOHBERGER,
+                 Defendant.
+
+
+
+
+STATE OF PENNSYLVANIA                  )
+                                 Ss.
+Derry Township                         )
+
+
+       I, Sergeant Michael D. Lang, do hereby state the attached statement labelled "State's
+
+Exhibit S-5" and which was attached to the December 6, 2024, "State's Objection to Defendant's
+
+Motion to Suppress and Memorandum in Support RE: Pennsylvania Search Warrant for 119
+
+Lamsden Drive, Albrightsville, PA and Statements Made" and is true and correct to the best of
+
+
+
+AFFIDAVIT OF SERGEANT MICHAEL D. LANG
+
+                                                                                               State's Exhibit
+
+                                                                                                     S-2
+                                                                                                  CR01-24-31665
+ my knowledge and belief, and I certify (or declare) under penalty of perjury pursuant to the law
+
+ the State of Idaho that the foregoing is true and correct.
+
+
+
+
+ ol    14 2
+ (Date)                                                 Sergegrtt Michael D. Lar
+
+
+
+
+AFFIDAVIT OF SERGEANT MICHAEL D. LANG
+                                                                                                Ww
+                                        David Mittelman, PhD
+                              Phone: (832) 390-8570 @ Email: david@othram.com
+
+
+    + Professional Summary
+
+Dr. David Mittelman is a renowned scientist and DNA testing expert with over 25 years of experience in genetics
+and genomics. He has co-authored nearly 50 peer-reviewed articles, with his work cited more than 6,100 times.
+Dr. Mittelman began his career with the Human Genome Project and trained in Human Genetics at Baylor
+College of Medicine. A pioneer in genome technology, he has advanced DNA sequencing and SNP microarray
+technologies, driving innovation in biomedical research, diagnostics, andforensic science.
+
+    + Professional Experience
+
+ Year(s)                Positions Held                                       Companu
+ 10/01/2018     -
+                        Founder and Chief Executive Officer                  Othram
+ Present                                                                     The Woodlands, TX
+
+ 09/01/2015     -
+                        Partner and Division President                       Elite Surgical Affiliates
+ 9/30/2018                                                                   The Woodlands, TX
+
+ 01/01/2015     -
+                        Investor & Chief Scientific Officer                  Tute Genomics
+ 08/31/2015                                                                  Salt Lake City, UT
+
+ 08/01/2013             Partner and Chief Scientific Officer                 Gene by Gene
+ 12/31/2014                                                                  Houston, TX
+
+ 10/1/2012  -
+                        Founder and Chief Scientific Officer                 Arpeggi
+ 07/31/2013                                                                  Austin, TX
+
+
+    +   Education
+
+ Baylor College Of Medicine                                          University of Texas at Dallas
+ Houston, TX                                                         Richardson, Texas
+ Ph.D. Molecular Biophysics, 2007                                    B.S. Neuroscience, 2002
+
+
+    + Academic Experience
+
+
+ Year0s)            Title
+2010-2013           Associate Professor, Dept of Basic Science, Virginia Tech Carilion School of Medicine.
+                    (from 2012)
+
+                    Associate Professor, Dept of Biological Sciences at Virginia Tech, Department Chair: Dr.
+                    Brenda Winkel, Ph.D. (from 2011)
+
+                    Associate Professor, Virginia Bioinformatics Institute at Virginia Tech, Institute Director:
+                    Dr. Chris Barrett, Ph.D. (from 2010)
+
+2009-2010           Ruth L, Kirschstein NRSA Fellow, Human Genome Sequencing Center at Baylor College
+                    of Medicine, Center Director: Dr. Richard Gibbs, Ph.D.
+
+                                                                                                         State's Exhibit
+
+                                                                                                                S-3
+                                                                                                             CR01-24-31665
+                                         David Mittelman, PhD
+                               Phone: (832) 390-8570 @ Email: david@othram.com
+
+
+
+    2008-2009        Lecturer, Department of Ecology and Evolutionary Biology at Rice University.
+    2007-2009        Postdoctoral Fellow, Department Molecular and Human Genetics at Baylor College of
+                     Medicine, laboratory of Juan Botas, Ph.D.
+
+    2002-2007        Graduate Student, Department of Biochemistry at Baylor College of Medicine, laboratory
+                     of John Wilson, Ph.D.
+
+    2002             Scientific Programmer, Department of Biochemistry at UT Southwestern Medical Center,
+                     laboratory of Nick Grishin, Ph.D.
+
+    1997-2002        Research Assistant, McDermott Center for Human Growth and Development at UT
+                     Southwestern Medical Center, laboratory of Harold Garner, Ph.D.
+
+
+
+      + Books
+
+1.         D. Mittelman (ed) (2013) Stress-Induced Mutagenesis. New York, NY: Springer.
+
+      +    Chapters And Collections ("Corresponding Author)
+2.         J. Wilson, C. Moye, and D. Mittetman (2016) Engineered Nucleases and Trinucleotide Repeat
+           Diseases, a chapter in Genome Editing: The Next Step in Gene Therapy, Toni Cathomen, Matthew
+           Hirsch, and Matthew Porteus, Springer.
+
+3.         RM. Ward and D. Mittelman®* (2013) Tandem repeat instability and genome evolution, in: eLS. John
+           Wiley & Sons Ltd, Chichester. http://www.els.net [doi: 10.1002/9780470015902.a0024945]
+
+4           K.J. Luebke, R.P. Balog, D. Mittebman and H.R. Garner (2002) Digital Optical Chemistry: A Novel
+           System for the Rapid Fabrication of Custom Oligonucleotide Arrays, a chapter in Microfabricated
+           Sensors, Application of Optical Technology for DNA Analysis, Usmani and Wat Tak Law, editors, ACS
+           Publications.
+
+      +    Invited Reviews & Perspectives ("Corresponding Author)
+5.         R. Khan and D. Mittelman* (2018) Consumer genomics will change your life, whether you get tested
+           or not, Genome Biology, 19(1): 120.
+
+6.         R. Khan, L. Goodman, and D. Mittelman* (2014) Scientific Publishing Meets the 21st Century,
+           Genome Biology, 15(12): 556.
+
+7.         R. Khan and D. Mittelman* (2013) Rumors of the death of consumer genomics are greatly
+           exaggerated, Genome Biology, 14(11): 139.
+
+8.         RM. Ward, R. Schmieder, G. Highnam, and D. Mittelman* (2013) Big data challenges and
+           opportunities in high-throughput sequencing. Systems Biomedicine, 1(1): 23-28.
+
+9          D.              and J.H. Wilson (2013) The fractured genome of HeLa cells. Genome Biology, 4(4): 111.
+                                        David Mittelman, PhD
+                              Phone: (832) 390-8570 @ Email: david@othram.com
+
+
+10.       G. Highnam and D. Mittelman* (2012) Personal genomes and precision medicine, Genome Biology,
+          13(12): 324.
+11.       N.C. Fonville, R.M. Ward, and D. Mittelman'* (2011) Stress-induced modulators of repeat instability
+                                 J
+          and genome evolution, Mol Microbiol Biotechnol, 21:36-44.
+
+12.       D. Mittelman* and J.H. Wilson (2010) Stress, genomes, and evolution. Cell Stress Chaperones,
+          15(5): 463-6.
+
+      +   Select Peer-Reviewed Publications (*Corresponding Author)
+13.       S. A. Bates, B. Budowle, L. Baker, K. Mittelman, D. Mittelman (2025). A Molecular framework for
+          enhancing quality control and sample integrity in forensic genome sequencing. Forensic Science
+          International: Genetics, 103179.
+
+14.            Mandape, B. Budowle, H. McKiernan, D. Slack, K. Mittelman, D. Mittelman (2025). Dense
+          SNP-based analyses complement forensic anthropology biogeographical ancestry assessments. Forensic
+          Science International: Genetics, 74, 103147.
+
+15.       B, Budowle, L. Baker, A. Sajantila, K. Mittelman, D. Mittetman (2024) Prioritizing privacy and
+          presentation of supportable hypothesis testing in forensic genetic genealogy investigations,
+          BioTechniques 76 (9), 425-431.
+
+16.       S. Mandape, B. Budowle, K. Mittelman, D. Mittelman* (2024) Dense single nucleotide polymorphism
+          testing revolutionizes scope and degree of certainty for source attribution in forensic investigations,
+          Croatian Medical Journal, 65(3): 249-260.
+
+17.       H. Fang, Y. Wu, H. Yang, M. Yoon, L.T. Jiménez-Barrén, D. Mittetman, R. Robison, K. Wang, Ga.
+          Lyon (2017) Whole genome sequencing of one complex pedigree illustrates challenges with genomic
+          medicine, BMC Med Genomics, 10(1): 10.
+
+18.       GD. Poznik et. al. (42016) Punctuated bursts in human male demography inferredfrom 1,244 worldwide
+          Y-chromosome sequences, Nature Genetics, 48(6): 593-9.
+
+19.       J, Quilez, A. Guilmatre, P. Garg, G. Highnam, M. Gymrek, Y. Erlich, R.S. Joshi, D. Mittelman, A.J.
+          Sharp (2016) Polymorphic tandem repeats within gene promoters act as modifiers of gene expression
+          and DNA methylation in humans, Nucleic Acids Res, 44(8): 3750-62.
+
+20.       JA. O'Rawe, Y. Wu, M.J. Dérfel, A.F. Rope et.al. ... DD. Mittelman ... M. Rosello, C.E. Keegan, GJ. Lyon
+          (2015) TAF1 Variants Are Associated with Dysmorphic Features, Intellectual Disability, and
+          Neurological Manifestations, Am J Hum Genet, 97(6): 922-32.
+
+21.       1000 Genomes Project Consortium           A global reference for human genetic variation, Nature,
+          526(7571): 68-74.
+
+22.       S.T. Bilgin, T. Carvalho, M.D. Robinson, M.P. Greminger, M. Kriitzen, D. Comas,G. Highnam, D.
+          Mittelman, A. Sharp, T. Marques-Bonet, A. Wagner (2015) Tandem repeat variation in human and
+          great ape populations and its impact on gene expression divergence, Genome Res, 25(11): 1591-9.
+                                     David Mittelman, PhD
+                             Phone: (832) 390-8570 @ Email: david@othram.com
+
+
+23.   G. Highnam, J. Wang, D. Kusler, J. Zook, V. Vijayan, N. Leibovich, and D. Mittelman* (2014) An
+      analytical framework for optimizing variant discovery from personal genomes, Nat Commun, 6: 6275.
+
+24.   B.A. Santillan,C. Moye, D. Mittelman D, Wilson JH (2015) GFP-basedfluorescence assay for CAG
+      repeat instability in cultured human cells, PLoS One, 9(11): €113952.
+
+25.   T.F. Willems, M. Gymrek, G. Highnam, D. Mittelman, and Y. Erlich (2014) Landscape of Human STR
+      Variation. Genome Research, 24(11): 1894-904.
+
+26.   S.N. Porter, L.C. Baker, D. Mittefman, M.H. Porteus (2014) Lentiviral and targeted cellular barcoding
+      reveals ongoing clonal dynamics of cell lines in vitro and in vivo. Genome Biology, 15(5): R75.
+
+27.   W. Huang, A. Massouras, Y. Inoue, J. Peiffer et. al. ... D. Mittelman, D, Muzny, R.A. Gibbs, A.
+      Barbadilla, S. Johnston, E. Stone, S. Richards, B. Deplancke, and T.F.C. Mackay (2014) Natural
+      variation in genome architecture among 205 Drosophila melanogaster Genetic Reference Panel lines.
+      Genome Research, 24(7): 1193-208.
+
+28.   J. Zook, B. Chapman, J. Wang, D. Mittelman, O. Hofmann, W. Hide, and M. Salit (2014) Integrating
+      sequencing datasets to form highly confident SNP and indel genotype calls for   raa   whole human genome.
+      Nature Biotech, 32(3): 246-51.
+
+29.   A. Guilmatre, G. Highnam, C. Borel, D. Mittelman, and A.J. Sharp (2013) Rapid multiplexed
+      genotyping of simple tandem repeats using capture and high-throughput sequencing. Human Mutation,
+      34(9): 1304-11.
+
+30.   G. Highnam, C. Franck, A. Martin, C. Stephens, A. Puthige, and D. Mittelman* (2013) Accurate human
+      microsatellite genotypes from high-throughput resequencing data using informed error profiles. Nucleic
+      Acids Res, 4o(1): e32.
+
+31.   J. Li, R. Schmieder, RM. Ward, J. Delenick, E.C. Olivares, and D. Mittelman* (2012) SEQanswers: An
+      open access communityfor collaboratively decoding genomes. Bioinformatics,
+      28(9): 1272-3.
+
+32.   J. Fondon III, A. Martin, S. Richards, R.A. Gibbs, and D. Mittelman* (2012) Analysis of microsatellite
+      variation in drosophila melanogaster with population-scale genome sequencing. PLoS One, 7(3):
+      €33036.
+
+33.   TF.C. Mackay, S. Richards, E.A. Stone, A. Barbadilla, J.F. Ayroles, D. Zhu, S. Casillas, Y. Han, MM.
+      Maguwire, JM. Cridiand et. al. ... D. Mittelman, and R.A. Gibbs (2012) The Drosophila Genetic
+      Reference Panel: Community Resource for Analysis of Population Genomics and Quantitative Traits.
+                         A
+
+
+
+
+      Nature, Feb 9;482: 173-8.
+
+34.   D. Mittelman, K. Sykoudis, M. Hersh, Y. Lin, and J.H. Wilson (2010) Hsp90 modulates CAG/CTG
+      repeat instability in human cells. Cell Stress Chaperones, 15(5): 753-9.
+
+35.   D. Mittelman, C. Moye, J. Morton, K. Sykoudis, Y. Lin, D. Carroll, and J.H. Wilson (2009) Zine-finger
+      directed double-strand breaks within CAG repeat tracts promote repeat instability in human cells. P.
+      Natl. Acad. Sci. USA,106: 9607-12.
+                                           David Mittelman, PhD
+                              Phone: (832) 390-8570 @ Email: david@othram.com
+
+
+36.     DA. Morgan, DM. Kristensen, D. Mittelman, and O. Lichtarge (2006) ET Viewer: An Application for
+        Predicting and Visualizing Functional Sites in Protein Structures. Bioinformatics, 22(16): 2049-50.
+
+37.     V. Gorbunova, A. Seluanov, D. Mittelman, and J.H. Wilson (2004) Demethylation of the genome
+        strongly destabilizes CAG/CTG trinucleotide repeats in mammalian cells. Hum. Mol. Genet.,
+        13(23): 2979-2989.
+
+38.      A. Seluanov, D. Mittelman, OM. Pereira-Smith, J.H. Wilson, and V. Gorbunova (2004) DNA end
+        joining becomes less efficient and more error-prone during cellular senescence. P. Natl. Acad. Sci. USA,
+         101(20): 7624-9.
+
+39.     D. Mittelman, R. Sadreyev, and N. Grishin (2003) Probabilistic scoring measures for profile-profile
+        comparison yield more accurate short seed alignments. Bioinformatics, 19(12): 1531-1539.
+
+40.     R.P. Balog, Y. Ponce de Souza, H. Tang, G. DeMasellis, B. Gao, A. Avila, D. Gaban, D. Mittelman, J.D.
+        Minna, K.J. Luebke, and H.R. Garner (2002) Parallel assessment of CpG methylation by two-color
+        hybridization with oligonucleotide arrays. Analytical Biochemistry, 309(2): 301-310.
+4i.      A. Kulkarni, N. Williams, Y. Lian, J.D. Wren, D. Mittelman, A. Pertsemlidis, and H.R. Garner (2002)
+        ARROGANT: an application to manipulate large gene collections. Bioinformatics, 18(11): 1410-1417,
+
+42.     J.D. Wren, D. Mittelman, and H.R. Garner (2002) SIGNAL: Sequence Information and Genomic
+        Analysis. Comput Meth Prog Bio, 68(2): 177-181.
+
+43.     Pertsemlidis, B. Miller, A. Pande, D. Mittelman, P. Schilling, M. Wei, M. Lerman, J. Minna, and H.
+        Garner (2000) PANORAMA An Integrated Web- Based Sequence Analysis Tool and Its Role in Gene
+                                       -
+
+
+
+
+        Discovery. Genomics, 70(3): 300-30.
+
+
+      + Forensic Genetic Genealogy Testimony
+
+ The cases in the below table signify cases in which Othram's technology was cross-examined in court,
+ specifically on the topic offorensic genetic genealogy. As of July 2024, Othram is the only United States-based
+forensic laboratory to defend their work in a jury trial. An asterisk indicates that Dr. Mittelman took the stand.
+
+ Year      Defendant                       Court               Expertise                                  Verdict
+
+ 2024      Clayton Bernard Foreman         Jefferson County,   SNPP Testing, Forensic Genetic             Guilty
+                                           Texas               Genealogy*
+
+ 2021      Glen Samuel McCurley, Jr.       Tarrant County,     SNP Testing, Forensic Genetic              Guilty
+                                           Texas               Genealogy
+

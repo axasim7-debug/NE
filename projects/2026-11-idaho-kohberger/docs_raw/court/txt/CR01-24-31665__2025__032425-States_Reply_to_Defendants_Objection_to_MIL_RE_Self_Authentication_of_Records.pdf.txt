@@ -1,0 +1,2814 @@
+                                                                              Electronically Filed
+                                                                              3/24/2025 2:32 PM
+                                                                              Fourth Judicial District, Ada County
+                                                                              Trent Tripple, Clerk of the Court
+                                                                              By: Jennifer Keyes, Deputy Clerk
+
+
+LATAH COUNTY PROSECUTOR’S OFFICE
+WILLIAM W. THOMPSON, JR., ISB No. 2613
+PROSECUTING ATTORNEY
+ASHLEY S. JENNINGS, ISB No. 8491
+SENIOR DEPUTY PROSECUTOR
+Latah County Courthouse
+522 S. Adams Street, Ste. 211
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+       IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                 STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+
+ STATE OF IDAHO,                                      Case No. CR01-24-31665
+            Plaintiff,
+
+                                                      STATE’S REPLY TO
+                                                      DEFENDANT’S OBJECTION TO
+                                                      MOTION IN LIMINE
+
+                                                      RE: SELF-AUTHENTICATION
+                                                      OF RECORDS IN RELIANCE
+ V.                                                   ON I.R.E. 803(6) AND (8), I.R.E.
+                                                      902(4) AND (11) AND/OR I.R.E.
+ BRYAN C. KOHBERGER,                                  803(24)
+            Defendant.
+
+
+
+       COMES NOW the State of Idaho, by and through the Latah County Prosecuting
+
+Attorney, and respectfully replies to “Defendant’s Objection to State’s Motion in Limine Re:
+
+Self-Authentication of Records” filed on March 17, 2025.
+
+       The State seeks to rely on self-authenticating evidence as opposed to calling foundational
+
+witnesses in order to accomplish the same. It is understood that admission would be contingent
+
+upon the State laying a proper foundation with a Certificate/Affidavit under I.R.E. 803(6) or (8)
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 1
+and the requirements of I.R.E. 902 (4) or (11). It is also understood that admission would be
+
+dependent on the State showing the relevance of the evidence. Replying specifically to
+
+Defendant’s Response:
+
+   1. 1320 Linda Lane surveillance footage for November 13, 2022 (Hard drive provided on
+      4/5/23, AV000147)
+
+       This footage is maintained by a property management company. The State would seek
+       admission of this footage pursuant to I.R.E. 803(6). The relevant footage is taken on
+       November 13, 2022, approximately .3 miles from 1122 King Road (i.e. the crime scene).
+       The State may rely on video footage around 3:29 a.m. showing the suspect vehicle the
+       area of the crime scene prior to the homicides. The State is in the process of obtaining a
+       Certificate of Authenticity.
+
+   2. 1330 Linda Lane surveillance footage for November 13, 2022 (Hard drive provided on
+      4/5/23, AV000147)
+
+       This footage is maintained by the same property management company as 1320 Linda
+       Lane. The State would seek admission of this footage pursuant to I.R.E. 803(6). The
+       relevant footage is taken on November 13, 2022, approximately .3 miles from 1122 King
+       Road (i.e. the crime scene). The State may rely on video footage from approximately
+       3:30 a.m. to 4:07 a.m. showing the suspect vehicle travelling around the area of the crime
+       scene prior to the homicides. The State is in the process of obtaining a Certificate of
+       Authenticity.
+
+   3. Albertson’s (Clarkston, WA) video surveillance and business records for November 13,
+      2022 (Hard drive provided on 4/5/23)
+
+       This footage is maintained by Albertson’s Grocery in Clarkston, Washington. The State
+       would seek admission of this footage pursuant to I.R.E. 803(6). The relevant footage is
+       taken on November 13, 2022. The State may rely on video footage from approximately
+       12:46 p.m. to 1:06 p.m. to show Defendant’s vehicle and actions hours after the
+       homicides. The State is in the process of obtaining a Certificate of Authenticity.
+
+   4. Amazon financial and user records for Bryan Kohberger (Hard drive provided on 4/5/23;
+      AV000236, AV000243, AV000398; AV000832)
+
+       Regarding purchase history, the State is attaching a “Certificate of Authenticity” dated
+       12/30/22 pursuant to I.RE. 803(6) and 902(11) from Amazon.com. State’s Exhibit S-1.
+       This Certificate was included with an excel data file that details Bryan Kohberger’s
+       subscription information and order history from January 5, 2022, to December 13, 2022.
+       At trial, the State intends to offer the Certificate with the attached records as an Exhibit.
+       Defendant was provided this information on May 18, 2023.
+
+
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 2
+       Regarding click history, the State is attaching a “Certificate of Authenticity” pursuant to
+       I.R.E. 803(6) and 902(11) from Amazon.com. State’s Exhibit S-2. This references
+       “CRIM1259132 2023 DS which is related to the excel data file by the same name that
+       details subscription information, click activity, and sign-in history of the Defendant as
+       directed in the underlying search warrant. At trial, the State intends to offer the
+       Certificate with the attached records as an Exhibit. Defendant was provided this
+       information on July 12, 2023.
+
+       The State incorporates “State’s Response to Defendant’s Motion in Limine #9 Re:
+       Excluding Amazon Click Activity Evidence at Trial” filed March 17, 2025, to this reply.
+
+   5. AT&T phone records for Bryan Kohberger, MM, XK (AV000228; Hard drive provided
+      on 4/5/23)
+
+       The above AT&T phone records are relied upon by the State’s expert witness Nicholas
+       Ballance as detailed in his expert disclosures.
+
+       A Certificate of Authenticity is attached as Exhibit S-3 which was included with the
+       return for Bryan Kohberger’s AT&T records for November 12-November 14, 2022. This
+       was provided to Defendant around April 4, 2023.
+
+       A Certificate of Authenticity is attached as Exhibit S-4 which was included with the
+       return for Bryan Kohberger’s AT&T records for June 23, 2022, to December 23, 2022.
+       This was provided to Defendant around April 4, 2023.
+
+       Call detail records were provided for both MM and XK (discovered on May 16, 2024 and
+       again on August 16, 2024). The State intends to obtain a certificate of authenticity from
+       AT&T that comports with I.R.E. 803(6) and 902(11) prior to offering the exhibit.
+
+   6. Bagel Shop video surveillance video for November 13, 2022 (Hard drive provided on
+      4/5/23)
+
+       This footage is maintained by a business. The State would seek admission of this footage
+       pursuant to I.R.E. 803(6). The relevant footage is taken on November 13, 2022, from
+       approximately 1:40 a.m. to 2:00 a.m. This evidence provides a timeline of events (for KG
+       and MM) before the homicides and corroborates State’s witnesses’ testimony. The State
+       is in the process of obtaining a Certificate of Authenticity.
+
+   7. Bank of America bank records for BF and XK (Hard drive provided on 4/5/23;
+      AV000133; AV000254)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   8. Banner Bank banking records for EC (Hard drive provided on 4/5/23; AV000255)
+
+
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 3
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   9. Café Artista video surveillance video for November 13, 2022 (Hard drive provided on
+      4/5/23)
+
+       This footage is maintained by a business. The State would seek admission of this footage
+       pursuant to I.R.E. 803(6). The relevant footage is taken on November 13, 2022, at
+       approximately 1:40 a.m. This evidence provides a timeline of events (for KG and MM)
+       before the homicides and corroborates State’s witnesses’ testimony. The State is in the
+       process of obtaining a Certificate of Authenticity.
+
+   10. Corner Club video surveillance video for November 12-13, 2022 (Hard drive provided on
+       4/5/23; AV000076 and AV000143)
+
+       This footage is maintained by a business. The State would seek admission of this footage
+       pursuant to I.R.E. 803(6). The relevant footage is taken on November 12, 2022 at
+       approximately 10:20 p.m. through November 13, 2022, at approximately 1:37 a.m. This
+       evidence provides a timeline of events (for KG and MM) before the homicides and
+       corroborates State’s witnesses’ testimony. The State is in the process of obtaining a
+       Certificate of Authenticity.
+
+   11. Corner Club financial transaction receipts of sales for November 13, 2022 (Bates Pages
+       342-480)
+
+       These documents are maintained by a business. The State would seek admission of the
+       documents pursuant to I.R.E. 803(6). The relevant portion is attached as State’s Exhibit
+       S-5. This evidence provides a timeline of events (for KG and MM) before the homicides
+       and corroborates State’s witnesses’ testimony. The State is in the process of obtaining a
+       Certificate of Authenticity.
+
+   12. Costco (Clarkston, WA) surveillance video for November 13, 2022 (AV000229; Hard
+       drive provided on 4/5/23)
+
+       This footage is maintained by a business, Costco Wholesale in Clarkston, Washington.
+       The State would seek admission of this footage pursuant to I.R.E. 803(6). The relevant
+       footage is taken on November 13, 2022. The State may rely on video footage from
+       approximately 11:59 a.m. to show Defendant’s vehicle and actions hours after the
+       homicides.
+
+       A Certificate of Authenticity is attached as Exhibit S-6 which was included with the
+       return for Costco records. This was provided to Defendant on May 18, 2023.
+
+   13. DeSales student records regarding Bryan Kohberger (AV000291)
+
+       These documents are maintained by a private university. The State would seek admission
+
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 4
+       of this document pursuant to I.R.E. 803(6) and 902(11). The State has attached the
+       relevant evidence which would be introduced to show Defendant’s knowledge of crime
+       scenes. State’s Exhibit S-7. The State is in the process of obtaining a Certificate of
+       Authenticity.
+
+   14. Dick’s Sporting Goods record of sale for Bryan Kohberger (AV000270)
+
+       These documents are maintained by a business. The State would seek admission of the
+       documents pursuant to I.R.E. 803(6). The relevance of this information is that Bryan
+       Kohberger purchased a black balaclava from Dick’s Sporting Goods on January 10, 2022.
+       This mask is the same type of mask described by DM that she witnessed worn by a male
+       in the residence on November 13, 2022.
+
+       A Certificate of Authenticity is attached as Exhibit S-8 which was included with the
+       return for Dick’s records. This was provided to Defendant on May 18, 2023.
+
+   15. Discover financial records for KG (AV000256; Hard drive provided on 4/5/23)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   16. Door Dash records for XK and EC (AV000265; Hard drive provided on 4/5/23)
+
+       These documents are maintained by a business. The State would seek admission of the
+       documents pursuant to I.R.E. 803(6). The State may rely on the attached records (State’s
+       Exhibit S-9) from Door Dash regarding a delivery to 1122 King Road on November 13,
+       2022, at 3:59 a.m. This particular evidence provides a timeline of events (for XK) before
+       the homicides and corroborates State’s witnesses’ testimony. This was provided to
+       Defendant on May 26, 2023. The State is in the process of obtaining a Certificate of
+       Authenticity.
+
+   17. Early Warning Records (AV000213)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   18. Elan Financial records for KG (Hard drive provided on 4/5/23)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   19. E&S Services (1300 Johnson Ave., Pullman, WA) surveillance video for November 13,
+       2022 (Hard drive provided on 4/5/23)
+
+       This footage is maintained by a business. The State would seek admission of the
+       documents pursuant to I.R.E. 803(6). The State may rely on video footage from
+
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 5
+       November 13, 2022 at around 5:26 a.m. showing the suspect vehicle after the homicides
+       in Pullman, WA.
+
+       A Certificate of Authenticity is attached as Exhibit S-10 which was obtained prior to the
+       grand jury. This was provided to Defendant with grand jury materials in July 2023.
+
+   20. Farmer’s Insurance surveillance video for November 13, 2022 (Hard drive provided on
+       4/5/23)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   21. Floyd’s Cannabis Co. surveillance video for November 13, 2022 (Hard drive provided on
+       4/5/23)
+
+       This footage is maintained by a business. The State would seek admission of the video
+       footage pursuant to I.R.E. 803(6). The State may rely on video footage from November
+       13, 2022, at around 3:02 a.m. showing a white sedan on State Route 270 between
+       Pullman, WA and Moscow, ID approximately one hour before the homicides. The State
+       is in the process of obtaining a Certificate of Authenticity.
+
+   22. ForisDax (Crypto.com) financial records for Bryan Kohberger (AV000863)
+
+       These records are maintained by a business. The State would seek admission of the
+       records pursuant to I.R.E. 803(6). The State has provided information related to the
+       relevancy of this item in its expert disclosure for FoA Michael Douglass. FoA Douglass
+       is a factual witness regarding this account. The State is in the process of obtaining a
+       Certificate of Authenticity.
+
+   23. Grub Truck video surveillance video for November 13, 2022 (Hard drive provided on
+       4/5/23)
+
+       This footage is maintained by a business. The State would seek admission of this footage
+       pursuant to I.R.E. 803(6). The relevant footage is taken on November 13, 2022, from
+       approximately 1:43 a.m. to 1:53 a.m. PST. This evidence provides a timeline of events
+       (for KG and MM) before the homicides and corroborates State’s witnesses’ testimony.
+       The State is in the process of obtaining a Certificate of Authenticity.
+
+   24. Harbor Freight business and surveillance records (Hard drive provided on 4/5/23;
+       AV000350)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   25. Idaho Central Credit Union (ICCU) bank records for MM (Hard drive provided on
+       4/5/23; AV000257)
+
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 6
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   26. Indian Mountain Lake surveillance and records (AV000427)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   27. Joann Fabrics financial records (AV000868)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   28. Latah County Sheriff’s Office Deputy Darren Duke body camera video on August 21,
+       2022 (AV000100)
+
+       This is a public record pursuant to Rule 803(6) and (8). The State is in the process of
+       obtaining a Certificate of Authenticity.
+
+   29. Latah County Sheriff’s Office citation issued on August 21, 2022 (Bates Number 13012-
+       13013)
+
+       This is a public record pursuant to Rule 803 (6) and (8). The State is in the process of
+       obtaining a Certificate of Authenticity.
+
+   30. Marshall’s financial records for Bryan Kohberger (AV000269, AV000350, AV0000861)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   31. National Weather Service records for November 12 and 13, 2022. (Bates Pages 15720-
+       15738)
+
+       This is a public record under Rule 803(8). Certificates of Authenticity for this item are
+       attached as Exhibit S-11 This was provided to Defendant with the corresponding records
+       on March 20, 2025.
+
+   32. Numerica Bank records for KC (Hard drive provided on 4/5/23, AV000258, AV000828
+       and AV000849)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   33. PayPal/Venmo financial records (Hard drive provided on 4/5/23; AV000215, AV000260,
+       AV000793)
+
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 7
+       These documents are maintained by a business. The State would seek admission of the
+       financial records of Defendant pursuant to I.R.E. 803(6). The State is in the process of
+       obtaining a Certificate of Authenticity.
+
+   34. PNC Bank records for Bryan Kohberger (AV000862)
+
+       These documents are maintained by a business. The State would seek admission of the
+       financial records of Defendant pursuant to I.R.E. 803(6). The State has provided specifics
+       regarding the relevance of this information in the State’s expert disclosure for FoA
+       Michael Douglass (with attached expert report).
+
+       Certificates of Authenticity for this item are attached as Exhibit S-12. This was provided
+       to Defendant with the corresponding records on February 12, 2024.
+
+   35. PenTele Data records (AV000241; AV000866)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   36. Pennsylvania State Employees Credit Union (PSECU) for Bryan Kohberger (AV000226;
+       AV000242; AV000259)
+
+       These documents are maintained by a business. The State would seek admission of the
+       financial records of Defendant pursuant to I.R.E. 803(6). The State has provided specifics
+       regarding the relevance of this information in the State’s expert disclosure for FoA
+       Michael Douglass (with attached expert report). The State is in the process of obtaining a
+       Certificate of Authenticity
+
+   37. PetCo financial records for KG (AV000867)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   38. RiteAid financial records (AV000871)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   39. Ross financial records (AV000861)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   40. Sunset Mart (1311 S. Main St., Moscow, ID) surveillance video for November 13, 2022
+       (Hard drive provided on 4/5/23)
+
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 8
+       This footage is maintained by a business. The State would seek admission of the
+       documents pursuant to I.R.E. 803(6). The relevant footage is taken on November 13,
+       2022, approximately .5 miles from 1122 King Road (i.e. the crime scene). The State may
+       rely on video footage around 3:28 a.m. showing the suspect vehicle the area of the crime
+       scene prior to the homicides. The State is in the process of obtaining a Certificate of
+       Authenticity.
+
+   41. Sunset Mart (1455 SE Bishop Blvd., Pullman, WA) surveillance video for November 13,
+       2022 (Hard drive provided on 4/5/23)
+
+       This footage is maintained by a business. The State would seek admission of the
+       documents pursuant to I.R.E. 803(6). The State may rely on video footage from
+       November 13, 2022, at approximately 5:25 a.m. and 5:26 a.m. showing the suspect
+       vehicle in Pullman, WA after the homicides.
+
+       A Certificate of Authenticity is attached as Exhibit S-13 which was obtained prior to the
+       grand jury. This was provided to Defendant with grand jury materials in July 2023.
+
+   42. Target financial records (AV000253; AV000263; AV000861; AV000864)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   43. TikTok user records for XK (Hard drive provided on 4/5/23)
+
+       These records are maintained by a business. The State would seek admission of the
+       records pursuant to I.R.E. 803(6). The records would show XK on the TikTok application
+       on November 13, 2022 at approximately 3:16 a.m. PST. The State is in the process of
+       obtaining a Certificate of Authenticity.
+
+   44. TJX financial records for DM (AV000865)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   45. T-Mobile phone records for KG, DM (AV000345)
+
+       These records are maintained by a business. The State would seek admission of the
+       records pursuant to I.R.E. 803(6). Specifically, the State would seek to show the phone
+       records for KG and DM on November 13, 2022. This evidence provides a timeline of
+       events (for KG and DM) before the homicides and corroborates State’s witnesses’
+       testimony.
+
+       A Certificate of Authenticity for these records are attached as Exhibit S-14. This was
+       provided to Defendant with the corresponding records around April 4, 2023.
+
+
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 9
+   46. Umpqua bank records for DM (Hard drive provided on 4/5/23; AV000261)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   47. Under Armor transaction records for Bryan Kohberger (AV000271)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   48. US Chef Store (Clarkston, WA) video surveillance for November 13, 2022 (Hard drive
+       provided on 4/5/23)
+
+       This footage is maintained by a business, US Chef Store in Clarkston, Washington. The
+       State would seek admission of this footage pursuant to I.R.E. 803(6). The relevant
+       footage is taken on November 13, 2022. The State may rely on video footage from
+       approximately 12:42 and 12:44 p.m. to show Defendant’s vehicle and actions hours after
+       the homicides. The State is in the process of obtaining a Certificate of Authenticity.
+
+   49. Defendant does not have a 49 listed in his Response. The State is keeping the same
+       numbers as Defendant’s Response for consistency.
+
+   50. Ulta financial records (AV000869)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   51. Verizon phone records for EC, BF, JD (AV000303; hard drive provided on 4/5/23)
+
+       These records are maintained by a business. The State would seek admission of the
+       records pursuant to I.R.E. 803(6). Specifically, the State would seek to show the phone
+       records for EC, BJ, and JD on November 13, 2022. This evidence provides a timeline of
+       events before the homicides and corroborates State’s witnesses’ testimony.
+
+       A Certificate of Authenticity (with a record of the covering numbers) is attached as
+       Exhibit S-15 which was included with the return attached to the Verizon call detail
+       records for EC, BF, and JD. This was provided to Defendant around April 4, 2023.
+
+   52. Walmart surveillance and financial transaction records for Bryan Kohberger (AV000252;
+       AV000384)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+
+
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 10
+   53. Washington Department of Motor Vehicles surveillance video for November 18, 2022
+       (AV000140; AV000830)
+
+       This surveillance footage is maintained by a business. The State would seek admission of
+       the records pursuant to I.R.E. 803(6). The State is in the process of obtaining a Certificate
+       of Authenticity
+
+   54. Washington Department of Motor Vehicles registration documents for Bryan Kohberger
+       (AV000140)
+
+       These records are maintained by a business. The State would seek admission of the
+       records pursuant to I.R.E. 803(6).
+
+       A Certificate of Authenticity is attached as S-16 for Bryan Kohberger’s vehicle
+       registration. This was provided to Defendant on April 6, 2023.
+
+       A Certificate of Authenticity is attached as S-17 for Bryan Kohberger’s license records.
+       This was provided to Defendant around July 2023 as part of the grand jury record.
+
+   55. Washington Trust Bank records and images for Bryan Kohberger (AV000227)
+
+       These documents are maintained by a business. The State would seek admission of the
+       financial records of Defendant pursuant to I.R.E. 803(6). The State has provided specifics
+       regarding the relevance of this information in the State’s expert disclosure for FoA
+       Michael Douglass (with attached expert report).
+
+       Certificates of Authenticity are attached as S-18 which was included with the records and
+       images. This was provided to Defendant on May 18, 2023.
+
+   56. Wells Fargo bank records for MM (Hard drive provided on 4/5/23, AV000155,
+       AV000261, AV000262(a))
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   57. Winco financial records for Bryan Kohberger (AV000861)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+   58. Winco financial records and video surveillance for BF, DM, KG, MM, and/or XK
+       (AV000860; Hard drive for 4/5/23)
+
+       The State no longer intends to rely on this evidence. If the State does, it will lay the
+       proper foundation at trial.
+
+
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 11
+   59. Washington State University (WSU) video surveillance for November 13, 2022 (Hard
+       drive provided on 4/5/23)
+
+       WSU is a public institution. The State would seek admission of the documents pursuant
+       to I.R.E. 803 (6) and (8). The State may rely on video footage from November 13, 2022
+       from approximately 5:28 a.m. to 5:30 a.m. showing the suspect vehicle after the
+       homicides in Pullman, WA.
+
+       The State is in the process of obtaining a Certificate of Authenticity
+
+   60. WSU parking records (AV000375, AV000394, AV000430)
+
+       WSU is a public institution. The State would seek admission of records pursuant to I.R.E.
+       803 (6) and (8). The State may introduce these records to show Bryan Kohberger’s
+       Hyundai Elantra was registered with the WSU system and had an active permit at WSU.
+       The State is in the process of obtaining a Certificate of Authenticity.
+
+       The State’s reliance on the Idaho Rules of Evidence for self-authentication of certain
+
+business or public records does not violate Defendant’s due process rights. The State is providing
+
+notice of the procedure the State will rely on for certain records. The State intends to lay the
+
+proper foundation (through self-authentication or witness testimony) and relevance prior to
+
+admission for all evidence the State will introduce at trial.
+
+
+       RESPECTFULLY SUBMITTED this 24th day of March 2025.
+
+
+
+                                                       Ashley S. Jennings
+                                                       Senior Deputy Prosecuting Attorney
+
+
+
+
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 12
+                                CERTIFICATE OF DELIVERY
+
+       I hereby certify that true and correct copies of the STATE’S REPLY TO DEFENDANT’S
+
+OBJECITON TO MOTION IN LIMINE RE: SELF-AUTHENTICATION OF RECORDS were
+
+served on the following in the manner indicated below:
+
+Anne Taylor                                   ☐ Mailed
+Attorney at Law                               ☒ E-filed & Served / E-mailed
+PO Box 2347
+                                              ☐ Faxed
+Coeur D Alene, ID 83816
+                                              ☐ Hand Delivered
+
+       Dated this 24th day of March 2025.
+
+
+                                            __________________________________________
+
+
+
+
+STATE’S REPLY TO DEFENDANT’S OBJECTION TO MOTION IN LIMINE RE: SELF-AUTHENTICATION
+OF RECORDS IN RELIANCE ON I.R.E. 803(6) AND (8), I.R.E. 902(4) AND (11) AND/OR I.R.E. 803(24) 13
+                                               amazon
+                               This is an official communication from Amazon.
+
+
+Certificate of Authenticity
+
+
+
+I, Shane Cox, declare as follows:
+
+
+
+    1. I 1am an employee of Amazon, Inc. ("Amazon"), I make this declaration based on personal, firsthand
+       knowledge and, if called and sworn as a witness, I could and would testify as set forth below.
+    2. Amazon produced documents responsive to the above-referenced law enforcement request.
+    3. All documents produced by Amazon are authentic, are what they purport to be, and accurately describe
+       the transactions, communications, and events set forth therein.
+    4. All documents produced by Amazon            business records in that they     (i) records kept in the ordinary
+       course of business; (ii) created at Or near the time of the transactions or events reflected therein, or based
+       on information from a person with knowledge of the transaction or events; and (iii) kept as a part of a
+       regular business activity.
+
+
+
+I declare under penalty of perjury under the laws of the United States of America that the foregoing is true and
+correct.
+
+
+
+
+Executed on 12/30/2022, at Seattle, Washington.
+
+
+
+Shane Cox
+
+Law Enforcement Response Specialist
+
+Amazon.com, Inc.
+
+
+
+
+NOTICE: This communication might contain privileged and/or confidential information. If you are not the
+intended recipient or you believe that you have received this communication in error, please delete this message
+and do not print, share, or otherwise use this message or its contents in any way. Please also indicate by reply
+email that you have received this communication in error and that you have deleted it.
+
+
+
+
+                                                                                                       STATE'S EXHIBIT
+
+                                                                                                               S-1
+                                                                                                            CR01-24-31665
+                                                  amazon
+                               This is an official communication from Amazon.
+
+
+Certificate of Authenticity
+
+CRIM1259132 2023 DS (External Case No. 22-2805)
+
+
+
+
+I, Shane Cox, declare as follows:
+
+
+
+
+    1.   Lam an employee    of Amazon, Inc. ("Amazon"). I make this declaration based on personal, firsthand
+        knowledge   and, if called and sworn as a witness, | could and would testify as set forth below.
+    2. Amazon produced documents responsive to the above-referenced law enforcement request.
+    3 . All documents produced by Amazon are authentic, are what they purport to be, and
+                                                                                                 accurately describe the
+        transactions, communications, and events set forth therein.
+    4. All documents produced by Amazon are business records in that they are (i) records kept in the ordinary
+        course of business; (ii) created at or near the time of the transactions or events reflected therein. or based
+        on information from a person with knowledge of the transaction or events; and (iii) kept as a part of a
+        regular business activity.
+
+
+
+I declare under penalty of perjury under the laws of the United States of America that the foregoing is true and
+correct.
+
+
+
+
+Executed on 6/27/2023, at Seattle, Washington.
+
+
+
+Shane Cox
+
+Law Enforcement Response Specialist
+
+Amazon.com, Inc.
+
+
+
+
+NOTICE: This communication might contain privileged and/or confidential information. If you are not the
+intended recipient or you believe that you have received this communication in error, please delete this message
+and do not print, share, or otherwise use this message or its contents in any way. Please also indicate by reply
+email that you have received this communication in error and that you have deleted it.
+
+                                                                                                          STATE'S EXHIBIT
+
+                                                                                                                  S-2
+                                                                                                               CR01-24-31665
+AT&T
+11760 US HWY 1, SUITE 300
+NORTH PALM BEACH FL 33408
+
+(800) 635-6840
+(888) 938-4715 (Fax)
+
+
+CERTIFICATE OF AUTHENTICITY OF DOMESTIC RECORDS PURSUANT TO FEDERAL
+RULES OF EVIDENCE 902(11) AND 902(13)
+
+GLDC FILE NUMBER: 3586162
+
+I, Mike Figuereo, attest, under penalties of perjury by the laws of the United States of America pursuant
+to 28 U.S.C. § 1746, that the information contained in this certification is true and correct. I am
+employed by AT&T, and my title is Legal Compliance Analyst. I am qualified to authenticate the
+records attached hereto because I am familiar with how the records were created, managed, stored, and
+retrieved. I state that the records attached hereto are true duplicates of the original records in the
+custody of AT&T. I further state that:
+
+       a.       All records attached to this certificate were made at or near the time of the occurrence of
+the matter set forth by, or from information transmitted by, a person with knowledge of those matters,
+they were kept in the ordinary course of the regularly conducted business activity of AT&T , and they
+were made by AT&T as a regular practice; and
+
+       b.       Such records were generated by AT&T’s electronic process or system that produces an
+accurate result, to wit:
+
+             1. The records were copied from electronic device(s), storage medium(s), or file(s) in the
+custody of AT&T in a manner to ensure that they are true duplicates of the original records; and
+
+                2. The process or system is regularly verified by AT&T, and at all times pertinent to the
+records certified here the process and system functioned properly and normally.
+
+I further state that this certification is intended to satisfy Rules 902(11) and 902(13) of the Federal Rules
+of Evidence.
+
+
+Mike Figuereo
+12-23-2022
+Date
+
+                                                                                                 STATE'S EXHIBIT
+
+                                                                                                         S-3
+                                                                                                      CR01-24-31665
+AT&T
+11760 US HWY 1, SUITE 30
+NORTH PALM BEACH FL 33408
+
+(800) 635-6840
+(888) 938-4715 (Fax)
+
+CERTIFICATE OF AUTHENTICITY OF DOMESTIC RECORDS PURSUANT TO FEDERAL
+RULES OF EVIDENCE 902(11) AND 902(13, AND 803(7)
+
+GLDC FILE NUMBER 3586162
+
+I, Stedhen      Gordon attest, under penalties of perjury by the laws of the United States of
+America pursuant to 28 U.S.C. § 1746, that the information contained in this certification is true
+and correct. I am employed by AT&T, and my title is Director Compliance. I am qualified to
+authenticate records responsive to the attached Search Warrant dated 12/22/22 because I am
+familiar with how the records were created, managed, stored, and retrieved. I further state that:
+
+        a.   AT&T maintains records made at or near the time of the occurrence of the referenced
+             matter set forth by, or from information transmitted by, a person with knowledge of
+             those matters, and the records were kept in the ordinary course of the regularly
+             conducted business activity of AT&T, and made by AT&T as a regular practice; and
+
+        b.   AT&T provided records for the phone number 509-592-8458 responsive to the
+             referenced Search Warrant dated December 23, 2023, for records between November
+             12, 2022, at 12:00 a.m. PST to November 14, 2022 at 12:00 a.m. PST, related to the
+             November 13, 2022, homicides; and
+
+        c.   AT&T did not provide Timing Advance Records for phone number 509-592-8458.
+             Timing Advance Records were only available if requested within seven (7) days of
+             the specified time frame. Timing Advance Records were not included in AT&T
+             records responsive to the referenced Search Warrant because more than seven (7)
+             days elapsed between November 13, 2022, and the date of the Search Warrant
+             December 23, 2022.
+
+I further state that this certification is intended to satisfy Rules 902(11), 902(13) and 803(7) of
+the Federal Rules of Evidence.
+
+
+   3/24
+Dated                                                  Signature
+       IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+                 STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+                                                        )
+In the Matter of the Application                               Case No. CR29-
+For a Search Warrant for:
+
+AT&T
+11760 U.S. Highway 1, Suite 300                         )      SEARCH WARRANT
+North Palm Beach, FL 33408-3029
+                                                        )
+MPD Case No. 22-M09903
+
+
+TO:        ANY PEACE OFFICER AUTHORIZED TO ENFORCE OR ASSIST IN
+           ENFORCING ANY LAW OF THE STATE OF IDAHO.
+
+           Brett Payne, having given me proof, upon oath, this day showing probable cause
+
+establishing grounds for issuing a search warrant and probable cause to believe property
+
+consists of certain evidence regarding the investigation into the crime(s) of homicide at
+
+1122 King Road in Moscow, Idaho is on the AT&T account associated with the phone
+
+number 509-592-8458 between November 12, 2022 at 12:00 a.m. PST to November 14,
+
+2022 at 12:00 a.m. PST. Information should include user account information, location data,
+
+and stored communications held by AT&T, described in further detail as follows:
+
+
+
+      1.   All customer/subscriber information, including any listed addresses, other listed
+           telephone number(s), social security number(s), dates of birth, name(s),
+                                                                                    or
+           address(es), any other customer identifying information, mobile handset
+           device identifiers/serial numbers (MEID, ESN, IMSI, IME], SUPI), activation
+           date and deactivation date, and point of purchase or location device was
+           purchased if applicable;
+
+
+
+
+SEARCH WARRANT                                   1
+   2.   Device Purchase Information. This is specifically to include the Date, Time and
+        Location of where the device or any pre-paid refill cards were purchased as well
+        as any information maintained about the purchase to include store name, store
+        number, terminal number, and amount of purchase;
+
+   3.   Any email addresses associated with the account or with the device that is
+        currently on file and stored in the normal course of business of the Service
+        Provider;
+
+   4. Call detail records, including detailed information in reference to all known
+      outgoing and incoming calls associated with the account, dates and times calls
+      were made, and duration of all calls made or received. This is to include any other
+      pertinent call detail records including special features codes, or any other codes
+      that are maintained in the normal course of business for the Service Provider, of
+      any cellular numbers identified in the course of the investigation. In addition to
+      voice calls, this would also include any detail records showing text messages,
+      MMS messages, or data activity;
+
+            a.   In the event the requested Call Detail Records contain other Service
+                 Provider customer numbers, identified as either incoming or outgoing
+                 calls, the Service Provider will provide subscriber information to the
+                 specific numbers identified, if requested.
+
+   5.   Cell site information, to include all known cell towers associated with outgoing
+        and incoming calls (Call Detail Records). This information is to include any
+        sector information, azimuth for each identified sector, cell site location, handoff
+        tower and sector, time on tower information, and any other related material that
+        would be necessary to identify the location and sector in reference to the cell site
+        information associated with the call detail records. In the event text messages,
+        MMS messages, Data activity, including IP sessions and destination addresses
+        that were produced, these records are also included in this request;
+
+   6.   Cell site locations for all Service Provider Cell Sites, sector information,
+        including azimuth headings, in the regional market associated with the requested
+        cell site information;
+
+   7.   Location information, to include any estimated or known longitude and latitude
+        of the cellular device's current location, or approximate location, information
+        received by cell tower(s) in reference to direction and distance from the tower a
+        device may be located (timing and triangulation information). Radio Frequency
+        signal strengths, direction, and transmission information. The geographical
+        constraints of location information will be limited to the United States;
+
+  8. Location information can be in the form of historical records. This would include
+
+
+
+SEARCH WARRANT                                 2
+                                                                             latitude and
+        any reports of device activity that would include the approximate
+        longitude of the device  at the time of the activity, estimated margin of error,
+        direction and distance from the tower,   and other  location related  information
+        commonly referred to as Real Time Tool (RTT), Timing Advance Information,
+        Location Database of Record (LocDBoR). This further includes any other report
+        similar in nature that would provide an estimate of the cellular phone on the
+        Service Provider's network;
+
+   9.   All text message and/or MMS messages, including message content, currently
+        stored in the normal course of business for the Service Provider, to include any
+        cloud services which allow for the long-term storage of both voicemails and
+        SMS/MMS messages;
+
+    10. Cloud Data, any content that may have been backed up to Cloud Storage for the
+        listed dates/times. If said Cloud Storage has been provided by a third-party
+        provider, please provide relevant contact information for that provider;
+
+located within the following described premises:
+
+         AT&T
+        Attn: Global Legal Demands Center
+        11760 US Highway 1, Suite 600
+        North Palm Beach, FFL 33408
+        gldc@att.com
+
+
+        Please provide this information to Brett Payne at                               digital
+
+format on a compact disk in Excel, PDF or TXT format. You are therefore commanded to
+
+search the above-described premises for the property described above, to seize it if found and
+
+                                                                        executed within 14
+bring it promptly before the court above named. This warrant shall be
+
+                                                               service (pursuant to Idaho
+days of issuance, and is authorized for daytime or nighttime
+
+Criminal Rule 41, "daytime" means the hours between 6:00 a.m. and 10:00 p.m. PST), and
+
+under the following special directions:
+
+        **THIS SEARCH WARRANT IS ISSUED FOR A LAW
+        ENFORCEMENT PURPOSE, THE SERVICE PROVIDER (AT&T) IS
+        ORDERED NOT TO DISCLOSE THE EXISTENCE OR CONTENTS OF
+        THIS SEARCH WARRANT OR THE INFORMATION FURNISHED IN
+        RESPONSE TO THE SEARCH WARRANT FOR A PERIOD OF 90
+
+
+SEARCH WARRANT                                 3
+      DAYS OR UNTIL FURTHER ORDER OF THE COURT.
+
+      THE SERVICE PROVIDER SHALL DISCLOSE THE DESCRIBED
+      PROPERTY AND INFORMATION WITHIN 14 DAYS OF
+      ISSUANCE.**
+
+
+GIVEN UNDER MY HAND and DATED this   23rd       day of December, 2022, at
+         10:03         m.
+
+                                                  C
+                                     Magistrate Judge
+
+
+
+
+SEARCH WARRANT                  4
+AT&T
+11760 US HWY 1, SUITE 300
+NORTH PALM BEACH FL 33408
+
+(800) 635-6840
+(888) 938-4715 (Fax)
+
+
+CERTIFICATE OF AUTHENTICITY OF DOMESTIC RECORDS PURSUANT TO FEDERAL
+RULES OF EVIDENCE 902(11) AND 902(13)
+
+GLDC FILE NUMBER: 3586353
+
+I, Gary Cohen, attest, under penalties of perjury by the laws of the United States of America pursuant to
+28 U.S.C. § 1746, that the information contained in this certification is true and correct. I am employed
+by AT&T, and my title is Legal Compliance Analyst. I am qualified to authenticate the records
+attached hereto because I am familiar with how the records were created, managed, stored, and
+retrieved. I state that the records attached hereto are true duplicates of the original records in the
+custody of AT&T. I further state that:
+
+       a.       All records attached to this certificate were made at or near the time of the occurrence of
+the matter set forth by, or from information transmitted by, a person with knowledge of those matters,
+they were kept in the ordinary course of the regularly conducted business activity of AT&T , and they
+were made by AT&T as a regular practice; and
+
+       b.       Such records were generated by AT&T’s electronic process or system that produces an
+accurate result, to wit:
+
+             1. The records were copied from electronic device(s), storage medium(s), or file(s) in the
+custody of AT&T in a manner to ensure that they are true duplicates of the original records; and
+
+                2. The process or system is regularly verified by AT&T, and at all times pertinent to the
+records certified here the process and system functioned properly and normally.
+
+I further state that this certification is intended to satisfy Rules 902(11) and 902(13) of the Federal Rules
+of Evidence.
+
+
+Gary Cohen
+12-23-2022
+Date
+                                                                                                 STATE'S EXHIBIT
+
+                                                                                                         S-4
+                                                                                                      CR01-24-31665
+AT&T
+11760 US HWY 1, SUITE 30
+NORTH PALM BEACH FL 33408
+
+(800) 635-6840
+(888) 938-4715 (Fax)
+
+CERTIFICATE OF AUTHENTICITY OF DOMESTIC RECORDS PURSUANT TO FEDERAL
+RULES OF EVIDENCE 902(11) AND 902(13, AND 803(7)
+
+GLDC FILE NUMBER 3586353
+
+1, Stephen             attest, under penalties of perjury by the laws of the United States of
+America pursuant to 28 U.S.C. § 1746, that the information contained in this certification is true
+and correct. I am employed by AT&T, and my title is Director Compliance. I am qualified to
+authenticate records responsive to the attached Search Warrant dated 12/22/22 because I am
+familiar with how the records were created, managed, stored, and retrieved. J further state that:
+
+        a.   AT&T maintains records made at or near the time of the occurrence of the referenced
+             matter set forth by, or from information transmitted by, a person with knowledge of
+             those matters, and the records were kept in the ordinary course of the regularly
+             conducted business activity of AT&T, and made by AT&T as a regular practice; and
+
+        b    AT&T provided records for the phone number 509-592-8458 responsive to the
+             referenced Search Warrant dated December 23, 2023, for records between June 23,
+             2022, to December 23, 2022, related to the November 13, 2022, homicides; and
+
+             AT&T did not provide Timing Advance Records for phone number 509-592-8458.
+             Timing Advance Records were only available if requested within seven (7) days of
+             the specified time frame. Timing Advance Records were not included in AT&T
+             records responsive to the referenced Search Warrant because more than seven (7)
+             days elapsed between November 13, 2022, and the date of the Search Warrant
+             December 23, 2022.
+
+I further state that this certification is intended to satisfy Rules 902(11), 902(13) and 803(7) of
+the Federal Rules of Evidence
+
+
+03/2
+Dated                                                  Signature
+      IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+
+                                                      )
+In the Matter of the Application                      )       Case No. CR29-
+For a Search Warrant for:                             )
+                                                      )       SEARCH WARRANT AND
+AT&T                                                  )       ORDER AUTHORIZING
+11760 U.S. Highway 1, Suite 300                       )       INSTALLATION AND/OR
+North Palm Beach, FL 33408-3029                       )       USE OF A PEN REGISTER,
+                                                      )       TRAP AND TRACE DEVICE
+
+                                                      )       AND
+                                                      )       NON-DISCLOSURE ORDER
+                                                      )       PURSUANT TO IC. 18-6722
+MPD Case No. 22-M09903
+
+TO:     ANY PEACE OFFICER AUTHORIZED TO ENFORCE OR ASSIST IN
+        ENFORCING ANY LAW OF THE STATE OF IDAHO.
+
+Brett Payne, having given me proof, upon oath, this day showing probable cause establishing
+
+grounds for issuing a search warrant and probable cause to believe there are records related to
+
+the crime(s) of homicide at 1122 King Road, Moscow, Idaho and are currently under the
+
+control of AT&T for historic call detail records for the telephone number 509-592-8458
+
+with cell sites for all voice, sms, and data connections between June 23, 2022, to present,
+
+to include:
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                        1
+              Subscriber or Registration Account Information, including subscriber or
+              registered user name or identity, address, billing/payment information;
+              account initiation date; type of account; custom account features; additional
+              phone numbers; addresses (both physical and electronic) and/or other
+              contact information; additional persons having authority on the account; any
+              additional accounts linked to the subject account; account changes for the
+              target address and any linked accounts; and
+
+              Device Identifying Information for the device using the target address, such
+              as phone number, MAC address, IP address, and other unique hardware and
+              software identifiers; and
+
+              Usage and Location Information, including stored and transactional records
+              for all voice, sms and data connections such as inbound and outbound call,
+              message, radio or other communication detail data, together with date and
+              time of each communication; including positioning information such as
+              GPS longitude/latitude or multilateration or precision location, historical
+              and prospective cell site location information (CSLI), or other information
+              tending to reveal the proximate or precise location of the device associated
+              with the above-identified target address; E911 data for the target address;
+              and, for internet communications, detail such as IP address, Port, Socket
+              Address, VoIP address, routing information; the address(es) from which the
+              communication is made, conducted, and terminated; non-content text or
+              email, header, IP address; and other non-content information; and
+
+              such as cell site positioning information, GPS longitude/latitude or
+              multilateration or precision location (including RTT and LocDBoR reports
+              or similarly generated location information), Timing Advance and/or True
+              Call or other information tending to reveal the proximate or precise location
+              of the device associated with the target address; E911 data for the target
+              address; and
+
+              Physical address of cellular antenna towers used by the customer's device,
+              together with RF coverage map(s) and/or satellites contacted or used by the
+              above-identified customer/number/account(s)/device(s), and periods of
+              telephone activation, session times, duration, and the identity of any
+              temporarily assigned network addresses; and
+
+               subscriber identity information for customers who contact or are contacted
+               by the device using the target address;
+
+located at the following premises:
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                      2
+AT&T
+11760 U.S. Highway 1, Suite 300
+North Palm Beach, FL 33408-3029
+
+
+        You are therefore commanded to search the above-described premises for the property
+
+described above, to seize it if found and bring it promptly before the court above named. This
+
+warrant shall be executed within   14    days of issuance, and is authorized for daytime and
+
+nighttime service (pursuant to Idaho Criminal Rule 41, "daytime" means the hours between
+
+6:00 a.m. and 10:00 p.m. PST).
+
+
+
+        FURTHER, there is probable cause to believe that use of a pen register and/or trap
+and trace device will lead to law enforcement acquisition of real time pen register and/or
+                                                                                             trap
+
+and trace information, and that this information would be evidence related to the
+                                                                                    crime(s) of
+
+homicide which are currently under the control of AT&T. The court finds that Brett Payne,
+
+investigating officer, and Ashley Jennings, Senior Deputy Prosecutor, has certified to the
+
+court that the information likely to be obtained by such installation and use is relevant to
+
+an ongoing criminal! investigation.
+
+
+       Pursuant to ILC. 18-6722(2) the Court finds that the identity of the person to whom
+
+the phone is leased or in whose name is listed to the telephone line to which the
+                                                                                    pen
+
+register or trap and trace device is to be attached is Bryan Kohberger; the identity of the
+
+person who is subject of the criminal investigation is Bryan Kohberger who resides at
+
+                                      Pullman, WA; the phone number is 509-592-8458 and
+
+the physical location of the phone is currently Albrightsville, Pennsylvania; the phone's
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO IC. 18-6722                        3
+service provider is:
+
+
+AT&T
+11760 U.S. Highway 1, Suite 300
+North Palm Beach, FL 33408-3029
+
+
+        The geographic limits of the trap and trace order are the United States and U.S.
+
+Territories.
+
+        IT IS HEREBY ORDERED pursuant to ILC. 18-6722 that the above-identified
+
+investigators and investigative agency/agencies are authorized to install and use a pen register
+
+to register, filter, record and decode electronic or other impulses, including, but not limited to
+
+
+dialing, routing, addressing, signs and signaling information, or other impulses that together
+
+with date time and duration identify the numbers dialed, electronic mail addressing or routing
+
+information, email address, IP address and/or other non-content information otherwise
+
+transmitted from the target address; and information tending to identify the device using the
+
+target address including any other unique identifiers for the device, including the information
+
+referenced above; and
+
+
+        IT IS FURTHER ORDERED pursuant to I.C. 18-6722 that the above-identified
+
+investigators and investigative agency/agencies are authorized to install and use a trap and
+
+trace device to trace, identify, register, filter, record and decode electronic or other impulses,
+
+
+including, but not limited to dialing, routing, addressing, signs and signaling information, or
+
+other impulses that, together with date time and duration, identify the numbers dialed,
+
+electronic mail addressing or routing information, email address, IP address and/or other non-
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                          4
+content information otherwise transmitted to the target address, or other impulses that identify
+
+the originating numbers or digital addresses from which a wire or electronic communication
+
+is transmitted; and, if known, the customer or user name or identity associated with the
+
+
+device, number or address sending communications, signals, messages, or other electronic
+
+impulses to the above-identified target address, from any location within the United States;
+
+and
+
+
+        IT IS FURTHER ORDERED based upon probable cause, that the above-identified
+
+service provider, investigators and investigative agencies are authorized to use a cell site
+
+simulator in connection with the target address; and that any cell site simulator device may be
+
+used in any geographic area necessary to locate the device using the target address in real
+
+time; and that the above-listed service provider and any other person served with this order
+
+shall, upon request by law enforcement, assist by providing, on a 24-hour basis the listed
+
+investigative agency with all information tending to reveal or to lead to learning the location
+
+of the device using the target address, including positioning information such as GPS
+
+longitude/latitude or multilateration or precision location, prospective cell site location
+
+information (CSLI), or other information tending to reveal the proximate or precise location
+
+of the device associated with the target address, including positioning information such as
+
+GPS longitude/latitude or multilateration or precision location, prospective cell site location
+
+information (CSLI), or other information tending to reveal the proximate or precise location
+
+of the device associated with the target address; and
+
+
+       IT IS FURTHER ORDERED that, for purposes of this order, the terms "cell site
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                         5
+simulator" and "cell site simulator data" include pen register and trap and trace, and data
+
+derived from pen register and/or trap and trace for the target device, as those terms are defined
+
+by LC. 18-6719 and also includes real time location information collected by a law
+
+enforcement operated cell site simulator device and/or by a service provider when, at law
+
+enforcement request, the provider deliberately seeks to locate the target device, to the extent
+
+the terms or technology overlap.
+
+
+        IT IS FURTHER ORDERED that the above listed service provider and any other
+
+person served with this order shall furnish agents of the above-identified investigative
+
+agency/agencies forthwith all information, facilities, and technical assistance necessary to
+
+accomplish the installation and/or operation of the pen register, trap and trace, and cell site
+
+simulator, and search of their facilities and records unobtrusively and with minimum
+
+interference to the services accorded persons with respect to whom the installation and/or use
+
+is to take place; and upon request from law enforcement and for the duration of this warrant;
+
+AT&T will provide all RTT reports.
+
+        IT IS FURTHER ORDERED that this Order shall apply to, and the definition of
+
+target address shall include, any other account, target address, network, hardware or software
+
+identity or other unique device identifier, to which the target address has changed for the two
+
+months preceding the signing of this order through the end date of the authority granted
+
+
+pursuant to this order; and
+
+
+        IT IS FURTHER ORDERED, that investigators and service providers are authorized
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                         6
+    to continue using the tools and techniques authorized by this order during any time that the
+
+    devices being monitored enter private property; and
+
+
+            IT IS FURTHER ORDERED that the investigators and investigative agencies using a
+
+    cell site simulator shall take all steps necessary to limit collection of any information or
+
+    metadata to the target address; take all steps necessary to permanently delete any information
+
+    or metadata collected from any party not specified in this order immediately
+                                                                                    following its
+
+    collection; and must not transmit, use, or retain such information or metadata for any purpose
+
+    whatsoever; and must delete any information or metadata collected from the device using the
+
+    target address within thirty days if there is no longer any probable cause to support the believe
+
+    that such information or metadata is evidence of a crime.
+
+
+           IT IS FURTHER ORDERED that the listed service provider and any other person or
+
+    entity providing assistance be compensated by the above-identified investigative
+
+    agency/agencies for reasonable expenses incurred in complying with this Order; and records
+
+    and information provided pursuant to this order should be provided in a commercially-
+
+    reasonable electronic format and delivered forthwith via electronic mail as specified by the
+
+    law enforcement officer serving this Order.
+
+
+           IT IS FURTHER ORDERED that this Order is effective on December 23, 2022 at
+
+4:53 pm PST     to be completed no later than     February23,2023             at the same time of
+
+    day.
+
+
+           IT IS FURTHER ORDERED pursuant to I.-C. 18-6722(4)(a) this order will be sealed
+   SEARCH WARRANT
+   AND ORDER FOR A
+   PEN REGISTER ORA
+   TRAP AND TRACE DEVICE
+   AND NON-DISCLOSURE ORDER
+   PURSUANT TO LC. 18-6722                          7
+until otherwise ordered by the court; and
+
+
+        IT IS FURTHER ORDERED pursuant to I.C. 18-6722(4)(b) that the service provider
+
+to whom this order is addressed, or any other person served with this order, are prohibited
+
+from giving notice of the existence of this order to any person, including the subscriber or
+
+customer to whom the target address relates, except that the service provider may disclose the
+
+order to its legal counsel for purpose of receiving legal advice.
+
+
+GIVEN UNDER MY HAND and DATED this 23rd                             day of December, 2022, at
+        :                         .m.
+
+
+
+                                                        Magistrate Judge
+
+
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO I.C. 18-6722                        8
+                                                    STATE'S EXHIBIT
+
+
+
+                                                                                     CR01-24-31665
+                                                                               S-5
+                  REPRINT
+             STORE COPY
+                   Corner Club
+                    Hoscow, ID
+Date: 11/13/2022 12:22 AM          Check #: 00671
+Station: 211                        Server: Chase
+Reprint Date: 11/14/2022 09:35 AM
+Reprint Station: 2T1
+Reprint Server: Marc
+Tab: Goncalves Kaylee          J
+Card Mumtber: XXXXXXXXXXXX0687 (Visa)
+Account Nane: Goncalves Kaylee         J
+Authorization: (002145)
+
+
+
+
+                                                                      000264
+Trans Type: Swipe
+  9 Well Vodka                              27.00
+  2 Add Juice                                0.50
+  1   $4.00 Pint                             4,00
+                   Sub Total                31.50
+                           Sales Tax         1.90
+                   TOTAL                    33.40
+            TIP                              6.60
+           CHARGE                           40.00
+  Goncalves Kaylee         J
+             STORE COPY
+                   REPRINT
+                                                                                               2022R00573 - 022
+
+
+
+
+                            CERTIFICATION UNDER RULE 902(11)
+                              FEDERAL RULES OF EVIDENCE
+
+
+       L           cue     Trine(                                   declare that I am employed by
+                              Name (Printed)
+
+
+                  Coste,              Wholesale
+                                               (Company/Entib)
+
+
+which has designated me as the duly authorized Custodian of Records for the accompanying
+document(s).
+
+      I hereby certify that the accompanying documents are authentic copies/photocopies of:
+
+                      Videos          Seve: lance
+
+
+
+documentsof      Video        Serve tla                                   , and that these document(s):
+
+
+
+      a.       Were made at or neat the time of the occurrence of the matters set forth by, or
+               from information transmitted by, a person with knowledge of those matters;
+
+
+      b.       Were kept in the course of the regularly conducted activity of; and
+
+               Were made by the regularly conducted activity as a regular practice.
+
+      I declare under penalty of perjury that the foregoing is true and correct.
+
+Executed on Dezembee 2G,                   «at
+                                                  City and, State
+
+
+                 STATE'S EXHIBIT
+                                                  Signature
+                         S-6
+                      CR01-24-31665
+
+                                                  Title
+
+
+
+
+                                                  Telephone Number
+STATE'S EXHIBIT
+
+      S-7
+   CR01-24-31665
+                                                                                                       2
+
+
+
+           o   Ifthere is anyone in the trailer, they should be moved out and questioned: does she
+               have kids?
+   e   I should gather the following information in my notes as the investigation commences,
+       which will later be included in my preliminary (case) report when the details of the case
+       culminate:
+           o The offense, the time of day, date and approximate time of offense if known,
+               identification of the victim, the location of the offense, the method of operation if
+               known, and the identification of the officer.
+          o    Since the offender was not there, I would be unable to record this information
+                initially, and the specifics of the crime won't be known until confirmed by the
+                crime lab.
+           © Getting the approximate time is important and can be indicated by rigor mortis
+                (which sets in at about 12 hours) or putrefaction (about 10-20 days).
+   e   All this information will aid me as I attempt to reconstruct the scene of the crime based on
+       the evidence location in relation to its former known position.
+
+Equipment I will have on hand for the investigation
+   e   To be prepared for crime scene investigation, I must ensure I have a crime toolkit
+       containing the following:
+          o A35 mm camera or digital camera capable of videotaping with an adequate supply
+               of film and power.
+          o    A portable lighting system to ensure quality photographs, and that I do not miss or
+               step over any evidence.
+               Assorted steel tape measures that can reach at least 25 feet.
+               A ruler or other measurement marking devices.
+               Latent fingerprinting equipment.
+               Gloves to protect the scene from contamination, this will enable that I avoid
+               leaving my latent fingerprints.
+          o    Forceps and small tweezers and a pair of scissors.
+           o   A small saw to take evidence: for example, drywall.
+           o   Filter paper or small swabs for liquid evidence or trace evidence.
+           ©   Various evidence containers for liquid and solid evidence.
+               Paper envelopes for physical evidence.
+               Evidence tape to seal off the evidence containers.
+               Casting material to take molds of possible footprints around the perimeter with a
+               rubber container for the mixture.
+           o   A magnifying device should be kept.
+           o   Crime-scene tape for the scene.
+           o   Protective clothing: boot covers, eyewear, fiber free overalls, face masks, hair nets,
+               gowns, and anything that will prevent me from contaminating the scene with things
+               I bring in with me.
+
+
+
+
+                                                                                               PMaSalac nnnnn2a
+                                                                                                      11
+
+
+
+           o   Ifthe evidence is taken out of the locker at the police department, it must be
+               recorded who did so and why they did so.
+   e   The knife, misshapen wire coat hanger, and any physical, biological, or trace evidence
+       found must be accounted for, bagged and sealed, and then kept in an evidence locker.
+   e   Her bloody clothing should be examined as well, but this would infer that she must be
+       moved and have items of clothing removed; this is something the forensic crime scene
+       processing unit should do.
+   e   Ifshe had a cellphone or computer nearby, this shouldbe described, logged, and
+       transported to the digital forensic lab for digital forensic examination.
+              Did she communicate with anyone?
+              Did this communication indicate a conflict?
+               Did her husband or boyfriend contact her?
+               Did anyone else contact her?
+               This may help investigators look in the right direction if things turn out to be not
+               so obvious; again, we can't assume it was the husband or boyfriend just because
+               there may have been a history of domestic violence or a PFA, despite this being
+               very common. Also, she may have children's furniture for her nieces or nephews,
+               so we can't even assume that she had kids.
+   e   When moved, all items will have inventory receipts which document the movement for the
+       chain of custody form.
+   e   All of this is for the accountability and integrity of the evidence, and thus the proper
+       outcome of the criminal investigation.
+           o Failing to do so leads to injustice- there can be a very clear link between victim and
+               offender, but if this is not accounted for via chain of custody, then it will be
+               inadmissible.
+
+Outreach to other agencies and immediate elements of the investigation
+   e   A  lot of these inquiries would occur concurrently with the crime-scene investigation.
+   ©   Does she have kids? The county records office should give us this information.
+   e   Ifso, the welfare of the children should be ensured: we are aware that there are disheveled
+       items of children's furniture around, but where are the kids?
+            o Calls to be made to all family members of the deceased would help narrow down
+               locations.
+   e   Calls to the clerk of courts office to see if there is   a   PFA out on the husband or boyfriend
+       should be made.
+   e   The husband or boyfriend of the deceased woman should be contacted to establish an alibi-
+       he needs to be immediately located and questioned.
+   e   The kids should be located as soon as possible, and an amber alert should be set if they are
+       not accounted for: does their father even have rights to see the kids under normal
+       circumstances and did he take them?
+   e   Neighbors should be questioned to see if the father was around, or if any suspicious
+       person was present.
+
+
+
+
+                                                                                                   RNaSalac NANNNAR
+                                            IN RE GRAND JURY
+
+                                                               COMPLIANCE
+
+
+
+STATE OF
+
+County rd
+
+        1,      undersigned,                                                             Goo, Mag first duly
+ewine, depose and aay, inview peunlly if| peggy, (hed Trams tiie
+                                                4                                             bee Mee          ie
+
+court;            the r            subunitted         swith,
+
+setheutic ORIGINALS/COPIEA                          unv) ufall he documanis sequested, that buy Loustitats [Ll]
+
+oomplian = with the       erent of the                         thet                  bes heen withheld aml that 1
+
+      iets! and            the search fie sald reoveds Dy soaring                  for   Trant
+    aS       faquested.
+
+
+
+                                                                            dad,
+                                                                           Sig alin
+                                                                           Meo           of
+                                                                           Title
+
+                                     SWORN TO before me this
+
+
+
+
+                of Pennsytvania Notary
+                                                                      Notary
+     BhereeA. Parente, Notary Public                                  My
+            Beaver County
+    My            expires July 2025
+       Commission number 1125429
+ Marabe: , Pouneyivarie Aseuciation of
+
+
+
+
+                                                                                                           STATE'S EXHIBIT
+
+                                                                                                                    S-8
+                                                                                                                CR01-24-31665
+                     b26010
+ we
+o aac)
+
+
+
+
+         STATE'S EXHIBIT
+
+               S-9
+            CR01-24-31665
+DocuSign Envelope ID:                         1C-2696F3F57676
+
+
+
+
+                        CERTIFICATE OF AUTHENTICITY OF BUSINESS RECORDS OF REGULARLY
+                                         CONDUCTED BUSINESS ACTIVITY
+
+                        I,
+                                    Kelsey Pierson       do hereby certify that (1) am the Custodian of
+              Records  of or am otherwise qualified to administer  the records for DoorDash, and (2) the
+              attached records (a) are true and correct copies of records that were made at or near the time
+              of the occurrence of the matters set forth by, or from the information transmitted by, a person
+              with knowledge of these matters; (b) were kept in the course of regularly conducted activity; and
+              (c) were made and kept by the regularly conducted business activity as a regular practice.
+
+                        |    declare under the penalty of perjury that the foregoing is true and correct.
+
+
+
+              Signature of Declarant
+
+                Kelsey Pierson
+              Printed Name of Declarant
+
+                DoorDash Law Enforcement Response Representative
+
+              Title
+
+               November 23, 2022
+
+              Date
+
+
+
+
+                                                                 011434
+LATAH COUNTY PROSECUTOR'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+(208) 883-2246
+ISB No. 2613
+paservice@latahcountyid.gov
+
+
+    IN THE DISTRICT COURT OF THE SECOND JUDICIAL                                     THE
+
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF LATA
+
+
+IN THE MATTER OF IMPANELING A
+GRAND JURY IN THE
+                                                    Grand                  29-23-4
+
+LATAH, STATE OF IDAHO                               AFFIDAVIT OF
+                                                    Svawwod                Gueskl
+
+                           1,                   being duly sworn do herby ste the
+
+following information is true and correct to the best of my knowledge and belief:
+
+      (1)     Tamemployedass        (4x3 nee                                  byE&S
+
+              Services, a business, located at 1300 Johnson Ave., Pullman, Washington,
+
+                  I    a custodian of records of that business.
+
+      (2)     Video       provided from the video          located at E&S Services to law
+
+              enforcement and       made at the time ofwhat is depicted.
+
+
+      (3)     The video      kept by E&S Services in their regular           of business
+
+              within the meaning of LR.E. 803(6) and 902(11).
+
+      (4)     The video      made    a regutar practice of the business;
+
+      (5)     The video equipment        in good working order when the video
+
+              provided;
+
+AFFIDAVIT 1
+
+
+
+
+                                                                                            STATE'S EXHIBIT
+
+                                                                                                S-10
+                                                                                               CR01-24-31665
+          (6)     The datc November 13, 2022, is accurate.
+
+          (6)     The approximate time of 5:25 a.m. is accurate.
+
+          I declare under penalty of perjury pursuant to the law of the Statc of Idaho that the
+
+  foregoing is truc and correct.
+
+         DATED this                ofMay, 2023.
+
+
+
+
+AFFIDAVIT 2
+FORM CD-64
+{REVISED By
+DAO. 201-17
+
+
+                                 U.S. DEPARTMENT OF COMMERCE
+                                               Asheville, N.C.
+
+
+              I CERTIFY that the attached are authentic and true copies of
+              meteorological records on file at the NATIONAL CENTERS
+              FOR ENVIRONMENTAL INFORMATION, ASHEVILLE,
+              NORTH CAROLINA.
+
+
+                                                  QD
+                                          NANCY A. RITCHEY
+                                         RECORDS CUSTODIAN
+                                         DATA ADMINISTRATOR
+                                                (Official Title)
+
+
+              I HEREBY CERTIFY that NANCY A. RITCHEY, RECORDS
+              CUSTODIAN, who signed the foregoing certificate, is now, and was at the
+              time of signisg, DATA ADMINISTRATOR, NATIONAL CENTERS
+              FOR ENVIRONMENTAL INFORMATION, and that fall faith and
+              credit should be given this certificate as such. I further state that I am the
+              person to whom the said custodian reports.
+
+                                 IN WITNESS WHEREOF, I have hereunto
+                                 subscribed my name and caused the
+                                 seal of the Department of Commerce
+                                 to be affixed
+                                 on this date MAR 1 3 2025
+
+                                 For the SECRETARY OF COMMERCE:
+
+
+
+
+                                              DEREK ARNDT
+                                            DIRECTOR
+                                      NATIONAL CENTERS FOR
+                                   ENVIRONMENTAL INFORMATION
+                                             (Certifying Officer)
+
+
+
+
+                                                                                          STATE'S EXHIBIT
+                                       016187
+                                                                                                S-11
+                                                                                               CR01-24-31665
+                   U.S. DEPARTMENT OF COMMERCE
+                                 Askeville, N.C.
+
+
+I CERTIFY that the attached are authentic and true copies of
+meteorological records on file at the NATIONAL CENTERS
+FOR ENVIRONMENTAL INFORMATION, ASHEVILLE,
+NORTH CAROL INA.
+
+                                    q Debs
+                            NANCY A. RITCHEY
+                           RECORDS CUSTODIAN
+                           DATA ADMINISTRATOR
+                                  (Official Title)
+
+
+I HEREBY CERTIFY that NANCY A. RITCHEY, RECORDS
+CUSTODIAN, who signed the foregoing certificate, is now, and was at the
+time of signing, DATA ADMINISTRATOR, NATIONAL CENTERS
+FOR ENVIRONMENTAL INFORMATION, and that full faith and
+credit should be given this certificate as such. I farther state that I am the
+person to whom the said custodian reports.
+
+                   IN WITNESS WHEREOF, I have hereunto
+                   subscribed my aame and caused the
+                   seal of the Department of Commerce
+                   to be affixed
+                   on this date:     FEB 2 4 2025
+
+                   For the SECRETARY OF COMMERCE:
+
+
+
+
+                                DEREK ARNDT
+                             DIRECTOR
+                        NATIONAL CENTERS FOR
+                     ENVIRONMENTAL INFORMATION
+                               (Certifying Officer)
+
+
+
+
+                         016174
+                                        CERTIFICATION
+
+
+
+
+|        Melissa LaForce, hereby certify that, to the best of my knowledge, information,
+and belief:
+
+    1.    1   am a Records Custodian for PNC Bank, National Association, a national
+          banking association ("PNC").
+
+2.        As a Records Custodian, my responsibilities include identifying and
+          authenticating records of PNC.
+
+3. Attached to this certification is a record(s) of PNC ("Record(s)"), further identified
+          in the attached inventory.
+
+4. The Record(s) was made at or near the time of the occurrence of the matters
+   set forth by, or from information transmitted by, a person with knowledge of
+   those matters (subject to. any redactions have made relating to certain
+                                                        |
+
+
+
+
+   Personal Identifiable Information); was kept in the course of a regularly
+   conducted activity; and was made by the regularly conducted activity as a
+   regular practice of PNC.
+
+    5.    |   declare under penalty: of perjury that the forgoing is true and correct.
+
+
+    Date:       5/16/2023
+
+
+
+
+    Records Custodian
+
+
+
+
+                                                                                         STATE'S EXHIBIT
+
+                                                                                             S-12
+                                                                                            CR01-24-31665
+LATAH COUNTY PROSECUTOR'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+(208) 883-2246
+ISB No. 2613
+
+
+
+    IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+             STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+
+ IN THE MATTER OF IMPANELING A                        Grand Jury Case No. 29-23-4
+ GRAND JURY IN THE COUNTY OF
+ LATAH, STATE OF IDAHO                                AFFIDAVIT OF
+                                                      GARY ANDERSON
+
+
+       I, Gary Anderson, being duly s      do hereby state the following information is true
+
+and correct to the best of my knowledge and belief:
+
+      (1)    Tam employed       a Manager by Sunset Mart, a business, located at 1455 SE
+
+             Bishop Blvd., Pullman, Washington,        I    a custodian of records of that
+
+             business.
+
+      (2)    Video was provided from the video             located                  to law
+
+                               was made at the time ofwhat is depicted.
+
+      (3)    The video       kept by Sunset Mart in their regular          of business within
+
+             fhe meaning of 1.             and 902/11),
+
+
+      (4)    The video       made    a regular practice of the business;
+
+      (5)     The video equipment        in good working order when the video
+
+              provided;
+
+AFFIDAVIT
+
+                                                                                         STATE'S EXHIBIT
+
+                                                                                                 S-13
+                                                                                                CR01-24-31665
+       (6)     The date, November 13, 2022, is accurate.
+
+       (7)     The approximate times of 5:25 a.m. are accurate.
+
+       I declare under penalty of perjury pursuant to the law of the State of Idaho that the
+
+foregoing is true and correct.
+
+       DATED this                day of May, 2023.
+
+
+
+
+                                               Gary Andefson
+
+
+
+
+AFFIDAVIT                                       2
+         - -
+               Mobile                      -
+
+        metro by          -
+                              Mobile -
+Law Enforcement Relations
+4 Sylvan Way, Parsippany, NJ. 07054
+Phone: (973)292-8911 Fax: (973) 292-8697                                                                                    November 18, 2022
+
+T-Mobile / MetroPCS Tracking ID: 4116581
+
+
+I, Roger Santos, attest, under penalty of perjury under the laws of the United States of America pursuant to 28 U.S.C. Section 1746, that
+the information contained in this declaration is true and correct.   am a United States citizen and am over eighteen years of age.
+Iam employed by T-Mobile US, Inc. (hereinafter, "the Company") as a custodian of records and therefore am qualified as a result
+of my position to make this declaration. My official title is Custodian of Records.
+
+I certify that al1 of the records described below and attached hereto are duplicates of the original and are true and complete copies of
+records maintained by the Company. Said records consist of several electronic files produced in T-Mobile US, Inc. Case No.4116581
+in response to a lawful request issued to the company.
+
+
+
+Description of records:
+
+                   Identifier                         Start Date                         End Date                              Requested Item
+
+        782                              08/01/2022                        11/16/2022                           Call Details With Ced Sites
+
+        818                              08/01/2022                        11/16/2022                           Call Details With Cell Sites
+
+        782                              08/01/2022                        11/16/2022                           Data Sessions With Cells
+
+        818                              08/01/2022                        11/16/2022                           Data Sessions With Cells
+
+        782                              08/01/2022                        11/16/2022                           Subscriber Info
+
+        B18                              08/01/2022                        11/16/2022                           Subscriber Info
+
+        782                              08/20/2022                        11/16/2022                           Timing Advance
+
+        818                              08/20/2022                        11/16/2022                           Timing Advance
+
+
+
+I further state that:
+
+  A) Such records were made at or near the time of the occurrence of the matters set forth by (or from
+     information transmitted by) a person with knowledge of those matters;
+  B) Such records were kept in the course of regularly conducted business activity;
+  C) The business activity made such records as a regular practice; and
+  D) If such record is not the original, such record is a duplicate of the original.
+With regard to Timing Advance Records, I further state that:
+  E)The records are complete and accurate as of today's date. Due to the complexities of telecommunications networks, the
+     information contained in Timing Advance records may be subject to change.
+
+
+This certification is intended to satisfy Rules 803(6), 902(11), 902(13) and / or 902(14) of the Federal Rules of Evidence and / or any state
+equivalents.
+
+
+I hereby certify that the foregoing statement made by me is true. I understand that if any of the statements made by
+me herein are willfully false, I am subject to punishment.
+
+
+                                                                                                    Sincerely
+
+
+
+                                                                                                    /s/ Roger Santos
+                                                                                                    Law Enforcement Relations Group
+                                                                                                                              STATE'S EXHIBIT
+
+                                                                                                                                                 S-14
+                                                                                                                                                CR01-24-31665
+3/20/25, 4:52 PM                                                           Certification of records NJ conformed copy sesig.html
+                                                                                                                                                                  VZ Logo!
+
+
+                                                                                                                                       VERIZON SECURITY COMPLIANCE
+                                                                                                                                         180 WASHINGTON VALLEY ROAD
+                                                                                                                                                    BEDMINSTER NJ 07921
+                                                                                                                                       Phone: 800-451-5242 Fax: 888-667-0028
+
+  November 17, 2022
+
+
+  POLICE DEPT MOSCOW
+  118 E 4TH ST
+  MOSCOW ID 83843
+
+
+  Verizon Case #: 22503528
+  Docket / File #: n/a
+
+  State of New Jersey
+
+  Ss:
+
+
+  County of Somerset
+
+
+  I, RYAN FLATLEY, being duly swom, depose and say:
+
+  I am the custodian of records for Verizon, and in that capacity, I certify that the attached records are true and accurate copies of the records created
+  from the information maintained by Verizon in the actual course of business. It is Verizon's ordinary practice to maintain such records, and that said
+  records were made contemporaneously with the transaction and events stated therein, or within a reasonable time thereafter.
+
+
+
+  /s/ RYAN FLATLEY
+
+
+  Certification following USCS Federal Rules of Evidence Rule 902 & 803.
+
+
+
+
+                                                                                                                                   STATE'S EXHIBIT
+
+                                                                                                                                         S-15
+                                                                                                                                      CR01-24-31665
+
+
+
+ file:///C: /Users/ajennings/AppData/Local/Temp/c3a0b1 bd-78c1-4be6-a879-514c1ca5007a_22503528 .zip.07a/Certification of records NJ conformed
+                                                                                                                                                             co...             1/1
+MTN         MIN       DEVICE_ID      DEVICE_ID_TYPE DEVICETYMTNLSTATUS MINSTATUSEFF_DATE MTN_EFFECTIVE_DATE MEI   MFG_NAM EQP_NAME
+        1         1               se" IC            4GE      A                    6/17/2019         8/29/2011     ApplePHONE XR REO 64G8
+      841         3                   icc         SGE     OA                      66/2021         10/27/2016              IPHONE 12 PRO MAX 128 GRAPH
+                      235°            ico                 A                      325/2021          8/10/2014                         PRO 128 GRAPH
+                        I certify that this is a copy of a
+                        record on file with the Department of
+                        Licensing of the State of Washington.
+
+                        Romi Walia, Rant teks
+                        Forms and Records Analyst 3
+                        Place: Tumwater, Weahington
+
+
+
+                                                                  Title/Reg Coversheet
+
+11/18/2022 12:26:58 PM
+pgunn3810                            9999020029324563                                                       Letter ID:        L0188167810
+103810 - Pullman Vehicle Vessel Licensing, Inc.
+
+              Mod Yr                Make                   License Plata            Made!             Vehicle Ident (VINYSenal no
+              2015                 HYUN                         CFB8708           ELANTRA                SNPDH4AE6FH579860
+
+
+         Ragistered Owner Name(s)                                                  Legal Owner Name(s)
+         KOHBERGER, BRYAN, C.
+
+         Registered Owner Address                                                  Legal Owner Address
+
+
+
+         Registered Owner Mailing Address                                          Activity Type
+                                                                                   Original Vehicle
+
+
+         Special Ownership Condition                                       Reason Code                             Driver License JdExemption
+                                                                                                                   No
+
+
+         JTWROS                              Leased                        Purchase Type                           Address Exemption
+         No                                  No                            Same Owner Out of State
+                                                                                      -
+
+
+
+
+         Emissiong Exemption                                               Odometer Code                           Odometer
+         Not Applicable - Mileage over 7,500 miles                         Actual Mirage                           115000
+
+
+         Prior Tite #                        Prior Title State             Use Tax Exemption                       Fea Exemption
+         76181972506                         PA
+                                                                   ~
+         Quick Title
+         No
+
+
+
+
+                                                                                                                               STATE'S EXHIBIT
+
+                                                                                                                                     S-16
+                                                                                                                                    CR01-24-31665
+        PATI ute STATE DIPAR TIENT OF
+        LICENSING                                                        Vehicle Title Application                                                         Permit number
+
+Vehicle Please type or print plainly
+             -
+                                                                    Lease_        Plate transfer_     number:                  Title purposes only_
+Vehicle identification no (VIN)                                    ndition                Vehicle type                Use type                                 Fuet type
+SNPDH4AE6FH579860                                                                         Automobile                  Passenger Vehicle                        Gasoline
+                                                                -NewX        Used                           rim
+Model year [Make                                              Model                                                   Bodyf Style                                     otorcycle style
+12015      HYUN                                               ELANTRA                                       E           edan
+GV Weight Rating [Scale wt                      ross weight        GWT         [Seats   Trl axes Color #1                  Color #2                        Equip no      Purchase pr ce
+                           2,773                                                                 WHITE                                                                              $0
+        Is           no     Fleet                Eng      (MC)     [Motor homelGycleWATV eng serial no             ength         th      uick tite           iscover pass Park donation
+                                                                                                                                            XNo                 XNo              ANo
+Registered owner For additional owners, attach sheet with name, driver ficense/ID/TIN/EIN/UBI number, expiratron date, and phone
+                             -
+
+
+
+
+information. Washington primary residence street address or Washington principal place of business street address Is required on the vehicle
+record. For exceptions, see Primary Residence Address Exception, form 420-004.
+          r type         ID type             D                                 Expiration date          Phonie type
+ 1                                  A DLN/ID                                                                                          Cell Phone
+      Registered
+Registered owner full name (Last, First, Midd e, Suff x or Bus ness name
+KOHBERGER, BRYAN, C
+Wash ngton        mma      residence address           f an ndividua or Wash ngton pnnctpal place of business address (Ifa business)
+Mai ng address, f different than res dence address Street address or PO Box, City, State, ZIP code) or exception address
+
+
+     e-time mailing address, if applicable
+
+     nail address                                                                                   aperiess renewal option
+                                                                                                     _   Noti     me by email when it is time to renew my vehicle
+      Pune                          int Tenants w/ ROS                          Type             Dnver ficense/ID/TIN/EIN/UBI no [Expiration date                   Area code) Phone no
+ 2                               le
+                                  STWROS) X No
+Registered owner full name (Last, First, Middle, Suffix) or Business name
+
+
+Lega? owner/tienholder - Fill out if different than registered owner. For additional legal ownersfenholders, attach sheet with name, driver
+license/iD/TIN/EIN/UBI number, expiration date, and address information.
+       of legal owner/lienholder (Last, First, Middle initial or Business name)
+fens
+Lega! owner/Lienholder type                 jID type                     Driver license/ID/TIN/EIN/UBI no                Expiration date             ELT participant
+                                                                                                                                                                   XNo
+  ailing address (Street address or PO Box, City, State, ZIP code)
+
+
+Dealer
+Dealer type                                      ler no                                              Sale date           Delivery date         Vehicle status
+                                                          Dealer
+                                                                                                    20-Apr-2022                                      _   New    X Used Prevtitied
+                                        s
+! dcertify that this information correct. The vehicle 4s clear of                                           as shown.                        signature
+Any required sales tax has been cofected.
+Anyone who knowingly makes a false Statement may be guilty of a felony under stete law and upon conviction shail be punished by a fine,
+                                                              laws of the state of Washington that the foregoing is true and correct.
+
+                                                                                                  X
+                                                                             for business         Signature of registered owner                          Title, if signing for business
+
+
+ap     and place signed
+                                             Pound        NOE                                     Date and place signed
+Noterization/Certification          -
+                                        You don't need your signature notarized if you sign in front of a WA vehicle kcensing agent, who can certify your signature.
+
+                                              State of                                              County of
+
+                                               Signed or attested before me MOV              18 2022
+                                                                                                                  Name of erson signing this
+
+
+                                                                                                                        /Age          bagent sighature
+                                                                                                                                      Pegi Gunn
+                                                                                                                  Ponted or stamped name
+
+                                               Title                                           Agent        ang         $810-
+                                                                                                                  Dealer or county/office number or notary expiration date
+                                                                                                                  CERTIFICATE OF TITLE FOR A VEHICLE
+
+                                                                                                                                                                                                                                                               ::
+                                                                                                                                                                                                                                                           :
+
+
+                                                                                   ENBMNR     EGE 857
+                                                                                       VEHICLE IDENTIRCATION NUMBER
+
+                                                                                                                                                      7                        :                                                                               ::
+                                                                                           BODY TYPE                   our        SEAT GAP                TITLE STATE         DOM PROCD CATE
+
+                                                                                                                                                 7.
+    ACCEPT DOCUMENT WITHOUT VERIFYING THE PRESENCE OF THE LIBERTY BELL WATERMARK
+
+
+
+
+                                                                                                                                                                                                                               QDOMETER STATUS
+                                                                                                                                                                                                                   Oc ACTUAL MLEAGE
+                                                                                                                                                                                                                   1» MRLEAGE EXCEEDS THE MECHANICAL
+                                                                                                                                                                                                                   2c WOT THE ACTUAL 'MILEAGE:
+                                                                                                                                                                                                                   35 NOT THE ACTUAL MILEAGE OOOMETER
+                                                                                                                                                                                                                       TAMPERING
+                                                                                                                                                                                                                   4 @ EXEMPT FROM ODOMETER DISCLOSURE
+                                                                                                                                                      afth o                                                                     TITLE GRANDS
+                                                                                                                                                                                                                     As ANTIQUE VIDUCLE
+                                                                                                                                                                                                                     C     CASS
+                                                                                                                                                                                                                           COLLECTILE VENICLE
+                                                                                   BRYAN C KOHBERGERet                                                                                                                     OUTCF
+                                                                                                                                                                                                                           GRIGINALLY MPGD FOR HON
+
+                                                                                                                                                                                                                          AGRICULTURAL VEHICLE
+                                                                                                                                                                                                                      L = LOGGING VEHICLE
+                                                                                                                                                                                                                        0       A POLICE VEHICLE
+                                                                                                                                                                                                                         of
+a                                                                                                                                                                                                                    T
+a                                                                                                                                                                                                                    V     VEHICLE CONTAINS REISSUED Vie
+                                                                                                                                                                                                                     W     FLOOD VEHICLE
+                                                                                                                                                                                                                     X               A TAX
+                                                                                                                                                                        SECOND         FAVOR OF
+6
+
+
+
+                                                                                                                                                                        © @ second                  tsted upon               of the tugs ben, ihe inet
+                                                                                                                                                                                      forward tus           of Tile to the Bureats of Motor
+                                                                                   FIRST UEN RELEASED                                                                   the               and tee
+                                                                                                                                 DATE
+                                                                                                                                                                >
+                                                                                                                  AUTHORIZED REPRESENTATIVE                                                                                   DATE
+                                                                                                                                                                                         BY.
+                                                                                                                                                                                                          AUTHORIZED REPRESENTATIVE
+
+                                                                                                 BRYA         +
+
+
+
+
+                                                                                                                                                                                                                                             @
+
+                                                                                                                                                                                                                         pennsylvania
+                                                                                                                                                                                                                   OEPARTMENT OF TRANSPORTATION
+        DO NOT
+
+
+
+
+                                                                                            ag     hp ere         IQ               spony    the Penreyivena Nepertman                          YASSAIN GRANIAN P.E.
+                                                                                   of Trammportenen refiect inat the          or company named heran ts the lawl
+                                                                                   of the sald vende
+                                                                                                                                                                                                                           Secretary of Transportation
+                                                                                                                                                                              TO BE COMPLETED GY HURCHASEN          VEHICLE    SOLO ANDO [re
+                                                                                                                                                                              APPROPRIATE SECTIONS ON THE REVEASE SIDE OF THIS DOCUMENT ane
+                                                                                                                                                                              COMPLETED
+                                                                                                                                                                         tt a co-purchasor clher than your spouse s isted and you want the ttle to
+
+                                                                                   TO BEFORE                                                                             be bated as Jomt Tenants With Fight of Surworshp* (on death of one
+                                                                                                                                                                         Gener, tile goes to          owner) CHECK HERE 1 'Othervase,the  the              te
+                                                                                                                                                                         wall be           "Tenants    Commen' (on death of one owner,          of
+                                                                                                                                                                         deceased owne! 90ee to Ins/her hews or estate).
+                                                                                                                                                                         IF NO LEN, CHECK)          ems AN ELT?           YES, AN REQUIRED)      ves) wo)
+                                                                                                           iX PRESENCE OF A NOTARY
+                                                                                                                                                                         1ST LIENHOLDER FINANCIAL INSTITUTION NUMBER:
+
+                                                                                                                                   a                                     (ST WENHOLDER NAME
+
+
+
+                                                                                                                                                                                                                         STATE
+
+
+                                                                                                                             tr Contes of Tee © On views
+                                                                                                                                                                         IF NO 2ND EN, CHECK        Os THIS AN ELT? OF YES, FIN REQUIRED) ves One
+                                                                                                                                                                         2ND               FINANCIAL INSTITUTION HUMBER
+
+
+
+
+                                                                                                                                                                                                                         STATE
+             WASEINETEN STATE DEPARTMENT OF                               Odometer Disclosure /Title Extension Statement
+             LICENSING                                                                 Release of interest
+Use this form to disclose odometer information. For instructions on completing this form, see page 2.
+                     (uoense number                            Yoo                     Make
+
+
+ State or country where inat tied                                                                                                             Tite rasnber
+
+
+                                   Federal and state                the selter to disclose the mileage when ownership of the
+  >                                                          lawrequire
+
+
+                                   Failure to complete odometer statemnt or providina a                                      in fines and/or                                nment
+                                   foe     to the best of my knowledge, that the         reading, es shown below: Must check one )                                                  Date of Transfer
+                                                                                               115 the        mileage of the vehrie
+                                   >                                                           ? is in excete of te mecheniral lmits
+                                                   5
+             REGISTERED OWNER
+
+
+
+
+                                                                                   Tenths      3    not the artiel mileage, WARNING Ndnmeter tflerrapanty mists
+                                                                   in mites)
+ by
+
+
+
+
+                                                        must transfer title within 15 days of sale. This doss not epply to licen sed dealers.
+                                                                     that the                   heremn hes been sold to the follovang:
+   Olsei
+
+
+
+
+                                                                                                                            Signature of Traneferor/ Satter
+
+                                                                                                                            PRINT name of Transteror/ Seller
+
+                                                                                                                            Address of Transferor Seller
+                                              to             of my knowledge, that the                          shown below: (Must check one )                                      Date of Transter
+                                                                                               1  5 the actual mileage of the vehicle
+                                   >                                                           ? 15 in erase nf ita mechanical limite
+             VEHICLE DEALER only
+
+
+
+
+                                                                                   Tenths      3 in not the actual mileage WARNING Odometer                        ariste
+                                           Odometer
+ Reaasignment by
+
+
+
+
+                                   UWe warrant this Tile and certfy that the vehicle descnbed herein has been sold to the following
+
+
+                                   Signature of Transferee/ Buyer                                                           Signature of Transieror/ Seller
+
+                                   PRINT name of Transleree/ Buyer                                                          PRINT name of Transferor/ Seller
+
+                                   Address of Transteree/ Buyer                                                                           Translerod Seller
+
+
+                                   Buying dealer's state boense number (i! appkcable)                                       Setkng dealer's state license number
+                                   |   cartily, to the best of my knowledge, that the               reading, as shown below: Must check one.)                                       Date of Transfer
+
+                                   >                                                   No
+
+                                           Odometer
+                                   UWe warrant tins Tite and certfy thet the vehicle               herem has been sold to the follovang
+
+
+                                   Signature of Traneferee/ Buyer                                                           Signature of Transferor/ Seller
+
+               ©                   PRINT name of Transteree/Buyer                                                           PRINT name ot
+
+               >                   Address ot Transferee/ Buyer                                                                           Transferor/ Seller
+
+
+                                   Buying dealer's state hoense number (if applicable)                                      Sailing dealer's state license number
+
+                                   Legal owner/Henholder to be shown on new title
+                                   Name of legal ownerfienholder                                                            Address of legal ownerhenhoider
+
+                                   UWe release ail interest in the above described vehicle.
+
+                                   Signed                                                                                   Signed
+             RELEASE OF INTEREST
+
+
+
+
+                                   PRINT name                                                                               PRINT neme
+
+                                   Notarization/Certification for Release of interest
+                                   Release of interest for owners shown on the Certificate of Tie do not need to be notarized/certified when ttus is submitiad with the current fille.
+
+                                                                               State of Wastungton, County of
+
+                                                                               Signed or attested before me on                              by
+
+                                           (Seal or stamp)
+                                                                                                                                            Signature
+
+                                                                                                                                            Pnnited or stamped name
+                                                                                                                                            and
+                                                                               Title                                                              Dealer or county/olfice number or notary expiraton data
+                                           Page 1 of2
+
+                                                                                                             DOL copy
+                                                                                                                                                                               98- 2323265
+                                       Odometer Disclosure/Tit e Extension Statement
+                                                    Release of Interest
+An Odometer Disclosure Statement is required on all ownership transfers of motor vehicles that are less than ten years old,
+except for:
+    Vehicles with a declared gross weight of more than 16,000 pounds
+    Non-powered vehicles
+    Vehicles sold directly by a manufacturer to a federal agency, when in conformity with contract specifications
+    New vehicles before the first retail sale
+
+This form is:
+        valid only when submitted with the vehicle title or other approved ownership document during a title transfer.
+        not a title application.
+        not an ownership document.
+        not valid if applicable sections are not completed.
+
+Instructions for completing this form
+Section 1       Vehicle Information
+                  -
+
+
+
+        Enter the description of the vehicle, the state or country where the vehicle was last titled, and title number.
+Section 2         -
+                      Disclosure by Registered Owner
+   Transferor/Seller: Print the current odometer reading and check one of the boxes which represents the accuracy of the
+   odometer reading. You must record the date of transfer, sign the statement, and print your name and address.
+   Transferee/Buyer: Sign the statement and print your name and address.
+Section 3 Reassignment by Vehicle Dealer Only
+                  -
+
+
+
+
+   Transferor/Seller: Print the current odometer reading and check one of the boxes which represents the accuracy of the
+   odometer reading. You must record the date of transfer, sign the statement, and print your name, address, and dealer's
+   license number.
+   Transferee/Buyer: Sign the statement and print your name address, and dealer's license number.
+Section 4 Legal Owner/Lienholder
+                  -
+
+
+
+    Print the name and address of the lienholder or legal owne r to be shown on the new title.
+Section 5 Releasing Interest
+                  -
+
+
+
+   Owners releasing interest on this form must have their signatures notarized/certified. Owners releasing interest on the
+   title do not need to have their signatures notarized/certified if this form is submitted with the current title.
+
+
+Important information
+e       Odometer Reading: Enter the odometer reading in miles (do not include tenths of miles). If the odometer is in
+        kilometers, convert to miles using the following formula: Kilometer X .621.
+        (Example: 50,000 kilometers X .621 = 31,050 miles.)
+        Checkbox 2: If the mileage the vehicle has traveled is greater than maximum number of miles the odometer can show,
+        then the mileage has exceeded the odometer's mechanical limits. For example: If the odometer can register a maximum
+        of 99,999 miles, but the vehicle has traveled 120,000 miles, the actual mileage is in excess of the odometer's mechanical
+        limits.
+        Business Owners: If the seller or buyer is a business, the business name and a representative's name and job title are
+        required.
+        Out-of-State Title   Original Washington Application: there is no change of ownership, the registered owner
+                                   -
+
+
+
+        must complete the odometer disclosure as "buyer/transfer 2" (it is considered a transfer of title/registration from one
+        state to another). The registered owner may complete the Odometer Disclosure on the out-of-state title or on this form.
+        Registered owner is not required to complete both unless he designated area on the title is already full.
+
+Title 49 Code of Federal Regulations (CFR)
+RCW 46.12.655
+WAC 308-56A-640
+
+This document is a part of a Washington Certificate of Title and should be attached to the title. Unauthorized printing or
+reproduction of this document is prohibited. If altered in any way, contact a vehicle licensing office.
+
+
+
+
+TD-420-006 (R/11/49) Page 2 of 2
+    e
+                                                    as
+
+
+
+
+                                          STATE OF WASHINGTON
+                                DEPARTMENT OF LICENSING
+                                 PO Bax       +
+                                                  Olympie, Washington 96307-8030
+May 2, 2023
+
+The Information In this report pertains to the driving record of:
+
+Lic. #:                                                                  License issued: July 1, 2022
+BRYAN            CKOHB asic) 24                                          License Expires: November 21.
+                                                                          2027
+
+After a diligent search, our official record indicates that the status            November 13, 2022 was:
+Personal Driver License Status:                               Commercial Driver License Status:
+Licensed
+
+Miscellaneous Attachments:
+ ¢  Address History
+ ¢    Attach Photo
+ *    Attach ADR
+
+Notes:
+
+
+
+
+                                              Having been appointed by the Cirector of Ihe Department of Licenang se legal
+            OF Was                            ne         of         recorte of the State of                     under penalty
+                                              of perjury thet such recorce ere officiel, and are maintained within
+                                              the 'Deparmentof  of Licensing.
+
+
+
+
+                                                         Record
+                                              Place Otympie. WA
+
+
+
+
+                                 Skip a trip - go online www.dol.wa.gov
+
+                       We are committed to providing equal access to our services.
+                       For informationvisitdol.wa.gov/accesa. (TOD/TTY call 711).
+
+
+
+
+                                                                                                                                STATE'S EXHIBIT
+
+                                                                                                                                    S-17
+                                                                                                                                   CR01-24-31665
+                                               £
+
+                                                tant
+
+                                   STATE OF WASHINGTON
+                        DEPARTMENT OF LICENSING
+                          PO Box      «
+                                          Olymple, Washington 99607-9030
+Address History for License Number: WOLBN1P2563B
+Report Date Addr Type Address                                              Reason for Change
+01-Jul-2022                                                                Driver registration
+    GTON                DRIVER LICENSE
+                        PEDERAL LIMITS APPLY
+    4d Lice                        eTi Ass      DONOR@
+    1KOHBERGER
+    2BRYAN C
+    3 DOB
++   8
+_
+
+        15   SEX M        1s EYES BLU
+        16 HGT            11WGT     185
+        12 RESTRICTIONS   te END
+                 NONE     w exe 11
+
+                                             REV 14/¢42078
+                                               Driving Record
+          LICENSING                        Abetrect of Driving Record
+                                              This information ls current
+                                                                               and aw Enforcement
+                                                                              of 5/2/2023 2:68 PM
+
+
+Driver Information                               Address Information                       License and ID Details
+                                                 Residence address                                          License
+                                                                                             Status: Licensed
+First: BRYAN                                                                                 lesue: 07/01/2022
+          c                                                                                           14/21
+Suffix:                                          Change reason:: Driver fesuance             Ortginal isue: 07/01/2022
+                                                 Effective: 07/01/2022
+Gender: M                                        Verified:07/01/2022
+Age: 28
+Height: 6' 0"
+Weight: 185
+Bye color: Blue
+                                Restrictions                                                          Endorsements
+                                                   Lis Same                                                                         Code
+
+                           Reinstatements                                                                     Fees
+
+
+
+                                                              Document History
+Type                                  lesue            Expire                   OLN                              type            Current
+
+Persone 'Oriver License               Obie              11                                                                       Yes
+                                                                 OLN History
+                                          Sart                       End
+
+                                                         Nonresident Licenses
+Jurisdiction                                       License Number
+
+
+                                                              Address History
+          date     Type               Address
+
+
+
+
+We are rommined tn proviriing               to our services. if you need scoommadation, pleese call 360-902-3800 or TTY 300-084-0116,
+  you have questions regarding your driving record, please onl Customer Service at 360-902-3800.
+                                                                                          2022R00573: - 020
+
+
+
+
+                                     IN RE GRAND JURY
+
+                               AFFIDAVIT OF COMPLIANCE
+
+
+
+
+STATE OF       Washingien
+                                      ) ss,
+County of
+
+       I, the undersigned, an employee of                             Fre        akbeing first duly
+
+swom, depose and say, under penalty of perjury, that I make this affidavit in lieu of appearance in
+
+                                                                                      . are true and
+court; and that the records submitted herewith, numbered                 to.
+
+
+
+authentic ORIGINALS/COPIES circle one) of all the documents requested; that they constitute full
+
+                                                                      has been withheld; and that I
+compliance with the demands of the subpoena; that no document
+
+supervised and made the search for said records by searching
+
+
+
+
+                                                                                             meee Course(
+                                                             Title
+
+                                                                     dayof "Ssnucvy          2°23
+        SUBSCRIBED AND SWORN TO before me this
+
+
+
+                                                             Public for                  Has}
+                       Notary Public                     y Commission  Expires:      04/07/7925
+                    State of Washington
+                  Sergio Lejandro Murgula
+                 Commission No. 21010858
+                 Commission Explres04-09-2025
+
+
+
+
+                                                                                                  STATE'S EXHIBIT
+
+                                                                                                          S-18
+                                                                                                        CR01-24-31665
+                                                                                            2022R00573 - 020
+
+
+
+
+                          CERTIFICATION UNDER RULE 902(11)
+                            FEDERAL RULES OF EVIDENCE
+
+
+      L        yen        Loewen                                  declare that I am employed by
+                            Name (Printed)
+
+
+
+
+which has designated me as the duly authorized Custodian of Records for the accompanying
+document(s).
+
+      I hereby certify that the accompanying documents are                  copies/photocopies of:
+          ©                                            megts
+          =   Bank
+          a   Wer Celler      A                        (Lepert
+
+documents of                                      TTne     Bowne          and that these document(s):
+
+
+       a.       Were made at or near the time of the occurrence: of the matters set forth by, or
+                from information transmitted by, a person with knowledge of those matters;
+
+
+       b.       Were kept in the course of the regularly conducted activity of; and
+
+       c.       Were made by the regularly conducted activity as a regular practice.
+
+       I declare under penalty of perjury that the foregoing is true and correct.
+
+ Executed on                        L        at
+                                                  City andState
+
+
+
+                                                  Si
+
+
+
+                                                   Title
+
+
+                                                           $69 ~ 341 (049
+                                                   Telephone Number
+

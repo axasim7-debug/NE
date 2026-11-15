@@ -1,0 +1,291 @@
+                                                                              Electronically Filed
+                                                                              10/9/2024 5:16 PM
+                                                                              Fourth Judicial District, Ada County
+                                                                              Trent Tripple, Clerk of the Court
+                                                                              By: Jennifer Keyes, Deputy Clerk
+
+
+LATAH COUNTY PROSECUTOR’S OFFICE
+WILLIAM W. THOMPSON, JR., ISB 2613
+PROSECUTING ATTORNEY
+INGRID BATEY, ISB 10022
+SPECIAL ASSISTANT ATTORNEY GENERAL
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+        IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+STATE OF IDAHO,
+           Plaintiff,                           Case No. CR01-24-31665
+
+V.                                              STATE’S OBJECTION TO DEFENDANT’S
+                                                MOTION TO STRIKE UTTER DISREGARD
+BRYAN C. KOHBERGER                              AGGRAVATOR
+           Defendant.
+
+
+
+       COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney,
+
+and hereby objects to the Defendant’s Motion to Strike the Utter Disregard Aggravator in this case.
+
+This Court should decline to entertain the Defendant’s request to hold unconstitutional that which
+
+has been held constitutional by well-settled Idaho Supreme Court precedent and the United States
+
+Supreme Court. Defendant’s motion should be denied.
+
+                                         ARGUMENT
+       In this case, the State is pursuing the utter disregard aggravator. That aggravator applies
+
+when “[b]y the murder, or circumstances surrounding its commission, the defendant exhibited utter
+
+disregard for human life.” Idaho Code § 19-2515(9)(f).
+
+STATE’S OBJECTION (UTTER DISREGARD) - 1
+        It is well-established that a capital sentencing scheme must “genuinely narrow the class of
+
+persons eligible for the death penalty and must reasonably justify the imposition of a more severe
+
+sentence on the defendant compared to others found guilty of murder.” Lowenfeld v. Phelps, 484
+
+U.S. 231, 244, 108 S.Ct. 546 (1988) (quoting Zant v. Stephens, 462 U.S. 862, 877, 103 S.Ct. 2733
+
+(1983)). Defendant correctly acknowledges that the Idaho Supreme Court has held that Idaho’s
+
+capital sentencing scheme meets that standard. Defendant’s Motion to Strike Utter Disregard
+
+Aggravator, p. 2 (citing State v. Wood, 132 Idaho 88, 103, 967 P.2d 702 (1998)). As the Idaho
+
+Supreme Court explained in Wood, “this Court has upheld the constitutionality of its death penalty
+
+statutes on numerous occasions.” Id. at 102, 967 P.2s at 716.
+
+        Nevertheless, Defendant argues that the Court should strike the utter disregard aggravator,
+
+asserting that this Court should hold that the judicial “gloss” placed on this aggravator in State v.
+
+Osborn was unconstitutional.1 Defendant also argues that the Court should strike the utter
+
+disregard aggravator because the Osborn construction does not appear in the standard criminal
+
+jury instruction (ICJI) for this case. The Court should deny his motion.
+
+    A. This Court Cannot Overrule the Idaho Supreme Court.
+
+        Defendant makes an extraordinary request of this Court: “to find that the gloss placed on
+
+the aggravator by the Idaho Supreme Court was in violation of . . . the Idaho Constitution.” This,
+
+of course, the Court cannot do. The Idaho Supreme Court unambiguously set forth its authority
+
+in State v. Guzman:
+
+                To this Court falls the obligation to be and remain the ultimate
+                authority in fashioning, declaring, amending, and discarding rules,
+
+1
+ Defendant specifically requests that “this Court should find that the gloss placed on the aggravator by
+the Idaho Supreme Court was in violation of Art II Sec. 2 of the Idaho Constitution.” Def. Motion to
+Strike Utter Disregard Aggravator. But Article II of Idaho’s Constitution does not have a section 2. Thus,
+the State presumes from context that the Defendant intended to cite to Art. II Sec. 1 of the Idaho
+Constitution to advance a separation of powers argument.
+
+STATE’S OBJECTION (UTTER DISREGARD) - 2
+               principles, and doctrines of precedential law by application of
+               which the lower courts will fashion their decisions. This Court has
+               been and remains the final arbiter of Idaho rules of law, both those
+               promulgated and those evolving decisionally.
+State v. Guzman, 122 Idaho 981, 987, 842 P.2d 660, 666 (1992). Because Defendant’s argument
+
+that the Court should hold unconstitutional the Idaho Supreme Court’s construction set forth in
+
+Osborn requires this Court to effectively overrule a higher court, the Court should disregard it
+
+outright.
+
+   B. The Constitutionality of the Utter Disregard Aggravator has Repeatedly Been
+      Upheld.
+       The Idaho Supreme Court has held that the utter disregard aggravator is not
+
+unconstitutionally vague with the limiting construction placed on it in Osborn. State v. Abdullah,
+
+158 Idaho 386, 463, 348 P.3d, 1, 78 (citing State v. Osborn, 102 Idaho 405, 417-419, 631 P.2d 187,
+
+199-201 (1981)). In State v. Abduallah, that Court explained that “[t]he Osborn construction
+
+satisfies the Eighth Amendment by genuinely narrowing the class of persons eligible for the death
+
+penalty,” pointing to the United State Supreme Court decision in Arave v. Creech also holding the
+
+aggravator constitutional. Id. (citing Arave v. Creech, 507 U.S. 463, 474-75, 113 S.Ct. 1534, 1540-
+
+42 (1993). In Creech, the United States Supreme Court found that it was not necessary to determine
+
+whether the phrase “utter disregard for human life” itself was sufficient to pass constitutional
+
+muster because, the Court explained, “[t]he Idaho Supreme Court has adopted a limiting
+
+construction, and we believe that construction meets constitutional requirements.” Creech at 471,
+
+113 S.Ct. 1541. As recently as 2018, in State v. Hall, the Idaho Supreme Court reiterated that
+
+Idaho’s Utter Disregard Aggravator “has also been repeatedly determined constitutional—most
+
+notably by the United States Supreme Court[.]” State v. Hall, 163 Idaho 744, 786-87, 419 P.3d
+
+1042, 1085 (2018).
+
+
+
+STATE’S OBJECTION (UTTER DISREGARD) - 3
+       Defendant’s argument that the Idaho Supreme Court’s decision in Verska v. St. Alphonsus
+
+Regional Medical Center reversed its ability to provide judicial interpretation to statutes is self-
+
+evidently wrong. See Def. Motion to Strike HAC Aggravator, p. 18. In Verska—and in a passage
+
+quoted by the Defendant himself—the Idaho Supreme Court merely explained that “we have never
+
+revised or voided an unambiguous statute on the ground that it was patently absurd or would
+
+produce absurd results when construed as written, and we do not have the authority to do so.”
+
+Verska v. Saint Alphonsus Regional Medical Center, 151 Idaho 889, 896, 265 P.3d 502, 509 (2011)
+
+(emphasis added). The Verska Court simply stated that the Court could not rewrite unambiguous
+
+statutes. Id. The Verska Court did not limit the Court’s ability to interpret statutes or add judicial
+
+“gloss” to statutes. In State v. Abdullah, decided after Verska, the Idaho Supreme Court again
+
+reiterated the propriety of using a limiting construction (or “judicial gloss,”) holding that “the utter
+
+disregard aggravator with a limiting construction is not void for vagueness under the Eighth
+
+Amendment.” 158 Idaho 386, 348 P.3d 1 (2015) (citing State v. Dunlap, 155 Idaho 345, 376, 313
+
+P.3d 1, 34 (2013).
+
+   C. The ICJI for the Utter Disregard Aggravator Appropriately Reflects the Law
+
+       Defendant claims that the ICJI for the utter disregard aggravator “only makes matters
+
+worse” because it too closely tracks to the HAC aggravator. Def. Memorandum in Support of
+
+Motion to Strike Utter Disregard Aggravator, p. 8. One need only look to the respective jury
+
+instructions for utter disregard and HAC to see that they are distinct. Idaho Criminal Jury
+
+Instructions 1713 and 1714, available at https://isc.idaho.gov/main/criminal-jury-instructions.
+
+Defendant’s argument has also been foreclosed by the caselaw. The Osborn Court specifically held
+
+that because “we will not presume that the legislative intent was to duplicate any already
+
+enumerated circumstance . . . the phrase 'utter disregard' must be viewed in reference to acts other
+
+STATE’S OBJECTION (UTTER DISREGARD) - 4
+than those set forth [in the other statutory aggravators].” Osborn at 419, 631 P.2d at 201. The
+
+Osborn court then crafted its limiting construction to reflect “the highest, the utmost, callous
+
+disregard for human life, i.e., the cold-blood, pitiless slayer.” Id. Even if the utter disregard
+
+aggravator has some similarities to the HAC aggravator, the State can still proceed on both. See
+
+State v. Charboneau, 116 Idaho 129, 774 P.2d 299 (1989), overruled on other grounds by State v.
+
+Card, 121 Idaho 425, 430 (1991).
+
+       Similarly, Defendant claims that the ICJI “completely ignores the legislature’s intent and
+
+rewrites the statute. The legislature describes a person taking a killing action recklessly.” Def.
+
+Motion to Strike Utter Disregard Aggravator, p. 8. Defendant is wrong. Nowhere in Idaho Code §
+
+19-2515(9)(f) did the legislature use the word “reckless,” despite using it in two other subsections
+
+setting forth aggravating circumstances. See Idaho Code §§ 19-2515(9)(g) (“the murder was
+
+committed in the perpetration of, or attempt to perpetrate, arson, rape, robbery, burglary,
+
+kidnapping or mayhem and the defendant killed, intended a killing, or acted with reckless
+
+indifference to human life”); and see Idaho Code §§ 19-2515(9)(h) (“the murder was committed
+
+in the perpetration of, or attempt to perpetrate, lewd and lascivious conduct with a minor, sexual
+
+abuse of a child under sixteen (16) years of age, ritualized abuse of a child, sexual exploitation of
+
+a child, sexual battery of a minor child sixteen (16) or seventeen (17) years of age, or forcible
+
+sexual penetration by use of a foreign object, and the defendant killed, intended a killing, or acted
+
+with reckless indifference to human life.”). If the legislature intended § 19-2515(9)(f) to
+
+encompass recklessness, it would have said so explicitly as it did elsewhere in Idaho’s capital
+
+sentencing scheme.
+
+
+
+
+STATE’S OBJECTION (UTTER DISREGARD) - 5
+                                       CONCLUSION
+
+       The Defendant’s motion is directly contrary to well-established Idaho Supreme Court and
+
+United States Supreme Court precedent. It should be denied.
+
+RESPECTFULLY SUBMITTED this 9th day of October 2024.
+
+
+
+                                                   __________________________________
+                                                   Ingrid Batey
+                                                   Special Assistant Attorney General
+
+
+
+                                                   _______________________________
+                                                   William W. Thompson, Jr.
+                                                   Prosecuting Attorney
+
+
+
+
+STATE’S OBJECTION (UTTER DISREGARD) - 6
+                              CERTIFICATE OF DELIVERY
+
+
+I hereby certify that true and correct copies of the STATE’S OBJECTION TO DEFENDANT’S
+
+MOTION TO STRIKE UTTER DISREGARD AGGRAVATOR was served on the following in
+
+the manner indicated below:
+
+      Anne Taylor                            ☐ Mailed
+      Attorney at Law                        ☒ E-filed & Served / E-mailed
+      PO Box 2347
+                                             ☐ Faxed
+      Coeur D Alene, ID 83816-9000
+                                             ☐ Hand Delivered
+
+       Dated this 9th day of October 2024.
+
+                                               ____________________________________
+                                               Kim K. Workman
+
+
+
+
+STATE’S OBJECTION (UTTER DISREGARD) - 7
+

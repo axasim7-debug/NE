@@ -1,0 +1,576 @@
+                                                                       Filed: 04/25/2025 09:10:57
+                                                                       Fourth Judicial District, Ada County
+                                                                       Trent Tripple, Clerk of the Court
+                                                                       By: Deputy Clerk Waters, Renee
+                                                                                         -
+
+
+
+
+LATAH COUNTY PROSECUTOR'S OFFICE
+WILLIAM W. THOMPSON, JR., ISB No, 2613
+PROSECUTING ATTORNEY
+ASHLEY S. JENNINGS, ISB No. 8491
+SENIOR DEPUTY PROSECUTING ATTORNEY
+JOSHUA D. HURWIT, ISB No. 9527
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+Phone: (208) 883-2246
+ISB No. 2613
+paservice@latahcountyid.gov
+
+
+
+        IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+ STATE OF IDAHO,                                        Case No. CR01-24-3 1665
+                Plaintiff,
+                                                        DECLARATION OF JOSHUA D.
+ V                                                      HURWIT
+
+ BRYAN C. KOHBERGER,                                    Filed Under Seal
+                Defendant.
+
+
+
+
+       COMES NOW the undersigned Special Deputy Prosecuting Attorney for Latah County,
+
+Idaho, and as an officer of the Court, declares and represents the following in support of the State's
+
+Motion for an Examination of Defendant Pursuant to Idaho Code § 18-207 and Motion for
+
+Extension of Time to Complete Rebuttal Penalty Phase Expert Disclosures:
+
+        1.     Attached hereto as Exhibit S-1 is an email chain between myself and counsel for
+
+defendant with dates ranging from April 2, 2025 through April 7, 2025.
+
+       2.      Attached hereto as Exhibit S-2 is an email chain between myself and counsel for
+
+
+DECLARATION OF JOSHUA D. HURWIT                    1
+defendant with dates ranging from April 10, 2025 to April 22, 2025.
+
+       3.      Attached hereto as Exhibit S-3 is the Phase Two Expert Report of Eileen Ryan,
+
+D.O., DFAPA, disclosed by defendant as part of his penalty phase expert disclosures.
+
+       4.      Attached hereto as Exhibit S-4 is the Declaration of Jeffrey David Lewine, Ph.D.,
+
+disclosed by defendant as part of his penalty phase expert disclosures.
+
+       RESPECTFULLY SUBMITTED this 25th day of April 2025.
+
+
+
+
+                                                     JOSHUA D. HURWIT
+                                                     Special Deputy Prosecuting Attorney
+
+
+
+
+DECLARATION OF JOSHUA D. HURWIT                  2
+                               CERTIFICATE OF DELIVERY
+
+      I hereby certify that true and correct copies of the DECLARATION OF JOSHUA D.
+
+HURWIT were served on the following in the manner indicated below:
+
+Anne Taylor                                 ☐ Mailed
+Attorney at Law                             ☒ E-filed & Served / E-mailed
+PO Box 9000                                 ☐ Faxed
+Coeur D Alene, ID 83816-9000
+                                            ☐ Hand Delivered
+
+      Dated this 25th day of April 2025.
+
+
+                                           __________________________________________
+
+
+
+
+DECLARATION OF JOSHUA D. HURWIT              3
+Joshua Hurwit
+
+From:                          Joshua Hurwit
+Sent:                          Monday, April 7, 2025 4:39 PM
+To:                            Anne Taylor; bickabarlow@sbcglobal.net; emassoth@kmrs.net
+Cc:                            Bill Thompson; Ashley Jennings; Stacie Osterberg; Doris Lunceford; Jen Jenquine
+Subject:                       RE: Motion for Examination Pursuant to Idaho Code 18-207
+
+
+
+Anne,
+
+Thank you for your patience as we evaluated your concerns regarding our requested examination under
+I.C. 18-207. Our positions are as follows:
+
+        First, our expert,                 , intends to include personality assessments in order to perform
+        an evaluation consistent with forensic standards for psychology. Such tests—such as the
+        Minnesota Multiphasic Personality Inventory-3 (MMPI-3), Personality Assessment Inventory (PAI),
+        or Millon Clinical Multiaxial Inventory-IV (MCMI-IV)—are standard tools in his ﬁeld. Given that the
+        defendant has opened the door to his mental condition and has identiﬁed speciﬁc diagnoses, the
+        State is entitled to have its experts conduct complete evaluations to test those diagnoses. You
+        would have the opportunity to object to the admissibility of the State’s experts’ analysis, but we
+        disagree that our experts’ examination is limited by the parameters that the defense experts
+        selected.
+
+        Second,                    also believes it is contrary to standard practice to have third party—
+        counsel or otherwise—present at an evaluation. I don’t read the Santistevan case as authority
+        supporting your request to be present. While the court’s order permitted counsel to be present in
+        that case, that speciﬁc issue does not appear to have been litigated, and I have not found another
+        Idaho case in which the parties litigated whether counsel has a right to be present. Indeed, Idaho
+        v. Payne, 199 P.3d 123, suggests counsel need not be present. Id. at 152 (“[A] defendant has the
+        right to the assistance of counsel, as opposed to the presence of counsel, during a compelled
+        mental examination.”). If I am missing something in the case law, please let us know.
+
+        Nevertheless, we are amenable to a procedure that would allow you to be present in the same
+        facility as your client to observe the examination in real time. Our preference would be to ﬁnd a
+        facility where you could be in a separate room to observe the examination through a two-way
+        mirror (or video feed). If that is not possible, we would agree to you being in the room but seated
+        behind the defendant such that he cannot make eye contact with you. To be clear, we are not
+        concerned that you would intentionally interfere with the examination. Rather, our expert
+        believes that even the presence of a third-party observer introduces a variable that can a ect the
+        reliability of testing and results.
+
+Please let us know if you will alter your positions. If not, we would intend to ﬁle our motion indicating that
+the defense does not object to an examination in principle, but that the parties disagree regarding its
+scope and whether defendant has a right to have his counsel present in the room.
+
+Thank you,
+                                                                                                    STATE'S EXHIBIT
+Josh
+                                                        1
+                                                                                                             S-1
+                                                                                                          CR01-24-31665
+Joshua D. Hurwit
+Special Deputy Prosecuting Attorney
+Latah County
+(208) 883-2246 ext. 3416
+
+
+
+From: Joshua Hurwit
+Sent: Friday, April 4, 2025 9:26 AM
+To: Anne Taylor <anne@annetaylorlaw.com>; bickabarlow@sbcglobal.net; emassoth@kmrs.net
+Ce: Bill Thompson <bthompson@latahcountyid.gov>; Ashley Jennings <ajennings@latahcountyid.gov>; Stacie Osterberg
+<sosterberg@latahcountyid.gov>; Doris Lunceford <doris@annetaylorlaw.com>; Jen Jenquine
+<jennifer@annetaylorlaw.com>
+Subject: RE: Motion for Examination Pursuant to Idaho Code 18-207
+
+Anne,
+
+We agree that you may provide your additional responses under the existing protective order.
+
+We will get back to you as soon as possible regarding the scope of the examination and whether we
+object to you being present.
+
+Thanks,
+Josh
+
+Joshua D. Hurwit
+Special Deputy Prosecuting Attorney
+Latah County
+(208) 883-2246 ext. 3416
+
+
+
+
+From: Anne Taylor <anne@annetaylorlaw.com>
+Sent: Thursday, Apr il 3, 2025 1:37 PM
+To: Joshua Hurwit <jhurwit@latahcountyid.gov>; bickabarlow@sbcglobal.net; emassoth@kmrs.net
+Ce: Bill Thompson <bthompson@latahcountyid.gov>; Ashley Jennings <ajennings@latahcountyid.gov>; Stacie Osterberg
+<sosterberg@latahcountyid.gov>; Doris Lunceford <doris@annetaylorlaw.com>; Jen Jenquine
+<iennifer@annetavlorlaw.com>
+Subject: RE: Motion for Examination Pursuant to Idaho Code 18-207
+
+[Warning: External Email]
+Good Afternoon  -
+
+
+
+
+Thank you for providing information for our consideration; we have had a chance to meet and discuss your
+request. We want to agree to the extent possible given the April 24, 2025 deadline for the State's mitigation
+rebuttal.
+
+Regarding the nature and scope of examination our position is that testing within the scope of that done by our
+expert makes sense. We object specifically to personality testing and any test outside of what has been
+done. Along these lines you will receive a pleading to clarify testing done by Dr. Orr. We recently learned two tests
+                                                          2
+were not named in the list of tests but were referred to in the body of her January 23, 2025 report. The tests are
+Brief Visuospatial Memory Test, Revised (BVMT-R) and Rey Complex Figure Test and Recognition Trial (RCFT). Will
+you provide us with a list of tests anticipated and leave out personality testing?
+
+Regarding counsel being present; there is caselaw precedent for counsel being present (attached here for
+convenience). I, personally, have been present in past cases where clients sat for an evaluation with an expert for
+the State. The purpose of my presence is to ensure the case is not discussed during evaluation and examination
+and for client comfort. We are not claiming any right that would prevent Mr. Kohberger’s evaluation, just a basis
+for counsel to be present. In the past, clients have been more comfortable with my presence, I do not participate
+or o er information. In e ort to move this along, will you reconsider your position?
+
+We have reviewed the discovery request as it relates to our experts. We disagree that our disclosure was
+incomplete at the time of ﬁling. Your request for further information, pursuant to ICR 16, is the ﬁrst request for
+additional information. Understanding ICR 16 (c)(2), we will obtain and provide testing data and results conducted
+by our experts as well as notes as requested in your exhibit S-1. While the Rule allows 14 days we are actively
+working to provide information as soon as possible, again, because of the short time frame. Our responses will
+likely come in more than one disclosure to prevent delay. We would like these supplemental discovery responses
+subject to protective order like we agreed to with portions of our discovery. May we add responses under our
+existing protective order?
+
+Thanks,
+Anne
+
+From: Joshua Hurwit <jhurwit@latahcountyid.gov>
+Sent: Thursday, April 3, 2025 9:40 AM
+To: Anne Taylor <anne@annetaylorlaw.com>; bickabarlow@sbcglobal.net; emassoth@kmrs.net
+Cc: Bill Thompson <bthompson@latahcountyid.gov>; Ashley Jennings <ajennings@latahcountyid.gov>; Stacie Osterberg
+<sosterberg@latahcountyid.gov>; Doris Lunceford <doris@annetaylorlaw.com>; Jen Jenquine
+<jennifer@annetaylorlaw.com>
+Subject: RE: Motion for Examination Pursuant to Idaho Code 18-207
+
+Anne,
+
+We appreciate your quick response. We can provide the following in response to your questions:
+
+   1. While we reserve the right to disclose additional experts, our expert is                , Psy.D,
+      of
+   2. Nature of the examination: the examination would consist of a comprehensive forensic
+      psychological assessment, which typically includes a clinical interview, mental status
+      examination, review of relevant records, and administration of standardized psychological
+      instruments to assess cognitive functioning, personality structure, and potential
+      psychopathology.
+   3.                  would be available at the end of April to conduct his examination.
+   4. We do object to the presence of counsel during the examination as counsel’s presence could
+      interfere with the validity and reliability of the assessment process.
+   5. In terms of the written motion, we would rely on State v. Samuel, 452 P.3d 768 (Idaho 2019); State
+      v Hall, 419 P.3d 1042 (Idaho 2018); State v Payne, 199 P.3d 123 (Idaho 2008).
+
+Thanks,
+Josh
+                                                         3
+From: Anne Taylor <anne@annetaylorlaw.com>
+Sent: Wednesday, April 2, 2025 5:23 PM
+To: Joshua Hurwit <jhurwit@latahcountyid.gov>; bickabarlow@sbcglobal.net; emassoth@kmrs.net
+Ce: Bill Thompson <bthompson@latahcountyid.gov>; Ashley Jennings <ajennings@latahcountyid.gov>; Stacie Osterberg
+<sosterberg@latahcountyid.gov>; Doris Lunceford <doris@annetaylorlaw.com>; Jen Jenquine
+<jennifer@annetaylorlaw.com>
+Subject: RE: Motion for Examination Pursuant to Idaho Code 18-207
+
+[Warning: External Email]
+Good Evening,
+We are seeking additional information in aid of making a decision. Please advise of who your experts are, when
+they want to examine Mr. Kohberger and the nature of any testing planned. If you have a written motion for us to
+consider, please send that for our review as well. And last, let us know your position on one of Mr. Kohberger's
+counsel being present for the examination.
+
+Thanks,
+Anne
+
+
+From: Joshua Hurwit <jhurwit@latahcountyid.gov>
+Sent: Wednesday, April 2, 2025 2:16 PM
+To: Anne Taylor <anne@annetaylorlaw.com>; bickabarlow@sbcglobal.net; emassoth@kmrs.net
+Ce: Bill Thompson <bthompson@latahcountyid.gov>; Ashley Jennings <ajennings@latahcountyid.gov>; Stacie Osterberg
+<sosterberg@latahcountyid.gov>
+Subject: Motion for Examination Pursuant to Idaho Code 18-207
+
+Counsel,
+
+Given the defendant's expert disclosures, we intend to file a motion with the Court for an order pursuant
+to Idaho Code 18-207 allowing the State to have its expert(s) examine the defendant regarding his mental
+condition.
+
+Please let us know if you consent or object to this motion by Friday12:00pm Pacific so that we can
+promptly get our motion before the Court.
+
+Thankk you,
+Josh
+
+Joshua D. Hurwit
+Special Deputy Prosecuting Attorney
+Latah County
+
+This message is confidential and may be legally privileged. Unless you are the intended recipient, you
+may not use, copy or disclose this message or any information herein. If you have received this message
+in error, please immediately delete it and any attachments, and notify the sender.
+This message is confidential and may be legally privileged. Unless you are the intended recipient, you
+may not use, copy or disclose this message or any information herein. If you have received this message
+in error, please immediately delete it and any attachments, and notify the sender.
+
+
+                                                         4
+Joshua Hurwit
+
+From:                            Anne Taylor <anne@annetaylorlaw.com>
+Sent:                            Tuesday, April 22, 2025 9:13 AM
+To:                              Joshua Hurwit; Ashley Jennings; Bill Thompson
+Ce:                              Doris Lunceford; Stacie Osterberg; Bicka Barlow; Elisa Massoth
+Subject:                         Re: DISC D's Resp to PA's 1st Supp Request BK
+                                          -                                   -
+
+
+
+
+[Warning: External Email]
+
+Hi Josh,
+We will object to personality testing, we will object to being excluded from the room and we will object to
+any extension of time.
+Thank you for update.
+Anne
+
+
+From: Joshua Hurwit <jhurwit@latahcountyid.gov>
+Sent: Tuesday, April 22, 2025 8:59:56 AM
+To: Anne Taylor <anne@annetaylorlaw.com>; Ashley Jennings <ajennings@latahcountyid.gov>; Bill Thompson
+<bthompson@latahcountyid.gov>
+Ce: Doris Lunceford <doris@annetaylorlaw.com>; Stacie Osterberg <sosterberg@latahcountyid.gov>; Bicka Barlow
+<bickabarlow@sbcglobal.net>; Elisa Massoth <emassoth@kmrs.net>
+Subject: RE: DISC D's Resp to PA's 1st Supp Request BK
+                   -                                -
+
+
+
+
+Anne,
+
+We wanted to follow up again about the mental condition examination under 18-207.                 |   have attached Dr.
+Gage's CV, which was produced yesterday.
+
+We intend to file a motion with the Court to seek an order for the 18-207 examination and for an
+extension of time to make our rebuttal penalty phase expert disclosures so that Dr. Gage can complete
+the examination and prepare his report. In our motion, we will address:
+
+      1.   Dr. Gage believes that personality testing is appropriate in his professional judgment. The scope
+           of the exam would be consistent with what Dr. Christensen contemplated as was discussed
+           previously.
+
+      2. Dr. Gage's position is that counsel should not be present in the room. So we will take that
+         position. As an alternative if the Court does not grant our request, we will request an arrangement
+         in which counsel is in the room but seated behind the defendant out of his line of sight.
+
+
+From our prior communications, understand that defendant opposes psychological testing and wants
+                                     |
+
+
+
+an attorney present in the room. If anything has changed, please let us know.
+
+
+
+                                                                                                         STATE'S EXHIBIT
+                                                           1
+                                                                                                                S-2
+                                                                                                             CR01-24-31665
+Will you also please let us know if you object to an extension of time? We propose a deadline of 21
+days after the examination is completed. Dr. Gage can conduct the examination as soon as the Court
+resolves our disputes, and he believes it would take two days.
+
+Thanks,
+Josh
+
+Joshua D. Hurwit
+Special Deputy Prosecuting Attorney
+Latah County
+(208) 883-2246 ext. 3416
+
+
+
+
+From: Joshua Hurwit
+Sent: Thursday, April 17, 2025 12:32 PM
+To: Anne Taylor <anne@annetaylorlaw.com>; Ashley Jennings <ajennings@latahcountyid.gov>; Bill Thompson
+<bthompson@latahcountyid.gov>
+Cc: Doris Lunceford <doris@annetaylorlaw.com>; Stacie Osterberg <sosterberg@latahcountyid.gov>; Bicka Barlow
+<bickabarlow@sbcglobal.net>; Elisa Massoth <emassoth@kmrs.net>
+Subject: RE: DISC - D's Resp to PA's 1st Supp Request - BK
+
+Anne,
+
+Following up, we have engaged Dr. Jason Gage as a prosecution expert, and he will conduct the 18-207
+mental health examination of the defendant. Dr. Gage is ready to receive Dr. Orr’s testing data and
+notes. Here is his website for contact information: https://mscps.us/
+
+Once we have had the chance to talk further with Dr. Gage, we will be back in touch about setting up the
+examination.
+
+Thanks,
+Josh
+
+Joshua D. Hurwit
+Special Deputy Prosecuting Attorney
+Latah County
+(208) 883-2246 ext. 3416
+
+
+
+
+From: Joshua Hurwit
+Sent: Wednesday, April 16, 2025 8:44 AM
+To: Anne Taylor <anne@annetaylorlaw.com>; Ashley Jennings <ajennings@latahcountyid.gov>; Bill Thompson
+<bthompson@latahcountyid.gov>
+Cc: Doris Lunceford <doris@annetaylorlaw.com>; Stacie Osterberg <sosterberg@latahcountyid.gov>; Bicka Barlow
+<bickabarlow@sbcglobal.net>; Elisa Massoth <emassoth@kmrs.net>
+Subject: RE: DISC - D's Resp to PA's 1st Supp Request - BK
+
+                                                        2
+Anne,
+
+|   wanted to respond to your email below to clarify that we are in the process of interviewing and retaining
+anew mental health expert(s) and we do not yet know what their position will be as to your presence in
+the room. We hope to find a mutually agreeable arrangement and will reach back out when we have
+retained our expert(s).
+
+-Josh
+
+Joshua D. Hurwit
+Special Deputy Prosecuting Attorney
+Latah County
+(208) 883-2246 ext. 3416
+
+
+
+From: Anne Taylor <anne@annetaylorlaw.com>
+Sent: Monday, April 14, 2025 11:26AM
+To: Joshua Hurwit <jhurwit@latahcountyid.gov>; Ashley Jennings <ajennings@latahcountyid.gov>; Bill Thompson
+<bthompson@latahcountyid.gov>
+Ce: Doris Lunceford <doris@annetaylorlaw.com>; Stacie Osterberg <sosterberg@latahcountyid.gov>; Bicka Barlow
+<bickabarlow@sbcglobal.net>; Elisa Massoth <emassoth@kmrs.net>
+Subject: Re: DISC D's Resp to PA's 1st Supp Request BK
+                    -                             -
+
+
+
+
+[Warning: External Email]
+Thank you for letting us know. I will make sure Dr. Orr is aware and does not send testing data.
+
+|also want to update you that Mr. Kohberger requests be present for the State's evaluation and
+                                                            |
+
+
+
+
+understands may be seated behind him. So the procedure you suggested works for us.
+                |
+
+
+
+
+Thank you,
+Anne
+
+
+From: Joshua Hurwit <jhurwit@latahcountyid.gov>
+Sent: Monday, April 14, 2025 11:19:52 AM
+To: Anne Taylor <anne@annetaylorlaw.com>; Ashley Jennings <ajennings@latahcountyid.gov>; Bill Thompson
+<bthompson@latahcountyid.gov>
+Ce: Doris Lunceford <doris@annetaylorlaw.com>; Stacie Osterberg <sosterberg@latahcountyid.gov>; Bicka Barlow
+<bickabarlow@sbcglobal.net>; Elisa Massoth <emassoth@kmrs.net>
+Subject: RE: DISC D's Resp to PA's 1st Supp Request BK
+                    -                             -
+
+
+
+
+Anne,
+
+We wanted to alert you that                  is no longer able to work on this case. So, to the extent she
+hasn't already, Dr. Orr does not need to provide him with her data.
+
+We will be back in touch when we have engaged a new forensic psychologist in order to discuss the 18-
+207 mental evaluation.
+
+                                                        3
+Thanks,
+Josh
+
+Joshua D. Hurwit
+Special Deputy Prosecuting Attorney
+Latah County
+(208) 883-2246 ext. 3416
+
+
+
+
+From: Joshua Hurwit
+Sent: Thursday, April 10, 2025 4:29 PM
+To: Anne Taylor <anne@annetaylorlaw.com>; Ashley Jennings <ajennings@latahcountyid.gov>; Bill Thompson
+<bthompson@latahcountyid.gov>
+Cc: Doris Lunceford <doris@annetaylorlaw.com>
+Subject: RE: DISC - D's Resp to PA's 1st Supp Request - BK
+
+Anne,
+
+We stipulate and do ask you to redact (or not refer to                   ) as he hasn’t been publicly
+disclosed.
+
+We also have a couple requests for you to consider:
+
+           1. We will ask the Court to take down the video livestream during the testimony of the
+              surviving housemates (D.M. and B.F.) to protect their privacy. We don’t object to keeping
+              the audio going (if that is technologically possible).
+           2. For similar privacy reasons, we will ask the Court to take down the video livestream when
+              graphic/disturbing crime scene, victim, or autopsy photos are shown.
+
+Please let us know if you will stipulate to these requests. We plan to raise these issues in our Trial Brief
+rather than by formal motion.
+
+Thanks,
+Josh
+
+Joshua D. Hurwit
+Special Deputy Prosecuting Attorney
+Latah County
+(208) 883-2246 ext. 3416
+
+
+
+
+From: Anne Taylor <anne@annetaylorlaw.com>
+Sent: Thursday, April 10, 2025 4:03 PM
+To: Ashley Jennings <ajennings@latahcountyid.gov>; Bill Thompson <bthompson@latahcountyid.gov>; Joshua Hurwit
+<jhurwit@latahcountyid.gov>
+
+
+                                                       4
+Ce: Doris Lunceford <doris@annetaylorlaw.com>
+Subject: DISC D's Resp to PA's 1st Supp Request
+             -                                    -
+                                                      BK
+
+
+[Warning: External Email]
+Good Afternoon   -
+
+
+
+
+This is what we intend to file for our first response we can redact
+                                                       -
+                                                                            name since he is not publicly
+disclosed if you prefer. If so may we have a stipulation?
+Thanks,
+Anne
+This message is confidential and may be legally privileged. Unless you are the intended recipient, you
+may not use, copy or disclose this message or any information herein. If you have received this message
+in error, please immediately delete it and any attachments, and notify the sender.
+This message is confidential and may be legally privileged. Unless you are the intended recipient, you
+may not use, copy or disclose this message or any information herein. If you have received this message
+in error, please immediately delete it and any attachments, and notify the sender.
+
+
+
+
+                                                           5
+

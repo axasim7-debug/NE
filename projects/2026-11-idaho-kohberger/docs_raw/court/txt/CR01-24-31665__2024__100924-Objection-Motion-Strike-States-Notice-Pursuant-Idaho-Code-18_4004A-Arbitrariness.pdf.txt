@@ -1,0 +1,440 @@
+                                                                                Electronically Filed
+                                                                                10/9/2024 5:16 PM
+                                                                                Fourth Judicial District, Ada County
+                                                                                Trent Tripple, Clerk of the Court
+                                                                                By: Jennifer Keyes, Deputy Clerk
+
+
+LATAH COUNTY PROSECUTOR’S OFFICE
+WILLIAM W. THOMPSON, JR., ISB 2613
+PROSECUTING ATTORNEY
+JEFF NYE, ISB 9238
+SPECIAL ASSISTANT ATTORNEY GENERAL
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+
+        IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+
+
+                                                 Case No. CR01-24-31665
+STATE OF IDAHO,
+               Plaintiff,                        STATE’S OBJECTION TO DEFENDANT’S
+                                                 MOTION TO STRIKE STATE’S NOTICE
+V.                                               PURSUANT TO IDAHO CODE §18-4004A ON
+                                                 GROUNDS OF ARBITRARINESS
+BRYAN C. KOHBERGER
+           Defendant.
+
+
+
+       COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney,
+
+and hereby objects to Defendant’s Motion to Strike State’s Notice Pursuant to Idaho Code § 18-
+
+4004A on Grounds of Arbitrariness (“Motion”). Citing a law review article, Defendant asserts two
+
+challenges to Idaho’s capital sentencing statutes. First, Defendant claims Idaho’s capital sentencing
+
+statutes do not sufficiently narrow the class of convicted first-degree murderers who are eligible
+
+for the death penalty. Second, Defendant argues that Idaho’s capital punishment scheme is
+
+STATE’S OBJECTION (ARBITRARINESS) - 1
+unconstitutional because of alleged geographic disparities. The Idaho Supreme Court has rejected
+
+both arguments. Even if there were some legal bases for Defendant’s arguments, the law review
+
+article he cites does not reliably support his arguments.
+
+       A. Idaho’s Capital Sentencing Statutes Narrow the Class of Persons Eligible for the
+          Death Penalty as Required by the Eighth Amendment.
+
+       Idaho’s capital sentencing scheme complies with the Eighth Amendment’s narrowing
+
+requirement. Capital punishment “may not be imposed under sentencing procedures that create a
+
+substantial risk that punishment will be inflicted in an arbitrary and capricious manner.” Godfrey
+
+v. Georgia, 446 U.S. 420, 427 (1980). To avoid arbitrary application, a state’s capital sentencing
+
+scheme “must genuinely narrow the class of persons eligible for the death penalty.” Arave v.
+
+Creech, 507 U.S. 463, 474 (1993) (internal quotations omitted). Most states, including Idaho, have
+
+chosen to narrow the class of persons eligible for the death penalty by requiring the jury to find
+
+the presence of at least one aggravating circumstance before imposing the death penalty. See
+
+I.C. § 19-2515. Each aggravating circumstance “may not apply to every defendant convicted of
+
+murder; it must apply only to a subclass of defendants convicted of murder.” Tuilaepa v. California,
+
+512 U.S. 967, 972 (1994).
+
+       The question of whether a state’s capital sentencing scheme properly narrows the class of
+
+persons eligible for the death penalty is qualitative, not quantitative. See State v. Hall, 163 Idaho
+
+744, 788, 419 P.3d 1042, 1086 (2018). In Hall, the defendant challenged the felony murder
+
+aggravating circumstance on the basis that it did not comply with the narrowing requirement. Id.
+
+The aggravating circumstance applied to those murders that are committed in the perpetration of
+
+“arson, rape, robbery, burglary, kidnapping or mayhem.” Id. The court acknowledged that “[t]his
+
+language may apply to many murders,” but nevertheless found it passed the narrowing requirement
+
+
+
+
+STATE’S OBJECTION (ARBITRARINESS) - 2
+because “it certainly does not apply to every first-degree murder—which is all the narrowing
+
+required by Tuilaepa.” Id. (emphasis in original).
+
+       The Idaho Supreme Court’s interpretation of Tuilaepa as imposing a qualitative narrowing
+
+requirement is dispositive of Defendant’s claim. Even assuming it is appropriate to aggregate the
+
+aggravating circumstances when alleging insufficient narrowing and even assuming Defendant’s
+
+law review article accurately portrays the number of first-degree murders that are eligible for the
+
+death penalty in Idaho, according to Defendant’s study, the combination of all the aggravating
+
+circumstances “may apply to many murders, but it does not apply to every first-degree murder—
+
+which is all the narrowing required by Tuilaepa.” Hall, 163 Idaho at 788, 419 P.3d at 1086; see
+
+also State v. Wood, 132 Idaho 88, 103, 967 P.2d 702, 717 (1998) (holding Idaho’s statutes narrow
+
+those eligibility for the death penalty as required).
+
+       Moreover, Defendant is not the first to try and aggregate the aggravating circumstances in
+
+Idaho, and it did not end well for the first person. See State v. Hairston, 133 Idaho 496, 508, 988
+
+P.2d 1170, 1182 (1999). The defendant in Hairston argued that the combination of all the
+
+aggravating circumstances in Idaho Code § 19-2515 “apply equally to all first degree murder
+
+defendants” and thus fail to “provide a meaningful way to distinguish between those who deserve
+
+capital punishment and those who do not.” Id. The defendant urged the court to conduct a “review
+
+of all Idaho first degree murder cases” to analyze the aggregate effect of Idaho’s aggravating
+
+circumstances. Id. But the court refused, finding “no legal basis” for such a review. Id. (emphasis
+
+added). Rather, the court held that aggravating circumstances are to be considered individually,
+
+not in the aggregate: “Each aggravating circumstance must provide a principled basis for
+
+distinguishing between those who deserve the death penalty and those who do not.” Id. Because
+
+the defendant did not “challenge[] a particular aggravating circumstance,” the court refused to find
+
+
+
+STATE’S OBJECTION (ARBITRARINESS) - 3
+“Idaho’s death penalty scheme as a whole to be arbitrary or capricious.” Id.; see also Order on
+
+Defendant’s Pretrial Motions, pp.18-20, State v. Ross, Case No. CR35-21-6092 (Oct. 10, 2023)
+
+(Monson, J.) (rejecting argument based on the law review article cited by Defendant).
+
+       The Idaho Supreme Court’s decision to reject aggregating the aggravating circumstances
+
+put the court in good company. See, e.g., State v. Hidalgo, 390 P.3d 783, 789-90 (Az. 2017)
+
+(“Observing that at least one of several aggravating circumstances could apply to nearly every
+
+murder is not the same as saying that a particular aggravating circumstance is present in every
+
+murder.”) cert denied, 583 U.S. 1196 (2018); Steckel v. State, 711 A.2d 5, 12-13 (Del. 1998) (“[W]e
+
+find the relevant inquiry to be whether ‘the sentencer fairly could conclude that an aggravating
+
+circumstance applies to every defendant eligible for the death sentence,’ not . . . whether, taken in
+
+combination, Delaware's statutory aggravating circumstances apply to virtually all defendants
+
+convicted of first degree murder.”). In fact, as far as the State can tell, every court across the
+
+country that has heard this argument has rejected it. See, e.g., Karis v. Calderon, 283 F.3d 1117,
+
+1141 n.11 (9th Cir. 2002); United States v. Le, 327 F. Supp.2d 601, 608-09 (E.D. Va. 2004); Lawlor
+
+v. Commonwealth, 738 S.E.2d 847, 893 (Va. 2013); see also Sam Kamin & Justin Marceau,
+
+Hidalgo v. Arizona and Non-Narrowing Challenges, 51.3 Colum. Hum. Rts. Law Rev. 1101, 1109-
+
+11 (2020) (proponents of same argument acknowledging they have a “zero for eight record” in
+
+Colorado trial courts).
+
+       Moreover, Defendant’s myopic focus on the statutory aggravating circumstances ignores
+
+other mechanisms in Idaho’s capital sentencing scheme that help perform the necessary narrowing.
+
+After all, “[t]he use of ‘aggravating circumstances’ is not an end in itself, but a means of genuinely
+
+narrowing the class of death-eligible persons, and thereby channeling the jury discretion.”
+
+
+
+
+STATE’S OBJECTION (ARBITRARINESS) - 4
+Lowenfield v. Phelps, 484 U.S. 231, 244-45 (1988). The Idaho legislature used more than just
+
+aggravating circumstances to narrow the class of persons eligible for the death penalty in Idaho.
+
+       Even where an aggravating circumstance can be proven beyond a reasonable doubt, the
+
+legislature excluded from death eligibility those individuals who commit murder where “all the
+
+mitigating circumstances, when weighed against the aggravating circumstance, are sufficiently
+
+compelling that the death penalty would be unjust.” See I.C. § 19-2515(8)(a). Clearly, that portion
+
+of the statute also has a narrowing effect on death eligibility.
+
+       Take, for example, a mentally ill individual who kills multiple people at once. Even though
+
+the State would have no problem proving the multiple murder aggravating circumstance, the
+
+perpetrator would not be eligible for the death penalty in Idaho if the mental illness were severe
+
+enough such that imposition of the death penalty would not be just. In that, and many other
+
+potential scenarios, the requirement for the jury to weigh all the mitigating circumstances narrows
+
+the class of death-eligible persons. Defendant’s refusal to consider this additional narrowing aspect
+
+of Idaho’s capital sentencing scheme is likewise fatal to his argument.
+
+       B. Defendant Has Failed to Show Idaho’s Capital Sentencing Scheme is
+          Unconstitutionally Arbitrary Based on Geography.
+
+       Defendant’s second argument fails both legally and factually. Like his first argument,
+
+Defendant’s geography-based argument has already been rejected by the Idaho Supreme Court.
+
+See State v. Hairston, 133 Idaho 496, 517-18, 988 P.2d 1170, 1191-92 (1999). In Hairston, the
+
+defendant challenged the constitutionality of the death penalty using a study that showed, at best,
+
+“a statistical discrepancy between the imposition of the death penalty in urban versus non-urban
+
+counties.” Id. The court held that “such a discrepancy does not implicate any constitutional
+
+concerns” and no such study would implicate constitutional concerns until it connected to “one or
+
+more impermissible factors.” Id. As a legal matter, Hairston is dispositive of Defendant’s claim.
+
+
+STATE’S OBJECTION (ARBITRARINESS) - 5
+       Defendant’s argument fails factually too. Defendant supports his geography-based
+
+argument by relying on Professor Cover’s article. But the article expressly states it does not support
+
+Defendant’s conclusion: “I cannot report findings . . . about whether Idaho’s system is ‘arbitrary
+
+and capricious’ in the sense that the distribution of death sentences across the universe of death-
+
+eligible cases can be explained not by the merits of the case (i.e., the weight of the aggravating and
+
+mitigating circumstances), but rather by an arbitrary factor such as . . . geography.” (Mot., Ex. A,
+
+p.539.) Defendant also fails to account for the fact that multiple death penalty notices have been
+
+filed since the article was published. See, e.g., Order on Defendant’s Pretrial Motions, pp.18-20,
+
+State v. Ross, Case No. CR35-21-6092 (Oct. 10, 2023) (Monson, J.).
+
+       Finally, the State notes Defendant’s geography-based argument is a thinly veiled repeat of
+
+the argument he asserts in a separate motion that Idaho’s capital sentencing scheme leaves too
+
+much discretion to the county prosecuting attorneys. (Cf. Defendant’s Motion to Strike Notice of
+
+Intent to Seek the Death Penalty on Grounds of Failure to Present Aggravators to a Neutral Fact
+
+Finder.) As the State explains in its response to that motion, the U.S. Supreme Court has already
+
+rejected the argument that a state violates the Eighth Amendment simply because “the state
+
+prosecutor has unfettered authority to select those persons whom he wishes to prosecute for capital
+
+offenses.” Gregg v. Georgia, 428 U.S. 153, 199 (1976).
+
+       C. Defendant’s Reliance on the Law Review Article is Misplaced.
+
+       Defendant’s motion relies heavily on a law review article that summarizes information
+
+collected about various homicide cases in Idaho. The article opines that “Idaho’s capital
+
+punishment scheme fails to adequately narrow death eligibility in Idaho.” (Mot., Ex. A, p.561.)
+
+There are at least three reasons why this Court should give the article little or no weight:
+
+
+
+
+STATE’S OBJECTION (ARBITRARINESS) - 6
+       First, this Court cannot conclude with any confidence that the author of the article reviewed
+
+the materials necessary to accurately draw the conclusions contained in the article. The author set
+
+out to decide whether individuals convicted of murder between June 2002 and 2019 were eligible
+
+for the death penalty under Idaho law. (Mot., Ex. A, p.561.) But, by the author’s own admission,
+
+“[t]here was a wide variety in the quantity and quality of available information in different cases.”
+
+Id. at 582. The “most useful” information the author could find was in “change of plea and
+
+sentencing hearing transcripts.” Id. Yet, by their nature, neither of those hearings necessarily
+
+contain any kind of comprehensive summary of the evidence in the case.
+
+       More problematic still, “such hearing transcripts were unavailable” to the author “in many
+
+cases.” Id. In how many cases? We are not told. The author merely indicates that in those “many
+
+cases” she had to rely on documents that were even less helpful, including “court filings such as
+
+indictments and notices of intent to seek the death penalty.” Id. But death penalty notices would
+
+have been available in only a relative few of the cases and typically only identify the aggravating
+
+circumstances without providing any factual basis, see Hall, 163 Idaho at 789-90, 419 P.3d at
+
+1087-88 (explaining the death penalty notice does not need to provide a factual basis), and the
+
+indictment “must be a plain, concise and definite written statement of the essential facts
+
+constituting the offense charged,” I.C.R. 7(b). Surely (and rightfully) a county prosecutor who
+
+decided whether a defendant was eligible for the death penalty by reviewing the indictment and
+
+notice of death penalty drafted by his deputy would be open to criticism. In the real world,
+
+determinations of death eligibility in Idaho are made by county prosecutors and courts who
+
+undoubtedly possess and review far more information than the author had available for the article.
+
+
+
+
+STATE’S OBJECTION (ARBITRARINESS) - 7
+       Second, Defendant failed to provide this Court with sufficient information to verify the
+
+article’s conclusions as to death-penalty eligibility. In fact, the article itself omits plenty of
+
+information that was readily available to the author and that would be helpful for verification. For
+
+example, the author did not include in the article (and Defendant did not provide separately) the
+
+list of the cases reviewed or the specific aggravating circumstance or circumstances that the author
+
+concluded applied to each case. Instead, the author categorized the aggravating circumstances into
+
+two groups, “clear” and “fuzzy,” and provided only statistics showing whether she believed a
+
+“clear” aggravator, “fuzzy” aggravator, or both applied. (Mot., Ex. A., pp.587-88.) Such high-level
+
+statistics are insufficient to raise any kind of concrete constitutional claim. See Hidalgo v. Arizona,
+
+138 S.Ct. 1054, 1058 (2018) (Breyer, J., statement for joining denial of cert) (“We do not have
+
+evidence, for instance, as to the nature of the 866 cases (perhaps they implicate only a small
+
+number of aggravating factors).”). If, for example, there were a problem with Idaho’s capital
+
+sentencing scheme—and there is not—the problem may be caused by just one or two aggravating
+
+circumstances. In that case, the appropriate challenge would be to those individual aggravating
+
+circumstances and, in the event a defendant proved a problem, the appropriate remedy would be
+
+to strike those individual aggravating circumstances.
+
+       Third, the author of the article did not “catalog all possible aggravating and mitigating
+
+circumstances” (Mot., Ex. A, p.593), which means her death-eligibility decisions failed to account
+
+for those cases where the mitigating evidence removed the perpetrator from death eligibility.
+
+Eligibility for the death penalty in Idaho does not depend exclusively on aggravating
+
+circumstances. Rather, if an aggravating circumstance is proven beyond a reasonable doubt, the
+
+“defendant shall be sentenced to death unless mitigating circumstances which may be presented
+
+are found to be sufficiently compelling that the death penalty would be unjust.” I.C. § 19-
+
+
+
+STATE’S OBJECTION (ARBITRARINESS) - 8
+2515(3)(b) (emphasis added). Because the author of the article did not conduct an empirical review
+
+of the mitigation evidence in each case, she could not have accurately concluded whether each
+
+defendant was, in fact, eligible for the death penalty under Idaho law.
+
+       RESPECTFULLY SUBMITTED this 9th day of October 2024.
+
+                                                     _______________________________
+                                                     Jeff Nye
+                                                     Special Assistant Attorney General
+
+
+                                                     ____________________________________
+                                                     William W. Thompson, Jr.
+                                                     Prosecuting Attorney
+
+
+
+
+STATE’S OBJECTION (ARBITRARINESS) - 9
+                              CERTIFICATE OF DELIVERY
+
+
+       I hereby certify that true and correct copies of the STATE’S OBJECTION TO
+
+DEFENDANT’S MOTION TO STRIKE STATE’S NOTICE PURSUANT TO IDAHO CODE
+
+§18-4004A ON GROUNDS OF ARBITRARINESS was served on the following in the manner
+
+      Anne Taylor                            ☐ Mailed
+      Attorney at Law                        ☒ E-filed & Served / E-mailed
+      PO Box 2347
+                                             ☐ Faxed
+      Coeur D Alene, ID 83816-9000
+                                             ☐ Hand Delivered
+indicated below:
+
+
+       Dated this 9th day of October 2024.
+
+
+                                               ____________________________________
+                                               Kim K. Workman
+
+
+
+
+STATE’S OBJECTION (ARBITRARINESS) - 10
+

@@ -1,0 +1,54 @@
+07/08/25                        Moscow Police Department                     1272
+12:09                        Law Supplemental Narrative:             Page:      1
+  Details
+Incident Number       22-M09903          Name   Brett Payne
+Sequence Number       294                Date   14:27:54 08/07/24
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Supplemental Discovery Request for IM Messages-#157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+Files attached to Spillman
+3.        Narrative
+
+On Wednesday, August 7, 2024 I requested the following information from Whitcom
+reference a supplemental discovery request from defense counsel in this case:
+
+317. Communications report for all instant messages of Corporal Payne with
+dispatch and all other users for 11/28/2022; 12/16/2022; 12/20/2022.
+318. Communications report for all instant messages of Moscow Police with
+dispatch and all other users for 11/13/2022.
+Later on 8/7/24 I received the requested documents from Whitcom and attached
+them to the Spillman case file. It should be noted there were no IM's matching
+this request from 11/28/22. The files are as follows:
+
+Payne122022Thread-my IM conversations from 12/20/22 in thread format
+Payne122022Conversation- my IM conversations from 12/20/22 in conversation
+format
+Payne121622Thread- my IM conversations from 12/16/22 in thread format
+Payne121622Conversation- my IM conversations from 12/16/22 in conversation
+format
+MPD111322Mobile-MPD IM conversations
+MPD111322Thread-MPD conversations by thread
+
+4.        Other
+NA
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+
+CPL Payne #157
+Wed Aug 07 14:29:43 PDT 2024
+
+Reviewed By:
+Capt. Dustin Blaker #108
+Tue Aug 20 15:38:44 PDT 2024
+

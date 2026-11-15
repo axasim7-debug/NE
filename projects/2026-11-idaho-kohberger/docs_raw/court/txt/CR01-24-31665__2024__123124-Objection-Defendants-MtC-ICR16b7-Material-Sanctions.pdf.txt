@@ -1,0 +1,495 @@
+                                                                               Electronically Filed
+                                                                               12/31/2024 12:14 PM
+                                                                               Fourth Judicial District, Ada County
+                                                                               Trent Tripple, Clerk of the Court
+                                                                               By: Jennifer Keyes, Deputy Clerk
+
+
+LATAH COUNTY PROSECUTOR’S OFFICE
+WILLIAM W. THOMPSON, JR., ISB No. 2613
+PROSECUTING ATTORNEY
+ASHLEY S. JENNINGS, ISB No. 8491
+SENIOR DEPUTY PROSECUTING ATTORNEY
+Latah County Courthouse
+522 S. Adams Street, Ste. 211
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+
+             IN THE DISTRICT COURT OF THE FOURTH DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+
+ STATE OF IDAHO,                                       Case No. CR01-24-31665
+            Plaintiff,
+                                                       STATE’S OBJECTION TO
+                                                       DEFENDANT’S MOTION
+ V.                                                    TO COMPEL I.C.R. 16(b)(7)
+                                                       MATERIAL AND FOR
+ BRYAN C. KOHBERGER,                                   SANCTIONS
+            Defendant.
+
+
+
+       COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney
+
+and respectfully objects and moves the Court to deny the Defendant’s “Motion to Compel I.C.R.
+
+16(b)(7) Material and for Sanctions” filed on December 27, 2024.
+
+                                      RELEVANT FACTS
+
+       The State has been actively engaged in replying to the Defendant’s request for discovery,
+
+including materials related to potential expert witnesses, since the original discovery request was
+
+filed on January 10, 2023. As I.C.R. 16(j) contemplates, discovery involves a “continuous duty
+STATE’S OBJECTION TO DEFENDANT’S MOTION
+TO COMPEL I.C.R. 16(b)(7) MATERIAL AND FOR SANCTIONS                                                     1
+to disclose” which the State has and will continue to comply with. This specific “continuing duty
+
+to disclose” evidences that I.C.R. 16 compliance is not a one-time event. Defendant currently
+
+notes this case involves a substantial amount of discovery. Defendant cites over sixty-eight (68)
+
+terabytes and the State does not dispute this. The discovery received by the State from multiple
+
+agencies has been provided to Defense in the same manner it was provided to the State. The
+
+State is in the same position as the Defendant in this regard 1. The Court record will reflect that
+
+the State has provided extremely detailed responses to Defendant’s Request for Discovery and
+
+Motions to Compel above and beyond what is required by Rule 16. On December 18, 2024, the
+
+State, in compliance with the Court’s Order, filed its guilt phase experts consistent with I.C.R.
+
+16(b)(7). These disclosures were filed 7 months and 24 days before the commencement of trial.
+
+As of the date of this filing, we are 7 months and 12 days before the commencement of trial.
+
+Nevertheless, Defendant argues that he has been prejudiced and requests sanctions. Defendant’s
+
+arguments are without merit.
+
+                                                 ARGUMENT
+
+         The State has complied with the Court’s Order and Idaho Criminal Rule 16(b)(7)
+
+regarding disclosure of expert witnesses. On December 18, 2024, the State filed “State’s
+
+Supplemental Response to Request for Discovery Regarding Expert Testimony” in compliance
+
+with the Court’s “Unredacted Sealed Order Governing Further Criminal Proceedings and Notice
+
+of Trial Setting” order on October 9, 2024. That Order stated as follows under “Section C.
+
+Discovery and Expert Disclosures:”
+
+
+
+1
+ Defendant complains and appears to represent that he has not been provided with adequate information from the
+State. This is patently untrue. By way of example, to appreciate the true degree of analysis and use by the Defendant
+of discovery that has been provided, the Court need look no further than the extensive detail in the Defendant’s
+motion for a Franks hearing, the 20 plus supplemental discovery requests and related materials, and the many other
+detailed substantive motions he has filed.
+
+STATE’S OBJECTION TO DEFENDANT’S MOTION
+TO COMPEL I.C.R. 16(b)(7) MATERIAL AND FOR SANCTIONS                                                                2
+          Experts: A list of experts the parties intend to call at trial, including a copy
+          of the expert’s report consistent with I.C.R. 16(b)(7) and a copy of the
+          expert’s curriculum vitae, shall be disclosed to the opposing party as
+          follows: State’s guilt phase experts: December 18, 2024.
+
+Page 2.
+
+The Order refers to I.C.R. 16(b)(7) which states in relevant part:
+
+          Expert Witnesses: On written request of the defendant, the prosecutor
+          must provide a written summary or report of any testimony that the state
+          intends to introduce at trial or at a hearing pursuant to Rules 702, 703, or
+          705 of the Idaho Rules of Evidence. The summary provided must describe
+          the witness’s opinions, the facts and data for those opinions, and the
+          witness’s qualifications. (emphasis added)
+
+
+          The Defendant cites State v. Morin in support of his motion. Defendant’s Motion to
+
+Compel I.C.R. 16(b)(7), page 3. Morin was charged with Driving Under the Influence of Drugs
+
+(marijuana). The State filed the following expert disclosure for the forensic toxicologist:
+
+          Dr. Dawson is an expert in toxicology and pharmacology and will assist
+          the trier of fact in understanding the evidence regarding the effects of
+          drugs on the behavior and performance of the defendant as reported in this
+          case. Dr. Dawson will utilize known and generally accepted scientific
+          principles of absorption, distribution, metabolization and excretion of
+          drugs. Testimony may include information on the effects of the drugs
+          consumed by the defendant in this case and the possible effects of said
+          drugs.
+
+
+State v. Morin, 158 Idaho 622, 625, 349 P.3d 1213, 1216 (2015) At trial, Dr. Dawson testified
+
+that dilated pupils, confusing speech patterns, impairments to balance and other psychomotor
+
+function “lack of convergence” and green coating of the tongue were all diagnosis indications of
+
+marijuana intoxication. Id. Dr. Dawson also testified to the physiological effects of other drugs
+
+found in Morin’s system. Ultimately, Dr. Dawson testified that it was his opinion that Morin was
+
+impaired and unsafe to operate a motor vehicle. Id. The Court held that the State’s response
+
+disclosed nothing more than Dr. Dawson’s qualifications. Id. at 626, 1217. The generic response
+
+STATE’S OBJECTION TO DEFENDANT’S MOTION
+TO COMPEL I.C.R. 16(b)(7) MATERIAL AND FOR SANCTIONS                                                3
+vaguely described the subject matter, not the content, of Dr. Dawson’s anticipated testimony.
+
+The Court held “a mere list of topics or general subject matter which an expert witness may
+
+testify is not a discovery response that complies with this rule.” Id. The Court also stated even if
+
+the State did not know all details of Dr. Dawson’s testimony at the time of the initial discovery
+
+response:
+
+          I.C.R. 16 (j) imposes a continuing duty to supplement the response if a
+          party later discovers or decides to use additional evidence. Discovery rules
+          are drafted to safeguard the truth-seeking function of trials. The rules are
+          designed to ‘promote fairness and candor,’ ‘facilitate fair and expedient
+          pretrial fact gathering,’ and ‘prevent surprise at trial.’
+
+Morin at 625, 1217 citing Edmunds v. Kraner, 142 Idaho 867, 873-78, 136 P.3d 338, 355-49
+
+(2006).
+
+          By way of contrast, in State v. Koch, the Defendant was charged with lewd conduct with
+
+a minor. The State filed the following expert disclosure for an expert:
+
+          Ms. Yeager’s curriculum vitae is attached. She’ll testify to the dynamics
+          of delayed disclosure as it relates to child sexual abuse. The state intends
+          to elicit expert testimony from Mydell Yeager regarding behavior of
+          children who have been sexually abused and Ms. Yeager will testify that it
+          is rare that a child immediately discloses their sexual abuse especially
+          when they know the perpetrator. Ms. Yeager will testify about the
+          dynamics of child sexual abuse as it relates to grooming a victim, keeping
+          the abuse secret, the effects and threats on whether a child chooses to
+          disclose.
+
+157 Idaho 89, 93-94, 334 P. 280, 284-285 (2014). Koch argued that the above disclosure was
+
+insufficient because it failed to disclose Yeager’s “opinions, and facts and data behind those
+
+opinions” as required by I.C.R. 16(b)(7). Id. at 93, 285. Koch also claimed the disclosure was
+
+insufficient because it did not include a summary or report written by Yeager. The Idaho
+
+Supreme Court disagreed. The Supreme Court held that the disclosure:
+
+          informed Koch of the main opinion to which Yeager was going to testify,
+          and while it did not specifically disclose that Yeager’s opinions were
+
+STATE’S OBJECTION TO DEFENDANT’S MOTION
+TO COMPEL I.C.R. 16(b)(7) MATERIAL AND FOR SANCTIONS                                                4
+       based on her training and experience, ‘which would be better practice,’ it
+       did provide her curriculum vitae that presumably disclosed her education
+       and experience.
+
+
+Id. at 94-95, 285-286. Further, the Idaho Supreme Court held that the State does not have to
+
+produce a written report where none had previously existed stating “if there is no data, [the State
+
+doesn’t] have to produce data. She is simply an opinion witness” (noting that Koch could object
+
+if the testimony varied from the State’s disclosed summary). Id. at 94, 286.
+
+       The Idaho Supreme Court in Koch discussed the scope of I.C.R. 16(b)(7) disclosure
+
+requirements and looked to the Federal Rule of Criminal Procedure 16(a)(1)(G). The Supreme
+
+Court noted that the main difference is that the federal rule requires “the bases and reasons for
+
+those opinions” whereas the Idaho rule requires “the facts and data for those opinions”
+
+suggesting the federal rule requires broader disclosure. Id.
+
+       The Idaho Supreme Court further noted that the expert’s conclusions “were adequately
+
+explored by defense counsel on cross-examination with no particular difficulty” evidencing that
+
+the State’s disclosure was adequate. Id. at 95. The goal of Rule 16 is “to provide the opponent
+
+with a fair opportunity to test the merit of the expert’s testimony through focused cross-
+
+examination.” Id. citing United States v. Lipscomb, 539 F.3d 32, 38 (1st Cir. 2008).
+
+       In State v. Caswell, Caswell was charged with possession and delivery of
+
+methamphetamine. The State discovered a report by criminalist Donald Wyckoff who tested the
+
+controlled substance and determined it was methamphetamine. At trial, Caswell objected to the
+
+introduction of this report, claiming the State failed to “provide him with the working papers or
+
+graphs from which Wyckoff drew his conclusions that the tested substance was
+
+methamphetamine.” Five months before trial the State provided Caswell with Wyckofff’s report,
+
+Exhibit C, containing his test results and conclusions. The State did not provide the working
+
+STATE’S OBJECTION TO DEFENDANT’S MOTION
+TO COMPEL I.C.R. 16(b)(7) MATERIAL AND FOR SANCTIONS                                                5
+papers and graphs on which the conclusions were based until requested at trial. 121 Idaho 801,
+
+803, 828 P.2d 830, 832 (1992). On appeal, the Idaho Supreme Court found that the State’s
+
+disclosure, Exhibit C, was adequate.
+
+         Turning to the case at hand, on December 18, 2024, the State disclosed 25 potential 2
+
+experts the State intends to call at trial. The Defendant takes issue with 22 of the disclosures
+
+claiming they are insufficient. All 25 of the State’s disclosures comply with the Court’s Order
+
+and I.C.R. 16(b)(7) and are not the “generic discovery response” as presented in Morin. All 25
+
+disclosures encompass more than a “mere list of topics or general subject matter which an expert
+
+witness may testify.” Morin at 626, 1217. Each disclosure informs Defendant of the main
+
+opinion to which each expert will testify and the CV which that opinion is based upon as
+
+required by Koch. For experts where the State does not have a report, as further held by Koch, “if
+
+there is no data, [the State doesn’t] have to produce data.” The State addresses each objection to
+
+the proposed disclosures as follows:
+
+         For Exhibit S-1 and S-6, the State disclosed expert opinions regarding the toxicology
+
+results for all decedents as detailed in the provided Toxicology Reports. In addition, the State
+
+included the toxicologists Curriculum Vitae (CV) which supported his/her opinions. This
+
+disclosure was not merely a topic list of general subject matter which the expert may testify as
+
+precluded by Morin. Instead, it is the main opinion and the CV which supported the opinion as
+
+required by Koch. As noted by the Koch Court, the Idaho rule is not as broad as the federal rule
+
+which requires the “bases and reasons for those opinions” whereas the Idaho rule requires “the
+
+facts and data for those opinions” State’s S-1 and S-6 disclosure satisfy the requirements of Rule
+
+
+
+2
+ In an abundance of caution, the State included witnesses that the State does not label as technically “experts”
+within the meaning of I.C.R. 16(b)(7) but anticipates that the Defendant might disagree.
+
+STATE’S OBJECTION TO DEFENDANT’S MOTION
+TO COMPEL I.C.R. 16(b)(7) MATERIAL AND FOR SANCTIONS                                                               6
+16(b)(7).
+
+       For Exhibit S-2, the State disclosed Special Agent (SA) Ballance. The State’s disclosure
+
+was adequately specific. For example, S-2 states “SA Ballance will provide his opinion as the
+
+general locations in which the target cellular telephones were located at various times before and
+
+after the homicides at 1122 King Road and the cellular phones’ directions of travel.” The
+
+attached report detailed the target cellular phones analyzed, the dates analyzed, and the direction
+
+of travel. In addition, Defense was directed to the cell phone records provided by AT&T and the
+
+drive testing files which support the report. The Defendant appears to be requiring compliance
+
+with the federal standard which is much broader than I.C.R. 16(b)(7). The State’s disclosure
+
+provides Defendant with adequate notice of Ballance’s anticipated testimony to satisfy the
+
+requirements of I.C.R. 16(b)(7).
+
+       For Exhibit S-3 and S-4, Defendant correctly agrees these disclosures meet I.C.R.
+
+16(b)(7) requirements.
+
+       For Exhibits S-5 and S-7, the State disclosed two likely fact witnesses as experts out of
+
+an abundance of caution and was clear about this intent. The Defendant’s argument that the State
+
+erred in this good-faith disclosure is without merit. In the event either of these witnesses are in
+
+fact experts within the meaning of I.C.R. 16(b)(7), it is clear from each disclosure, exactly what
+
+these witnesses will testify to based upon the provided disclosures.
+
+       For Exhibit S-8, the State disclosed the Vehicle Identification Expert, SA Imel. The
+
+disclosure specifies he will testify to his “use of the Forensic, Audio, Video and Image Analysis
+
+Program. The Forensic, Audio, Video, and Image Analysis Program was used to determine the
+
+make, model, and year of a suspected vehicle involved in the 1122 King Road burglary and
+
+homicides in Moscow, Idaho, on or about November 13, 2022.” It is clear from the disclosure
+
+
+STATE’S OBJECTION TO DEFENDANT’S MOTION
+TO COMPEL I.C.R. 16(b)(7) MATERIAL AND FOR SANCTIONS                                                  7
+that this witness is an expert in vehicle identification. Defendant has repeatedly been provided
+
+the images relied upon which are detailed in his Report of Examination which was attached to
+
+the State’s disclosure (See S-8(a), Page 1). The State’s disclosure provides Defendant with
+
+adequate notice of SA Imel’s anticipated testimony to satisfy the requirements of I.C.R. 16(b)(7).
+
+       For Exhibit S-9, the State disclosed Cathy Mabbutt, the Latah County Coroner. The State
+
+specially detailed each opinion to be proffered. The opinions were supported by the attached
+
+Death Certificates authored by the Coroner, and the Coroner’s CV. The Defendant fails to
+
+mention that in addition to being an attorney and an Elected Coroner, Ms. Mabbutt was a
+
+registered nurse for 44 years which is detailed in her CV. The State’s expert disclosure satisfies
+
+the requirements of I.C.R. 16(b)(7).
+
+       For Exhibit S-10, S-13, and S-14 the State disclosed Forensic Detectives. These
+
+disclosures specifically listed each forensic item to which the witnesses would testify regarding.
+
+The witnesses’ expertise is the process of extracting and identifying the data that is on each of
+
+the listed devices. The contents of each of these devices have been disclosed to Defendant. Any
+
+opinion related to that extraction (i.e. whether a connection was found or not) is not an expert
+
+opinion. As a result, the disclosures meet the requirements of Rule 16(b)(7).
+
+       For Exhibit S-11, Defendant correctly agrees this disclosure meets the requirements of
+
+I.C.R. 16(b)(7).
+
+       For Exhibit S-12, the State disclosed an expert on crime scene reconstruction and
+
+bloodstain pattern analysis. The State specially detailed each opinion to be proffered. The
+
+opinions were supported by attached referenced report and CV. The State’s disclosure provides
+
+Defendant with adequate notice of this expert’s anticipated testimony to satisfy the requirements
+
+of I.C.R. 16(b)(7). As noted by the Koch Court, the Defendant has identified areas through the
+
+
+STATE’S OBJECTION TO DEFENDANT’S MOTION
+TO COMPEL I.C.R. 16(b)(7) MATERIAL AND FOR SANCTIONS                                                 8
+disclosure for cross-examination which only evidences the adequacy of the disclosure; defense
+
+should be able to “cross examine with no particular difficulty” satisfying the goal of Rule 16.
+
+Koch at 95, 286.
+
+        Exhibits S-15 through S-25 all relate to Idaho State Police Forensic Lab experts. First,
+
+the Defendant claims “not a single DNA expert opinion or report was produced.” This is simply
+
+not true. In each of these responses the State refers the Defendant to specific lab reports and the
+
+corresponding bates numbers. The Defendant’s apparent argument that the State is required to
+
+make duplicative disclosures is unsupported. A simple reference to where Defendant can find the
+
+report is adequate.
+
+       Each report provides a basis to determine what the expert’s opinion is through the
+
+referenced Lab Report. As an example, the State is attaching bates 9323-9354 for the Court’s
+
+review of how these disclosures comply with the requirements of I.C.R. 16(b)(7). See Exhibit S-
+
+1 attached. The State follows suit in disclosures S-16 through S-20, and S-22 through S-25. The
+
+State’s expert disclosures regarding Lab experts satisfy the requirements of I.C.R. 16(b)(7).
+
+       For S-21, the State disclosed Rylene Nowlin as an expert. It is anticipated that this
+
+witness is actually a rebuttal witness who is prepared to testify regarding secondary transfer if
+
+necessary. The State contends the notice provided is sufficient pursuant to Rule 16(b)(7) but
+
+reserves the right to amend this disclosure upon review of the Defendant’s guilt phase experts
+
+and pending discovery disclosure.
+
+       As required by Rule 16(j) the State will continue to supplement the response if the State
+
+later discovers or decides to use additional evidence.
+
+       Lastly, if the Court determines that any of the disclosed expert disclosures do not meet
+
+the requirements of Rule 16(b)(7)(b), the State will promptly amend. Any contention that the
+
+
+STATE’S OBJECTION TO DEFENDANT’S MOTION
+TO COMPEL I.C.R. 16(b)(7) MATERIAL AND FOR SANCTIONS                                                  9
+Defendant has been prejudiced or does not have adequate time to respond is wholly unsupported.
+
+The Defendant’s request for sanctions is premature and without merit.
+
+                                          CONCLUSION
+
+       The State respectfully request that the Court deny Defendant’s “Motion to Compel I.C.R.
+
+16(b)(7) Material and for Sanction” based upon the filings in the case; pursuant to Fourth
+
+Judicial District Rule 5.3 the State is not requesting a hearing on this matter.
+
+
+       RESPECTFULLY SUBMITTED this 31st day of December 2024.
+
+
+                                                       ______________________________
+                                                       Ashley S. Jennings
+                                                       Senior Deputy Prosecuting Attorney
+
+
+
+
+STATE’S OBJECTION TO DEFENDANT’S MOTION
+TO COMPEL I.C.R. 16(b)(7) MATERIAL AND FOR SANCTIONS                                         10
+                                CERTIFICATE OF DELIVERY
+
+       I hereby certify that true and correct copies of the State’s Objection to Defendant’s Motion
+
+to Compel I.C.R. 16(b)(7) Material and for Sanctions were served on the following in the manner
+
+indicated below:
+
+Anne Taylor                                       ☐ Mailed
+Attorney at Law                                   ☒ E-filed & Served / E-mailed
+PO Box 2347                                       ☐ Faxed
+Coeur d’Alene, ID 83816
+info@annetaylorlaw.com                            ☐ Hand Delivered
+
+       Dated this 31st day of December 2024.
+
+
+
+
+STATE’S OBJECTION TO DEFENDANT’S MOTION
+TO COMPEL I.C.R. 16(b)(7) MATERIAL AND FOR SANCTIONS                                            11
+

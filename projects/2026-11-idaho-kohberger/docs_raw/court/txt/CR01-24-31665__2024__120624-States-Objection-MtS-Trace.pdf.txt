@@ -1,0 +1,231 @@
+                                                                                  Filed:   12/6/2024
+                                                                                  Fourth Judicial District, Ada County
+                                                                                  Trent Tripple, Clerk of the Court
+                                                                                  By: Deputy Clerk Smith, Margaret
+                                                                                                    -
+
+
+
+
+LATAH COUNTY PROSECUTOR'S OFFICE
+WILLIAM W. THOMPSON, JR., ISB No. 2613
+PROSECUTING ATTORNEY
+ASHLEY S. JENNINGS, ISB No. 8491
+SENIOR DEPUTY PROSECUTING ATTORNEY
+Latah County Courthouse
+522 S. Adams Street, Ste. 211
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+
+                IN THE DISTRICT COURT OF THE FOURTH DISTRICT OF THE
+
+                    STATE OF IDAHO, IN AND FFOR THE COUNTY OF ADA
+
+
+
+ STATE OF IDAHO,                                             Case No. CR01-24-3 1665
+                   Plaintiff,
+                                                             STATE'S OBJECTION TO
+                                                             DEFENDANT'S MOTION TO
+ V                                                           SUPPRESS AND MEMORANDUM
+                                                             IN SUPPORT
+ BRYAN C. KOHBERGER,
+                   Defendant.                                RE: PEN TRAP AND TRACE
+                                                             DEVICE
+
+
+        COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney
+
+and respectfully responds to "Defendant's Motion to Suppress and Memorandum in Support Re:
+
+Pen Trap and Trace Device" filed on November 13, 2024.!
+
+
+
+
+'Defendant's filing refers to a "contemporaneously filed Motion for an Order suppressing all evidence gathered by
+law enforcement from its search of his AT&T account tracing his phone usage." However, the State is not aware of a
+separate "contemporaneous" filing, so the State's response is only to the contents of the Defendant's singular
+"Motion to Suppress and Memorandum in Support."
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN SUPPORT
+RE: PEN TRAP AND TRACE DEVICE                                                                                    1
+                                                 FACTS
+
+          Regarding the Defendant's represented "FACTS," the State respectfully refers the Court
+
+to the State's Exhibit S-1 and S-2 filed in support as opposed to relying on the Defendant's
+
+
+subjective summary and interpretation that begins at Page 2 of his brief. The State's Exhibits are
+
+attached as follows:
+
+          e   Affidavit for Search Warrant for AT&T with appended Exhibits (State's Exhibit S-1)
+
+          e   AT&T Search Warrant (State's Exhibit S-2)
+
+                                             ARGUMENTS
+
+    I.        DEFENDANT HAS NOT DEMONSTRATED THE SEARCH WARRANT
+              AFFIDAVITS CONTAIN INTENTIONALLY OR RECKLESSLY FALSE
+              STATEMENTS OR OMISSIONS.
+
+          As the Defendant correctly notes in his brief, he had a privacy interest in his phone
+
+records. Recognizing this, the State sought and obtained a warrant. Defendant mounts a Franks
+
+attack on the warrant, but for all the reasons articulated in its responsive briefing on Defendant's
+
+Franks motion       which the State incorporates herein     his argument fails.
+
+    II.       THE AT&T WARANT WAS NOT A GENERAL WARRANT
+
+          For the Court's convenience, the State incorporates its analysis in "State's Objection to
+
+Defendant's Motion to Suppress and Memorandum in Support Re: Apple Account Federal Grand
+
+Jury Subpoena Search Warrant dated August 1, 2023" and "State's Objection to Defendant's Motion
+
+to Suppress and Memorandum in Support Re: AT&T First Warrant" regarding the applicable case
+
+law to apply for FFourth Amendment analysis as opposed to restating the same.
+
+          As applied to the AT&T Pen Trap and Trace Search Warrant, Idaho allows a search warrant
+
+affidavit to support the particularity requirement when the warrant references the affidavit for
+
+probable cause. Adamcik v. State, 163 Idaho 114, 124-25, 408 P.3d 474, 484-85 (2017). There are no
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN SUPPORT
+RE: PEN TRAP AND TRACE DEVICE                                                                          2
+magic words for reference. As stated above, the AT&T Pen Trap and Trace Search Warrant
+
+specifically referenced the Search Warrant Affidavit (and incorporated Exhibit A) with the words
+
+"Proof, upon oath, this day showing probable cause." When the AT&T Search Warrant is considered
+
+along with the Affidavit for Probable Cause and the 15-page Exhibit A, the warrants are sufficiently
+
+particular and valid. In fact, Corporal Payne set forth why he believed the Defendant's cell phone
+
+would contain evidence of the crime, specifically, why each category of digital evidence listed on
+
+the warrant would reveal such information.
+
+
+        The AT&T Pen Trap and Trace Search Warrant and the Search Warrant Affidavit and Exhibit
+
+A provide the particularity necessary to satisfy the three-factor test set forth in Teal. See State v. Teal,
+
+145 Idaho 985, 989, 188 P.3d 927, 931 (Ct. App. 2008).
+
+
+        First, probable cause existed to seize all items of a particular type described in the warrant.
+
+The specific phone number is listed in the affidavits and the individual categories of digital
+
+information sought are set forth in detail, including why probable cause existed to search those
+
+
+digital files (See AT&T Pen Trap and Trace Search Warrant pages 3-7, which specifically detail
+
+what actions investigators were allowed to take and what information they were allowed to collect).
+
+        Second, the warrant set out objective standards by which executing officers could
+
+differentiate items subject to seizure from those that were not: (a) the seizure of items was limited to
+
+the crime for which the Defendant was arrested (homicide(s) at 1122 King Road in Moscow, Idaho);
+
+and (b) the warrant was temporally limited to the time June 23, 2022, at 12:00 to real time data (i.e.
+
+
+present).
+
+        Third, the government was not able to describe the items more particularly considering the
+
+information available to it at the time the warrant was issued. Detective Payne was seeking evidence
+
+that could be in multiple formats and areas, and considering electronic data can be stored anywhere,
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN SUPPORT
+RE: PEN TRAP AND TRACE DEVICE                                                                             3
+it was impossible for Detective Payne to narrow down in advance the AT&T areas that should be
+
+searched. As a result, if the Court employs a "commonsense and realistic" approach and not the
+
+
+"hyper technical" approach the Defense is suggesting; the Court should find the AT&T Search
+
+Warrant passes the Zea test and sufficiently particular. See Wheeler v. State, 135 A.3d 282, (Del.
+
+
+206) (quoting U.S.    Christine, 687 F2d 749, 69 A.L.R. Fed. 503 (3d Cir. 1982).
+
+         In summary, given the circumstances of this case, the AT&T Pen Trap and Trace Search
+
+
+Warrant and its respective Affidavit and Exhibit A are as particular as can reasonably be expected.
+
+Unlike a general exploratory warrant, the AT&T Pen Trap and Trace Search Warrant allowed the
+
+searcher to "reasonably ascertain and identify the things which are authorized to be seized." See
+
+Teal, 145 Idaho at 992, 188 P.3d at 924. Thus, suppression is not warranted.
+
+   Il.      IGG
+
+         The Defendant raises its objections to the IGG (Investigative Genetic Genealogy) and,
+
+again, the State incorporates the State's arguments in objection to the Defendant's separate IGG
+
+Motion as opposed to restating them here.
+
+                                          CONCLUSION
+
+         Based on the above, the State respectfully requests the Court to deny the Defendant's
+
+"Motion to Suppress and Memorandum in Support Re: Pen Trap and Trace Device."
+
+         RESPECTFULLY SUBMITTED this 6" day of December 2024.
+
+
+
+                                                      Ashley S. Jennings
+                                                       Senior Deputy Prosecuting Attorney
+
+
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN SUPPORT
+RE: PEN TRAP AND TRACE DEVICE                                                                         4
+                             CERTIFICATE OF DELIVERY
+      I   hereby certify that true and correct copies of the     STATE'S OBJECTION TO
+DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN SUPPORT RE: PEN
+
+TRAP AND TRACE DEVUCE were served on the following in the manner indicated below:
+
+Anne Taylor                                   OO   Mailed
+Attorney at Law                                    E-filed & Served / E-mailed
+PO Box 2347
+                                              O Faxed
+Coeur D Alene, ID 83816
+                                              DC   Hand Delivered
+info@annetaylorlaw.com
+
+      Dated this 6"" day of December, 2024.
+
+
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN SUPPORT
+RE: PEN TRAP AND TRACE DEVICE                                                       5
+

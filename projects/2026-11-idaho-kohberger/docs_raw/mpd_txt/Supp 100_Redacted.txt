@@ -1,0 +1,39 @@
+07/08/25                     Moscow Police Department                        1272
+10:49                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number    100                Date   15:24:54 01/05/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Extreme Network Warrant
+
+Case # 22-M09903
+Date: 1/5/2023
+
+On December 12, 2022, I applied for and was granted a warrant for Extreme
+Networks to assist in unlocking a laptop located in the residence located at
+1122 King Road. The laptop was being used by Kaylee Goncalves as a paid employee
+of Extreme Networks. The warrant requested permission for Extreme Networks to
+unlock or provide a password for the laptop.
+
+Sgt Neil Uhrig assisted in the forensic examination of the laptop. I forwarded
+the warrant to Sgt Uhrig who then served the warrant on December 12, 2022, at
+approximately 1519 hours via email to                @hupd.harvard.edu.
+On December 14, 2022, Sgt Uhrig received an email providing the encryption key
+for the laptop. This allowed the data from the laptop to be forensically
+acquired and examined by Sgt Uhrig.
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. A copy of
+the receipt was emailed to Extreme Networks (               @hupd.harvard.edu),
+as this was the originating email address associated with the warrant.
+Det. Lawrence Mowery - 162
+Thu Jan 05 15:25:00 PST 2023
+Reviewed By:
+Sgt. Dustin Blaker #108
+Wed Jan 11 17:23:04 PST 2023
+

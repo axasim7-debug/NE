@@ -1,0 +1,303 @@
+                                                                              Electronically Filed
+                                                                              10/9/2024 5:16 PM
+                                                                              Fourth Judicial District, Ada County
+                                                                              Trent Tripple, Clerk of the Court
+                                                                              By: Jennifer Keyes, Deputy Clerk
+
+
+LATAH COUNTY PROSECUTOR’S OFFICE
+WILLIAM W. THOMPSON, JR., ISB 2613
+PROSECUTING ATTORNEY
+INGRID BATEY, ISB 10022
+SPECIAL ASSISTANT ATTORNEY GENERAL
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+        IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+STATE OF IDAHO,
+           Plaintiff,                          Case No. CR01-24-31665
+
+V.                                             STATE’S OBJECTION TO DEFENDANT’S
+                                               MOTION TO STRIKE HAC AGGRAVATOR
+BRYAN C. KOHBERGER
+           Defendant.
+
+
+
+       COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney,
+
+and hereby objects to the Defendant’s Motion to Strike the HAC (Heinous, Atrocious, and Cruel)
+
+Aggravator. For the following reasons, Defendant’s motion should be denied.
+
+                                         ARGUMENT
+       It is well-established that a capital sentencing scheme must “genuinely narrow the class of
+
+persons eligible for the death penalty and must reasonably justify the imposition of a more severe
+
+sentence on the defendant compared to others found guilty of murder.” Lowenfeld v. Phelps, 484
+
+U.S. 231, 244, 108 S.Ct. 546 (1988) (quoting Zant v. Stephens, 462 U.S. 862, 877, 103 S.Ct. 2733
+
+(1983)). In a companion motion filed contemporaneously with this one, Defendant correctly
+
+
+STATE’S OBJECTION (HAC) - 1
+acknowledges that the Idaho Supreme Court has held that Idaho’s capital sentencing scheme meets
+
+that standard. See Defendant’s Motion to Strike Utter Disregard Aggravator, p. 2 (citing State v.
+
+Wood, 132 Idaho 88, 103, 967 P.2d 702 (1998)). As the Idaho Supreme Court explained in Wood,
+
+“this Court has upheld the constitutionality of its death penalty statutes on numerous occasions.”
+
+Wood at 102, 967 P.2d at 716. Nevertheless, the Defendant advances two arguments. First, he
+
+argues that the Court should find that the “gloss” placed on the [HAC] aggravator by the Idaho
+
+Supreme Court was in violation of the Idaho Constitution.1 Defendant’s Motion to Strike Utter
+
+Disregard Aggravator at 17. Second, he asserts that the Idaho Criminal Jury Instruction (ICJI) for
+
+the HAC aggravator does not contain the necessary limiting construction set forth by the Idaho
+
+Supreme Court in State v. Osborn. Id. at 17-18. For the reasons set forth below, both of Defendant’s
+
+arguments fail.
+
+      A. This Court Cannot Overrule the Idaho Supreme Court.
+
+         As a threshold matter, this Court cannot overrule the Idaho Supreme Court. The Idaho
+
+Supreme Court unambiguously set forth its authority in State v. Guzman:
+
+                  To this Court falls the obligation to be and remain the ultimate
+                  authority in fashioning, declaring, amending, and discarding rules,
+                  principles, and doctrines of precedential law by application of which
+                  the lower courts will fashion their decisions. This Court has been
+                  and remains the final arbiter of Idaho rules of law, both those
+                  promulgated and those evolving decisionally.
+
+State v. Guzman, 122 Idaho 981, 987, 842 P.2d 660, 666 (1992). Because Defendant’s argument—
+
+that this Court should hold unconstitutional the Idaho Supreme Court’s limiting construction set
+
+
+1 1
+   Defendant specifically requests that “this Court should find that the gloss placed on the aggravator by
+the Idaho Supreme Couet was in violation of Art II Sec. 2 of the Idaho Constitution.” Def. Motion to Strike
+Utter HAC Aggravator, p. 17. But Article II of Idaho’s Constitution does not have a section 2. Thus, the
+State presumes from context that the Defendant intended to cite to Art. II Sec. 1 of the Idaho Constitution
+to advance a separation of powers argument.
+
+
+STATE’S OBJECTION (HAC) - 2
+forth in State v. Osborn—requires this Court to effectively overrule a higher court, the Court should
+
+disregard it outright.
+
+    B. The Constitutionality of the HAC Aggravator Has Repeatedly Been Upheld.
+
+        As Defendant acknowledges by his citation to State v. Osborn, the Idaho Supreme Court
+
+has upheld the constitutionality of the HAC aggravator with a limiting construction. Def. Motion
+
+to Strike HAC Aggravator, p. 4 (citing State v. Osborn, 102 Idaho 405, 418, 631 P.2d 187, 200
+
+(1981)). In adopting the limiting construction placed on the HAC aggravator, the Idaho Supreme
+
+Court followed the standards set forth by the United States Supreme Court in Godfrey v. Georgia:
+
+                [I]n Godfrey v. Georgia, the Supreme Court held that where statutory
+                provisions concerning aggravating circumstances such as these
+                could be applied to any murder, a limiting construction is
+                indispensable if the state is to meet its constitutional obligation “to
+                tailor and apply its law in a manner that avoids the arbitrary and
+                capricious infliction of the death penalty.”
+
+
+Osborn at 417, 631 P.2d 199 (quoting Godfrey v. Georgia, 446 U.S. 420, 428, 100 S.Ct. 1759, 2938
+
+(1980)). Adopting language utilized by the Florida Supreme Court, the Osborn Court held that:
+
+                heinous means extremely wicked or shockingly evil; that atrocious
+                means outrageously wicked and vile; and, that cruel means designed
+                to inflict a high degree of pain with utter indifference to, or even
+                enjoyment of, the suffering of others. What is intended to be
+                included are those capital crimes where the actual commission of
+                the capital felony was accompanied by such additional acts as to set
+                the crime apart from the norm of capitol felonies - the conscienceless
+                or pitiless crime which is unnecessarily torturous to the victim.
+
+Id. at 418, 631 P.2d 200 (internal citations omitted). The Osborn Court also adopted language from
+
+the Nebraska Supreme Court defining exceptional depravity:
+
+                In interpreting this portion of the statute, the key word is
+                'exceptional.' It might be argued that every murder involves
+                depravity. The use of the word 'exceptional,' however, confines it
+                only to those situations where depravity is apparent to such an extent
+                as to obviously offend all standards of morality and intelligence.
+
+STATE’S OBJECTION (HAC) - 3
+Id. (internal citations omitted). The Osborn Court explained that with a limiting construction, the
+
+HAC aggravator is “sufficiently definite and limited to guide the sentencing court’s discretion in
+
+imposing the death penalty.” Id.
+
+        Decades later, in State v. Hall, the Idaho Supreme Court affirmed the constitutionality of
+
+the HAC aggravator. State v. Hall, 163 Idaho 744, 419 P.3d 1042 (2017). The Court held that the
+
+appellant had provided “no basis, principled or otherwise” to support his vagueness challenge, and
+
+noted that the HAC aggravator “has been determined constitutional time and time again.” Id. at
+
+786, 163 Idaho 1084.2
+
+        Defendant’s argument that the Idaho Supreme Court’s decision in Verska v. St. Alphonsus
+
+Regional Medical Center reversed its ability to provide judicial interpretation to statutes is self-
+
+evidently wrong. See Def. Motion to Strike HAC Aggravator, p. 18. In Verska—and in a passage
+
+quoted by Defendant himself—the Idaho Supreme Court merely explained that “we have never
+
+revised or voided an unambiguous statute on the ground that it was patently absurd or would
+
+produce absurd results when construed as written, and we do not have the authority to do so.”
+
+Verska v. Saint Alphonsus Regional Medical Center, 151 Idaho 889, 896, 265 P.3d 502, 509 (2011).
+
+The Verska Court simply stated that the Court could not rewrite unambiguous statutes. Id. The
+
+Verska Court did not limit the Court’s ability to interpret statutes or add judicial “gloss” to statutes.
+
+Indeed, in Hall—decided six years after Verska—the Idaho Supreme Court reiterated the propriety
+
+and importance of the HAC limiting construction, holding that the “limiting construction and the
+
+
+
+
+2
+  Notably, the Ninth Circuit Court of Appeals has also found Idaho’s HAC aggravator to be constitutional.
+See Leavitt v. Arave, 383 F.3d 809, 835-37 (9th Cir. 2004) (“In fine, taken as a whole, Idaho’s delineation of
+the meaning of heinous, atrocious, or cruel aggravation is sufficient to guide the discretion of the
+sentencer.”).
+
+STATE’S OBJECTION (HAC) - 4
+[HAC] aggravating circumstance as a whole have repeatedly been interpreted by this Court as
+
+constitutionally sufficient.” Hall at 786, 163 Idaho 1084.
+
+       Defendant’s constitutional claims therefore fly in the face of well-established precedent
+
+and should be disregarded by this Court.
+
+   C. The ICJI for the HAC Aggravator Appropriately Reflects the Caselaw
+
+       Defendant argues that ICJI 1713, the instruction for the HAC aggravator, “does away with
+
+the additional proofs set forth in Osborn.” Def. Motion to Strike HAC Aggravator, p. 20. That is
+
+wrong. A comparison can be found below:
+
+                State v. Osborn                                       ICJI 1713
+
+ What is intended to be included are those          The terms heinous, atrocious, or cruel are
+ capital crimes where the actual commission of      intended to refer to those first-degree murders
+ the capital felony was accompanied by such         where the actual commission of the first-
+ additional acts as to set the crime apart from     degree murder was accompanied by such
+ the norm of capital felonies[.]                    additional acts as to set the crime apart from
+                                                    the norm of first-degree murders.
+
+
+ Heinous means        extremely     wicked    or A murder is ‘heinous’ if it extremely wicked or
+ shockingly evil                                 shockingly evil
+
+ Atrocious means outrageously wicked and vile Atrocious means outrageously wicked and vile
+
+ Cruel means designed to inflict a high degree Cruel means designed to inflict a high degree
+ of pain with utter indifference to, or even of pain with utter indifference to, or even
+ enjoyment of, the suffering of others         enjoyment of, the suffering of others
+
+ It might be argued that every murder involves      It might be thought that every murder involves
+ depravity. The use of the word ‘exceptional,’      depravity. However, exceptional depravity
+ however, confines it only to those situations      exists only where depravity is apparent to such
+ where depravity is apparent to such an extent      an extent as to obviously offend all standards
+ as to obviously offend all standards of morality   of morality and intelligence.
+ and intelligence.
+
+
+
+
+STATE’S OBJECTION (HAC) - 5
+See State v. Osborn at 418, 631 P.2d 200, and see Idaho Criminal Jury Instruction 1713, available
+
+at https://isc.idaho.gov/main/criminal-jury-instructions. The language of ICJI 1713 is nearly
+
+identical to the language in State v. Osborn. Defendant’s argument that the Idaho Supreme Court
+
+has somehow changed the wording of the HAC aggravator within the body of ICJI 1713 is flatly
+
+wrong and should be disregarded entirely.
+
+                                         CONCLUSION
+
+       Defendant’s constitutional claims are foreclosed by well-established caselaw, and his
+
+motion is legally meritless. It should be denied.
+
+       RESPECTFULLY SUBMITED this 9th day of October 2024.
+
+
+                                                    ____________________________________
+                                                    Ingrid Batey
+                                                    Special Assistant Attorney General
+
+
+                                                    ____________________________________
+                                                    William W. Thompson, Jr.
+                                                    Prosecuting Attorney
+
+
+
+
+STATE’S OBJECTION (HAC) - 6
+                                CERTIFICATE OF DELIVERY
+
+
+I hereby certify that true and correct copies of the was served on the STATE’S OBJECTION TO
+
+DEFENDANT’S MOTION TO STRIKE HAC AGGRAVATOR following in the manner indicated
+
+below:
+
+         Anne Taylor                              ☐ Mailed
+         Attorney at Law                          ☒ E-filed & Served / E-mailed
+         PO Box 2347
+                                                  ☐ Faxed
+         Coeur D Alene, ID 83816-9000
+                                                  ☐ Hand Delivered
+
+         Dated this 9th day of October 2024.
+
+
+                                                    ____________________________________
+                                                    Kim K. Workman
+
+
+
+
+STATE’S OBJECTION (HAC) - 7
+

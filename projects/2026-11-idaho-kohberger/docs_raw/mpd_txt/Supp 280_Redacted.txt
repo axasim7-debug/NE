@@ -1,0 +1,57 @@
+07/08/25                    Moscow Police Department                          1272
+12:06                    Law Supplemental Narrative:                 Page:       1
+  Details
+Incident Number   22-M09903           Name   Lawrence Mowery
+Sequence Number   280                 Date   16:37:30 05/22/24
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+CastViz Working Files
+
+Case: 22-M09903
+Date: 5/23/2024
+
+Previously, the Latah County Prosecutor's Office requested any CastViz session
+logs pertaining to the phone number              . I did not locate, nor
+remember creating, any session logs pertaining to the screenshots I created
+previously using CastVIZ Version #30.0.0 as described in my previous report.
+While preparing for the Motion to Comply Hearing, set for May 23, 2024, I found
+the following files. They appear to be two .Zip files containing what appear to
+be CastVIZ session files:
+Kohberger 48 HR Records.zip
+Kohberger Full Records.zip
+I also located the following files with the session data files:
+LocDBoR Near Crime Scene.csv
+Working CDRs.xlsx
+Export (1).kmz
+I located emails from FBI Special Agent Nick Ballance providing me with the
+files above.
+In trying to open these session files in CastVIZ to verify them, I received an
+error message. In reviewing the metadata, it showed the version of CastVIZ used
+to create them was 28.0.0. In speaking with FBI Agent Sean Kennedy, who teaches
+CastVIZ trainings, he informed me I would not be able to open a previous version
+session file (28) in a newer version of the software (30).
+In examining the drawings.json file, I found references to 1122 King Road and
+                   , Pullman, WA.
+Out of the abundance of caution, I placed these files into a folder named,
+"CastVIZ."
+I then located the folder in which the data I used for the CastVIZ session where
+I saved screenshots for exhibits. No session files were located. The screen
+shots created had a date of 4/19/2023.
+
+Out of the abundance of caution, I placed these files into a folder named,
+"Mowery."
+
+These files were then place onto a DVD and put into evidence. I contacted the
+Latah County Prosecutor and informed them of the records.
+
+Det. Lawrence Mowery - 162
+Thu May 23 08:08:52 PDT 2024
+
+REVIEWED-Fri May 24 07:48:47 PDT 2024
+CPL Payne #157
+

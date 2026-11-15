@@ -1,0 +1,47 @@
+07/08/25                      Moscow Police Department                       1272
+10:23                      Law Supplemental Narrative:               Page:      1
+  Details
+Incident Number     22-M09903          Name   Lawrence Mowery
+Sequence Number      54                Date   11:49:13 12/05/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Tinder Warrant Goncalves
+
+Case # 22-M09903
+Date: 12/5/2022
+
+On November 29, 2022, I applied and was granted a warrant for any data
+associated with Kaylee Goncalves' Tinder Accounts using the following
+identifiers:
+phone number of
+                    @yahoo.com
+                  @gmail.com
+On November 29, 2022, at approximately 1709 hours, the warrant was served via
+email at          @match.com.
+On December 2, 2022, I received an email from N     R     , Sr Paralegal and
+Director of the Legal department for Match Group, the parent company for Tinder.
+In this email, I was directed to use the Law Enforcement Portal
+(https://www.lert.matchgroup.com/) and re-submit the warrant.
+On December 4, 2022, I registered for access to the portal and received an email
+stating I was approved to use the portal and served the warrant. I logged into
+the LERT portal and submitted the warrant again, per R        request.
+On December 5, 2022, I received an email from Tinder stating the data requested
+pursuant to the warrant were available to download. I logged into the Law
+Enforcement Portal and began downloading the files to the forensic computers
+located in the secure forensic computer lab at the Moscow Police Department.
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also
+emailed a copy of the receipt to Tinder (         @match.com), as this was the
+originating email address associated with the documents.
+Det. Lawrence Mowery - 162
+Mon Dec 05 11:49:18 PST 2022
+
+Reviewed:
+Sgt. J. W. Lawrence
+Mon Dec 05 13:40:58 PST 2022
+

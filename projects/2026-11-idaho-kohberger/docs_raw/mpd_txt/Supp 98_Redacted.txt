@@ -1,0 +1,42 @@
+07/08/25                     Moscow Police Department                         1272
+10:48                     Law Supplemental Narrative:                Page:       1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number     98                Date   13:57:25 01/05/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Elan Warrant Service
+
+Case # 22-M09903
+Date: 1/4/2023
+
+On December 22, 2022, I applied for and was granted a warrant for financial
+records from Elan Financial Services for Kaylee Goncalves. A P1FCU debit card
+was found with Goncalves' name on it in her residence. The warrant was requested
+to see if any financial transactions could be located showing evidence in her
+murder. FBI SA Douglass assisted in the service of the warrant to Elan
+Financial.
+On December 22, 2022, at approximately 1825 hours, the warrant was served via
+email to                  @usbank.com.
+On January 5, 2023, I received an email from SA Douglass providing the data
+requested pursuant to the warrant. I downloaded the files to the forensic
+computers located in the secure forensic computer lab at the Moscow Police
+Department.
+
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also
+emailed a copy of the receipt to Elan (                 @usbank.com), as this
+was the originating email address associated with the documents.
+In examining the data, it appeared the account was registered to L     L       ,
+Kaylee Goncalves'            .
+Det. Lawrence Mowery - 162
+Thu Jan 05 13:57:30 PST 2023
+Reviewed By:
+Sgt. Dustin Blaker #108
+Mon Jan 09 14:31:20 PST 2023
+

@@ -1,0 +1,409 @@
+                                                                             Electronically Filed
+                                                                             10/9/2024 5:16 PM
+                                                                             Fourth Judicial District, Ada County
+                                                                             Trent Tripple, Clerk of the Court
+                                                                             By: Jennifer Keyes, Deputy Clerk
+
+
+LATAH COUNTY PROSECUTOR’S OFFICE
+WILLIAM W. THOMPSON, JR., ISB 2613
+PROSECUTING ATTORNEY
+INGRID BATEY, ISB 10022
+SPECIAL ASSISTANT ATTORNEY GENERAL
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+
+        IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+STATE OF IDAHO,
+           Plaintiff,                          Case No. CR01-24-31665
+
+V.                                             STATE’S OBJECTION TO DEFENDANT’S
+                                               MOTION TO TRIFURCATE PROCEEDINGS
+BRYAN C. KOHBERGER                             AND APPLY RULES OF EVIDENCE DURING
+           Defendant.                          ELIGIBIITY PHASE
+
+
+
+
+       Comes now the State of Idaho, by and through the Latah County Prosecuting Attorney, and
+
+hereby objects to Defendant’s Motion to Trifurcate Proceedings and Apply Rules of Evidence
+
+during the Eligibility Phase. For the following reasons, the Court should deny Defendant’s motion.
+
+                                          ANALYSIS
+
+       In his motion, Defendant disregards applicable statutory authority and binding appellate
+
+decisions and instead, makes a public policy argument that this Court should do two things. First,
+
+he asks this Court to disregard the language of Idaho Code §19-2515, which sets forth a two-part
+
+
+STATE’S OBJECTION (TRIFURCATE) - 1
+jury proceeding in capital cases. Def. Mem. in Support of Mtn. to Trifurcate. Under the Defendant’s
+
+proposed scheme, the trial would not be composed of a culpability phase and a sentencing phase,
+
+as set forth by statute, but would instead be split into three proceedings for culpability, eligibility,
+
+and punishment. Id. Next, Defendant asks the Court to disregard long-settled precedent holding
+
+that the Idaho Rules of Evidence do not apply to sentencing proceedings and to apply them anyway.
+
+The Court should decline to do either.
+
+        A. Idaho Code §19-2515 provides for a single sentencing proceeding in capital cases.
+
+        Idaho Code §19-2515 sets forth the procedure for sentencing in capital cases and calls for
+
+a single sentencing proceeding. Throughout §19-2515, the Code refers to “‘a’ special sentencing
+
+proceeding” or “‘the’ special sentencing proceeding,” clearly delineating a single hearing for the
+
+jury to determine whether capital punishment is appropriate. I.C. §19-2515.1 It is therefore
+
+unsurprising that in Idaho, capital cases have generally followed the two-part procedure outlined
+
+by statute. See, e.g., State v. Hall, 163 Idaho 744, 419 P.3d 1042 (2018); State v. Dunlap, 155 Idaho
+
+345, 313 P.3d 1 (2017); Sivak v. State, 112 Idaho 197, 731 P.2d 192 (1986); State v. Creech, 105
+
+Idaho 362, 670 P.2d 463 (1983).
+
+        In an attempt to bolster his request that this Court ignore Idaho’s statutory procedure for
+
+capital sentencing, Defendant claims that the United States Supreme Court’s decision in Ring v.
+
+
+
+
+1
+ Similarly, all of the criminal jury instructions set forth by the Idaho Supreme Court contemplate
+a single sentencing proceeding in capital cases. See, e.g., ICJI 1700B (“[i]f the defendant is
+convicted of murder in the first degree, there will then be a separate sentencing phase of the trial”);
+ICJI 1701 (“the defendant in this case has been convicted of the crime of First-Degree Murder. We
+will now have a sentencing phase of the trial regarding that offense”); ICJI 1702 (“in determining
+the facts, you may consider only the evidence admitted during the trial and during the sentencing
+phase”); and see ICJI 1703 (“[t]he State has the burden of proving the existence of a statutory
+aggravating circumstance, and that burden remains on the State throughout the sentencing phase”).
+See Idaho Criminal Jury Instructions, 1700 Death Penalty Sentencing Instructions, available at
+https://isc.idaho.gov/main/criminal-jury-instructions.
+STATE’S OBJECTION (TRIFURCATE) - 2
+Arizona renders a bifurcated model of sentencing “especially problematic,” and further asserts the
+
+Ring Court found that “statutory aggravators are elements of the offense of capital murder.” Def.
+
+Mem. in Support of Mtn. to Trifurcate, p. 6 (citing Ring v. Arizona, 536 U.S. 584, 609, 122 S.Ct.
+
+2428 (2002)). That is not at all what the Ring Court held. The Ring Court’s holding applied to a
+
+statutory scheme which allowed a jury to convict an individual of felony murder without
+
+determining whether the defendant was the actual killer, and then allowed a judge to make the
+
+factual finding that the defendant was the killer in order to determine whether to impose the death
+
+penalty. See generally Ring v. Arizona, 536 U.S. 584 (2002). Far from holding that “statutory
+
+aggravators are elements of the offense of capital murder,” the Ring Court held that because
+
+“Arizona’s enumerated aggravating factors operate[d] as ‘the functional equivalent of an element
+
+of a greater offense,’ the Sixth Amendment requires that they be found by a jury.” Id. at 585, 122
+
+S.Ct. 2430 (cleaned up). Two years later, in Schiro v. Summerlin, when analyzing a separate issue,
+
+the United States Supreme Court reiterated that Ring’s holding was entirely based on the right to a
+
+jury trial:
+
+               Ring held that a sentencing judge, sitting without a jury, may not
+               find an aggravating circumstance necessary for imposition of the
+               death penalty. Rather, the Sixth Amendment requires that those
+               circumstances be found by a jury. This holding did not alter the
+               range of conduct Arizona law subjected to the death penalty. It could
+               not have; it rested entirely on the Sixth Amendment’s jury trial
+               guarantee, a provision that has nothing to do with the range of
+               conduct a State may criminalize.
+
+Schiro v. Summerlin, 542 U.S. 348, 124 S.Ct. 2519 (2004) (citing Ring at 609, 122 S.Ct. 2428)
+
+(cleaned up) (emphasis added).
+
+        In State v. Abdullah the Idaho Supreme Court rejected an argument similar to the one the
+
+Defendant makes in his motion. 158 Idaho 386, 348 P.3d 1 (2015). The Abdullah defendant argued
+
+that under Ring, death penalty aggravators should be filed with an indictment or information,
+
+
+STATE’S OBJECTION (TRIFURCATE) - 3
+asserting that Ring transformed the aggravating circumstances into elements of the charged
+
+offenses. Id. at 457, 348 P.3d 72. The Idaho Supreme Court soundly rejected this contention,
+
+holding that “Ring did not transform the 'functional equivalent’ elements of aggravating
+
+circumstances to the level of actual elements of an offense to require the State to allege the
+
+aggravating circumstances in the indictment or information.” Id. at 457, 348 P.3d 73. The Court
+
+also explained that “[w]without the designation of aggravating circumstances as elements of a
+
+crime, the State’s formal notification of the intent to seek the death penalty does not carry the
+
+constitutional requirements of an indictment or information.” Id. Citing to its earlier holding in
+
+State v. Porter, the Abduallah Court reiterated it had “stated in clear terms that the statutory
+
+aggravating circumstances are not elements of a crime.” Id. at 458, 348 P.3d 73 (citing Porter v.
+
+State, 140 Idaho 780, 784, 102 P.3d 1099, 1103 (2004). The Defendant’s claim that Ring stands
+
+for the proposition that “statutory aggravators are elements of the offense of capital murder” is
+
+wholly unsupported by Ring itself, as well as Idaho Supreme Court cases that followed it.
+
+       Another problem with Defendant’s proposal to trifurcate proceedings is his lack of clarity
+
+as to how, as a practical matter, the presentation of aggravating and mitigating evidence would
+
+play out. Defendant asserts “[t]he eligibility phase, is akin to a guilt phase in that the State bears
+
+the burden of presenting evidence supporting each statutory aggravator it seeks to prove.” Def.
+
+Mem. in Support of Motion to Trifurcate, p. 6. Thus, under the Defendant’s proposed model,
+
+statutory aggravating evidence would be introduced and admitted during the second of three
+
+phases. Later in his brief, Defendant asserts
+
+               [t]he third phase, the sentencing phase, in which the jury determines
+               whether death is the appropriate punishment would be conducted
+               like a regular sentencing proceeding in which the Rules of Evidence
+               are not applied and other rights including the right to confrontation
+               are limited. All the evidence in aggravation that the State seeks to
+
+
+STATE’S OBJECTION (TRIFURCATE) - 4
+               introduce is admitted in the final phase for the purpose of
+               determining an appropriate sentence.
+
+Id., p. 9 (emphasis added).
+
+       Defendant goes on to explain that mitigation evidence would not be heard until the final
+
+phase of the trifurcated proceedings, proposing
+
+               [i]n contrast to the eligibility phase, the sentencing phase, in which
+               the jury decides whether the death penalty is appropriate, is more
+               like a non-capital sentencing determination. At this phase, it is the
+               defendant’s burden to present mitigating evidence and the
+               sentencer’s role to decide the appropriate punishment. Unlike
+               evidence of statutory aggravation which must be provided beyond a
+               reasonable doubt, mitigation does not need to meet this burden. The
+               jury does not need to find that the mitigation outweighs the
+               aggravation beyond a reasonable doubt. The jury considers both
+               statutory and non-statutory aggravation when making this
+               determination.
+
+Id. p. 7. Thus, under the Defendant’s proposed model, the jurors apparently would render a decision
+
+on whether or not the Defendant is death-eligible after hearing the State present statutory
+
+aggravators without hearing mitigation evidence from the Defendant.
+
+       In Lockett v. Ohio, the United States Supreme Court held that a capital defendant has the
+
+constitutional right to present mitigation evidence during sentencing proceedings. The Court held
+
+“that the Eighth and Fourteenth Amendments require that the sentencer, in all but the rarest kind
+
+of capital case, not be precluded from considering, as a mitigating factor, any aspect of a
+
+defendant's character or record and any of the circumstances of the offense that the defendant
+
+proffers as a basis for a sentence less than death.” Lockett v. Ohio, 438 U.S. 586, 604, 98 S.Ct.
+
+2954, 2964 (1978).
+
+       It is difficult to see how the model proposed by Defendant would benefit him in this case,
+
+where one of the statutory aggravators arises from Idaho Code §19-2515(9)(i), which looks to
+
+whether “the defendant, by his conduct, whether such conduct was before, during or after the
+
+
+STATE’S OBJECTION (TRIFURCATE) - 5
+commission of the murder at hand, has exhibited a propensity to commit murder which will
+
+probably constitute a continuing threat to society.” I.C. §19-2515(9)(i). It defies common sense to
+
+believe that Defendant would benefit from a trifurcated proceeding where the jurors would
+
+consider whether he poses a risk of future dangerousness and is therefore eligible for the death
+
+penalty without hearing all mitigation evidence relevant to that aggravator.
+
+       Though not binding on this Court, the potential unintended consequences of adopting
+
+Defendant’s proposed model were recently highlighted by post-conviction counsel for the
+
+defendant in State v. Renfro, which to the State’s knowledge, is the only capital case in Idaho where
+
+a court chose to adopt a trifurcated proceeding. Renfro v. State, Case No: CV-2017-9393, Amended
+
+Petition for Post Conviction Relief (filed 2/19/2019). In that case, defense counsel moved for a
+
+trifurcated proceeding based on nearly identical arguments. Motion and Memorandum in Support
+
+of Motion to Trifurcate Proceedings and Apply Rules of Evidence During the Eligibility Phase,
+
+State v. Renfro, CR-15-6589 (filed 2/19/17). However, in a subsequent petition for post-conviction
+
+relief, post-conviction counsel argued trial counsel’s request for a trifurcated proceeding
+
+constituted ineffective assistance of counsel:
+
+               While trifurcation can, in theory, benefit a capital defendant, it also
+               carries substantial risks of over-emphasizing and front loading
+               negative, aggravating evidence, without a concomitant emphasis on
+               mitigating evidence, if not properly implemented. Simply put,
+               trifurcation is a means to an end, not an end.
+
+Renfro v. State, Amended Petition for Post-Conviction Relief, p. 244.
+
+       The Court should decline to deviate from the procedures described in Idaho Code §19-
+
+2515 based on a reading of Ring that is wholly inconsistent with the United States Supreme Court’s
+
+own reading of that case.
+
+
+
+
+STATE’S OBJECTION (TRIFURCATE) - 6
+       B. It is well settled that the Rules of Evidence do not apply to sentencing proceedings.
+
+       As the Defendant straightforwardly acknowledges in his brief, “the Idaho Supreme Court
+
+has held that the Rules of Evidence do not apply at capital sentencing proceedings.” Def. Mem. in
+
+Support of Mtn. to Trifurcate, p. 8 (citing Dunlap, 155 Idaho 375). Defendant also acknowledges
+
+that “the Idaho Supreme Court has also held that the right to confrontation does not apply to
+
+sentencing procedures.” Id. (citing Sivak v. State, 112 Idaho 210 (1986) (internal quotations
+
+omitted).
+
+       The Defendant is correct: Idaho appellate courts have repeatedly held that the Idaho Rules
+
+of Evidence do not apply to sentencing proceedings. See, e.g., State v. Hall, 163 Idaho 744, 791,
+
+419 P.3d 1042, 1090 (2018); State v. Dunlap, 155 Idaho 345, 375, 313 P.3d 1, 31 (2017); and State
+
+v. Creech, 105 Idaho 362, 366, 670 P.2d 463, 467 (1983). Similarly, Idaho’s courts of appeal have
+
+also held that the Confrontation Clause does not apply to sentencing proceedings. See Dunlap at
+
+379, 313 P.3d at 35 (“[a]fter a lengthy and scholarly consideration of precedent from the U.S.
+
+Supreme Court. . . that court concluded that ‘the Confrontation Clause is inapplicable to the
+
+presentation of testimony relevant only the sentencing authority’s selection decision.’ We agree
+
+and hold the admission of the reports did not violate Dunlap’s Sixth Amendment rights.”); Sivak
+
+v. State, 112 Idaho 197, 216, 731 P.2d 192 (1986) (“we continue to adhere to our ruling in Creech
+
+and the position of the United States Supreme Court that the Sixth Amendment to the United States
+
+Constitution does not require that a capital defendant be afforded the opportunity to confront and
+
+cross-examine live witnesses at his sentencing proceedings.”)
+
+       Nevertheless, Defendant asks this Court to disregard the holdings of the Idaho Supreme
+
+Court and instead, be guided by the authors of various law review articles. See id. at p. 8-9. But
+
+this Court cannot do that. As the Idaho Supreme Court explained in State v. Guzman:
+
+
+
+STATE’S OBJECTION (TRIFURCATE) - 7
+              To this Court falls the obligation to be and remain the ultimate
+              authority in fashioning, declaring, amending, and discarding rules,
+              principles, and doctrines of precedential law by application of which
+              the lower courts will fashion their decisions. This Court has been
+              and remains the final arbiter of Idaho rules of law, both those
+              promulgated and those evolving decisionally.
+
+State v. Guzman, 122 Idaho 981, 987, 842 P.2d 660, 666 (1992). The Court should reject the
+
+Defendant’s request to override Idaho’s courts of appeal and deny his motion.
+
+                                       CONCLUSION
+
+       The Defendant asks the Court to discard the plain language within Idaho Code §19-2515
+
+and the unambiguous holdings of the United States Supreme Court and the Idaho Supreme Court.
+
+He urges the Court to ignore the procedures set forth and upheld by binding legal authority and
+
+instead, impose procedures based on public policy arguments. His motion should be denied.
+
+       RESPECTFULLY SUBMITED this 9th day of October 2024.
+
+
+                                                    ____________________________________
+                                                    Ingrid Batey
+                                                    Special Assistant Attorney General
+
+
+                                                    ____________________________________
+                                                    William W. Thompson, Jr.
+                                                    Prosecuting Attorney
+
+
+
+
+STATE’S OBJECTION (TRIFURCATE) - 8
+                              CERTIFICATE OF DELIVERY
+
+
+I hereby certify that true and correct copies of the STATE’S OBJECTION TO DEFENDANT’S
+
+MOTION TO TRIFURCATE PROCEEDINGS AND APPLY RULES OF EVIDENCE DURING
+
+ELIGIBIITY PHASE was served on the following in the manner indicated below:
+
+      Anne Taylor                               ☐ Mailed
+      Attorney at Law                           ☒ E-filed & Served / E-mailed
+      PO Box 2347
+                                                ☐ Faxed
+      Coeur D Alene, ID 83816-9000
+                                                ☐ Hand Delivered
+
+       Dated this 9th day of October 2024.
+
+
+                                                   ____________________________________
+                                                   Kim K. Workman
+
+
+
+
+STATE’S OBJECTION (TRIFURCATE) - 9
+

@@ -1,0 +1,671 @@
+                                                                                     Filed: 04/29/2025 14:02:47
+                                                                                     Fourth Judicial District, Ada County
+                                                                                     Trent Tripple, Clerk of the Court
+                                                                                     By: Deputy Clerk Waters, Renee
+                                                                                                         -
+
+
+
+
+               IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+
+                    THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+    STATE OF IDAHO,
+
+                  Plaintiff,                                Ada County Case No. CR01-24-31665
+    V
+                                                            ORDER ON DEFENDANT'S MOTION
+    BRYAN C. KOHBERGER,                                     TO STRIKE DEATH PENALTYAND
+                                                            ADOPT OTHER NECESSARY
+                  Defendant.                                PROCEDURES
+
+
+I.         INTRODUCTION
+           Defendant contends that the discovery produced by the State in this case has been
+
+voluminous and unorganized, thus rendering him unable to meaningfully review and investigate
+the State's evidence in time for trial. Asserting his due process rights have been violated,
+
+Defendant seeks sanctions in the form of striking the death penalty! and imposing certain
+
+organizational requirements upon the State to aid Defendant's review of discovery. The State
+responds that it has complied with all discovery obligations, including Brady," and there is no
+basis for sanctions or other measures.
+
+           Oral argument on the motion was held on April 9, 2025, after which the Court took the
+
+matter under advisement. Because Defendant has failed to show a discovery violation or due
+
+process violation by the State, sanctions are not warranted. The Court further declines to require
+the State to provide further organizational assistance to Defendant.
+
+II.        STANDARD
+           A trial court's decision regarding discovery violations must be supported by substantial
+and competent evidence in the record. State v. Koch, 157 Idaho 89, 93, 334 P.3d 280, 284
+
+(2014). Choice of sanctions for failure to comply with discovery obligations is discretionary.
+State v. Cochran, 129 Idaho 944, 949, 935 P.2d 207, 212 (Ct. App. 1997). On discretionary
+
+!
+ Defendant also moved to strike the State's experts, incorporating his Motion in Limine re: Vague and Undisclosed
+Expert Witnesses. The Court denied this motion in a separate order.
+
+     Brady v. Maryland, 373 U.S. 83 (1963).
+2
+
+
+
+
+                                                        1
+matters, the trial court must: 1) correctly perceive the issue as one of discretion; 2) act within the
+outer boundaries of its discretion; 3) act consistently with the legal standards applicable to the
+
+specific choices available to it, and; 4) reach its decision by the exercise of reason. Lunneborg v.
+My Fun Life, 163 Idaho 856, 863, 421 P.3d 187, 194 (2018).
+II.       ANALYSIS
+          Pursuant to Brady v. Maryland, a prosecutor has a constitutional duty to disclose
+
+favorable evidence to the accused where such evidence is "material" either to guilt or to
+
+punishment. 373 U.S. at 87.3 This duty covers not only exculpatory material, but also
+information that could be used to impeach a key government witness. Giglio v. United States,
+
+405 U.S. 150, 154 (1972). Brady does not, however, grant broad discovery rights to a defendant.
+
+State v. Campbell, 170 Idaho 232, 248, 509 P.3d 1161, 1177 (2022) (quoting United States v.
+
+Bagley, 473 U.S. 667, 675 n.7 (1985) ("An interpretation of Brady to create a broad,
+constitutionally required right of discovery 'would entirely alter the character and balance of our
+
+present systems of criminal justice.'")). It simply imposes a due process standard upon
+
+prosecutors by requiring them to disclose favorable, material evidence. Campbell, 170 Idaho at
+248, 509 P.3d at 1177 (citing Bagley, supra).
+           "In tandem" with Brady, the Idaho Criminal Rules require the prosecuting attorney to
+disclose "as soon as practicable following the filing of charges," any evidence which "tends to
+
+negate the guilt of the accused as to the offense charged or which would tend to reduce the
+
+punishment." State v. Gardner, 126 Idaho 428, 432, 885 P.2d 1144, 1148 (Ct. App. 1994)
+
+(quoting ICR 16(a)). The discovery obligations under both Brady and ICR 16 extend to
+                                                                                                            all the
+
+government agents having a significant role in investigating and prosecuting the offense."
+                                                                                                               Id. at
+
+433, 885 P.2d at 1149.
+           Defendant complains that the State has failed to satisfy its obligations under Brady and
+
+ICR 16 due to its method of discovery production.' He contends that the State has turned over
+
+3
+    In a capital case, this includes evidence that may mitigate punishment. Cone v. Bell, 556 U.S. 449, 475 (2009).
+
+                                                                                   on the motion Defendant confusingly
+  Despite presenting this motion in briefing as a Brady violation, at the hearing
+4
+
+           that the Court view the motion  "not  as a Brady violation but as a due process violation[.]" However,
+requested
+Defendant appears to misapprehend the scope of his due process rights regarding discovery. "There is no general
+constitutional right to discovery in a criminal case." Weatherford v. Bursey, 429 U.S. 545, 559 (1977). In fact," "the
+Due Process Clause has little to say regarding the amount of discovery which the parties must be afforded...
+Wardius v. Oregon, 412 U.S. 470, 474 (1973). Rather, it is Brady and its progeny that serve to uphold a criminal
+defendant's due process rights with regard to discovery. As the United States Supreme Court has explained, "[t}he
+                                                                                        the adversary system as the
+Brady rule is based on the requirement of due process. Its purpose is not to displace
+                                                            2
+more than 68 terabytes of data in discovery consisting of in excess of 13,000 photographs,
+
+15,000 video clips from businesses and 8000 video clips from residences.° It also includes more
+than sixty digital devices, digital data and search warrant return data. Defendant also contends
+
+the State has not provided the discovery in a searchable format, has not provided detailed logs
+
+and indexes that would facilitate defense's review of the material and has not specifically
+
+identified any Brady evidence. Defendant argues he has been prejudiced by the State's "data
+
+dump" method of discovery and contends that sanctions are warranted in the form of striking the
+death penalty and excluding witnesses. He also asks that the Court required the State to identify
+
+Brady material or "hot documents" within its discovery.
+        While the State acknowledges there is a "massive" amount of data in this case, it
+contends the majority is "completely irrelevant." Specifically, the State contends that most of the
+
+data is from cell phone extractions and weeks of surveillance video footage throughout the
+
+Moscow area obtained following the homicides. It affirmed on the record that it is unaware of
+
+any Brady material in those videos other than those specifically identified in motion practice and
+otherwise throughout the case. Further, the State's experts who reviewed the various devices
+
+(including cell phones) and other digital data have disclosed opinions that they found no
+connection between Defendant and the victims from the devices and data.
+         The State also notes that since this case began over two years ago, it has continuously
+turned over to Defendant all the information it received from the various investigating agencies
+
+in the same format as the information was received by theState.This was done at Defendant's
+                                                                                                had" from the get-
+request, who specifically asked that the State produce "everything [the State]
+                                                                                                         State
+go. Defendant also issued 400 itemized requests for discovery in this case. Thus, the
+contends it is on the "same playing field" as Defendant regarding discovery.' In addition, the
+
+
+                                                                                       does not occur." Bagley, 473
+primary means by which truth is uncovered, but to ensure that a miscarriage of justice
+US. at 675. Thus, it is Brady that governs the Court's analysis of Defendant's alleged due process rights violation.
+
+5
+ Other than those identified in warrant applications, expert disclosures, motion practice and in the exhibit lists, the
+numerous surveillance videos show nothing of consequence.
+
+6
+ The State explained that all the evidence in this case was routed to it from the various investigating agencies Once
+received, the State would copy it and then place it directly on Defendant's server in the same fashion and format
+                                                                                                                  it
+was received. The State has maintained its files in that same format.
+
+7
+ In his reply, Defendant asserted that the State utilizes an     pensive, technologically powerful case management
+software program called "Prosecutor by Karpel"    which    has a global search function to search all discovery and case
+documents at one time,  generate reports  from such   searches  and automatically transcribe audio and video files.
+
+                                                            3
+State points out that on September 4, 2024-at approximately the same time as its discovery
+
+deadline     it provided Defendant with a 320-page index identifying the location of requested
+
+discovery, a description of the evidence, and the date discovered. In addition, all of the evidence
+received from the FBI        which comprises the majority-was provided to Defendant with a
+searchable index.® In sum, the State asserts it has provided everything required by ICR 16(a) and
+
+Brady and disputes that it has engaged in any discovery violations.
+        A.       Defendant Has Not Established a Discovery Violation, Thus Sanctions Are
+                 Not Warranted.
+        "There are three components of a true Brady violation: The evidence at issue must be
+favorable to the accused, either because it is exculpatory, or because it is impeaching; that
+
+evidence must have been suppressed by the State, either willfully or inadvertently; and prejudice
+
+must have ensued.'" State v. Hall, 163 Idaho 744, 830, 419 P.3d 1042, 1128 (2018) (quoting
+
+Strickler v. Greene, 527 U.S. 263, 281-82 (1999). Defendant, as he appears to have
+
+acknowledged at the hearing, cannot establish these elements because he has not identified any
+withheld evidence that is exculpatory or impeaching. Further, he has not identified any
+
+obligation under ICR 16 that the State has violated. His quibble, rather, is with the method in
+which the State has produced discovery, arguing it is effectively             raa   data dump that prevents him
+
+from meaningfully review the discovery for Brady material. There are, however, several
+
+problems with Defendant's position.
+        First, while neither Brady nor ICR 16 prescribe the form discovery must take, it is well
+settled under federal law that there is no direct obligation for the government to identify or
+
+itemize Brady material for the defense. Rhoades v. Henry, 638 F.3d at 1039 (noting absence of
+
+authority for the proposition that the government's Brady obligations require it to point the
+defense to specific documents within a larger mass of material that it has already turned over).
+
+"While the Supreme Court in Brady held that the Government may not properly conceal
+
+exculpatory evidence from a defendant, it does not place any burden upon the Government
+                                                                                                               to
+
+
+
+
+Because he does not have access to similar technology, Defendant disputes he is on the same playing field as the
+State. However, at the hearing, the State disputed its evidence software program has any of these features. Instead,
+the prosecutors rely on a self-created spreadsheet to identify and manage discovery.
+
+8
+ When Defendant ran into a problem with some of the disclosed PDF documents with password protection, the
+State worked with Defendant to resolve the problem.
+
+
+                                                          4
+conduct a defendant's investigation or assist in the presentation of the defense's case." United
+
+States v. Marrero, 904 F.2d 251, 261 (Sth Cir.1990).?
+
+         Further, voluminous discovery alone is not a basis for finding concealment under Brady.
+This occurs typically in "open file" discovery where the government effectively makes its entire
+file available to a criminal defendant. United States v. Saffarinia, 424 F.Supp.3d 46, 85 (D.D.C.
+
+2020). This method of discovery-which Defendant requested of the State in this case-carries
+the recognized benefit of increasing "the efficiency and fairness of the criminal process."
+
+Strickler v. Greene, 527 U.S. 263, 283, n. 23 (1999). It is only when the government uses the
+
+open file policy to hide exculpatory material or otherwise prevent a defendant's access to such
+material that a Brady violation will be found. For example, in United State v. Skilling, the Fifth
+
+Circuit observed that while the use of voluminous open file does not alone violate Brady, its
+misuse by the government can give rise to a Brady violation, stating:
+
+         For instance, evidence that the government 'padded' an open file with pointless or
+         superfluous information to frustrate a defendant's review of the file might raise
+         serious Brady issues. Creating a voluminous file that is unduly onerous to access
+         might raise similar concerns. And it should go without saying that the government
+         may not hide Brady material of which it is actually aware in a huge open file in
+         the hope that the defendant will never find it. These scenarios would indicate that
+         the government was acting in bad faith in performing its obligations under Brady.
+
+554 F.3d 529, 577 (5th Cir. 2009), rev'd in part on other grounds by Skilling v. United States,
+561 U.S. 358 (2010).
+
+         However, where there is no proof that the government "larded its production with entirely
+irrelevant documents" or "made access to documents unduly onerous," a Brady violation will not
+
+be found. U.S. v. Warshak, 631 F.3d 266, 296-97 (6th Cir.2010) (emphasis in original).
+
+         Here, Defendant has not shown any bad faith by the State with regard to discovery
+                                                                                        find that the manner in
+production. While the discovery is indeed voluminous, the Court does not
+which the State produced it violates Brady or otherwise constitutes misconduct. The discovery
+was produced to Defendant as he specifically requested. The State received the information from
+its investigating agencies, labeled the materials and turned them over to Defendant through a
+
+shared access drive in the same format as received. This method not only puts the State and
+
+
+9
+ See also, United States v. Pelullo, 399 F.3d 197, 212 (3d Cir. 2005) (Brady does not impose an obligation "on the
+                                                                          information from materials that are so
+prosecution team members to ferret out any potentially defense-favorable
+disclosed."')
+
+
+                                                         5
+Defendant on equal footing regarding discovery review, it also serves the important purpose of
+
+protecting against claims of missing or manipulated documents if the State puts them in a
+different format or organization or otherwise conveys them to Defendant in a different manner
+
+than received. While the State acknowledges that much of the discovery is "completely
+
+irrelevant," including surveillance videos and data from the numerous phones, computers and
+other devises, it did not produce it for purposes of padding the file or otherwise attempting, in
+
+bad faith, to hide Brady information in its haystack of information. Rather, Defendant asked for
+
+"everything" and "everything" is what he received. Defendant cannot demand everything under
+the sun and then complain about the weight of all the planets.
+
+       Moreover, Defendant has not produced any evidence showing the State has hidden Brady
+material or made his access to discovery unduly onerous. Although the State did not provide all
+
+of the discovery in a searchable format (as it was not received by the State in such a format), it
+provided a 320-page index identifying the specific location of evidence produced in response
+                                                                                                    to
+
+Defendant's 400 individual discovery requests, a description of the evidence, and the date
+discovered. In addition, the discovery received from the FBI     which comprised the majority-
+
+was provided to Defendant in a searchable format. Other than the cell phone/digital data and
+
+video surveillance footage, Defendant has not identified what information his counsel will be
+unable to review prior to trial and why that information is material. Further, the State has
+                                                                                               than
+stipulated that it is unaware of any Brady material in the video surveillance footage (other
+that specifically identified in motion practice) and its experts who have reviewed all the cell
+                                                                                         Defendant
+phone and other digital data in the case have opined they found no connection linking
+to the devices and data analyzed.
+
+        In addition, Defendant's complaints of being unable to meaningfully review the
+
+discovery ring hollow. Defendant has been receiving discovery in the same manner for over two
+                                                                                               such
+years. In that time, he has not once sought a remedy from this Court to regulate discovery,
+as requiring the State to provide discovery in a different format. He has not sought additional
+
+resources under ICR 12.2 to hire additional staff to review discovery or obtain litigation
+
+document control software to help organize and sort the evidence. His lead counsel insisted that
+
+she be allowed to take on a second high-profile capital case despite the voluminous discovery in
+
+
+
+
+                                                  6
+this case.'° Further, at oral argument, lead counsel indicated that her practice is to personally
+
+review all the discovery herself, rather than rely on associates and staff to review materials to cut
+
+through the less relevant information and point to what materials need review by lead counsel.
+These actions are not indicative of an overburdened defense team. In fact, it is evident Defendant
+
+has been able to capably navigate the discovery given his more than robust motion practice, the
+
+scope and breadth of the experts retained and the disclosures filed. See, Warshak, 631 F.3d at
+197-98 (no Brady violation where there was no proof the government hid exculpatory evidence
+
+and where the defendant's motion practice belied his claim that he was unable to navigate the
+
+discovery).
+         In the cases cited by Defendant where the courts have struck the death penalty as a
+
+sentencing option, the defendant had demonstrated that the prosecution either willfully!! or
+
+inadvertently (but with extreme resulting prejudice)!" violated discovery obligations. Here,
+however, Defendant has not established a discovery violation under Brady or ICR 16 in the first
+
+place. He has not shown the State has attempted to concealed specific materials within the
+
+discovery and he has not shown discovery to be unduly burdensome to the point where he is
+unable to examine the items that are material and of evidentiary value.'? Consequently, there is
+
+no basis for any sanction, let alone striking the death penalty.
+
+
+
+
+© State v.
+         Skylar Meade, Nez Perce County Case No CR35-24-3750. See, State v. Kohberger, CR01-24-31665,
+October 8, 2024, ex parte Hearing Minutes (Sealed).
+
+   United States v. Rivera-Clemente, 2012 WL 12911051, at *1 (D.P.R. Sept. 19, 2012) (where the government
+showed a "troubling reluctance" to disclose information that was relevant to the death penalty certification process,
+                                                                                                    States v. Rosado-
+including Brady material, decertification was appropriate due to prejudice to defendant); United
+Rosario,   1998 WL   28273, at *3 (D.P.R. Jan. 15, 1998) (striking death penalty as sanction where  the government
+refused to comply with discovery order and filed a notice of intent to seek the death penalty without first seeking
+certification); Gardner v. Florida, 430 U.S. 349 (1977) (vacating death sentence for violation of due process
+                                                                                                                   where
+death sentence was imposed based, in part, on a presentence investigation report    that was not disclosed  in full to
+defendant so as to allow him the opportunity   to deny or explain).
+
+ 2
+  State y. Lori Vallow Daybell, Fremont County Case No. CR22-21-1624 (March 21, 2023 hearing) (striking death
+                                                                            100 hours of phone calls and video visits
+penalty as a sanction for the State's inadvertent failure to produce over
+            statements  of the defendant until two weeks   prior to jury selection and the defendant had not waived
+containing
+                                                                                       the extent necessary, the Court
+speedy.) The transcript of the hearing was filed Nov. 24, 2023 in that case and, to
+takes judicial notice thereof under IRE 201(c).
+
+  Indeed, Defendant has struggled to identify materials that he has been unable to review at all, except to indicate
+13
+
+
+that lead counsel has not been able to personally review ail the surveillance videos and devise data produced (most
+of which the State has conceded are not of evidentiary value and are neither exculpatory nor inculpatory).
+
+
+                                                            7
+        B.        The Court Declines to Impose Organizational Requirements on the State.
+        Defendant additionally asks the Court to require the State to identify Brady material or
+
+"hot documents" within its discovery.'4 The Court finds neither is warranted.
+        While the general rule is that the government need not specifically identify Brady
+material within a larger mass of disclosed evidence, courts will sometimes "order the
+
+government to organize voluminous discovery to comply with the spirit of its statutory and
+constitutional obligations." United States v. Salyer, 2010 WL 3036444, at *2 (E.D. Cal. Aug. 2,
+
+2010) (citing U.S. v. W R Grace, 526 F.3d 499, 509-510 (9"" Cir. 2008)). Such organization
+measures include requiring that the government specifically designate any known Brady material
+
+within the discovery. Whether to order such identification is highly dependent on the facts and
+circumstances of the case. Saffarina, 424 F.Supp.3d at 85. Courts consider not only the volume
+
+of discovery and how it was produced, but the relative position of the defendant requesting
+identification, such as "'(i) a defendant's access to counsel, (ii) whether the defendant is
+incarcerated, (iii) a defendant's access to resources, (iv) a defendant's ability to participate in the
+
+preparation of his own defense, and (v) whether the interests of multiple
+                                                                                            defendants are aligned."
+
+United States v. Lacey, 2018 WL 4963292, at *2 (D. Ariz. Oct. 15, 2018) (citations omitted).
+         In Saffarinia, for example, the government produced approximately one million records
+
+and 3.5 million pages of documents in discovery. With this discovery, the government provided
+                                                                                                    format. Id. at 83-
+production logs, Bates-stamping, and metadata in an electronic and searchable
+84. The court found that, under the circumstances, the government's Brady obligations required
+
+it to identify "any known Brady material to the extent that the government knows of any such
+
+material in its production[.]" Jd. at 85. In doing so, the court emphasized that the defendant was
+
+"an individual defendant who neither ha[d] the benefit of parallel civil litigation, nor access to
+
+voluntary corporate assistance to sift through the massive amounts of documents within
+                                                                                                                the
+
+                                                                                                        the case pro
+government's voluminous production"; that the defendant's counsel was handling
+bono with "time constraints" and "limited financial resources"; and "that the government
+
+assisted by at least two federal prosecutors and several federal agents from at least two law
+
+
+
+
+\4
+  Nonetheless, this issue is largely moot given the representations by the State regarding its knowledge
+                                                                                                                of Brady
+materials within the discovery    and the exchange  of the State's expert disclosures and exhibit lists that, from  the
+state's perspective, call out the "hot"  documents.
+
+                                                             8
+enforcement agencies            had the luxury of reviewing this material on a rolling basis over the
+
+course of its three-year investigation." Jd. at 88.'°
+
+        Likewise, in Salyer, the court directed the government to identify previously disclosed
+Brady/Giglio material to the defendant where the government collected documentary information
+during a five-year investigation, and the government's massive production consisted of electronic
+information with multiple gigabytes and millions of pages. Salyer, 2010 WL 3036444, at *1, *3.
+
+The court reached that conclusion based on the circumstances of that case, which included: (1)
+there was a "singular, individual defendant, who [was] detained in jail pending trial, and who
+
+[was] represented by a relatively small defense team[;]" and; (2) "[t]here [was] no parallel civil
+
+litigation, and [the defendant] [did] not have access to voluntary corporate assistance in
+attempting to find the documents needed by the defense." /d. at *7.
+
+        By contrast, in United States v. Meek, the court declined to compel the government to
+                                                                                                                      in
+identify Brady material in its discovery, noting that: 1) the government produced the discovery
+a user-friendly, searchable, and indexed format; 2) there was no indication that the government
+
+deliberately concealed or buried any exculpatory evidence in the information it turned over to
+                                                                                                                     the
+
+defense; 3) the defendants were sophisticated, formerly high-level executives represented by
+
+experienced and talented counsel from notable law firms, and; 4) the defendants had access
+                                                                                                                to
+
+the discovery for over a year and had it in the same format at did the government. 2021 WL
+
+1049773, at *5 (S.D. Ind. Mar. 19, 2021). The court further pointed out that ordering the
+
+government to "identify or label already produced material as covered by Brady-and by
+omission, identify non-Brady material-only invites future disputes as to whether the
+Government did an adequate job of identifying such material or characterized the material
+
+consistent with the Defendants' view of it." /d. (emphasis in original).'®
+
+
+   See also, United States v. Blankenship, 2015 WL 3687864 (S.D.W.Va. June 12, 2015) (requiring government to
+15
+
+
+specifically designate any known Brady materials within its four million pages
+                                                                                 of discovery that was "disorganized
+and unsearchable,"  where  the government   had several years to review  the material yet the defendant had only five
+months,  and  where the defendant  claimed the government   was  burying  exculpatory  evidence); U.S. v. Hsia, 24
+F.Supp.2d 14, 29 (D.D.C. 1998) ("The government cannot meet its Brady obligations by providing [the defendant]
+with access to 600,000 documents and then claiming that [the defendant] should have been able to find the
+exculpatory information in the haystack."); United States v. Cutting, 2017
+                                                                             WL 132403, at *8-9 (N.D. Cal. Jan. 12,
+2017) (requiring government to identify  all known  Brady  material  in discovery numbering in the millions of pages).
+
+16
+  See also, Skilling, 554 F.3d at 576 (holding government was not required to identify Brady material where there
+was no indication that the government was hiding exculpatory evidence and where its discovery, consisting of
+several hundred million pages of documents, was electronic and searchable, accompanied by indices and identified
+"hot documents" that the prosecution viewed as particularly relevant).
+
+                                                           9
+        While Defendant is a currently incarcerated, he has a robust defense team!" and has not
+faced time constraints given his speedy trial waiver, with this case well over two years old.
+
+Further, unlike in Saffarinia and Salyer, Defendant has had nearly as much time as the State to
+review discovery. Defendant was arrested on December 30, 2022, approximately six weeks after
+the homicides. Defense counsel filed a notice of appearance on January 12, 2023, and the State
+
+first began providing discovery on January 18, 2023. Thus, this is not a situation where the State
+has had the benefit of a years-long investigation compared to a defendant who has mere months
+
+to review the investigative material.
+
+        Further, the Court shares the significant concern voiced in Meek that requiring the State
+to identify Brady material in already produced discovery, or to organize it in a way different
+
+from how the State received it, would simply invite future litigation as to whether the State did a
+
+sufficient job. Meek, 2021 WL 1049773, at *5. Not infrequently, what constitutes Brady material
+is fairly debatable. Where the circumstances do not, as here, cry out for a departure from the
+
+general rule, the Court will not invite such future disputes.
+        In addition, there is no need to require the State to disclose a list of "hot documents,"
+
+which is a tool imposed by some courts for particularly voluminous discovery to aid the
+defendant in identifying material that deserve closer attention. Chen, Brian, Big Data and Brady
+
+Disclosures, 99 N.Y.U.L.Rev. 1754, 1788 (Nov. 2024). The State has effectively already done
+so. Defendant was indicted by a grand jury. This process required the State to present evidence
+
+supporting the elements of the charges and identify any "substantial evidence which directly
+
+negates the guilty of the subject of the investigation." ICR 6.1(b)(1). Defendant is privy to
+                                                                                                            all the
+
+evidence produced by the State at the grand jury proceedings in this matter. Further, the State
+
+recently disclosed its exhibit and witness list identifying precisely what the State intends to use
+to support its case. Additionally, the State has taken reasonable steps to aid Defendant in
+
+navigating the discovery, including by: 1) providing a detailed index of all the discovery
+produced identifying the location, a description of the evidence, and the date discovered; 2)
+
+providing the FBI materials with a searchable index; 3) working with counsel to resolve access
+problems to documents, and; 4) representing that the surveillance videos other than those
+
+
+
+17
+   For capital cases in Idaho, a defendant who has court appointed counsel must have a lead and a second chair
+                                                                                                    and mitigation
+attorney. Here, Defendant has always employed at least three attorneys, has employed investigators
+specialists and  has retained dozens of experts.
+
+                                                         10
+highlighted by the State do not contain any relevant footage and that the devices, phones and
+other digital data of the victims and others do not show any connection between the Defendant
+
+and the victims. Collectively, this provides Defendant reasonable means to meaningfully review
+
+the discovery he requested.'* Consequently, the Court declines to impose additional
+
+organizational requirements.
+V.         ORDER
+           Based on the foregoing, Defendant's Motion to Strike the Death Penalty and Adopt Other
+
+Necessary Procedures Due to State's Disclosure Violations is DENIED.
+
+
+IT IS SO ORDERED.
+
+
+
+DATED thi                  y of April, 2025.
+
+
+                                                                              84
+                                                                n Hipp
+                                                       District Judge
+
+
+
+
+18
+     The Court continues to strongly urges defense counsel to request additional resources and personnel from the
+money judge if it is felt needed.
+
+                                                           11
+                                    CERTIFICATE OF SERVICE
+
+                        4/29/2025     served a true and correct copy of the ORDER ON
+|
+ hereby certify that on                      |
+
+
+
+
+DEFENDANT'S MOTION TO STRIKE DEATH PENALTY AND ADOPT OTHER NECESSARY PROCEDURES
+LATAH COUNTY PROSECUTING ATTORNEY'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+ASHLEY JENNINGS
+SENIOR DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JOSHUA D. HURWIT
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountvid.qov
+
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: jeff.nye@aq.idaho.qov
+
+MADISON ALLEN
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Madison.allen@aq.idaho.gov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetaylorlaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+FIRST DISTRICT PUBLIC DEFENDER
+JAY W. LOGSDON
+VIA EMAIL: jay.logsdon@spd.idaho.gov
+
+BICKA BARLOW
+Pro Hac Vice
+VIA EMAIL: bickabarlow@sbcqlobal.net
+
+
+
+
+                                                       TRENT TRIPPLE
+                                                       Clerk of the Court
+
+                                                 By:
+                                                       Deputy Clerk 4/29/2025 2:04:26 pm
+
+
+
+
+CERTIFICATE OF SERVICE
+

@@ -1,0 +1,64 @@
+07/08/25                      Moscow Police Department                      1272
+10:31                      Law Supplemental Narrative:              Page:      1
+  Details
+Incident Number    22-M09903           Name   Lawrence Mowery
+Sequence Number     59                 Date   12:28:57 12/05/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Victim Phone Extractions
+
+Case # 22-M09903
+Date: 12/4/2022
+
+On November 15, 2022, I contacted Det David Taylor of the Coeur d'Alene Police
+Department with a request for an agency assist. I requested assistance unlocking
+the cell phones of Kaylee Goncalves, Maddie Mogen, Xana Kernodle and Ethan
+Chapin, the victims in this case. I emailed Det Taylor a copy of the signed
+warrant describing the phones as being searchable.
+
+On November 16, 2022, the phones were transported to the CDA Police Department
+for a forensic brute force attempt to unlock them, however Det Taylor stated he
+was not able to extract any information from the locked phones and the phones
+were not supported for the brute force pin code extraction. The phones were then
+returned to the Moscow Police Department on November 17, 2022.
+
+I then asked for assistance from Cpt Tyson Barrett in attempting to gain pin
+codes from family members to access the data on the devices. I was provided pin
+codes for Mogen, Kernodle and Chapin, which successfully unlocked the devices.
+The pin codes provided for Goncalves' phone did not unlock the device.
+On the three devices I was able to unlock, I performed advanced logical
+extractions on the devices at the Moscow Police Department. A report for each
+device will be completed separately.
+
+On November 20, 2022, I again requested the assistance of Det Taylor in gaining
+a full-file system extraction on the three unlocked devices. The phones were
+delivered to CDA Police Department on November 21, 2022. On November 22, 2022,
+Det Taylor stated he would not be able to complete the extractions.
+On November 23, 2022, I went to the CDA Police Department and picked up the
+phones. I then took them to the Post Falls Police Department and spoke with Det
+Neil Uhrig. Det Uhrig informed me his forensic tools would not support a
+full-file system extraction.
+On November 25, 2022, I went to the Walla Walla Police Department and spoke with
+Det Chris Ruchert. Det Ruchert stated her forensic tools would be able to
+support full-file system extractions on the unlocked devices, and would be able
+to complete limited extraction on Goncalves' locked phone. I left the phones
+with Det Ruchert to be extracted.
+On November 28, 2022, Det Ruchert informed me the phone extractions were
+complete and ready to be picked up. On November 29, 2022, Det Justin Deane
+picked up the phones and returned them to the Moscow Police Department. I
+received the four devices and placed them in the secure computer forensic lab.
+The extracted data was copied to the forensic computers and verified by hash
+values.
+
+An examination of the data will be completed at my earliest convenience.
+Det. Lawrence Mowery - 162
+Mon Dec 05 12:29:01 PST 2022
+Reviewed:
+Sgt. J. W. Lawrence
+Mon Dec 05 13:59:54 PST 2022
+

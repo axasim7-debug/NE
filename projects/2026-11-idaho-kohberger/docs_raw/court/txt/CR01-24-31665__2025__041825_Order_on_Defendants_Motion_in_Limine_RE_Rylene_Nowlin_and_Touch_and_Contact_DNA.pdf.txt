@@ -1,0 +1,757 @@
+                                                                            Filed: 04/18/2025 10:25:44
+                                                                            Fourth Judicial District, Ada County
+                                                                            Trent Tripple, Clerk of the Court
+                                                                            By: Deputy Clerk Waters, Renee
+                                                                                             -
+
+
+
+
+           IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+
+               THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO,
+
+             Plaintiff,                               Ada County Case No. CR01-24-31665
+
+                                                      ORDER ON DEFENDANT?'S MOTION IN
+ BRYAN C. KOHBERGER,                                  LIMINE RE: RYLENE NOWLIN AND
+                                                      'TOUCH' AND 'CONTACT? DNA
+             Defendant.
+
+
+
+I.     INTRODUCTION
+       Defendant moves in limine to exclude the testimony of Rylene Nowlin, the Lab Manager
+with the Idaho State Police Forensic Services Laboratory who was disclosed by the State to
+
+testify about "touch" DNA and the transfer of DNA generally and, more specifically, that the
+DNA located on the knife sheath was more likely the result of a direct transfer. Defendant
+argues that Ms. Nowlin's testimony, as well as any other testimony referencing the terms "touch"
+or "contact" DNA and/or purporting to be an opinion about the means or mechanism how the
+
+DNA ended up on the knife sheath, is irrelevant or impermissible under IRE 403 and fails to
+satisfy IRE 703.
+       Oral argument on the motion was held on April 9, 2025, after which the Court took the
+matter under advisement. The Court does not find exclusion of Ms. Nowlin's opinions is
+
+warranted. However, the Court requests that the parties instruct their witnesses to avoid use of
+
+terms "touch DNA", "contact DNA" and "trace DNA."
+
+Hl.    STANDARDS
+       The admissibility of expert opinion testimony is discretionary. State v. Almaraz, 154
+Idaho 584, 590, 301 P.3d 242, 248 (2013). Likewise, whether to exclude evidence under IRE 403
+
+is discretionary. State v. Rambo, 173 Idaho 272, 281, 540 P.3d 974, 983 (2023). On these
+
+discretionary matters, the trial court must: 1) correctly perceive the issue as one of discretion; 2)
+act within the boundaries of such discretion; 3) act consistently with any legal standards
+
+applicable to the specific choices before it, and; 4) reach its decision by an exercise of reason. Id.
+
+
+                                                  1
+Ill.    FACTS
+        A knife sheath was recovered from the crime scene in this matter and swabbed for DNA.
+A sample of DNA, identified as Q1.1, was extracted from the swab by the Idaho State Police
+Forensics Lab ("ISP Lab"). The DNA concentration was 0.168 mg/uL. It was subsequently tested
+
+using standard DNA STR (Short Tandem Repeat) methods. The STR profile developed revealed
+that the DNA came from a single source male profile.
+
+        The State disclosed Rylene Nowlin, the Lab Manager for the ISP Lab to testify to the
+
+operations of a forensic laboratory, the structure of the ISP Lab and the types of evidence it
+
+processes. Her disclosure further states:
+        Ms. Nowlin will also testify to touch DNA and transfer of DNA. Specifically,
+        Nowlin will testify to the characteristics and nature of touch DNA, including how
+        it is deposited and transferred to an item of evidence; the methods used to collect
+        and preserve touch DNA samples from items of evidence; the procedures and
+        protocols used by forensic scientists to extract and analyze touch DNA; the
+        manner in which results from touch DNA samples are interpreted; and the
+        reliability of touch DNA analysis and its acceptability in the field of forensic
+        science. Nowlin will also testify to the potential for DNA to transfer between an
+        individual and an object(s), including the distinction between primary and
+        secondary transfer and the factors influencing the likelihood of transfer.
+State's Exhibit S-21 (Nowlin Initial Discl.)!
+        On February 17, 2025, the State submitted its rebuttal disclosures including one from Ms.
+Nowlin. The focus of the second disclosure is touch/contact DNA and direct versus indirect
+
+transfer, including factors that can influence the transfer and persistence of DNA on an item. The
+final paragraph of her rebuttal disclosure states:
+
+        Many complicated factors can influence the likelihood of transfer of DNA and the
+        persistence of the transferred DNA after deposition. Current DNA technology
+        cannot conclusively answer the question of when DNA was deposited on an item
+        or by what mechanism (i.e. direct or indirect transfer). It is possible the DNA
+        detected on M2022-4843 Item 1.1 resulted from secondary transfer; however,
+        based on Nowlin's training and experience it is her opinion given the quantity of
+        DNA detected on M2022-4843 Item 1.1 (0.168ng/l) and given the DNA profile
+        obtained is single source it is more likely the result of a direct transfer.
+
+State's Exhibit S-11 (Nowlin Rebuttal Discl.).
+
+
+
+
+!
+ The State filed an "Amended Supplemental Disclosure" for Ms. Nowlin on March 3, 2025 ("Exhibit S-7") but it
+did not change the foregoing paragraph.
+
+                                                       2
+IV.     ANALYSIS
+        Defendant's argument is three-fold. First, he seeks to exclude any testimony by Ms.
+Nowlin regarding when and how the DNA found on the knife sheath was transferred there,
+
+arguing it conflicts with the current consensus within the forensic science community, is outside
+her expertise and is speculative. Second, he argues generally that use of the terms "touch" and
+
+"contact" DNA should be prohibited at trial as misleading, confusing and unfairly prejudicial.
+
+Finally, he argues that Ms. Nowlin's rebuttal opinions must be stricken as improper rebuttal.
+Each will be addressed in turn.
+       A.       Ms. Nowlin May Offer Disclosed Testimony about DNA Transfer.
+       If scientific, technical, or other specialized knowledge will assist the trier of fact to
+understand the evidence or to determine a fact in issue, a witness qualified as an expert by
+
+knowledge, skill, experience, training, or education, may testify thereto in the form of an opinion
+or otherwise. IRE 702. To determine whether expert testimony is admissible, the district court
+
+must consider two factors. State v. Caliz-Bautista, 162 Idaho 833, 835, 405 P.3d 618, 620 (Ct.
+
+App. 2017). First, to give expert opinion testimony, a witness must be qualified as an expert on
+the matter at hand. Jd. Second, once the witness is qualified as an expert, the trial court must
+
+determine whether the expert's opinion testimony will assist the trier of fact in understanding the
+
+evidence. /d.; IRE 702. Expert opinion which is speculative, conclusory, or unsubstantiated by
+
+facts in the record is of no assistance to the jury in rendering its verdict and, therefore, is
+
+inadmissible as evidence. Weeks v. E. Idaho Health Servs., 143 Idaho 834, 838, 153 P.3d 1180,
+1184 (2007).
+
+                1.      Ms. Nowlin is sufficiently qualified.
+       Whether a witness is sufficiently qualified as an expert is a matter largely within the
+discretion of the trial court. /d. In arguing Ms. Nowlin is not qualified to render an opinion on
+
+DNA transfer, Defendant contends that within the forensic community, there is a consensus that
+only experts specially trained in DNA transfer are qualified to render such an opinion. He asserts
+that, as a lab analyst, Ms. Nowlin does not have the expertise to proffer an opinion in this case as
+to how the DNA was transferred to the sheath.
+
+       To establish this "consensus," Defendant relies on two forensic science publications
+regarding DNA transfer, both of which recommend that DNA analysts should avoid rendering
+opinions regarding DNA transfer absent specialized training. The first article, authored by five
+
+
+                                                   3
+forensic scientists in 2019, discusses "what we know about DNA transfer and the associated
+
+elements of DNA persistence, prevalence and recovery, sometimes referred to as DNA-TPPR."
+
+R. van Oorschot, et. al., DNA transfer in forensic science: A review, Forensic Science
+International: Genetics, Volume 38, pp. 140-166 [p. 2] (Jan. 2019)." The express purpose of the
+
+article is to "assist casework investigations of criminal activities" and the information therein
+
+"should be used where relevant." /d., p. 2. It further states:
+
+           Appropriately trained forensic practitioners are best placed to provide opinion and
+           guidance on the interpretation of profiles at the activity level. However, those
+           requested to provide expert opinion on DNA-related activity level* issues are
+           often insufficiently trained to do so. We advocate recognition of DNA activity
+           associated expertise to be distinct from expertise associated with the identification
+           of individuals. This is to be supported by dedicated training, competency testing,
+           authorisation, and regular fit for purpose proficiency testing.
+Td.
+
+           Notably, the journal in which the article appears-Forensic Science International:
+Genetics       is an international one and each of the five scientists are from outside the United
+
+States. Id., p. 1.
+
+           The second article is a report published in May of 2024 by a group of individuals referred
+to as the "Expert Working Group (EWG) on Human Factors in Forensic DNA." Melissa Taylor,
+
+et al,    Forensic DNA Interpretation and Human Factors: Improving the Practice Through a
+
+Systems Approach, NIST Interagency/Internal Report                    8503 (May 6, 2024). The express
+                                                                  -
+
+
+
+
+purpose for the report-which was sponsored by the U.S. Department of Commerce's National
+Institute of Justice Office of Investigative and Forensic Sciences                was to "conduct a scientific
+
+assessment of the effects of human factors on forensic DNA interpretation with the goal or
+
+
+
+?
+  Defendant did not provide this article to the Court. The Court obtained a 19-page portion of the article from the
+web, including the abstract which contained the quote relied upon by Defendant. The web version does not reference
+the page numbers of the published article (i.e., pp. 140-166), but is paginated as pp. 1-19. The citations herein are to
+the web version. https://www.sciencedirect.com/science/article/abs/pii/S872497318#preview-section-cited-
+by
+
+  By "activity level," the authors mean "the generally accepted hierarchy of propositions for evaluation of evidence
+3
+
+
+in forensic science." R. van Oorschot, p. 3
+
+4
+    Available at: https://www.nist.gov/publications/forensic-dna-interpretation-and-human-factors-improving-practice-
+through-systems.
+There were approximately 25 individuals in the EWG. They included an international group of forensic science
+experts in DNA interpretation, academics in forensic science and law, statisticians, cognitive scientists, and
+representatives of professional organizations and standards-developing organizations.
+
+                                                           4
+recommending strategies for improving the production, evaluation, and communication of DNA
+results." Taylor, et al., p. 1. Section 7 of the report is dedicated to DNA transfer; specifically, the
+
+"how and when" questions. With regard to expert testimony regarding the transfer of DNA, the
+
+report explains that "[e]xcept in ground-truth-known experiments, where an individual is
+observed to have been in contact with a surface/location, it is not possible to know whether the
+
+transfer was direct or indirect." /d., p. 172. It further states that providing opinions about the
+
+probability or possibility of direct or indirect transfer is "problematic" stating:
+        Evaluations considering factors such as transfer, persistence, and background
+        require and evaluation of the biological results given propositions that address not
+        the source of the DNA, but the activities that may have taken place. This in turn
+        requires the use of data, knowledge, and expertise on DNA transfer, persistence,
+        prevalence, and recovery (DNA-TPPR) [] rather than knowledge of DNA profile
+        characteristics, probabilistic genotyping software (PGS), and population
+        frequencies. In this regard, DNA-TPPR, and assessments given activity-level
+        propositions, are a separate skill, distinct from 'standard' DNA profiling and
+        interpretation []. It may be a function limited to only a portion of DNA analysts
+        with the required expertise. At present, there are not adequate educational
+        opportunities to inform these types of issues within the United States.
+Id., pp. 173-74.
+        The report goes on to note that "[a]n expert rarely (if ever) has all the information needed
+to perform a robust, balanced, and transparent evaluation of biological results regarding transfer
+
+or specific activities on the witness stand." /d., p. 175. Consequently, the report advanced the
+
+following recommendation:
+         Recommendation 7.1: DNA analysts should not opine about the possibility or
+        probability of direct or indirect transfer having occurred in a case.
+Id., p. 177.
+        Based on these two articles, Defendant posits that Ms. Nowlin, as a "typical lab analyst,"
+
+is not qualified to substitute her judgment in the face of the "weight of the forensic community's
+
+agreement that the science and literature does not support any analyst testifying about the when
+and how of transfer." Mtn., p. 8.
+
+        The State responds that Defendant's argument is both legally and factually flawed. The
+
+legal flaw is that it misapprehends the appropriate standard to determine admissibility of an
+expert opinion. The State asserts the standard is not the "consensus of the scientific community"
+but on whether her knowledge will assist the trier of fact. The factual flaw is Defendant's failure
+
+
+
+
+                                                   5
+to mention the lack of consensus in the EWG report regarding Recommendation 7.1. Footnote
+
+455 of the article notes that two EWG members dissented from the recommendation, stating:
+
+        While [the dissenters] acknowledge that analysts are often asked to respond to
+        'how' and 'when' questions in criminal cases and agree that testimony on this
+        subject can be misleading or otherwise problematic, they believe that the broad
+        prohibition in Recommendation 7.1 puts the proverbial 'cart before the horse' by
+        not first requiring an assessment of the type outlined in Recommendation 7.3.°
+        Moreover, they worry that supporting 7.1 would imply the need for analysts to
+        shift to a new paradigm that has not yet been sufficiently vetted within the
+        specific context of the U.S. Court system.
+Id., p. 177, n. 455.
+        The Court finds Ms. Nowlin to be sufficiently qualified to render her opinion on DNA
+
+transfer, despite her lack of specialization in DNA-TPPR. The test for determining whether a
+witness is qualified as an expert under IRE 702 is "not rigid." Weeks, 143 Idaho at 837, 153 P.3d
+
+at 1183. A qualified expert is one who possesses "knowledge, skill, experience, training, or
+
+education." IRE 702. This language "is intended to provide wide latitude in how a witness may
+
+qualify as an expert. 6 Clifford S. Fishman & Anne Toomey McKenna, Jones on Evidence §
+43:4 (7th ed.) (Dec. 2024 update). In situations where a witness has "general expertise in a broad
+
+subject but is not a specialist in the specific aspect of that subject that is pertinent in the case[,]
+
+[mJost courts conclude that general knowledge can be sufficient to qualify the witness as an
+expert." 29 Federal Practice & Procedure (Evid.) (Wright & Miller) § 6264.2 (2d ed.) (June 2024
+
+update). "This is because the issue under Rule 702 is simply whether the testimony of a witness
+with only a general background is reasonably likely to help the trier of fact, not whether a
+
+specialist would be preferable." /d. "Differences in expertise bear chiefly on the weight to be
+assigned to the testimony by the trier of fact, not its admissibility." Huss v. Gayden, 571 F.3d
+442, 455 (5th Cir. 2009).°
+
+        According to her affidavit, Ms. Nowlin is "currently qualified and proficiency tested as a
+DNA analyst" and has been so qualified for twenty years. Aff. Nowlin, 1 4. Her C.V. reveals that
+
+
+5
+  Recommendation 7.3 acknowledges the lack of DNA-TPPR educational opportunities within the United States and
+recommends that the federal government "fund collaborative efforts to review the foundations and principles of
+evaluating biological results when considering alleged activities" and, depending on the findings, makes funds
+available "to educate and guide DNA and legal communities on the review, research, selection and validation of
+appropriate methods to account for [DNA-TPPR] when assessing biological results." /d., p. 182
+6
+  Given at IRE 702 is substantively similar to its federal counterpart, federal authorities interpreting FRE 702 are
+instructive. Martin v. Hoblit, 133 Idaho 372, 376 n. 3, 987 P.2d 284, 288 n. 3 (1999).
+
+
+                                                         6
+she worked as a forensic scientist in Biology/DNA at the Idaho State Police Forensic Services
+
+Laboratory for eleven years before becoming its Manager. She is certified by the American
+Board of Criminalistics and is a Molecular Biology Fellow. She is              raa   member of four professional
+
+organizations in the forensics field. She has taught courses to law enforcement and medical
+personnel on DNA in the forensics context and has published scholarly articles on the subject.
+        Based on her professional experience in the forensic DNA field, Ms. Nowlin                     at the very
+
+least   possesses the general expertise to opine to matters of DNA transfer. Given her general
+
+expertise, any lack of specialized DNA-TPPR training as advocated by Defendant's authorities
+
+goes to the weight of her testimony, not its admissibility. Further, in challenging her
+
+qualifications, Defendant is seeking to hold Ms. Nowlin to an aspirational standard of expertise
+in the forensic field that is, for now, is nothing more than a recommendation                 and a disputed one
+
+at that-within a segment of the forensic science community.' Not only do Defendant's articles
+
+fail to establish any established standard of qualification, Ms. Nowlin disputes that there is a
+"consensus" in the forensic DNA community that DNA lab analysts should not opine as to
+DNA-TPPR. /d., 1 5. She points out that not only were there dissenters to the EWG's
+Recommendation 7.1, there is "a divide in for forensic DNA community on this topic." Jd., { 6.
+
+She explains:
+        One side supports the [EWG's] recommendation. The other side believes that not
+        offering an opinion based on knowledge of molecular biology/DNA when it may
+        aid the trier of fact is unethical. At the most recent American Academy of
+        Forensic Sciences meeting held in Baltimore in February of 2025, there were
+        presentations supporting both sides of this argument, demonstrating the current
+        divide in the community.
+Id.
+
+        More importantly, Idaho has not adopted the standard for admissibility set forth in
+Daubert v. Merrell Dow Pharm., Inc., 509 U.S. 579 (1993), which considers, inter alia, whether
+the expert's theory is "commonly agreed upon or generally accepted." Weeks, 143 Idaho at 838,
+
+153 P.3d at 1184 (noting that the expert's opinion need not be based on information that is
+
+"commonly agreed upon" or "universally accepted."). Therefore, whether there is a general
+consensus supporting Ms. Nowlin's opinion or not is irrelevant to its admissibility.
+
+
+
+
+7Defendant has not established a scientific consensus in the United States outside of the EWG group, which is
+comprised on only 25 individuals, only some of which are forensic scientists.
+
+                                                         7
+        Notably absent from either party's briefing are court cases discussing the issue of
+whether DNA analysts are qualified to testify to DNA transfer. A review of case law reveals that
+
+such opinions are offered by "DNA experts" without disputes over qualifications.* It appears
+
+only one court (a military court) has squarely addressed the issue and declined to find the DNA
+analyst was unqualified to render testimony. United States v. Hill, 63 M.J. 718, 722 (A.F. Ct.
+Crim. App. 2006). In doing so, the court rejected the notion that DNA transference was a
+
+"separate science" from DNA extraction and analysis and, therefore, the "expert in DNA" was
+
+qualified to testify to transfer. Id."
+        In sum, given the liberal standard for qualifying a witness, Ms. Nowlin's experience and
+
+training in the area of forensic analysis of DNA generally, the current divide in the forensic
+community regarding whether lab analysts are qualified to testify to DNA transfer, and the lack
+of jurisprudence on the matter, the Court declines to find that Ms. Nowlin lacks the qualifications
+necessary to provide an opinion on DNA transfer in this case. Defendant's challenges to her
+
+qualifications affect simply the weight to be afforded her testimony.
+                  2.       Ms. Nowlin's testimony will assist the trier of fact.
+
+        Having determined Ms. Nowlin is qualified as an expert, the Court must determine
+whether her testimony will assist the trier of fact in understanding the evidence. This condition
+
+goes primarily to relevance. Caliz-Bautista, 162 Idaho at 836, 405 P.3d at 621 (citing Daubert,
+509 U.S. at 591). One aspect of relevancy is whether the proffered expert testimony is
+
+sufficiently tied to the facts of the case such that the testimony will aid the jury in resolving a
+factual dispute. Jd. (citing Daubert, supra). An expert's opinion that is speculative or
+
+unsubstantiated by facts in the record is inadmissible because it would not assist the trier of fact.
+
+Id. (citation omitted). If the expert's testimony is competent and relevant, it may be admissible;
+
+the weight given to the testimony is left to the trier of fact. Jd. (citation omitted).
+
+
+
+
+8See, &. g., State v. Castro, 206 So. 3d 1059, 1063 (La. App. 2016) (DNA analyst testified that "a lower level of
+DNA would be found through secondary transfer, and that, considering the high concentration of [the defendant's]
+DNA found on [the victim's] right breast, it was highly unlikely that the right breast swab would have contained
+transferred DNA"), writ denied, 227 So. 3d 285 (La. 2017); State v. Shine, 113 N.E.3d 160, 172 (Ohio App. 2018)
+(forensic scientist from regional laboratory testified that defendant was major contributor to DNA found on shell
+casings and opined that defendant's DNA was present through primary transfer).
+
+°
+  While military courts are governed by separate evidentiary rules, the rule governing expert testimony (MRE 702)
+is the same as FRE 702 and substantively similar to IRE 702.
+
+                                                          8
+         Defendant argues Ms. Nowlin's rebuttal opinion that the DNA detected on Q1.1 "is more
+
+likely the result of a direct transfer" is speculative because it offers "possibilities" that are not
+based on "substantive scientific principles." The State responds that Ms. Nowlin's rebuttal
+
+disclosure sufficiently explains the scientific principles underpinning her opinion and the reasons
+
+for her opinion. In addition, the fact that Ms. Nowlin cannot testify "conclusively" as to when
+and how the DNA arrived on the knife sheath does not, according to the State, render her opinion
+
+speculative or otherwise unhelpful to the jury.
+          The Court finds Ms. Nowlin has identified an adequate scientific basis for her opinion.
+Her rebuttal disclosure reveals that she will discuss the difference between single source DNA
+
+profiles and mixtures, concepts pertaining to direct and secondary transfers of DNA, and the
+variables that can influence the transfer, persistence and recovery of DNA.'° In fact, this
+discussion closely mirrors the TPPR-DNA principles advocated in the articles cited by
+
+Defendant. While Defendant may not think Ms. Nowlin is adequately qualified to offer an
+
+opinion on DNA-TPPR, the does not render her opinion devoid of scientific principles.
+         In addition, although Ms. Nowlin admittedly cannot testify conclusively as to whether the
+
+DNA was transferred to the sheath by direct contact rather than indirect, this does not render her
+opinion speculative. "Testimony is speculative when it theorizes about a matter as to which
+evidence is not sufficient for certain knowledge." Adams v. State, 158 Idaho 530, 538, 348 P.3d
+
+145, 153 (2015). An opinion that is speculative suggests only possibilities and may be properly
+excluded since the opinion would not assist the trier of fact. Slack v. Kelleher, 140 Idaho 916,
+
+923, 104 P.3d 958, 965 (2004).
+         Ms. Nowlin's opinion does more than suggest possibilities; she states that while it is
+
+"possible" the DNA on the knife sheath was from secondary transfer, it is "more likely" the
+result of direct transfer given that: 1) the DNA was             a
+                                                                     single source profile, and; 2) there was a
+.0168 ng of DNA detected on the sheath. As the State points out, an expert may testify to a
+
+"likely" opinion, particularly where the expert acknowledges the limitation of such opinion. In
+State v. Hall, for example, the forensic pathologist testified that, based on the lividity patterns
+observed on the victim's body, he believed the victim was "most likely" hogtied after her death.
+
+
+'° The variables cited in Ms. Nowlin's rebuttal disclosure include whether the DNA
+                                                                                         profile was single source or
+mixed, whether   the transfer was through body fluid,  the depositor's biological factors  (i.e., shedder status, personal
+hygiene, rate of perspiration), the composition of the  surface, the length of contact, the  nature of contact,
+environmental conditions and the activities of the depositor, among others.
+
+                                                             9
+163 Idaho 744, 779-80, 419 P.3d 1042, 1077-78 (2018). In finding the opinion properly
+
+supported, the Idaho Supreme Court found this testimony was not "based upon mere
+
+'speculation' or 'possibilities,' but was based upon the lividity patterns[.]" Jd. In addition, the
+Court noted that the expert admitted the limitations of his opinion. Jd.
+        Ms. Nowlin's opinion is no different. She will testify that, based on scientific principles
+
+regarding DNA transfer and her observations of the quantity of DNA and type of profile found
+on the knife sheath, it was "more likely" a direct transfer rather than a secondary transfer.
+
+Further, the fact that she admittedly cannot render a "conclusive" opinion about how the DNA
+arrived on the knife sheath and that it is "possible" it was through secondary transfer does not
+
+render her opinion inadmissible; it is simply an acknowledged limit to her opinion.
+
+       Neither party has cited to case law discussing the admissibility of expert opinions on
+DNA transfer; however, the cases reviewed by the Court indicate that Ms. Nowlin's opinion is
+acceptable despite her inability to reach a definitive conclusion. In United States v. Perez, the
+
+government's DNA expert testified about the DNA transfer with regard to a mixed DNA profile
+found on a gun, 85% of which was attributable to the defendant. 2021 WL 5999261, at *3 (D.
+
+Conn. Dec. 20, 2021). He discussed the differences between direct and secondary DNA transfer
+
+and variables that can affect DNA transfer. /d. at *3. He further testified that:
+
+       [T]he amount of DNA found from a secondary transferor when compared to a
+       direct transferor is expectingly less, specifically stating 'I haven't seen an example
+       where the primary toucher has less DNA than the secondary person' and
+       '[t]ypically ... the initial touching is going to give more DNA.' He did testify that
+       it was possible, but 'in general, [he] would think the direct touching is going to
+       transfer more of that individual's DNA.'
+
+Id. (internal citations omitted).
+
+        Based on this testimony and the fact that 85% of the DNA was attributable to the
+
+defendant, the court concluded that a jury could reasonably infer that the defendant's DNA was
+
+deposited by direct transfer. Jd. at *6.
+        In State v. Glass, the court found, based on the lack of expert testimony regarding DNA
+
+transfer, there was insufficient evidence to uphold his conviction. 279 A.3d 203 (2022). In that
+
+case, DNA was recovered from a latex glove at the scene of the crime. Analysis revealed a
+mixed profile, the results of which were consistent with the defendant being the major DNA
+
+profile. Jd. at 209. The expert stated she could not, however, determine from her testing whether
+the transfer was primary versus secondary. /d. at 210. The court found the fact that the defendant
+
+                                                  10
+was a "major contributor" was, alone, not sufficient to establish the defendant's identity as the
+
+perpetrator. Jd. at 214-15. It noted:
+        DNA experts testifying in both the United States District Court for the District of
+        Connecticut and courts in other jurisdictions, however, have offered the
+        evidentiary basis lacking in the present case that is, the correlation between the
+        amount of DNA deposited on an item and the likelihood that such DNA was
+        deposited via primary transfer as opposed to secondary transfer.
+Id. at 220 (collecting cases) (emphasis in original).
+
+        Among the cases cited by the Glass court was Perez, supra. As concluded in Perez, the
+Glass court found that testimony correlating the amount of DNA on an item with the likelihood
+that it was transferred via direct or indirect transfer "can provide a jury with an evidentiary basis
+
+from which it reasonably can infer that a defendant's having been designated as a major
+
+contributor to a mixture of DNA makes it more likely that the defendant's DNA was deposited
+                                   !
+via primary transfer." Jd.     |
+
+
+
+
+        These cases demonstrate that it is not outside the permissible bounds of expert testimony
+to opine as to the likelihood of DNA transfer and, in fact, such opinion can be crucial to putting
+
+the DNA evidence into context. Indeed, Ms. Nowlin is offering the very opinion that the Glass
+
+court found lacking; i.e., the correlation between the amount of DNA deposited and the
+
+likelihood it was transferred by direct or indirect contact. This will aid the jury in understanding
+the evidence. Consequently, her opinions will not be excluded.
+
+         B.       Misleading DNA Labels Are To Be Avoided.
+         Defendant next argues that the term "touch" or "contact" DNA should be excluded under
+
+IRE 403 because it could mislead the jury into inferring that the depositor of DNA actually
+touched the object on which it was found. The State only addresses the term "touch" DNA and
+
+argues it should be allowed because it is          common term within the field. Further, the State
+
+
+
+
+11
+  See also, United States v. Brooks, 678 F. App'x 755, 757 (10th Cir. 2017) (expert testified that there is no way to
+confirm secondary transfer on basis of forensic testing but also testified that secondary transfer was "highly
+unlikely" on basis that defendant was major contributor of DNA.); Castro, 206 So.3d at 1063 (expert testified that
+based on the high concentration of DNA found on victim's breast, it was unlikely transferred DNA); Shine, 113
+N.E.3d at 172 (expert testified that because defendant was found to be a major contributor to DNA found on shell
+casings and the minor contributor's DNA was present at a "very low level," defendant's DNA was present through
+primary transfer).
+
+
+                                                          11
+points out that it will be clear to the jury from Ms. Nowlin's testimony that "touch" DNA is a
+term used only to distinguish that type of DNA from other kinds of DNA.'*
+
+          Relevant evidence may be excluded "if its probative value is substantially outweighed by
+the danger of unfair prejudice, confusion of the issues, or misleading the jury, or by
+
+considerations of undue delay, waste of time, or needless presentation of cumulative evidence."
+LR.E. 403. The issue here is whether the word "touch" is prejudicial as it implies that the DNA
+was transferred via touch.
+
+          Touch DNA is a shorthand reference to the epithelial or skin cells that may be left behind
+on an object when it is touched or comes into contact with the skin. Victoria Kawecki, Can't
+
+Touch This? Making A Place for Touch DNA in Post-Conviction DNA Testing Statutes, 62 Cath.
+
+U. L. Rev. 821, 828 (2013). It is sometimes referred to as "trace DNA." State v. Phillips, 430
+S.C. 319, 331-32, 844 S.E.2d 651, 657 (2020). It is             a   common term in the DNA forensics field.
+
+Aff. Nowlin, § 7. Indeed, scientific and legal literature as well as case law is replete with
+references to "touch" DNA, including the two articles relied upon by Defendant.!? In fact,
+
+Defendant's own expert, Dr. Ruth Ballard, references touch" DNA in her report.
+
+          However, as one of Defendant's articles observes, the term "touch" "can be misleading,
+as it implies a specific mode of action and, to some degree, also a type of biological source." R.
+
+van Oorschot, et. al, p. 11. Instead, the authors suggest using the term "trace" DNA, which is
+
+"less descriptive." Jd. Ms. Nowlin, however, disagrees that "trace" DNA is a better term, stating:
+          The term "Trace DNA" implies amount. The word trace is defined as a very small
+          amount and is used in the scientific literature when describing evidence samples
+          with low amounts of DNA that do not yield a profile or only a partial profile. I
+          would not be willing to use that term and it would be inappropriate to apply that
+          term to the DNA on the knife sheath because a trace amount is not what I detected
+          on Item 1.1, and referring to it as trace DNA would be misleading to the trier of
+          fact.
+
+Aff. Nowlin, § 8.
+          Given the ubiquitousness of the term "touch DNA" in not only the forensic DNA field,
+but in the legal and scientific field as well, the Court is unwilling to prohibit the term. There is
+
+
+2
+    Ms. Nowlin's disclosure states she will discuss the "characteristics and nature" of touch DNA. See, S-21.
+
+13
+   At least one well-known treatise on evidence has an entire section dedicated to "touch" DNA. See, e.g., 7 Jones on
+Evidence at § 60: 9; see also, McGiboney v. State, 160 Idaho 232, 236, 370 P.3d 747, 751 (Ct. App. 2016)
+(discussing the advent of "touch" DNA testing in Idaho).
+
+
+                                                          12
+too great a risk that a witness or counsel will inadvertently refer to the term out of habit,
+
+potentially giving rise to a motion for a mistrial for violation of a court order. Moreover, the
+Court is not concerned that the jury will be misled given that both parties have DNA experts who
+can easily disabuse the jury of any mistake in correlating "touch DNA" with actual touching.
+
+        That said, the Court asks that counsel avoid the use of the terms!' as much as possible so
+that any potential confusion can be bypassed. To this end, the parties are instructed to submit a
+
+mutually agreeable instruction to provide to the jury in case the terms are inadvertently used. Ifa
+witness uses the term, opposing counsel can examine the witness about the broader meaning of
+the term within the forensic community, and the instruction may be given at that time.
+
+        C.       Ms. Nowlin's Rebuttal Opinions are Proper.
+        Defendant's final argument is that Ms. Nowlin's anticipated rebuttal testimony is
+
+improper because it does not respond to any opinion by Defendant's own expert regarding the
+DNA transfer. The Court does not agree.
+        "Rebuttal evidence is evidence that explains, repels, counteracts, or disproves evidence
+which has been introduced by or on behalf of the adverse party." Van Brunt v. Stoddard, 136
+Idaho 681, 685-86, 39 P.3d 621, 625~26 (2001). As the State notes, Defendant's DNA expert,
+
+Ruth Ballad, acknowledges "[tJhere is good support that Mr. Kohberger's DNA was found on
+Item 1.1, a swab from the knife sheath." Exh. D1-B, p.19. However, her report indicates she will
+
+inform the jury that DNA on an item could be the result of "indirect transfer" from "skin cell
+
+DNA." /d., p.18. The disclosure implies the jury should give little weight to Defendant's DNA
+at the crime scene because it could just mean Defendant's DNA was nothing more than
+
+"nnocuously shed skin cells/DNA" prior to the crime and the knife sheath could "be picked up
+and transported to a crime scene by someone else who sheds no DNA onto it." Jd. She also
+
+opines that the DNA was found in a location that suggests it would persist for a long time
+because it was protected. /d., p. 19.
+
+        Given Dr. Ballad's anticipated testimony, Ms. Nowlin's rebuttal is proper. She will
+discuss the process of primary and secondary transfer, the variables affecting transfer and
+
+persistence and why she is of the opinion that the DNA on the knife sheath was more likely the
+result of a direct transfer. Of course, if Dr. Ballard limits her testimony on the stand, the Court
+
+
+1
+  This limitation includes the terms "touch DNA" and "contact DNA," as was requested in the motion. In addition,
+    4
+
+based on Ms. Nowlin's concern over the term "trace DNA," the Court will advise against its use as well.
+
+                                                       13
+can reconsider the scope of Ms. Nowlin's rebuttal. However, based on Dr. Ballard's report, Ms.
+
+Nowlin's anticipated rebuttal is appropriate.
+V.     ORDER
+       Based on the foregoing, Defendant's Motion in Limine re: Rylene Nowlin and Reference
+to "Touch" and "Contact" DNA is GRANTED, in part, and DENIED, in part.
+
+
+IT IS SO ORDERED.
+
+DATED                  of April, 2025.
+
+
+
+
+                                                  even Hipp!
+                                                District Judge
+
+
+
+
+                                                  14
+                                    CERTIFICATE OF SERVICE
+
+                        4/18/2025       served a true and correct copy of the ORDER ON
+ hereby certify that on
+DEFENDANT'S MOTION IN LIMINE RE: RYLENE NOWLIN AND 'TOUCH' AND 'CONTACT' DNA
+LATAH COUNTY PROSECUTING ATTORNEY'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+ASHLEY JENNINGS
+SENIOR DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountvid.qov
+
+JOSHUA D. HURWIT
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountvid.qov
+
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: jeff.nye@ag.idaho.gov
+
+MADISON ALLEN
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Madison.allen@aa.idaho.gov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetaylorlaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+FIRST DISTRICT PUBLIC DEFENDER
+JAY W. LOGSDON
+VIA EMAIL: jay.logsdon@spd.idaho.qov
+
+BICKA BARLOW
+Pro Hac Vice
+VIA EMAIL: bickabarlow@sbcqlobal.net
+
+
+
+
+                                                       TRENT TRIPPLE
+                                                       Clerk of the Court
+
+                                                 By:
+                                                       Deputy Clerk 4/8/2025 10:26:10am
+
+
+
+
+CERTIFICATE OF SERVICE
+

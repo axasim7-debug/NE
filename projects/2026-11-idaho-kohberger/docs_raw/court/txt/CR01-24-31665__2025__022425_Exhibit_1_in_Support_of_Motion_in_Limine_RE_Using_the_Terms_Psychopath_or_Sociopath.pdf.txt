@@ -1,0 +1,695 @@
+Anne Taylor Law, PLLC
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d'Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Bicka Barlow
+Pro Hac Vice
+2358 Market Street
+San Francisco, CA 94114
+Phone: (415) 553-4110
+
+Assigned Attorney:
+Anne C, Taylor, Attorney at Law, Bar Number: 5836
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+
+
+    IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+            STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO                                  CR001-24-31665
+
+                      Plaintiff,                 FILED UNDER SEAL
+                                                 EXHIBIT 1 INSUPPORT OF MOTION
+                                                 IN LIMINE
+ BRYAN C. KOHBERGER,                             RE: USING THE TERMS PSYCHOPATH
+                                                 OR SOCIOPATH
+                      Defendant
+
+
+
+      COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and hereby
+
+files under seal Exhibit 1 in Support of Motion in Limine RE: Using the Terms Psychopath or
+
+Sociopath:
+
+
+
+FILED UNDER SEAL EXHIBIT IN SUPPORT OF MOTION IN
+                     -
+                                   1
+
+LIMINE RE: USING THE TERMS PSYCHOPATH OR SOCIOPATH                                  Page 1
+   •   Exhibit 1 – Affidavit of Dr. John Edens
+
+
+
+       DATED this ___24____ day of February, 2025.
+
+
+
+
+                                                   _____________________________
+                                                   ANNE C. TAYLOR
+                                                   ANNE TAYLOR LAW, PLLC
+
+
+
+                              CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___24____ day of February, 2025 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+FILED UNDER SEAL – EXHIBIT 1 IN SUPPORT OF MOTION IN
+LIMINE RE: USING THE TERMS PSYCHOPATH OR SOCIOPATH                                     Page 2
+                        DECLARATION OF JOHN F. EDENS, PH.D.
+
+       I, John F. Edens, swear under penalties of perjury that the information in this declaration
+
+is true and correct to the best of my knowledge:
+
+                               I. Background and Qualifications
+
+1.     I am a Professor in the Department of Psychological and Brain Sciences at Texas A&M
+
+University (TAMU). I am also formerly the Director of Clinical Training (2012-2016) of the
+
+doctoral training program in Clinical Psychology at TAMU. Additionally, I was a licensed
+
+psychologist in the state of Texas for 20 years until I retired my license (in good standing) in
+
+2019. Since 1998, I have been actively involved in education and training in the areas of
+
+psychological and personality assessment, forensic psychology, violence risk assessment,
+
+abnormal psychology, research methodology, and professional ethics. In addition to classroom
+
+teaching, I have been invited to conduct advanced training workshops for mental health, legal,
+
+and criminal justice professionals throughout North America, Europe, Asia, and Australia.
+
+2.     I have conducted research on psychological assessment and diagnosis and the prediction
+
+of human behavior since the 1990s and have published approximately 200 peer-reviewed
+
+scientific journal articles, book chapters, and professional manuals related to these topics. Most
+
+of my research has focused on forensic and correctional mental health assessment issues, such as
+
+(a) the scientific reliability and validity of psychological testing and diagnosis among criminal
+
+offender populations and (b) the potential for criminal offenders to engage in future violence and
+
+other forms of socially deviant behavior inside and outside institutional settings.1
+
+3.     In addition to conducting basic research on psychological assessment, I have published
+
+extensively on controversies concerning the use of various psychiatric diagnoses, psychological
+
+tests, and assessment instruments and procedures in forensic and correctional settings,
+
+
+
+
+                                                   1
+particularly those intended to assess psychopathic and antisocial personality traits such as the
+
+Hare Psychopathy Checklist-Revised (PCL-R) and
+
+Diagnostic and Statistical Manual of Mental Disorders (DSM) diagnosis of antisocial
+
+personality disorder (ASPD).2 I have also consulted on these and related mental health issues in
+
+approximately 50 capital murder trials over the course of my career.
+
+                              II. Referral Question & Background
+
+4.     I have been asked by defense counsel for Brian Kohberger to briefly summarize the
+
+relevant literature concerning the scientific status of potential expert testimony that a criminal
+
+defendant involved in capital murder litigation                                           ASPD.
+
+This declaration was prepared in anticipation that the prosecution in this case may attempt to
+
+administer the Hare PCL-R (or other similar diagnostic interviews) in their pre-trial mental
+
+health evaluations of Mr. Kohberger and/or attempt to introduce evidence from mental health
+
+expert witnesses at trial to label him with these pejorative terms.
+
+5.     I note at the outset that I have not conducted an independent psychological evaluation of
+
+Mr. Kohberger. Nor would I ever provide a rating for him on an instrument such as the PCL-R as
+
+part of legal proceedings, based on the problems with this rating scale that I detail below (see
+
+                                                            concerning the poor reliability and
+
+predictive validity of the PCL-R). I have no opinion as to what if any psychiatric diagnoses Mr.
+
+Kohberger may (or may not) experience currently or at earlier points in his life, as well as no
+
+opinion as to their potential relevance in regard to explaining his alleged criminal conduct. The
+
+fact that I have not evaluated Mr. Kohberger has no bearing on the opinions that I provide in
+
+relation to this case, as these opinions are specific to the scientific validity of psychopathy and
+
+ASPD evidence in capital murder trials.
+
+
+
+
+                                                  2
+                       III. Relevant Scientific and Professional Literature
+
+6.      It is unfortunately quite common for forensic mental health expert opinions in capital
+
+murder cases to be based on methods and instruments that are poorly suited to reliably and
+
+validly answer the various referral questions (e.g., mental state, future dangerousness, intellectual
+
+disability) that examiners may be asked to address.3 In the context of potential psychopathy
+
+evidence being presented in relation to Mr. Kohberger, there are significant problems with the
+
+opinions that might be offered regarding the relevance, as well as probative and prejudicial
+
+value, of psychopathy and ASPD. These problems are described in detail in subsequent
+
+paragraphs.
+
+7.      One of the most direct examples of scientific inadequacy in psychiatric and psychological
+
+evaluations is the fact that practicing mental health professionals evaluating the same individual
+
+frequently fail to agree with each other as to whether that individual is in fact diagnosable as
+
+having any particular disorder, especially personality disorders.4 For example, the field trials
+
+examining inter-rater reliability for the diagnostic criteria in the fifth edition of the DSM
+
+(inclusive of the diagnoses in DSM-5 and its more recent text revision, DSM-5-TR) indicated
+
+that ASPD diagnoses had poor rates of agreement across diagnosticians.5 Given the historically
+
+poor inter-rater reliability of personality disorders such as ASPD noted earlier, numerous
+
+attempts have been made over the years to improve the accuracy of this category of diagnoses.
+
+One method for assessing antisocial and psychopathic traits that initially demonstrated some
+
+greater degree of inter-rater reliability across trained raters in early research publications is the
+
+aforementioned PCL-R, which was described, prematurely,
+
+scientific journal articles during the 1990s and early 2000s.
+
+
+
+
+                                                   3
+8.     The PCL-R is a 20-item rating scale that is intended to be used by trained mental health
+
+professionals to assess for the presence of the personality disorder of psychopathy. The 20 items
+
+consist of prototypically psychopathic traits (e.g., remorselessness, grandiosity, superficial
+
+charm) but also include items that focus on a history of antisocial and criminal acts (e.g., juvenile
+
+delinquency, past revocation of conditional release). The PCL-R typically is scored based on a
+
+semi-structured interview and review of available collateral information (e.g., institutional files,
+
+past mental health evaluations). Examinees can be given a PCL-R score ranging from 0 (zero) to
+
+40, with higher scores indicating that they are being rated by an examiner as more psychopathic.
+
+Historically, a score of 30 and above has been used as a quasi-diagnostic cut-off for identifying
+
+
+
+The PCL-R is not part of or included in any formalized psychiatric diagnostic system, such as the
+
+                                                       Diagnostic and Statistical Manual of Mental
+
+Disorders (DSM-5). Instead, it is a freestanding rating scale commercially marketed by a
+
+psychological testing company, Multi-Health Systems, Inc. Research indicates that scores from
+
+this rating scale do, however, correlate relatively highly with DSM diagnoses of ASPD,6 which
+
+is to be expected given that the diagnostic criteria for ASPD overlap with several of the items
+
+included within the PCL-R. Compared to the criteria for an ASPD diagnosis, however, the PCL-
+
+R includes several more items on which examiners attempt to r
+
+personality characteristics, such as superficial charm, grandiosity, and shallow affect (emotions)
+
+ which are not included in the seven criteria for ASPD.
+
+9.     Noted in the preceding paragraphs, the PCL-R was described as reliable and valid in
+
+numerous early publications. However, since the late 2000s, it is important to point out that
+
+numerous studies have investigated the reliability of PCL-R scores in contested legal
+
+
+
+
+                                                  4
+proceedings and have found it to be highly unreliable in this context.7 Levels of agreement in
+
+these more recent field studies (i.e., studies investigating reliability in real-world psychological
+
+evaluations rather than in controlled scientific research) have been well below accepted standards
+
+of what would constitute minimal reliability for forensic mental health practice.8
+
+10.    There is recent evidence that even those trained by the PCL-R instrument developer,
+
+Robert Hare, through his Darkstone Research Group workshops, struggle to reliably assess the
+
+personality traits included in the PCL-R. Blais, Forth, and Hare (2017)9 summarized reliability
+
+statistics for 280 participants in this training program who went on to score a series of practice
+
+cases that were then evaluated for diagnostic accuracy. The effects of this formalized training
+
+program on inter-rater reliability were disappointing. In particular, the reliability of the
+
+                                -R was quite poor, indicating a large degree of variability in rating
+
+subjective traits such as remorselessness, superficial charm, and lack of empathy. Notably, these
+
+poor results led the study                                             -R scores
+
+                                              (                                        p. 762). That
+
+is, the evaluation results these individuals produced following this training were so inconsistent
+
+across examiners that they fell below standards for acceptable professional practice in the
+
+criminal justice system.
+
+11.    Even if PCL-R scores could be reliably produced in adversarial legal cases, there are
+
+additional reasons to question their relevance and probative value in capital murder trials. For
+
+example, mock jury research has shown that individuals who believe a defendant is highly
+
+psychopathic also believe that such a defendant will be highly dangerous in the future.10 Despite
+
+this intuitive association between psychopathy and violence, at present there is little evidence to
+
+support the assertion that psychopathy diagnoses have any bearing on a convicted capital
+
+
+
+                                                  5
+psychopathy diagnoses are at best very weakly related to violent behavior in U.S. prisons.11
+
+Therefore, claims that an inmate is more likely to be violent in the future if serving out a life
+
+sentence because that inmate has been judged by a mental health professional to be
+
+                                                           , and, actually ignore what are known to
+
+be legitimate correlates of future violence in prison settings (e.g., limited education, prison gang
+
+membership).12
+
+12.    In addition to being scientifically unreliable in the context of capital murder evaluations,
+
+the introduction of evidence concerning the PCL-R raises other problems and ethical questions.
+
+                                                                                     -R (e.g.,
+
+callousness, grandiosity, superficial charm) have a strong likelihood of unduly prejudicing jurors
+
+against a defendant. Among venirepersons, the psychopath label evokes images of real-world
+
+serial killers such as Ted Bundy, as well as fictional villains such as Hannibal Lecter.13 In fact,
+
+among a sample of over 400 venirepersons participating in a 2013 survey in Dallas County,
+
+Texas, Charles Manson was the most common response (20%) when participants were asked to
+
+
+
+(followed by Jeffrey Dahmer [14%], Adolf Hitler [12%], and Ted Bundy [11%]).14
+
+13.    Numerous other published research findings confirm the pejorative effect of believing a
+
+criminal defendant as a psychopath.15 For example, mock jurors in trial simulations who believe
+
+a defendant to be highly psychopathic are more likely to support death verdicts (in capital
+
+murder trials) and more likely to recommend longer criminal sentences (in non-capital trials)
+
+than are participants who believe a defendant to be less psychopathic. Additionally, they are
+
+
+
+
+                                                  6
+believe a defendant to be less psychopathic. Similarly, a recent meta-analysis16 was published
+
+that accumulated all of the scientific literature examining the effects of psychopathy evidence in
+
+jury simulations, with the results indicating that the presentation of such information to mock
+
+jurors resulted in much more punitive outcomes for the defendant when compared to cases in
+
+which psychopathy evidence was not presented.
+
+                                        IV. Opinion
+
+14.    To the extent that the admissibility of expert mental health evidence is to be informed by
+
+scientific data, the above-noted findings strongly argue against the introduction of ASPD and the
+
+PCL-R in cases such as that of Mr. Kohberger. ASPD and PCL-R psychopathy evidence
+
+provided by examiners in adversarial legal settings is highly unreliable, largely irrelevant to the
+
+likelihood of future violent acts in capital cases, and has the strong potential to stigmatize
+
+defendants with an immaterial and pejorative label and associated set of personality traits (e.g.,
+
+grandiose, conning/manipulative).
+
+15.    Please feel free to contact me if you require any further information regarding the issues
+
+raised in this declaration. If needed, I would be happy to describe in greater detail my
+
+reservations about the scientific adequacy of testimony concerning ASPD and the PCL-R in
+
+capital cases.
+
+
+
+____________________________________                           February 21, 2025
+
+John F. Edens, Ph.D.                                           Date
+Professor
+Department of Psychological and Brain Sciences
+Texas A&M University
+
+
+
+
+                                                  7
+                                                  End Notes
+
+
+1
+ See, e.g:
+Buffington-Vollum, J. K., Edens, J. F., Johnson, D. W., & Johnson, J. (2002). Psychopathy as a predictor
+        of institutional misbehavior among sex offenders: A prospective replication. Criminal Justice and
+        Behavior, 29, 497-511.
+
+Douglas, K. S., Vincent, G., & Edens, J. F. (2006). Risk for criminal recidivism: The role of psychopathy.
+       In C. Patrick (Ed.), Handbook of psychopathy (pp. 533-554). New York: Guilford.
+
+Edens, J. F., Buffington-Vollum, J. K., Colwell, K. W., Johnson, D. W., & Johnson, J. (2002).
+        Psychopathy and institutional misbehavior among incarcerated sex offenders: A comparison of
+        the Psychopathy Checklist-Revised and the Personality Assessment Inventory. International
+        Journal of Forensic Mental Health, 1, 49-58.
+
+Edens, J. F., & Campbell, J. S. (2007). Identifying youths at risk for institutional misconduct: A meta-
+        analytic investigation of the Psychopathy Checklist measures. Psychological Services, 4, 13-27.
+
+Edens, J. F., Campbell, J. S., & Weir, J. M. (2007). Youth psychopathy and criminal recidivism: A meta-
+        analysis of the Psychopathy Checklist measures. Law and Human Behavior, 31, 53-75.
+
+Edens, J. F., & Cahill, M. A. (2007). Psychopathy in adolescence and criminal recidivism in young
+        adulthood: Longitudinal results from a multi-ethnic sample of youthful offenders. Assessment, 14,
+        57-64.
+
+Edens, J. F., Poythress, N. G., & Lilienfeld, S. O. (1999). Identifying inmates at risk for disciplinary
+        infractions: A comparison of two measures of psychopathy. Behavioral Sciences and the Law, 17,
+        435-443.
+
+Edens, J. F., & Ruiz, M. A. (2006). On the validity of validity scales: The importance of defensive
+        responding in the prediction of institutional misconduct. Psychological Assessment, 18, 220-224.
+
+Edens, J. F., Skeem, J. L., & Douglas, K. S. (2006). Incremental validity analyses of the Violence Risk
+        Appraisal Guide and the Psychopathy Checklist: Screening Version in a civil psychiatric sample.
+        Assessment, 13, 368-374.
+
+
+2
+    See, e.g: Amenta, A. E., Guy, L. S., & Edens, J. F. (2003). Sex offender risk assessment: A cautionary
+           note regarding measures attempting to quantify violence risk. Journal of Forensic Psychology
+           Practice, 3, 39-50.
+
+
+          T. J. (2020). Statement of concerned experts on the use of the Hare Psychopathy Checklist-
+          Revised in capital sentencing to assess risk for institutional violence. Psychology, Public Policy,
+          and Law, 26, 133-144.
+
+
+          T. J. (2020). Death is different: Reply to Olver et al. (2020). Psychology, Public Policy, and Law,
+          26, 511-518.
+
+
+                                                       8
+Edens, J. F. (2006). Unresolved controversies concerning psychopathy: Implications for clinical and
+        forensic decision-making. Professional Psychology: Research and Practice, 37, 59-65.
+
+Edens, J. F., & Boccaccini, M. T. (2017). Taking forensic mental health assessment out of the la and
+        into the real wor    Introduction to the special issue on the field utility of forensic assessment
+        instruments and procedures. Psychological Assessment, 29, 710-719.
+
+Edens, J. F., Buffington-Vollum, J. K., Keilen, A., Roskamp, P., & Anthony, C. (2005). Predictions of
+                                                                                        Law and Human
+        Behavior, 29, 55-86.
+
+Edens, J. F., & Douglas, K. S. (2006). Assessment of interpersonal aggression and violence: Introduction
+        to the special issue. Assessment, 13, 1-6.
+
+
+          legal system: Some practical concerns. In K. Kiehl & W. Sinnott-Armstrong (Eds.), Handbook on
+          psychopathy and law (pp. 250-272). New York: Oxford University Press.
+
+Edens, J. F., & Otto, R. K. (2001). Release decision making and planning. In J. B. Ashford, B. D. Sales,
+        & W. H. Reid (Eds.), Treating adult and juvenile offenders with special needs (pp. 335-371).
+        Washington, DC: American Psychological Association.
+
+Edens, J. F., Petrila, J., & Kelley, S.E. (2018). Legal and ethical issues in the assessment and treatment of
+        psychopathy. In C. Patrick (Ed.), Handbook of psychopathy (2nd ed.). New York: Guilford.
+
+Edens, J. F., Petrila, J., & Buffington-Vollum, J. K. (2001). Psychopathy and the death penalty: Can the
+        Psychopathy Checklist-
+        Journal of Psychiatry and Law, 29, 433-481.
+
+
+          and its association with violence: A critical review. Behavioral Sciences and the Law, 19, 53-80.
+
+Kelley, S. E., Edens, J. F., Mowle, E. N., Rulseh, A., & Penson, B. N. (2019). Dangerous, depraved, and
+        death-worthy: A meta-analysis of the correlates of perceived psychopathy in jury simulation
+        studies. Journal of Clinical Psychology, 75, 627-643.
+
+Truong, T. N., Kelley, S. E., & Edens, J. F. (2021). Does psychopathy influence juror decision-making in
+                                                                            Criminal Justice and
+       Behavior, 48, 690-707.
+
+
+3
+    Cunningham, M. D., & Reidy, T. J. (1998). Antisocial personality disorder and psychopathy:
+         Diagnostic dilemmas in classifying patterns of antisocial behavior in sentencing evaluations.
+         Behavioral Sciences & the Law, 16, 333-351.
+
+
+          risk assessment at capital sentencing. Criminal Justice and Behavior, 26, 20 43.
+
+
+
+
+                                                      9
+Edens, J. F., Buffington-Vollum, J. K., Keilen, A., Roskamp, P., & Anthony, C. (2005). Predictions of
+                                                                                        Law and Human
+        Behavior, 29, 55-86.
+
+Edens, J. F., Petrila, J., & Buffington-Vollum, J. K. (2001). Psychopathy and the death penalty: Can the
+        Psychopathy Checklist-
+        Journal of Psychiatry and Law, 29, 433-481.
+
+4
+    Blashfield, R. K., & Herkov, M. J. (1996). Investigating clinician adherence to diagnosis by criteria: A
+          replication of Morey and Ochoa (1989). Journal of Personality Disorders, 10, 219 228.
+
+Hesse, M., & Thylstrup, B. (2008). Inter-rater agreement of comorbid DSM-IV personality disorders in
+       substance abusers. BMC Psychiatry, 8.
+
+Mellsop, G., Varghese, F., Joshua, S., & Hicks, A. (1982). The reliability of Axis II of DSM-III. The
+       American Journal of Psychiatry, 139, 1360 1361.
+
+Morey, L. C., & Ochoa, E. S. (1989). An investigation of adherence to diagnostic criteria: Clinical
+       diagnosis of the DSM-III personality disorders. Journal of Personality Disorders, 3, 180 192.
+
+
+5
+    Freedman, R., Lewis, D. A., Michels, R., Pine, D. S., Schultz, S. K., Tamminga, C. A., Gabbard, G. O.,
+          Shur-Fen Gau, S., Javitt, D. C., Oquendo, M. A., Shrout, P. E., Vieta, E., & Yager, J. (2013). The
+          initial field trials of DSM-5: New blooms and old thorns. American Journal of Psychiatry, 170,
+          1 5.
+
+
+6
+    Hare, R. (2003). Hare Psychopathy Checklist-Revised professional manual (2nd ed.). Multi-Health
+          Systems.
+
+Poythress, N. G., Lilienfeld, S. O., Skeem, J. L., Douglas, K. S., Edens, J. F., Epstein, M., & Patrick, C. J.
+       (2010). Using the PCL-R to help estimate the validity of two self-report measures of psychopathy
+       with offenders. Assessment, 17(2), 206 219.
+
+
+7
+    Boccaccini, M.T., Turner, D.T. & Murrie, D.C. (2008). Do some evaluators report consistently higher or
+         lower scores on the PCL-R?: Findings from a statewide sample of sexually violent predator
+         evaluations. Psychology, Public Policy, and Law, 14, 262 283.
+
+DeMatteo, D., Edens, J. F., Galloway, M., Cox, J., Smith, S. T., & Formon, D. (2014). The role and
+      reliability of the Psychopathy Checklist-Revised in U.S. sexually violent predator evaluations: A
+      case law survey. Law and Human Behavior, 38, 248-255.
+
+Edens, J.F., Boccaccini, M.T., & Johnson, D.W. (2010). Inter-rater reliability of the PCL-R total and
+        factor scores among psychopathic sex offenders: Are personality features more prone to
+        disagreement than behavioral features? Behavioral Sciences and the Law, 28, 106-119.
+
+Edens, J. F., Cox, J., Smith, S. T., DeMatteo, D., & Sörman, K. (2015). How reliable are Psychopathy
+        Checklist-Revised scores in Canadian criminal trials? A case law review. Psychological
+        Assessment, 27, 447-456.
+
+                                                       10
+Jeandarme, I., Edens, J. F., Habets, P., Bruckers, L., Oei, K., & Bogaerts, S. (2017). Psychopathy
+       Checklist Revised field validity in prison and hospital settings. Law and Human Behavior, 41,
+       29 43.
+
+Lloyd, C.D., Clark, H.J., & Forth, A.E. (2010). Psychopathy, expert testimony and indeterminate
+        sentences: Exploring the relationship between Psychopathy Checklist-Revised testimony and trial
+        outcome in Canada. Legal and Criminological Psychology, 15, 323-339.
+
+Miller, C. S., Kimonis, E. R., Otto, R. K., Kline, S. M., & Wasserman, A. L. (2012). Reliability of risk
+        assessment measures used in sexually violent predator proceedings. Psychological Assessment,
+        24, 944 953.
+
+Murrie, D.C., Boccaccini, M., Johnson, J. & Janke, C. (2008). Does interrater (dis)agreement on
+        Psychopathy Checklist scores in sexually violent predator trials suggest partisan allegiance in
+        forensic evaluations? Law and Human Behavior, 32, 352 362.
+
+Murrie, D.C., Boccaccini, M., Turner, D., Meeks, M., Woods, C., & Tussey, C. (2009). Rater
+        (dis)agreement on risk assessment measures in sexually violent predator proceedings: Evidence
+        of adversarial allegiance in forensic evaluation? Psychology, Public Policy, and Law, 15, 19-53.
+
+Sturup, J., Edens, J. F., Sörman, K., Karlberg, D., Fredriksson, B., & Kristiansson, M. (2014). Field
+        reliability of the Psychopathy Checklist-Revised among life sentenced prisoners in Sweden. Law
+        and Human Behavior, 38, 315-324.
+
+
+8
+    Heilbrun, K. (1992). The role of psychological testing in forensic assessment. Law and Human
+          Behavior, 16, 257-272.
+
+Nunnally, J., & Bernstein, I. (1994). Psychometric theory (3rd ed.). New York, NY: McGraw-Hill.
+
+
+9
+    Blais, J., Forth, A., & Hare, R. (2017). Examining the interrater reliability of the Hare Psychopathy
+           Checklist-Revised across a large sample of trained raters. Psychological Assessment, 29(6), 762-
+           775.
+
+
+10
+     Kelley, S. E., Edens, J. F., Mowle, E. N., Rulseh, A., & Penson, B. N. (2019). Dangerous, depraved,
+          and death-worthy: A meta-analysis of the correlates of perceived psychopathy in jury simulation
+          studies. Journal of Clinical Psychology, 75, 627-643.
+
+
+11
+     Guy, L. S., Edens, J. F., Anthony, C., & Douglas, K. S. (2005). Does psychopathy predict institutional
+          misconduct among adults? A meta-analytic investigation. Journal of Consulting and Clinical
+          Psychology, 73, 1056-1064.
+
+
+12
+     Cunningham, M. D., & Sorensen, J. R. (2006). Actuarial models for assessing prison violence risk:
+          Revisions and extensions of the Risk Assessment Scale for Prison (RASP). Assessment, 13, 253-
+          265.
+
+
+                                                      11
+Cunningham, M. D., Sorensen, J. R., & Reidy, T. J. (2005). An actuarial model for assessment of prison
+       violence risk among maximum security inmates. Assessment, 12, 40-49.
+
+Edens, J. F., Buffington-Vollum, J. K., Keilen, A., Roskamp, P., & Anthony, C. (2005). Predictions of
+                                                                                        Law and Human
+        Behavior, 29, 55-86.
+
+Marquart, J. W., & Sorensen, J. (1989). A national study of the Furman-commuted inmates: Assessing the
+      threat to society from capital offenders. Loyola of Los Angeles Law Review, 23, 5-28.
+
+Sorensen, J. R., & Pilgrim, R. L. (2000). An actuarial risk assessment of violence posed by capital murder
+       defendants. Journal of Criminal Law & Criminology, 90, 1251-1270.
+
+Sorensen, J. R., & Wrinkle, R.D. (1996). No hope for parole: Disciplinary infractions among death-
+       sentenced and life-without-parole inmates. Criminal Justice and Behavior, 23, 542-552.
+
+Zamble, E. (1992). Behavior and adaptation in long-term prison inmates: Descriptive longitudinal results.
+       Criminal Justice and Behavior, 19, 409-425.
+
+13
+                                                                         is
+           perceptions, beliefs and attitudes about psychopathic personality. Law and Human Behavior, 38,
+           490-500.
+
+
+14
+     Edens, J. F., Clark, J., Smith, S. T., Cox, J., & Kelley, S. (2013). Bold, smart, dangerous and evil:
+          Perceived correlates of core psychopathic traits among jury panel members. Personality and
+          Mental Health, 7, 143-153.
+
+
+15
+     Kelley, S. E., Edens, J. F., Mowle, E. N., Rulseh, A., & Penson, B. N. (2019). Dangerous, depraved,
+          and death-worthy: A meta-analysis of the correlates of perceived psychopathy in jury simulation
+          studies. Journal of Clinical Psychology, 75, 627-643.
+
+See, also: Truong, T. N., Kelley, S. E., & Edens, J. F. (2021). Does psychopathy influence juror decision-
+                                                                                       Criminal Justice
+        and Behavior, 48, 690-707.
+
+
+16
+
+           outcomes: A meta-analysis. Law and Human Behavior, 43(1), 9 25.
+
+
+
+
+                                                       12
+

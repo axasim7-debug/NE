@@ -1,0 +1,39 @@
+07/08/25                     Moscow Police Department                       1272
+11:35                     Law Supplemental Narrative:               Page:      1
+  Details
+Incident Number    22-M09903            Name   Lawrence Mowery
+Sequence Number    180                  Date   12:12:55 03/29/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Reddit Definitions
+
+Case # 22-M09903
+Date: 3/29/2023
+
+On March 29, 2023, I received an email response from Reddit Legal Support in
+reference to my inquiry of the contents of the three data files received
+(Comment_votes.csv, Poll_votes.csv, and Post_votes.csv).
+The email stated the following:
+
+Reddit is in receipt of your message, and does not have a standard document
+outlying each data category. However, in response to your question regarding
+specific categories:
+Comment_votes.csv - This file relates to the comments that the user upvoted or
+downvoted, if any. For more information on how voting works, please click here.
+Poll_votes.csv - This file relates to Polls that the user participated in, if
+any. For more information on polls, please click here.
+Post_votes.csv - This file relates to the posts that the user upvoted or
+downvoted, if any. For more information on how voting works, please click here.
+Please contact us if you have any additional questions.
+Kind regards,
+Reddit Legal Support
+Det. Lawrence Mowery - 162
+Wed Mar 29 12:13:00 PDT 2023
+REVIEWED-Wed Mar 29 12:25:35 PDT 2023
+CPL Payne #157
+

@@ -1,0 +1,324 @@
+                                                                             Filed: 06/26/2025 14:55:33
+                                                                             Fourth Judicial District, Ada County
+                                                                             Trent Tripple, Clerk of the Court
+                                                                             By: Deputy Clerk Waters, Renee
+                                                                                              -
+
+
+
+
+           IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+
+                THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO,
+
+             Plaintiff,                                Ada County Case No. CR01-24-31665
+ v
+                                                       REDACTED ORDER ON DEFENDANT'S
+ BRYAN C. KOHBERGER,                                   OFFER OF PROOF RE: ALTERNATE
+                                                       PERPETRATORS
+             Defendant.
+
+
+
+I.      INTRODUCTION
+        The State previously moved in limine seeking to preclude Defendant from offering or
+
+arguing alternative perpetrator evidence without first satisfying the applicable evidentiary
+standards. In accordance with the Court's subsequent order on the motion, Defendant filed his
+
+offers of proof and evidence in support, identifying four individuals as potential alternate
+
+perpetrators. The State objects to the presentation of this evidence at trial, arguing it fails to
+
+satisfy the standard under State v. Meister, 148 Idaho 236, 220 P.3d 1055 (2009). Defendant
+conceded at oral argument that, at this point, his proffer is not sufficient to pursue an alternate
+
+perpetrator theory at the outset of trial, but requests latitude in cross-examination of the State's
+witnesses to try to establish additional evidence to satisfy the Meister standard.
+        The Court concludes that, at this time, Defendant's alternate perpetrator proffer is
+inadmissible under Meister as it is irrelevant and/or excluded by I.R.E. 403. However, this does
+not foreclose Defendant from cross-examining law enforcement regarding the reasonableness of
+
+its investigation and its follow-up on plausible leads.
+Il.     STANDARD
+        Trial courts have broad discretion in the admission of evidence at trial. Karison v. Harris,
+140 Idaho 561, 564, 97 P.3d 428, 431 (2004). A trial court acts within the bounds of its
+
+discretion when it: "(1) correctly perceived the issue as one of discretion; (2) acted within the
+outer boundaries of its discretion; (3) acted consistently with the legal standards applicable to the
+
+specific choices available to it; and (4) reached its decision by the exercise of reason."
+Lunneborg v. My Fun Life, 163 Idaho 856, 863, 421 P.3d 187, 194 (2018).
+                                                   1
+It.     ANALYSIS
+        The seminal Idaho case on the admissibility of alternative perpetrator evidence is
+
+Meister, supra. Prior to Meister, a defendant wishing to present such evidence at trial had to first
+
+present "proof of connection with the crime, such a train of facts or circumstances, as tend
+
+clearly to point out someone besides the accused as the guilty party. Remote acts, disconnected
+and outside of the crime itself, cannot be separately proved for such a purpose." State v. Larsen,
+
+91 Idaho 42, 47, 415 P.2d 685, 690 (1966). Meister clarified that the Idaho Rules of Evidence
+
+rather than the more onerous Larsen standard-control alternative perpetrator evidence
+
+admissibility. 148 Idaho at 240, 220 P.3d at 1059.
+        Under these rules, evidence is relevant if it has any tendency to make the existence of any
+fact that is of consequence to the determination of the action more probable or less probable than
+
+it would be without the evidence. I.R.E. 401; State v. Garcia, 166 Idaho 661, 670, 462 P.3d
+
+1125, 1134 (2020). Idaho Rule of Evidence 403 governs the exclusion of relevant evidence and
+
+permits a court to exclude evidence if its probative value is substantially outweighed by a danger
+of "unfair prejudice, confusing the issues, misleading the jury, undue delay, wasting time, or
+needlessly presenting cumulative evidence."
+        Meister further offered the following guidance on applying these rules and determining
+whether proffered alternative perpetrator evidence is relevant and admissible:
+        If the defendant proffers evidence which merely tends to mislead the jury that
+        another person committed the crime, or the evidence is not relevant because it
+        does not tend to make the defendant's involvement more probable or less
+        probable, then it is within the trial court's discretion to find the evidence
+        inadmissible. Mere inferences that another person could have committed the
+        crime will most likely not be relevant, and if relevant will still be subject to the
+        limitation provisions of I.R.E. 403. 'A defendant has no right to present irrelevant
+        evidence and even if evidence is relevant, it may be excluded in certain cases.'
+        Self, 139 Idaho at 722, 85 P.3d at 1121. The Idaho Rules of Evidence effectively
+        safeguard against the admission of 'conjectural inferences' without the lower
+        courts needing to apply the Zarsen direct connection doctrine.
+
+State v. Meister, 148 Idaho 236, 241, 220 P.3d 1055, 1060 (2009).
+
+        Here, the evidence Defendant has offered purporting to establish the four individuals as
+alternate perpetrators abjectly fails to meet the Meister standard.'! Namely, the evidence is
+
+
+1
+ In addition, the evidence largely consists of inadmissible hearsay. Defendant contends, however, that under
+Chambers v. Mississippi, 410 U.S. 284 (1973), hearsay tending to establish third party culpability may be admissible
+
+                                                         2
+entirely irrelevant. Nothing links these individuals to the homicides or otherwise gives rise to a
+reasonable inference that they committed the crime; indeed, it would take nothing short of rank
+
+speculation by the jury to make such aa finding.
+         Three of the individuals? were each socially connected to one or more of the victims,
+interacted with one or more of the victims at social events in the hours prior to the homicide,
+
+
+to protect a defendant's constitutional rights to a fair trial and to present a defense under the Sixth and Fourteenth
+Amendments. What Chambers actually held is that an accused has a due process right to the admission of
+exculpatory hearsay, i.e., a confession by third party, provided it is accompanied by "persuasive assurances of
+trustworthiness." Jd. at 302. Chambers stated:
+
+         The testimony rejected by the trial court here bore persuasive assurances of trustworthiness and
+         thus was well within the basic rationale of the exception for declarations against interest. That
+         testimony also was critical to Chambers' defense. In these circumstances, where constitutional
+         rights directly affecting the ascertainment of guilt are implicated, the hearsay rule may not be
+         applied mechanistically to defeat the ends ofjustice.
+Id.
+          In other words, Chambers indicates that due process requires hearsay rules to bend to evidence directly
+bearing on the determination of guilt; it does not hold that unreliable evidence may be admitted simply because it
+may be relevant to the defense case. As the Court later stated, "[t]he accused does not have an unfettered right to
+offer [evidence] that is incompetent, privileged, or otherwise inadmissible under standard rules of evidence."
+Montana v. Egelhoff, 518 US. 37, 42 (1996).
+
+
+
+
+                                                            3
+lived within walking distance of the crime scene' and were familiar with the layout of the
+victims' home from prior social events. While perhaps this evidence could suggest an
+
+opportunity to commit the-crime-which, no doubt, is an opportunity shared by dozens of others
+in the victims' social circles       there is no compelling evidence that any of them had a motive to
+
+kill the victims-much less physically harm them-or a means to do so. Further, there is no
+evidence connecting them to the crime scene. They have each cooperated with law enforcement,
+
+providing DNA samples, fingerprints and allowing searches as requested. Notably, lab testing
+has excluded their DNA from samples taken from the crime scene and victims.
+
+         The fourth individual* did not know the victims, but had a "passing connection" to one of
+them while noticing her shopping at a store approximately five weeks prior to the homicides. He
+
+followed her briefly out the exit of the store while considering approaching her to talk. He turned
+
+away before ever speaking to her. The event was captured on a surveillance camera. This
+individual subsequently cooperated with law enforcement, providing his phone number and a
+DNA sample. As with the other alleged alternative perpetrators, lab reports excluded his DNA
+from the samples taken from the crime scene and victims and there is no evidence connecting
+
+him to the crime scene.
+
+
+
+
+>
+  The fact that these individuals lived within walking distance to the crime scene is not probative evidence given that
+the perpetrator drove a vehicle to the crime scene. Further, none of these individuals drove a vehicle matching the
+description of the suspected killer's.
+
+
+
+
+                                                          4
+            Collectively, Defendant's proffer with regard to these four individuals fails to give rise to
+even an inference that they committed the crimes or otherwise make it more or less likely that
+
+Defendant was the perpetrator; therefore, it is irrelevant under I.R.E. 401. Defendant has
+
+provided no probative, admissible, significant evidence of motive, ill-feelings, means, presence
+at the scene or any other connection to the crime that could possibly move the ball to the extent it
+
+supports an alternate perpetrator theory.> At best, Defendant's offer of proof can give rise to only
+wild speculation that it is possible any one of these four individuals could have committed the
+crimes, which is inadequate under Meister. Again, "[m]ere inferences that another person could
+have committed the crime will most likely not be relevant[.]" Meister, 148 Idaho at 241, 220
+
+P.3d at 1060. In other words, it is not sufficient for a defendant to merely offer up unsupported
+
+speculation that another person may have committed the crime, which is all Defendant has done
+here.
+
+           Even if there was a shred of probative value in the proffered evidence beyond wild
+
+speculation, it is excluded by I.R.E. 403. As the Tenth Circuit noted regarding alternate
+
+perpetrator evidence:
+           It is not sufficient for a defendant merely to offer up unsupported speculation that
+           another person may have done the crime. Such speculative blaming intensifies the
+           grave risk of jury confusion, and it invites the jury to render its findings based on
+           emotion or prejudice.
+
+United States v. McVeigh, 153 F.3d 1166, 1191 (10th Cir. 1998).
+
+           Likewise, here, presentation of the proffered alternate perpetrator evidence would pose a
+great threat of confusing the issues because it would force the State to defend against a nebulous
+
+allegation that perhaps these individuals were involved. This foray would lead the jury astray,
+turning its focus away from whether Defendant-the only person whose actions are on trial
+committed the charged crimes. It also presents a threat of unfair prejudice, as it would invite the
+
+jury to blame unrepresented persons for a heinous crime when there is not a scintilla of
+competent evidence connecting them to the crime. Finally, it would do nothing more than waste
+the precious time of the jury and the Court in what is already a scheduled three-month trial.
+
+Nonetheless, the Court's ruling does not preclude Defendant from confronting and cross-
+examining the State's law enforcement witnesses regarding the thoroughness of the
+
+
+5
+    At the State notes, none of the four individuals drives a car that could be mistaken for a Hyundai Elantra. State's
+Obj., p. 10.
+
+                                                              5
+investigation, particularly in following up on and ruling out leads generally. Indeed, the Idaho
+Court of Appeals recently found in an unpublished opinion that questioning a detective about
+
+failing to follow up on other plausible leads was relevant to alternative perpetrator analysis: "We
+agree with Emerson that a relevant line of inquiry would be to question the scope and breadth of
+the investigation and to explore on cross-examination whether plausible investigative leads about
+
+third parties were ignored or overlooked." State v. Buck, 2023 WL 6133215, * 23 (Idaho Ct.
+
+App. Sept. 20, 2023), review granted (Oct. 23, 2024). It further stated that this line of
+questioning may not include inquiries about the investigation of specific third parties absent
+
+satisfying Meister, noting:
+        While evidence challenging the thoroughness and reliability of the investigation
+        might be probative, questioning whether law enforcement investigated specific
+        individuals with no connection to the murder provided no probative evidence.
+        Moreover, with no connection between the evidence and the crime, there is no
+        explanation or justification for the questioning, and it would not help the jury
+        answer the only question in the case: whether Emerson killed James.
+
+Id. at * 25.
+
+        The Court will apply these same parameters at trial regarding Defendant's cross-
+examination of law enforcement. He may inquire as to the reasonableness of the investigation,
+
+including investigating and ruling out other leads. He is not, however, permitted to question law
+enforcement about the investigation of any specific individual as a potential alternate perpetrator
+
+without first raising the matter with the Court outside the jury's presence.
+
+IV.     ORDER
+        Based on the foregoing, Defendant's Offer of Proof re: Alternate Perpetrators is
+
+DENIED.
+
+
+IT IS SO ORDERED.
+
+DATED this     26 of  y       June, 2025.
+
+
+                                               Steven Hipplef
+                                              District Judge
+
+
+
+
+                                                  6
+                                    CERTIFICATE OF SERVICE
+
+                             6/26/2025
+|
+    hereby certify that on                    served a true and correct copy of the REDACTED
+    ORDER ON DEFENDANT'S OFFER OF PROOF RE: ALTERNATE PERPETRATORS to:
+
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+ASHLEY JENNINGS
+SENIOR DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JOSHUA D. HURWIT
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: jeff.nye@aq.idaho.gov
+
+MADISON ALLEN
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Madison.allen@aq.idaho.qov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetaylorlaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+FIRST DISTRICT PUBLIC DEFENDER
+JAY W. LOGSDON
+VIA EMAIL: jay.logsdon@spd.idaho.gov
+
+BICKA BARLOW
+Pro Hac Vice
+VIA EMAIL: bickabarlow@sbcglobal.net
+
+
+
+                                                       TRENT TRIPPLE
+                                                       Clerk of the Court
+
+                                                 By:
+                                                       Deputy Clerk   6/26/2025 2:49:25 pm
+
+
+
+
+CERTIFICATE OF SERVICE
+

@@ -1,0 +1,218 @@
+                                                                                     Electronically Filed
+                                                                                     10/9/2024 5:16 PM
+                                                                                     Fourth Judicial District, Ada County
+                                                                                     Trent Tripple, Clerk of the Court
+                                                                                     By: Jennifer Keyes, Deputy Clerk
+
+
+LATAH COUNTY PROSECUTOR’S OFFICE
+WILLIAM W. THOMPSON, JR., ISB 2613
+PROSECUTING ATTORNEY
+INGRID BATEY, ISB 10022
+SPECIAL ASSISTANT ATTORNEY GENERAL
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+        IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                   STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+STATE OF IDAHO,
+           Plaintiff,                               Case No. CR01-24-31665
+
+V.                                                  STATE’S OBJECTION TO DEFENDANT’S
+                                                    MOTION TO STRIKE MULTIPLE VICTIMS
+BRYAN C. KOHBERGER                                  AGGRAVATOR
+           Defendant.
+
+
+
+                COMES NOW the State of Idaho, by and through the Latah County Prosecuting
+
+Attorney, and hereby objects to the Defendant’s Motion to Strike the Multiple Victims Aggravator
+
+in this case.1 For the following reasons, the Defendant’s motion should be denied.
+
+                                             ARGUMENT
+
+        Defendant does not make a legal argument in his motion to strike the multiple murders
+
+aggravator. Instead, he attempts to craft a public policy argument. Unfortunately for the Defendant,
+
+
+
+1
+  Defendant is referring to Idaho Code section 19-2515(9)(b), which applies when, “[a]t the time the
+murder was committed the defendant also committed another murder.” Going forward, the State will refer
+to this aggravator as the “multiple murders” aggravator as it more closely reflects the statutory language.
+
+STATE’S OBJECTION (MULTIPLE VICTIMS) - 1
+there is no legal authority that supports his motion. Defendant claims “murders cannot be
+
+aggregated in a manner that makes the act of a malice aforethought murder aggravated.” Def.
+
+Motion to Strike Multiple Victims Aggravator, p. 1. He baldly asserts “there is no way that in which
+
+two murders can be aggregated in a way that makes the act of murder aggravated except to resort
+
+to one of the other aggravators.” Id. p. 3. In support of this contention, he does not cite a single
+
+statute or appellate case, but rather, an article from the New York University Review of Law and
+
+Social Change. Id. (citing Jonathan R. Sorensen & James W. Marquart, Prosecutorial and Jury
+
+Decision-Making in Post Furman Capital Cases, 18 N.Y.U. Rev. L. Soc. Change 743, 775 (2002).
+
+The article does not even stand for the proposition that Defendant claims it does. The article does
+
+not argue that “multiple murders” is not an appropriate aggravator in a capital case. Rather, the
+
+article analyzes a study on capital cases in Texas, and the extent to which non-legal considerations
+
+play a role in prosecutor and jury decision-making. Id. The article is summarized as follows:
+
+               The present study seeks to determine the effects of several legal and
+               extra-legal factors on prosecutors’ decisions to seek death sentences
+               and juries’ decision to impose death or life sentences in Texas. Many
+               legally relevant factors, such as the defendant’s prior record and the
+               killing of multiple victims, which could be expected to influence the
+               punishment decision, are considered. Factors not legally relevant to
+               the case include individual characteristics, such as race or gender, of
+               the offender and victim. If prosecutors’ and juries’ decisions were
+               not made on the basis of legally relevant factors, it may be concluded
+               that the death penalty was imposed arbitrarily. If decisions were
+               based on extra-legal legal factors, it may be concluded that the
+               punishment was imposed discriminatorily. Finally, if the decisions
+               were consistently based identifiable legal factors, the conclusion
+               may be drawn that death sentences were fairly and equitably
+               imposed.
+
+Id. at 750-51 (emphasis added). Put another way, the article specifically refers to “multiple
+
+victims” as one of the “legally relevant” factors to consider in capital cases, and further states that
+
+death penalty sentences are “fairly and equitably imposed” when such factors consistently form
+
+
+
+STATE’S OBJECTION (MULTIPLE VICTIMS) - 2
+the basis of decisions to impose the death penalty. Id. If this article can be read to present any
+
+opinion at all on the multiple murders aggravator, it is that it is a fair, legitimate, and appropriate
+
+consideration in a capital case.
+
+         Citing to State v. Abdullah, Defendant further asserts the multiple murders aggravator
+
+violates the Idaho Supreme Court’s prohibition on double counting. Defendant’s Motion to Strike
+
+Multiple Victims Aggravator, p. 4 (citing State v. Abdullah, 158 Idaho 386, 470 (2015)). State v.
+
+Abdullah did not even involve the multiple murders aggravator. 158 Idaho 386, 348 P.3d 1 (2014).
+
+In Abdullah, the Idaho Supreme Court simply reiterated the well-established standard that double-
+
+counting or double-weighing aggravators is impermissible. Id. at 470, 348 P.3d 85 (citing State v.
+
+Dunlap, 155 Idaho 345, 365, 313 P.3d 1, 21 (2013)).
+
+         In this case, the State intends to present evidence that would allow a reasonable jury to find
+
+all statutory aggravators without engaging in impermissible double-counting by presenting
+
+additional evidence for each statutory aggravator. See State v. Charboneau, 116 Idaho 129, 153-
+
+54, 774 P.2d 299, 323-24 (1989), overruled on other grounds by State v. Card, 121 Idaho 425, 430
+
+(1991). Further, there is no reason to doubt that the jury will be instructed that they may not double-
+
+count or double-weigh the evidence. Idaho Criminal Jury Instruction 1723 addresses this very
+
+issue:
+
+                The State has alleged more than one statutory aggravating
+                circumstance in this case. You must consider whether the State has
+                proven the existence of more than one statutory aggravating
+                circumstance beyond a reasonable doubt by relying on the same
+                facts or independent facts. The same facts, without more, cannot be
+                relied on to find more than one statutory aggravating circumstance
+                beyond a reasonable doubt. Independent facts must exist for each
+                statutory aggravating circumstance in order for you to find that the
+                State has proven multiple statutory aggravating circumstances
+                beyond a reasonable doubt.
+
+
+
+
+STATE’S OBJECTION (MULTIPLE VICTIMS) - 3
+Idaho Criminal Jury Instruction 1723 Multiple Aggravating Circumstances, available at
+
+https://isc.idaho.gov/main/criminal-jury-instructions. Thus, any argument that the jury would
+
+disregard the instructions provided to them and engage in impermissible double-counting is purely
+
+speculative because juries are presumed to follow instructions. See State v. Moses, 156 Idaho 855,
+
+871, 332 P.3d 767, 783 (2014).
+
+                                          CONCLUSION
+
+          Defendant has failed to provide any binding legal authority for this Court to strike the
+
+multiple murders aggravator. Instead, he provided the Court with a law review article that
+
+favorably describes it as a legally relevant consideration and an Idaho case that did not even
+
+address the multiple murders aggravator at all. His motion is legally meritless and should be
+
+denied.
+
+          RESPECTFULLY SUBMITTED this 9th day of October 2024.
+
+
+
+                                                      __________________________________
+                                                      Ingrid Batey
+                                                      Special Assistant Attorney General
+
+
+
+                                                      _______________________________
+                                                      William W. Thompson, Jr.
+                                                      Prosecuting Attorney
+
+
+
+
+STATE’S OBJECTION (MULTIPLE VICTIMS) - 4
+                              CERTIFICATE OF DELIVERY
+
+
+I hereby certify that true and correct copies of the STATE’S OBJECTION TO DEFENDANT’S
+
+MOTION TO STRIKE MULTIPLE VICTIMS AGGRAVATOR was served on the following in
+
+the manner indicated below:
+
+      Anne Taylor                            ☐ Mailed
+      Attorney at Law                        ☒ E-filed & Served / E-mailed
+      PO Box 2347
+                                             ☐ Faxed
+      Coeur D Alene, ID 83816-9000
+                                             ☐ Hand Delivered
+
+       Dated this 9th day of October 2024.
+
+                                               ____________________________________
+                                               Kim K. Workman
+
+
+
+
+STATE’S OBJECTION (MULTIPLE VICTIMS) - 5
+

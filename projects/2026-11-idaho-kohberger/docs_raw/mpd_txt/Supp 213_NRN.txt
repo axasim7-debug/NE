@@ -1,0 +1,39 @@
+07/08/25                        Moscow Police Department                     1272
+11:43                        Law Supplemental Narrative:             Page:      1
+  Details
+Incident Number       22-M09903          Name    Dustin Blaker
+Sequence Number       213                Date    14:32:42 06/29/23
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Thumb Drive with license plates and vehicle from WSU Parking - 108
+
+1.        WatchGuard Event: NO
+          Additional Responding Officers:   NO
+          Case number added to WG: NO
+
+2.        Evidence
+Item #760 Isilon Thumb Drive
+3.        Narrative
+
+Between November 25th and December 7th, I received a thumb drive from WSU Police
+Department. The thumb drive had a listing of license plates WSU parking had on
+file. I provided this thumb drive to an FBI employee to be transferred to their
+shared drive. I then placed the thumb drive in my file cabinet in my personal
+office. I am booking the thumb drive at this time to make sure it can be
+discovered to the defense.
+4.        Other
+
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+
+Thu Jun 29 14:39:46 PDT 2023
+Capt. Dustin Blaker #108
+
+REVIEWED-Thu Jun 29 15:29:19 PDT 2023
+CPL Payne #157
+

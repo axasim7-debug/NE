@@ -1,0 +1,72 @@
+07/08/25                        Moscow Police Department                    1272
+12:06                        Law Supplemental Narrative:            Page:      1
+  Details
+Incident Number       22-M09903          Name   Brett Payne
+Sequence Number       283                Date   11:11:40 07/02/24
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Weather Data for 11/12/22-11/13/22-#157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+File attached to Spillman File Under "Weather Data 11.12.22 to 11.13.22"
+3.        Narrative
+
+On July 2, 2024 I accessed the National Oceanic and Atmospheric Administration's
+website for historical weather data titled National Centers for Environmental
+Information. Within this website I accessed the local climatological data tool
+and selected the state of Washington to search for weather stations. I located
+the Pullman Moscow Regional Airport weather station in the search results and
+requested data for the dates of 11/12/22 to 11/13/22.
+Within this tower data I selected the following information: Daily Output,
+Hourly Output, Hourly Precipitation Output, Hourly Remarks Output, and
+Documentation. I completed the above-mentioned date range and requested the data
+be sent to my department email.
+
+Later that same day I received an email saying the data was prepared for
+download. I downloaded the file onto my department laptop and attached it to
+this case file electronically. The PDF document provided was nineteen (19) pages
+in length. Upon review of the document and the provided information key at the
+bottom I was able to determine what portions of the report were reporting on the
+requested dates.
+The most pertinent information was located on pages two and three. These pages
+were a report on Local Climatological Data Hourly Observations. The hours from
+1433 hours on 11/12/22 until 0653 hours on 11/13/22 show the observation of
+"OVC:08" under sky conditions. Each entry also has a single number after "OVC:
+08". On page ten of the document is a section detailing what these values mean.
+The following is from the document:
+ "Sky Conditions: A report of each cloud layer (up to 3) giving the following
+information. Each layer given in the following format: ccc:ll-xxx where: 1) ccc
+is Coverage: CLR (clear sky), FEW (few clouds), SCT (scattered clouds), BKN
+(broken clouds), OVC (overcast), VV (obscured sky), 10 (partially obscured sky).
+2) ll is Layer amount used in conjunction with coverage code above. Given in
+eighths (aka "oktas") of sky covered by cloud. Specifically 00-08 indicates the
+number of oktas that cloud layer takes up in the total sky. 00 corresponds to
+CLR, 01-02 corresponds to FEW, 03-04 corresponds to SCT, 05-07 corresponds to
+BKN and 08 corresponds to OVC. 09 indicates an obscuration (i.e. the sky cannot
+be seen due to obscuring phenomena - e.g. due to smoke, fog, etc.). 10 indicates
+a portion of the sky is obscured (i.e. partial obscuration). For additional
+information see Integrated Surface Data documentation.
+(http://www1.ncdc.noaa.gov/pub/data/ish/ish-format document.pdf) in Cloud and
+Solar Data portion of Additional Data Section."
+This information appears to show the sky was overcast for the requested time
+period.
+4.     Other
+
+NA
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+CPL Payne #157
+Tue Jul 02 11:13:11 PDT 2024
+Reviewed By:
+Capt. Dustin Blaker #108
+Tue Jul 02 15:00:31 PDT 2024
+

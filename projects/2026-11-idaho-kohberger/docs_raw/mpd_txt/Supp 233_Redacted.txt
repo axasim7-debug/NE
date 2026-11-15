@@ -1,0 +1,42 @@
+07/08/25                    Moscow Police Department                         1272
+11:51                    Law Supplemental Narrative:                 Page:      1
+  Details
+Incident Number   22-M09903             Name   Andrew Fox
+Sequence Number   233                   Date   08:36:06 08/16/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Forensic Examination of iPhone in Closet.
+
+Case: 22-M09903
+Officer: Det. Fox #185
+Date: 8/16/23
+On August 11th, 2023, I was able to complete a forensic examination of the
+evidence# 22M-2073. This was identified as Item#246, a black iPhone that was in
+a drawer, closet of W bedroom F3.
+Using GrayKey and Magnet Axiom version 7.2 I was able to acquire the data from
+the iPhone XR. The iPhone serial number was identified as             . The
+account registered with the iPhone was          @outlook.com. The name of the
+iPhone user was listed as E    T    . Other emails associated with the iPhone
+included         @gmail.com and                                    .
+I was able to view the contents of the iPhone and the phone was last used on
+August 26th, 2021. There was no user activity on the device until it was
+reactivated by me on August 7th, 2023.
+
+It appeared E    T     was friends/roommates with Kaylee Goncalves and had
+several communications with her from 8/2020-2/2021. It appeared E    and Kaylee
+were in the same sorority.
+During the examination of the phone, I was unable to locate anything of
+evidentiary value. The phone was secured back into evidence for safe keeping.
+End of Report,
+
+Forensic Det. Andrew Fox #185
+Wed Aug 16 09:03:04 PDT 2023
+
+REVIEWED-Wed Aug 16 09:25:57 PDT 2023
+CPL Payne #157
+

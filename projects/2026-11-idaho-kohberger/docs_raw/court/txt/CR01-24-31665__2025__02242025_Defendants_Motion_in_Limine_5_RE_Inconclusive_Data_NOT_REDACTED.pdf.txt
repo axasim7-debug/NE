@@ -1,0 +1,593 @@
+                                                                       Filed: 2/24/2025 11:13:38
+                                                                       Fourth Judicial District, Ada County
+Anne Taylor Law, PLLC                                                  Trent Tripple, Clerk of the Court
+Anne C. Taylor, Attorney at Law
+                                                                       By: Deputy Clerk Waters, Renee
+                                                                                          -
+
+
+
+
+PO Box 2347
+Coeur d'Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Bicka Barlow
+Pro Hac Vice
+2358 Market Street
+San Francisco, CA 94114
+Phone: (415) 553-4110
+
+Assigned Attorney:
+Anne C. Taylor, Attorney at Law, Bar Number: 5836
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+
+     IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+             STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO,                                     CASE NUMBER CR01-24-31665
+
+                        Plaintiff,
+                                                     MOTION IN LIMINE #5
+                                                     RE: INCONCLUSIVE DATA
+ BRYAN C. KOHBERGER,
+
+                        Defendant
+
+
+       COMES NOW, Bryan C. Kohberger, by and through his attorneys of records, and hereby
+
+moves the Court for an Order limiting testimony about the statistical analysis of Item Q13.1,
+
+fingernail scrapings.
+
+       Allowing such testimony would violate Mr. Kohberger's Federal and State Constitutional
+
+rights to due process, a fair trial, effective assistance of counsel, and confrontation of witnesses.
+
+This motion is based on the Sth, 6th and 14th Amendments to the United States Constitution, Idaho
+
+
+MOTION IN LIMINE #5 RE: INCONCLUSIVE DATA                                                     Page 1
+Constitution Article. I Section 13, and Idaho Criminal Rule 16 and Idaho Rules of Evidence 102,
+
+104, 701, 702, and 703. The requested limits are made to “secure fairness in administration…to
+
+the end the truth may be ascertained and proceedings justly determined. See I.R.E. 102. Further,
+
+the above-requested matters are ripe for consideration by the Court pursuant to I.R.E. 104 based
+
+on the existence of issues that involve preliminary questions of admissibility.
+
+                                   STATEMENT OF FACTS
+
+       In grand jury testimony, Jade Miller testified as to the results of testing done on Item Q13.1,
+
+a swab of the left fingernail clippings from Madison Mogen (M.M.). The data consisted of three
+
+person mixture. The statistic, the likelihood ratio (LR), was calculated assuming that M.M. was a
+
+contributor to her own fingernails. Miller testified that M.M. as followed:
+
+               This DNA profile is at least 77,900,000 times more likely to be seen if it resulted
+               from a mixture of DNA from Madison Mogen, Kaylee Goncalves, and an unrelated
+               randomly selected individual, than if it resulted from DNA from Madison Mogen
+               and two unrelated randomly selected individuals. Grand Jury Transcript at 366.
+
+
+       The data from that sample was “inconclusive” as to Mr. Kohberger. GJ Transcript at 365,
+
+366. Miller testified that inconclusive means that an analyst is “unable to say one way or another
+
+whether or not Bryan Kohberger is included in the mixture.” GJ Transcript at 366. Miller went
+
+on to explain that the likelihood ratio for Mr. Kohberger was 0.0469 and that any number less than
+
+0.01 supported exclusion. GJ Transcript at 367.
+
+                                              ARGUMENT
+
+       The use of misleading language confuses and misleads the finder of fact and is barred by
+
+the Rules 402, 403, as well as due process in that the evidence is overly prejudicial. The erroneous
+
+admission of irrelevant and prejudicial evidence will offend due process when it renders a trial
+
+fundamentally unfair (Estelle v. McGuire (1991) 502 U.S. 62, 70).
+
+       Here, expanding beyond the language of the report would prejudice Mr. Kohberger in that
+
+it might allow the jury to infer that the inconclusive data would mean that he might be included.
+
+LR’s are different from traditional statistics that courts and juries are used to seeing and hearing.
+
+MOTION IN LIMINE #5 RE: INCONCLUSIVE DATA                                                     Page 2
+The LR is a comparison of hypotheses, it is not a statement of identity or probability of identity.
+
+It simply asks the question: given the data, which hypotheses tested is more likely. For Item
+
+Q13.1, both hypotheses tested for each individual assumed that M.M.’s DNA was present. So
+
+when the lab generated an LR, laid out above, the hypotheses tested were:
+
+                                   M.M., K.G., and one unknown unrelated person
+
+                                                             Versus
+
+                                            M.M. and two unrelated persons
+
+           This comparison was done for all of the individuals listed in report #7 and for Mr.
+
+Kohberger in Report #26. 1 At the ISP lab, any number greater than 100, is considered a conclusive
+
+result indicating inclusion. Any number less than 0.01 is considered a conclusive result indicating
+
+exclusion. Thus if an LR falls within the range of 0.01 to 100, the lab cannot draw any conclusions
+
+and the data is reported as inconclusive.
+
+           In her testimony Miller did not provide a full context to the analysis. The lab reported a
+
+series of LR’s for Item 13.1 including an LR of 0.399 for Jack Ducouer, 0.485 for Cole Barenberg,
+
+0.20, for Xana Kernodle, 0.0233 for Bethany Funke. Lab Report #7, at 3. All of these individuals
+
+sit in the same shoes as Mr. Kohberger, namely that the LR is exclusionary but falls in the range
+
+of inconclusive.
+
+           Of interest is that when an LR was calculated for Ethan Chapin, the lab reported 3.33. Thus,
+
+Mr. Kohberger’s inconclusive LR is similar to almost every other person for whom an LR was
+
+generated and focusing on his “inconclusive” LR would mislead the jury. In that in implies that
+
+the LR means that Mr. Kohberger’s DNA might be present in the sample.
+
+           The Court should exclude testimony such as
+
+           That’s a range that we determine that there’s not enough information to say or conclude
+           one way or another about someone to be a contributor GJ Transcript at 367.
+
+
+
+
+1
+    Motion in Limine #5 Exhibit 1 ISP Lab Reports 7 and 26
+MOTION IN LIMINE #5 RE: INCONCLUSIVE DATA                                                      Page 3
+       More importantly, Mr. Kohberger has disclosed that through further independent
+
+laboratory testing, he is eliminated as a contributor to Item 13.1. When Mr. Kohberger sought to
+
+overturn the grand jury indictment, he argued that Miller’s testimony was inadmissible and
+
+misleading. The state argued that the testimony was presented to the grand jury as exculpatory,
+
+and an effort to elicit favorable evidence for Mr. Kohberger. The independent lab testing
+
+conducted by the defense related to Item 13.1 is in deed exculpatory. Mr. Kohberger is excluded,
+
+and the state should be precluded from misleading the jury in any way.
+
+                                          CONCLUSION
+
+   A fair trial is mandated by Mr. Kohberger’s Federal and State Constitutional rights to due
+
+process, a fair trial, effective assistance of counsel, and confrontation of witnesses. U.S. Const.
+
+amends. V, VI, and XIV; Idaho Const. art. I Sections 8 and 13. Expert testimony, improperly
+
+elicited must be excluded.
+
+       DATED this ___24____ day of February, 2025.
+
+
+
+
+                                             BY:     _____________________________
+                                                     BICKA BARLOW
+                                                     ATTORNEY AT LAW
+
+
+                               CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___24____ day of February, 2025 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+MOTION IN LIMINE #5 RE: INCONCLUSIVE DATA                                                   Page 4
+                                        IDAHO STATE POLICE FORENSIC SERVICES
+                                                 700 South Stratford Drive, Ste 125
+                                                     Meridian, ID 83642-6202
+                                                      Phone: (208) 884-7170
+                                                       Fax: (208) 884-7197
+                                                      FORENSIC DNA REPORT
+
+ Case Agency(s) :                                                            Agency Case No(s).:                   Laboratory Case No.:
+ MOSCOW POLICE DEPARTMENT                                                    22-M09903                             M2022-4843
+                                                                                                                   XREF: M2022-4870
+ Date(s) of Offense:                                                         Investigating Officer(s):             Report No.:
+ 11/13/2022                                                                  Dustin Blaker                         7
+ Date Evidence Accepted:                                                     Analyst:
+ 11/18/2022                                                                  Jade Miller
+ Case Name(s):
+ Suspect - JACK S DUCOEUR
+ Subject - BETHANY G FUNKE
+ Subject - DYLAN M MORTENSEN
+ Subject - JOSE A CRUZ
+ Victim - MADISON M MOGEN
+ Victim - XANA A KERNODLE
+ Victim - ETHAN J CHAPIN
+ Victim - KAYLEE J GONCALVES
+
+EVIDENCE DESCRIPTION:
+
+ Item 3: Submitted swab from F2 bedroom floor
+ Item 4: Submitted swab and debris from F3 bedroom floor
+ Item 6.1: Swab of right fingernail clippings from Ethan Chapin
+ Item 7.1: Swab of left fingernail clippings from Ethan Chapin
+ Item 9.1: Swab of right fingernail clippings from Xana Kernodle
+ Item 10.1: Swab of left fingernail clippings from Xana Kernodle
+ Item 12.1: Swab of right fingernail clippings from Madison Mogen
+ Item 13.1: Swab of left fingernail clippings from Madison Mogen
+ Item 15.1: Swab of right fingernail clippings from Kaylee Goncalves
+ Item 16.1: Swab of left fingernail clippings from Kaylee Goncalves
+ Item 20: DNA extracts from Items 3, 4, 5, 6.1, 7.1, 8, 9.1, 10.1, 11, 12.1, 13.1, 14, 15.1, 16.1, 17, 18,
+ and 19
+
+CONCLUSIONS AND INTERPRETATIONS:
+
+ Deoxyribonucleic Acid (DNA) Analysis, employing the Polymerase Chain Reaction (PCR), was used to
+ generate a Short Tandem Repeat (STR) profile from Items 6.1, 7.1, 13.1, 15.1, 16.1, and a portion of
+ Items 3, 9.1, 10.1, and 12.1.1
+
+
+
+ FOOTNOTES
+  1 Loci Examined: Amelogenin, D3S1358, D1S1656, D2S441, D10S1248, D13S317, Penta E, D16S539, D18S51, D2S1338, CSF1PO, Penta D, TH01, vWA, D21S11,
+
+  D7S820, D5S818, TPOX, DYS391, D8S1179, D12S391, D19S433, FGA, and D22S1045.
+
+
+
+                                                                  Page 1 of 3
+Laboratory Case Number: M2022-4843                                                       Report No.: 7
+
+
+The DNA profile obtained from Item 3 matches that obtained from the known reference sample of
+Xana Kernodle (See Item 8, Report No. 4 issued 11/20/2022). This DNA profile is at least 12.5
+septillion (1.25 x 1025) times more likely to be seen if Xana Kernodle is the source than if an unrelated
+individual randomly selected from the general population is the source.
+
+The DNA profile obtained from Item 6.1 indicates a mixture of DNA. Xana Kernodle is a potential
+contributor to this DNA mixture. Assuming a two person mixture and that Ethan Chapin (See Item 5,
+Report No. 4 issued 11/20/2022) is a contributor, this DNA profile is at least 19.4 septillion (1.94 x
+1025) times more likely to be seen if it were the result of a mixture of DNA from Ethan Chapin and
+Xana Kernodle than if it resulted from Ethan Chapin and an unrelated individual randomly selected
+from the general population.
+   Madison Mogen (Item 11), Kaylee Goncalves (Item 14), Jack Ducoeur (Item 17), Bethany Funke
+(Item 18), Dylan Mortensen (Item 19) (See Items 11, 14, 17, 18, and 19, Report No. 4 issued
+11/20/2022), John Showalter (Item 1), Cole Barenberg (Item 2) (See Items 1 and 2, M2022-4870,
+Report No. 1 issued 11/20/2022), and Jose Cruz (See Item 33, Report No. 6 issued 11/23/2022) are
+excluded as being contributors to this DNA mixture.
+
+The DNA profile obtained from Item 7.1 is consistent with that obtained from the known reference
+sample of Ethan Chapin.
+
+The DNA profile obtained from Item 9.1 indicates a mixture of DNA with a major profile, which is
+consistent with having come from Xana Kernodle. Ethan Chapin is a potential contributor to the minor
+component of this mixture. Assuming a two person mixture and that Xana Kernodle is a contributor,
+this DNA profile is at least 6,150 times more likely to be seen if it were the result of a mixture of DNA
+from Xana Kernodle and Ethan Chapin than if it resulted from Xana Kernodle and an unrelated
+individual randomly selected from the general population.
+   Jack Ducoeur, John Showalter, Cole Barenberg, and Jose Cruz are excluded as being contributors to
+this DNA mixture.
+
+The DNA profile obtained from Item 10.1 indicates a mixture of DNA with a major profile, which is
+consistent with having come from Xana Kernodle. Ethan Chapin is a potential contributor to the minor
+component of this mixture. Assuming a two person mixture and that Xana Kernodle is a contributor,
+this DNA profile is at least 8,340,000 times more likely to be seen if it were the result of a mixture of
+DNA from Xana Kernodle and Ethan Chapin than if it resulted from Xana Kernodle and an unrelated
+individual randomly selected from the general population.
+   Jack Ducoeur, John Showalter, Cole Barenberg, and Jose Cruz are excluded as being contributors to
+this DNA mixture.
+
+The DNA profile obtained from Item 12.1 is consistent with that obtained from the known reference
+sample of Madison Mogen.
+
+
+
+
+                                               Page 2 of 3
+ Laboratory Case Number: M2022-4843                                                     Report No.: 7
+
+
+ The DNA profile obtained from Item 13.1 indicates a mixture of DNA with a major profile, which is
+ consistent with having come from Madison Mogen. Kaylee Goncalves is a potential contributor to this
+ mixture. Assuming a three person mixture and that Madison Mogen is a contributor, this DNA profile
+ is at least 77,900,000 times more likely to be seen if it were the result of a mixture of DNA from
+ Madison Mogen, Kaylee Goncalves, and an unrelated, randomly selected individual than if it resulted
+ from Madison Mogen and two unrelated individuals randomly selected from the general population.
+     Based on the likelihood ratio result 0.399, it is inconclusive whether Jack Ducoeur is a potential
+ contributor to this DNA profile.
+     Based on the likelihood ratio result 0.485, it is inconclusive whether Cole Barenberg is a potential
+ contributor to this DNA profile.
+     Based on the likelihood ratio result 3.33, it is inconclusive whether Ethan Chapin is a potential
+ contributor to this DNA profile.
+     Based on the likelihood ratio result 0.201, it is inconclusive whether Xana Kernodle is a potential
+ contributor to this DNA profile.
+     Based on the likelihood ratio result 0.0233, it is inconclusive whether Bethany Funke is a potential
+ contributor to this DNA profile.
+     John Showalter, Jose Cruz, and Dylan Mortensen are excluded as being contributors to this DNA
+ mixture.
+
+ The DNA profiles obtained from Items 15.1 and 16.1 are consistent with that obtained from the
+ known reference sample of Kaylee Goncalves.
+
+ Deoxyribonucleic Acid (DNA) extraction and quantification, employing real-time Polymerase Chain
+ Reaction (PCR), were performed on the swab from Item 4.
+
+ No DNA was detected on Item 4. No further testing was conducted on this item.
+
+DISPOSITION OF EVIDENCE:
+
+ Items 6.1, 7.1, 13.1, 15.1, 16.1, and the swab from Item 4 were consumed during testing; however,
+ DNA extract remains for these items. All other items and the empty packaging for Items 4, 6.1, 7.1,
+ 13.1, 15.1, and 16.1 have been returned to the main laboratory evidence vault for return to the
+ submitting agency.
+
+REMARKS:
+The descriptions, conclusions and interpretations stated above apply to the sample(s) as received.
+I declare under penalty of perjury pursuant to the law of the State of Idaho that the foregoing is true
+and correct.
+
+
+
+
+ Jade Miller / Forensic Scientist
+ Issue Date: 11/23/2022
+
+
+
+
+                                               Page 3 of 3
+                                        IDAHO STATE POLICE FORENSIC SERVICES
+                                                 700 South Stratford Drive, Ste 125
+                                                     Meridian, ID 83642-6202
+                                                      Phone: (208) 884-7170
+                                                       Fax: (208) 884-7197
+                                                      FORENSIC DNA REPORT
+
+ Case Agency(s):                                                             Agency Case No(s).:                   Laboratory Case No.:
+ MOSCOW POLICE DEPARTMENT                                                    22-M09903                             M2022-4843
+                                                                                                                   XREF: M2022-4870
+ Date(s) of Offense:                                                         Investigating Officer(s):             Report No.:
+ 11/13/2022                                                                  Dustin Blaker                         26
+ Date Evidence Accepted:                                                     Analyst:
+ 12/27/2022, 01/06/2023                                                      Jade Miller
+ Case Name(s):
+ Suspect - BRYAN KOHBERGER
+ Victim - MADISON M MOGEN
+ Victim - XANA A KERNODLE
+ Victim - ETHAN J CHAPIN
+ Victim - KAYLEE J GONCALVES
+
+EVIDENCE DESCRIPTION:
+ Item 72: Submitted swab from north wall of stairwell
+ Item 73: Submitted swab from half wall
+ Item 74: Submitted swab from 2nd floor table
+ Item 75: Submitted swab from 2nd floor outside of bedroom
+ Item 76: Submitted swab from living room table
+ Item 77: Submitted swab from 3rd floor door
+ Item 78: Submitted swab of stain on floor near west bedroom
+ Item 101.1: Stain on cutting from uncased pillow from 1630 NE Valley Rd.
+ Item 103.1: Stain A on bottom portion of mattress protector from 1630 NE Valley Rd.
+ Item 103.2: Stain B on bottom portion of mattress protector from 1630 NE Valley Rd.
+ Item 103.3: Stain C on bottom portion of mattress protector from 1630 NE Valley Rd.
+ Item 108: Reference oral swabs from Bryan Kohberger
+ Item 110: DNA extracts from Items 72 through 78, 101.1, 103.1, 103.2, 103.3, and 108
+
+CONCLUSIONS AND INTERPRETATIONS:
+ Deoxyribonucleic Acid (DNA) Analysis, employing the Polymerase Chain Reaction (PCR), was used to
+ generate a Short Tandem Repeat (STR) profile from a portion of Items 72 through 78, 101.1, 103.1,
+ 103.2, 103.3, and 108.1
+
+ The DNA profile previously obtained from Item 1.1 (See Report No. 4, issued 11/20/2022) matches
+ that obtained from the known reference sample of Bryan Kohberger. This DNA profile is at least 5.37
+ octillion (5.37 x 1027) times more likely to be seen if Bryan Kohberger is the source than if an
+ unrelated individual randomly selected from the general population is the source.
+
+
+ FOOTNOTES
+  1 Loci Examined: Amelogenin, D3S1358, D1S1656, D2S441, D10S1248, D13S317, Penta E, D16S539, D18S51, D2S1338, CSF1PO, Penta D, TH01, vWA, D21S11,
+
+  D7S820, D5S818, TPOX, DYS391, D8S1179, D12S391, D19S433, FGA, and D22S1045.
+
+
+
+                                                                  Page 1 of 4
+Laboratory Case Number: M2022-4843                                                    Report No.:
+                                                                                      26
+
+The DNA profile previously obtained from Item 1.4 (See Report No. 4, issued 11/20/2022) indicates a
+mixture of DNA with a major profile. Assuming a two person mixture, Bryan Kohberger is excluded as
+being a contributor to this DNA mixture.
+
+The DNA profile previously obtained from Item 6.1 (See Report No. 7, issued 11/23/2022) indicates a
+mixture of DNA. Assuming a two person mixture, Bryan Kohberger is excluded as being a contributor
+to this DNA mixture.
+
+The DNA profile previously obtained from Item 9.1 (See Report No. 7, issued 11/23/2022) indicates a
+mixture of DNA with a major profile. Assuming a two person mixture, Bryan Kohberger is excluded as
+being a contributor to this DNA mixture.
+
+The DNA profile previously obtained from Item 10.1 (See Report No. 7, issued 11/23/2022) indicates a
+mixture of DNA with a major profile. Assuming a two person mixture, Bryan Kohberger is excluded as
+being a contributor to this DNA mixture.
+
+The DNA profile previously obtained from Item 13.1 (See Report No. 7, issued 11/23/2022) indicates a
+mixture of DNA, assumed to be from three individuals, with a major profile. Based on the likelihood
+ratio result 0.0469, it is inconclusive whether Bryan Kohberger is a potential contributor to this DNA
+mixture.
+
+The DNA profile previously obtained from Item 23 (See Report No. 13, issued 12/17/2022) indicates a
+mixture of DNA with a major profile. Assuming a two person mixture, Bryan Kogberger is excluded as
+being a contributor to this DNA mixture.
+
+The DNA profile previously obtained from Item 30 (See Report No. 13, issued 12/17/2022) indicates a
+mixture of DNA, assumed to be from three individuals, with a major profile. Bryan Kohberger is not
+the source of the major male DNA profile from this item. Due to the low level results and limited data,
+no conclusions can be made regarding the minor contributors.
+
+The DNA profiles previously obtained from Items 37.1 and 37.2 (See Report No. 13, issued
+12/17/2022) were determined to be from the same unknown male. Bryan Kohberger is not the source
+of the DNA profiles from these items.
+
+The partial DNA profile previously obtained from Item 40.1 (See Report No. 13, issued 12/17/2022)
+was determined to be from an unknown male. Bryan Kohberger is not the source of the DNA profile
+from this item.
+
+The partial DNA profile previously obtained from Item 40.4 (See Report No. 13, issued 12/17/2022)
+indicates a mixture of DNA with a major profile. Assuming a two person mixture, Bryan Kohberger is
+not the source of the major male DNA profile from this item. Due to the low level results and limited
+data, no conclusions can be made regarding the minor contributor.
+
+
+
+
+                                              Page 2 of 4
+Laboratory Case Number: M2022-4843                                                       Report No.:
+                                                                                         26
+
+The DNA profile obtained from Item 72 indicates a mixture of DNA with a major profile, which
+matches that previously obtained from the known reference sample of Kaylee Goncalves (See Item
+14, Report No. 4, issued 11/20/2022). Assuming a two person mixture, this DNA profile is at least 779
+septillion (7.79 x 1026) times more likely to be seen if it were the result of a mixture of DNA from
+Kaylee Goncalves and an unrelated, randomly selected individual than if it resulted from two
+unrelated individuals randomly selected from the general population.
+      Madison Mogen (See Item 11, Report No. 4, issued 11/20/2022) is a potential contributor to the
+minor component of this mixture. Assuming a two person mixture, this DNA profile is at least 6.83
+septillion (6.83 x 1024) times more likely to be seen if it were the result of a mixture of DNA from
+Madison Mogen and an unrelated, randomly selected individual than if it resulted from two unrelated
+individuals randomly selected from the general population.
+      Ethan Chapin (Item 5), Xana Kernodle (Item 8), Jack Ducoeur (Item 17), Bethany Funke (Item 18),
+Dylan Mortensen (Item 19) (See Report No. 4, issued 11/20/2022), John Showalter (Item 1), Cole
+Barenberg (Item 2) (See M2022-4870, Report No. 1, issued 11/20/2022), Jose Cruz (See Item 33,
+Report No. 6, issued 11/23/2022), Henry Clark (Item 41), Kenneth Anderson (Item 42), Donald
+McDonald (Item 43), Mason Barstow (Item 44), Jeremy Reagan (Item 45), Khoi Nguyen (Item 46),
+Derrick Agbenya (Item 47), Patrick Buettner (Item 48), Courage Alorbu (Item 49), James Deskins (Item
+50) (See Report No. 13, issued 12/17/2022), Connor Chesnut (See Item 6, M2022-4870, Report No. 3,
+issued 12/14/2022), and Bryan Kohberger are excluded as contributors to this DNA mixture.
+
+The DNA profile obtained from Item 73 indicates a mixture of DNA with a major profile, which
+matches that previously obtained from the known reference sample of Kaylee Goncalves. Assuming a
+two person mixture, this DNA profile is at least 525 septillion (5.25 x 1026) times more likely to be seen
+if it were the result of a mixture of DNA from Kaylee Goncalves and an unrelated, randomly selected
+individual than if it resulted from two unrelated individuals randomly selected from the general
+population.
+       Madison Mogen is a potential contributor to the minor component of this mixture. Assuming a
+two person mixture, this DNA profile is at least 44.6 quadrillion (4.46 x 1016) times more likely to be
+seen if it were the result of a mixture of DNA from Madison Mogen and an unrelated, randomly
+selected individual than if it resulted from two unrelated individuals randomly selected from the
+general population.
+       Ethan Chapin, Xana Kernodle, Jack Ducoeur, Bethany Funke, Dylan Mortensen, John Showalter,
+Cole Barenberg, Jose Cruz, Henry Clark, Kenneth Anderson, Donald McDonald, Mason Barstow,
+Jeremy Reagan, Khoi Nguyen, Derrick Agbenya, Patrick Buettner, Courage Alorbu, James Deskins,
+Connor Chesnut, and Bryan Kohberger are excluded as contributors to this DNA mixture.
+
+The DNA profiles obtained from Items 74, 75, and 78 match that previously obtained from the known
+reference sample of Xana Kernodle. This DNA profile is at least 9.25 septillion (9.25 x 1024) times more
+likely to be seen if Xana Kernodle is the source than if an unrelated individual randomly selected from
+the general population is the source.
+
+The DNA profiles obtained from Items 76 and 77 match that previously obtained from the known
+reference sample of Kaylee Goncalves. This DNA profile is at least 1.01 octillion (1.01 x 1027) times
+more likely to be seen if Kaylee Goncalves is the source than if an unrelated individual randomly
+selected from the general population is the source.
+
+The DNA profiles obtained from Items 101.1, 103.1, 103.2, and 103.3 are consistent with that
+obtained from the known reference sample of Bryan Kohberger.
+
+
+
+
+                                               Page 3 of 4
+ Laboratory Case Number: M2022-4843                                                    Report No.:
+                                                                                       26
+
+DISPOSITION OF EVIDENCE:
+ Item 108 was previously returned to the submitting agency. All remaining items have been returned
+ to the main laboratory evidence vault for return to the submitting agency.
+
+
+REMARKS:
+The descriptions, conclusions and interpretations stated above apply to the sample(s) as received.
+
+I declare under penalty of perjury pursuant to the law of the State of Idaho that the foregoing is true
+and correct.
+
+
+
+
+ Jade Miller / Forensic Scientist
+ Issue Date: 02/06/2023
+
+
+
+
+                                               Page 4 of 4
+                               CERTIFICATE OF SERVICE
+
+I hereby certify that on    3/4/2025      , I served a true and correct copy of the
+
+
+
+LATAH COUNTY PROSECUTING ATTORNEY'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Jeff.Nve(@ag.idaho.gov
+ASHLEY JENNINGS
+DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice(@latahcountyid.zov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetaviorlaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+JAY W. LOGSDON
+FIRST DISTRICT PUBLIC DEFENDER
+VIA EMAIL: Jav.Logsdon@spd.idaho.gov
+
+BICKA BARLOW
+Pro Hac Vice
+bickabarlow@sbeglobal.net
+                                                 TRENT TRIPPLE
+                                                 Clerk of the Court
+
+                                           By:
+                                                 Deputy Clerk    3/4/2025 11:15:14AM
+

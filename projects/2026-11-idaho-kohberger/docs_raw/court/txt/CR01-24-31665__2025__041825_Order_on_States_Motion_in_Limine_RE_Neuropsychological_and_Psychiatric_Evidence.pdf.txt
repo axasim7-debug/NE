@@ -1,0 +1,566 @@
+                                                                                     Filed: 04/18/2025 09:47:22
+                                                                                     Fourth Judicial District, Ada County
+                                                                                     Trent Tripple, Clerk of the Court
+                                                                                     By: Deputy Clerk Waters, Renee
+                                                                                                         -
+
+
+
+
+            IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+
+                  THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+    STATE OF IDAHO,
+
+               Plaintiff,                                     Ada County Case No. CR01-24-31665
+    V.
+                                                              ORDER ON STATE'S MOTION IN
+    BRYAN C. KOHBERGER,                                       LIMINE RE: NEUROPSYCHOLOGICAL
+                                                              AND PSYCHIATRIC EVIDENCE
+               Defendant.
+
+
+
+L.       INTRODUCTION
+         The State seeks to prohibit Defendant from offering any testimony during the penalty
+
+phase in connection with his neuropsychological and psychiatric evaluations performed by his
+disclosed experts, Dr. Rachel Orr and Dr. Eileen Ryan.' The State argues the proposed testimony
+falls outside the mental condition evidence allowed by I.C. § 18-207. Defendant responds that he
+is not relying on the proposed testimony as a mental element defense under I.C. § 18-207, noting
+
+his relevant diagnoses are physical conditions, not mental conditions. Rather, he intends to
+
+present the evidence to aid the jury in understanding both the physical implications of his
+
+diagnoses and contextualizing his allegedly unconventional courtroom demeanor.
+         Oral argument on the motion was held on April 9, 2025, after which the Court took the
+matter under advisement. The Court finds that if Defendant does not testify, evidence of his
+
+diagnoses to explain his courtroom demeanor is not relevant and/or inadmissible under IRE 403.
+
+Ruling is reserved as to certain behaviors that may become relevant in rebuttal, except for expert
+testimony that he was physically unable to commit the crimes, for which there is no disclosed
+
+opinion.
+II.      STANDARD
+         The question of whether evidence is relevant one of law, while the decision to admit
+relevant evidence is discretionary. State v. Shutz, 143 Idaho 200, 202, 141 P.3d 1069, 1071
+
+
+'
+ Specifically, the State objects to the testimony proposed in Dr. Orr's and Dr. Ryan's respective expert disclosures,
+which includes their reports.
+
+
+                                                          1
+(2006). On discretionary matters, the trial court must: 1) correctly perceive the issue as one of
+discretion; 2) act within the outer boundaries of its discretion; 3) act consistently with the legal
+standards applicable to the specific choices available to it, and; 4) reach its decision by the
+
+exercise of reason. Lunneborg v. My Fun Life, 163 Idaho 856, 863, 421 P.3d 187, 194 (2018)).
+
+III.       FACTS
+           During the course of this case, the defense team retained Dr. Rachel Orr, a clinical
+neuropsychologist, to conduct a comprehensive neuropsychological evaluation of Defendant and
+issue a report. She ultimately diagnosed Defendant with "Autism Spectrum Disorder, level 1,
+
+without accompanying intellectual or language impairment" ("ASD") and Obsessive-
+
+Compulsive Disorder ("OCD"), among others. Def's Exp. Discl., Exh. D7-B, p. 16 ("Orr
+Report"). She also listed various diagnoses "for which [Defendant] met criteria in the past." Jd.
+One of these was Developmental Coordination Disorder ("DCD"). /d.
+
+           According to Dr. Orr, ASD is a "complex, heterogenous, neurodevelopmental disorder
+rooted in brain differences and characterized by social and behavioral features." /d., p. 16. It
+
+causes "deficits in which affected individuals perceive and react to others and their environment,
+
+causing problems in social communication and interactions, repetitive behaviors, and narrow
+
+range of interests." Def's Exp. Discl., Exh. D13-B, p. 31 ("Ryan Report")." There is a wide range
+of autism symptoms and severity. /d. Deficits can include a restricted range of affect, atypical
+eye contact, displaying facial expressions or movements that do not match what is being said,
+failure to consider social cues, having trouble with speech reciprocity and repetitive behaviors.'
+
+           While Defendant is diagnosed with the least severe form of ASD and by all accounts is
+
+highly-functioning, both Dr. Orr and Dr. Ryan noted deficiencies in his behavior to include
+intense eye contact, restricted range of affect, occasional subtle rocking of upper torso while
+
+seated, awkward gestures and interaction, atypical tone, lack of appreciation for personal space,
+and pedantic speech. However, Dr. Orr also observed that Defendant demonstrated typical social
+
+behaviors, such as "fairly consistent (though intense) eye contact, polite demeanor, and social
+conventions (e.g. shaking hands upon greeting)." Orr Report, pp. 8-9. She noted Defendant
+
+
+
+?
+    Dr. Eileen Ryan conducted a psychiatric evaluation of Defendant and agreed with Dr. Orr's diagnoses.
+
+3
+ Def's Resp., p. 5 (quoting from U.S. National Institute of Mental Health website, available at:
+https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder (last visited April 16, 2025).
+
+
+                                                          2
+engaged in conversation and was never "overtly inappropriate." Jd. Dr. Orr noted that Defendant
+
+manages sensory processing differences by self-soothing activities like driving and extensive
+time in the dark. /d. at p. 17.
+
+           Defendant's OCD is manifested through compulsive cleaning behaviors and taking
+
+precautions to avoid contamination, sickness or germs. Orr Report, p. 18. He excessively washes
+his hands and reported uses gloves during "basic everyday tasks." Jd.
+
+           Although Defendant does not carry a current diagnosis of DCD, Dr. Orr opines that he
+met the criteria for the diagnosis in the past. She explains in her report:
+
+           {[Defendant's] educational history, parent report, and evaluation results all provide
+           evidence that [Defendant] experienced significant deficits in motor functions in
+           the course of development, which in turn contributed to problems meeting typical
+           moto and coordination milestones of childhood (e.g., problems catching balls,
+           handwriting, riding a bicycle). While motor problems have not impacted his
+           functioning significantly in many years, [Defendant] continues to present with
+           impairment in fine motor dexterity and vulnerabilities in visual-motor functions,
+           evidence in his cognitive profile and observations of his behavior.
+Orr Report, p. 19.
+
+           The only observation Dr. Orr made with regard to Defendant's fine motor dexterity was
+that Defendant "moved his whole arm and repositioned his upper body slightly to manipulate the
+
+items effectively." Jd., p. 7. In her cognitive profile, she stated that Defendant's "[v]isual-motor
+
+skills were relatively weak in the context of his overall profile, particularly when precision or
+
+dexterity were involved (e.g., copying, visual-motor sequencing), consistent with his history of
+fine motor deficits. When isolated, [Defendant's] fine motor dexterity and speed were impaired
+
+bilaterally (<1* percentile), likely impacting his visual-motor performances as well." /d., p. 11.
+           According to the declaration of Dr. Jeffery Lewine submitted by Defendant as Exhibit D-
+1   to his response to the State's motion,' ASD, OCD and DCD are either neurodevelopmental or
+
+neurobiological disorders, as opposed to "mental condition caused by external psychological
+factors or events[.]" Decl. Lewine, § 14(d).° He notes that an MRI of Defendant's brain shows
+
+objective evidence of "disrupted brain structure in several nodes of the social network." /d., p. 4;
+Exh. D1-3 (MRI).
+IV.        ANALYSIS
+
+4
+    Dr. Lewine was not disclosed by Defendant as a retained expert.
+
+>
+    He concedes, however, that OCD can be partly influenced by psychological factors. Decl. Lewine, { 16.
+
+                                                           3
+       A.        I.C. § 18-207 Is Not Applicable.
+       Section 18-207, Idaho Code, "applies to any issue of mental condition in any legal
+
+proceeding at which the defendant's mental health condition may be an issue." State v. Samuel,
+165 Idaho 746, 757, 452 P.3d 768, 779 (2019). It provides, in relevant part:
+
+       (1) Mental condition shall not be a defense to any charge of criminal conduct.
+
+       (3) Nothing herein is intended to prevent the admission of expert evidence on the
+       issue of any state of mind which is an element of the offense, subject to the rules
+       of evidence.
+IC. § 18-207.
+       Under the statute, "evidence of a mental condition is expressly permitted to rebut the
+State's evidence offered to prove criminal intent or mens rea." State v. Diaz, 170 Idaho 79, 84,
+
+507 P.3d 1109, 1114 (2022). "{A]ny expert testimony admitted on the issue of mens rea or state
+
+of mind under Idaho Code section 18-207, must speak to an element of the crime." Jd. at 85, 507
+P.3d at 1115).
+
+       Here, however, Defendant is not intending to use his diagnoses to challenge the state of
+mind element of the crimes with which he is charged. In fact, he is not intending to use his
+
+diagnoses as a reflection of his mental state at all and disputes that they are "mental conditions"
+in the first place. Thus, because Defendant is seeking to introduce his diagnoses to explain
+
+physical deficits rather than mental deficits that disqualify him from forming the intent necessary
+to commit the crimes, I.C. § 18-207 does not govern the analysis.
+
+       B.        Evidence of Defendant's Diagnoses.
+
+       Having determined that I.C. § 18-207 does not apply, the next question is whether
+evidence of Defendant's diagnoses is relevant. Evidence is relevant if it has "any tendency to
+make the existence of any fact that is of consequence to the determination of the action more
+
+probable or less probable than it would be without the evidence." IRE 401. "Whether a fact is 'of
+
+consequence' or material is determined by its relationship to the legal theories presented by the
+
+parties." State v. Abdullah, 158 Idaho 386, 438, 348 P.3d 1, 53 (2015) (citation omitted).
+       Even if relevant, the trial court has discretion to exclude the evidence if the probative
+value is "substantially outweighed by the danger of unfair prejudice, confusion of the issues, or
+
+misleading the jury, or by considerations of undue delay, waste of time, or needless presentation
+
+
+
+
+                                                 4
+of cumulative evidence." IRE 403. "Unfair prejudice" is prejudice that "tends to suggest a
+decision on an improper basis." State v. Diaz, 170 Idaho 79, 91, 507 P.3d 1109, 1121 (2022).
+
+                    1.      Evidence of ASD to Explain Demeanor Is Only Admissible If Defendant
+                            Testifies.
+           With regard to evidence of his ASD, Defendant contends it is relevant to explain that his
+"ASD diagnosis is a physical condition and how it presents in his demeanor." Resp., p. 3.
+Specifically, Defendant asserts testimony about his ASD will help the jury understand that his
+behavioral characteristics, such as his flat affect, intense eye contact, awkward body posture and
+
+lack of emotive responses, are associated with his ASD and should not be interpreted in a sinister
+
+light. Defendant argues he should be able to introduce this evidence at the outset of trial.
+          The State responds that Defendant's demeanor is not a fact of consequence in this case
+and is not even evidence the jury can consider, at least if he does not testify. To this end, the
+
+State relies on a body of law regarding prosecutorial misconduct in commenting on a defendant's
+
+demeanor as evidence of guilt. In one representative case, United States v. Schuler, the court
+
+observed that a defendant's courtroom behavior off the witness stand is not admissible evidence
+
+and is "legally irrelevant to the question of his guilt of the crime charged." 813 F.2d 978, 980 (9"
+
+Cir. 1987). Thus, "'in the absence of a curative instruction from the court, a prosecutor's comment
+on a defendant's off-the-stand behavior constitutes a violation of the due process clause of the
+
+[Flifth [A]mendment. That clause encompasses the right not to be convicted except on the basis
+of evidence adduced at trial." Jd. at 981.°
+           While the relevance of Defendant's demeanor is raised in a different context here, the
+
+principles of this body of law apply equally. The Supreme Court has declared that "one accused
+of a crime is entitled to have his guilt or innocence determined solely on the basis of the evidence
+introduced at trial, and not on grounds ... not adduced as proof at trial." Taylor v. Kentucky, 436
+
+U.S. 478, 485 (1978). The jury will be instructed as to what evidence it is allowed to consider in
+
+arriving at its determination of guilt or innocence: sworn testimony of witnesses, exhibits which
+
+
+
+6
+    See also, United States v. Wright, 489 F.2d 1181, 1186 (D.C. Cir. 1973) (holding that the courtroom behavior of
+the defendant off the witness stand was not "in any sense legally relevant to the question of guilt or innocence" and,
+therefore, it was error for prosecutor to comment on it); Hughes v. State, 437 A.2d 559 (Del.Supr.1981) (noting the
+courtroom demeanor of a defendant who has not testified is not evidence and is irrelevant); 22 Kenneth W. Graham,
+Jr., Federal Practice & Procedure (Evidence) ("Wright & Miller") § 5163 (2d ed.) (June 2024 update) (collecting
+cases).
+
+
+                                                           5
+have been admitted into evidence, and facts to which the parties have stipulated. ICJI 202.7 A
+
+non-testifying party's demeanor is not included and, therefore, legally irrelevant to the question
+of guilt.
+         While Defendant cites to case law allowing evidence of ASD in the criminal context,
+those cases are distinguishable. In State v. Burr, which Defendant predominantly relies upon, the
+
+New Jersey Supreme Court found evidence of the defendant's ASD was properly admitted in a
+child molestation case to for two independent reasons: 1) to explain that the defendant's actions
+of having his young piano students sit on his lap was not intended as sexual grooming, but rather
+a way to relate to his students, and; 2) to educate the jury about oddities in behavior that
+
+defendant might exhibit in court or that were described in the testimony of witnesses. 948 A.2d
+
+627, 633-34 (N.J., 2008).
+         Those oddities in behavior were not discussed in the opinion. However, in a prior
+decision in the case by the New Jersey Superior Court, Appellate Division, the court provided
+more detail, thus placing the ruling in its proper context. State v. Burr, 2006 WL 3313358, at *1,
+
+fn 2. (N.J. Super. Ct. App. Div. Nov. 16, 2006). There, the court noted that during a pretrial court
+
+appearance, the trial judge became "alarmed by defendant's odd appearance and demeanor"
+when he arrived to court with a "bag or large sign draped over his head." Jd. When the trial judge
+
+inquired about his dress, the defendant began quoting from the Book of Deuternomony. /d.
+Concerned, the trial judge ordered a competency examination, which revealed that the defendant
+was demonstrating signs of Asperger's Disorder, with which he was subsequently diagnosed. Jd.
+
+at *1. The state sought to exclude expert medical testimony at trial about the defendant's
+
+diagnosis, but the defendant argued it was relevant to show that his ability to make social
+judgments was impaired, i.e., allowing young female students to sit on his lap, and to explain his
+"odd or alarming" appearance and mannerisms. /d. at *2. The trial court excluded the evidence
+and the defendant was convicted. Jd. at **2-3.8
+
+
+
+"If Defendant requests it, the Court will consider including a jury instruction that a non-testifying party's demeanor
+is not to be considered in arriving at a determination of guilt.
+
+
+8The Superior Court remanded to the trial court for an evidentiary hearing on Defendant's proffered expert
+testimony about his Asperger's Disorder. Burr, 2006 WL 3313358, at *3. After the hearing, the record was returned
+to the Superior Court, which reversed the conviction. State v. Burr, 921 A.2d 1135 (N.J. App. Div. 2007), aff'd as
+modified, 948 A.2d 627 (2008). Notably, the court found the refusal to allow expert medical testimony about the
+defendant's Asperger's Disorder for purposes of rebutting intent was reversible error, but was not persuaded that the
+evidence was relevant to explain his "odd appearance," noting his appearance was not an issue raised at trial and
+
+                                                           6
+        Not one of Defendant's experts has ever imputed behavior to him that remotely
+
+approaches the odd behavior in Burr. Moreover, the Court has had the opportunity to observe
+Defendant through multiple hearings over the past several months, some lasting all day. Not once
+
+has the Court perceived Defendant to be acting in an odd or incongruent manner or otherwise
+
+demonstrating signs at counsel table that would warrant any explanation to the jury. His
+demeanor has been entirely appropriate. In addition, unlike in Burr, the State has indicated it will
+
+not present any evidence from witnesses about Defendant's allegedly odd behavior.
+
+Consequently, testimony about Defendant's ASD is simply not relevant if he does not testify."
+        Moreover, introducing such evidence risks confusing the issues, misleading the jurors,
+
+wasting time and potentially unfairly prejudicing both Defendant and the State. The jury will
+already be instructed about evidence it is allowed to consider in determining guilt. Because there
+is no reason for the testimony except to explain something that a jury is not allowed to consider
+
+in the first place, i.e., Defendant's demeanor, it may very well cause confusion about the role the
+
+expert testimony plays in their overall determination of guilt.
+        While the Court is not blind to the fact that the jury will be scrutinizing Defendant's
+courtroom behavior during trial, allowing testimony about his ASD to explain his courtroom
+
+behavior amounts to judicial endorsement of improper evidence. If anything, presenting evidence
+of Defendant's ASD will focus the jurors even more on Defendant's behaviors that they likely
+would not have noticed in the first place. It may also diminish the weight assigned to evidence
+
+the jury is instructed to consider in aiding its determination of guilt, despite instructions to the
+
+contrary. It essentially invites the jury to consider the character of the accused to determine guilt,
+which is not proper except as allowed by IRE 404. In this sense, the evidence runs the risk of
+
+being unfairly prejudicial to Defendant. It additionally risks playing into the jury's sympathies,
+to the prejudice of the State. Moreover, expert testimony             particularly on a diagnosis as
+encompassing as ASD          will consume a significant amount of time in an already lengthy trial.
+
+
+there was no evidence the jury convicted him based on his appearance. Nonetheless, the court noted that admitting
+the expert testimony "would have given the jury a clearer lens through which to view defendant's behavior,
+including his demeanor while testifying, if he had chosen to do so." /d. at 563.
+
+°Defendant also cites to State v. Boyd, 143 S.W.3d 36, 47 (Mo. Ct. App. 2004), U.S. v. Cottrell, 333 F.App'x 213,
+216 (9" Cir. 2009) and State v. Suber, 2008 WL 942622, *10 (Minn. Ct. App. April 8, 2008). None of these cases
+supports the proposition that a defendant's ASD is relevant to explain the courtroom demeanor of a non-testifying
+defendant. Rather, the evidence in each was used to rebut an element of the crime.
+
+
+                                                         7
+Consequently, if Defendant does not testify, evidence of his ASD to explain his courtroom
+demeanor is inadmissible under IRE 401 and 403.'°
+
+        If, however, Defendant testifies, evidence to explain his demeanor may become relevant.
+At that point, Defendant's demeanor-which goes to his credibility                   is relevant evidence a jury
+
+can consider, which the State concedes. However, prior to presenting testimony on the matter,
+
+Defendant must raise the matter with the Court outside the presence of the jury to discuss the
+
+permissible scope.
+                  2.       The Court Reserves Ruling on Admissibility of OCD Evidence.
+        Defendant argues that evidence of his physical manifestations of OCD may be relevant in
+
+rebuttal. Those manifestations, according to Dr. Orr, including compulsive hand washing,
+
+wearing gloves to avoid germs and generally avoiding anything contaminating. Defendant
+further adds, in argument only, that his OCD causes sleep difficulties that have led to a habit of
+
+night driving and running to decompress.'! He argues that if the State elicits testimony at trial
+related to these facts in order to support elements of the crimes, evidence of these manifestations
+
+will be proper rebuttal.   !
+        The State responds that it does not intend to introduce any evidence during the guilt
+
+phase as to Defendant's "todd" behaviors, social miscues or other unusual behaviors. However, it
+
+requests that the Court reserve ruling until the time of trial. The Court finds this is an appropriate
+
+approach. Again, prior to introducing such evidence or otherwise mentioning it before the jury,
+Defendant shall raise the matter outside the presence of the jury.
+
+                  3.       Evidence of DCD Is Not Admissible To Rebut Ability to Commit Crime.
+        As with his OCD, Defendant argues he intends to introduce evidence of deficits in his
+fine motor dexterity and visual motor function caused by DCD to rebut the State's evidence that
+
+it was possible for him to have acted with the speed and coordination required to commit the
+
+
+
+10
+  Defendant's ASD can certainly be raised in voir dire, including questioning the jury panel about whether they can
+avoid judging the defendant improperly based on how he presents at counsel table, which may allay Defendant's
+concerns about how the jury will perceive him.
+
+" Dr. Orr noted in her report that Defendant engages in self-soothing activities to decrease sensory input caused by
+his ASD, to include spending extensive time in the dark and driving. This was not linked to his OCD, however.
+
+
+  By way of example, he notes that just prior to his arrest, law enforcement saw him wearing gloves and handling
+12
+
+
+baggies. Believing he was destroying evidence, law enforcement abbreviated its knock and announce procedure. If
+the State introduces this or similar evidence at trial, Defendant asserts that evidence of his OCD would be relevant
+rebuttal to offer another explanation for his behavior.
+
+                                                          8
+crimes. The State responds that Defendant is improperly stretching the bounds of his expert's
+
+opinion to reach an inference that cannot reasonably be drawn, which was not disclosed, and
+which otherwise has no support. It argues that the evidence is not relevant to guilt and/or barred
+
+by IRE 403.
+       The State's challenge is well-placed. Whether Defendant was physically capable of the
+
+speed and dexterity to commit the crime on account of DCD is within the realm of expert
+
+opinion. As Dr. Lewine observed, DCD is "characterized by impairments in the development of
+motor coordination, including dexterity, limb speed, and gross and fine motor skills." Decl.
+
+Lewine, { 15. It is "associated with structural and functional disruption of motor control and
+coordination networks, with minimal modulation by psychological factors." Jd.
+
+       However, it is not a diagnosis from which Defendant currently suffers. In her report, Dr.
+Orr noted DCD was a "diagnosis for which [Defendant] met criteria in the past." Further, there is
+
+nothing in her disclosure or report suggesting Defendant was physically unable to commit the
+crimes due to impairments associated with DCD. Her entire discussion on Defendant's DCD is
+
+as follows:
+
+       [Defendant's] educational history, parent report, and evaluation results all provide
+       evidence that [Defendant] experienced significant deficits in motor functions in
+       the course of development, which in turn contributed to problems meeting typical
+       moto and coordination milestones of childhood (e.g., problems catching balls,
+       handwriting, riding a bicycle). While motor problems have not impacted his
+       functioning significantly in many years, [Defendant] continues to present with
+       impairment in fine motor dexterity and vulnerabilities in visual-motor functions,
+       evidence in his cognitive profile and observations of his behavior.
+Orr Report, p. 19.
+
+       The only observation Dr. Orr made with regard to Defendant's fine motor dexterity was
+that Defendant "moved his whole arm and repositioned his upper body slightly to manipulate the
+
+items effectively." Jd., p. 7. In her cognitive profile, she stated that Defendant's "[v]isual-motor
+
+skills were relatively weak in the context of his overall profile, particularly when precision or
+
+dexterity were involved (e.g., copying, visual-motor sequencing), consistent with his history of
+fine motor deficits. When isolated, Bryan's fine motor dexterity and speed were impaired
+
+bilaterally (<1* percentile), likely impacting his visual-motor performances as well." Jd., p. 11.
+       The foregoing represents the extent of expert commentary on Defendant's DCD. Nothing
+therein remotely approaches an opinion about Defendant's ability to commit the crimes. At most,
+
+
+
+                                                  9
+Dr. Orr could testify about her observations about his weak fine motor dexterity and visual-
+motor skills, but without any opinion tying this evidence to his ability to commit the crime, its
+
+relevance is lacking and it invites unsupported speculation by the jury about Defendant's ability
+
+to commit the crime. Additionally, there is again the concern the expert testimony will consume
+
+an inordinate amount of time on an issue for which there is no foundation in a trial that will
+
+already be lengthy. Weighing this concern against the lack of any probative value further
+warrants its exclusion under IRE 403, as the state of the evidence stands currently.'?
+
+V.       ORDER
+         Based on the foregoing, State's Motion in Limine re: Neuropsychological and Psychiatric
+Evidence is GRANTED, in part, and RESERVED, in part.
+
+
+IT IS SO ORDERED.
+
+
+DATED this            day of April, 2025.
+
+
+
+
+                                                     _Stéven    Hipple 4
+                                                      District Judge
+
+
+
+
+    3
+1
+  Should the State open the door to inquiry about the issue, the defense must bring the issue to the Court's attention
+outside the presence of the jury.
+
+                                                          10
+                                    CERTIFICATE OF SERVICE
+
+                        4/18/2025        served a true and correct copy of the
+|
+ hereby certify that on                ,     |
+
+
+
+
+ORDER ON STATE'S MOTION IN LIMINE RE: NEUROPSYCHOLOGICAL AND PSYCHIATRIC EVIDENCE
+LATAH COUNTY PROSECUTING ATTORNEY'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.gov
+
+ASHLEY JENNINGS
+SENIOR DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JOSHUA D. HURWIT
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountvid.qov
+
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: jeff.nye@aq.idaho.qov
+
+MADISON ALLEN
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Madison.allen@aaq.idaho.qov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetayloriaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+FIRST DISTRICT PUBLIC DEFENDER
+JAY W. LOGSDON
+VIA EMAIL: jav.loasdon@spd.idaho.qov
+
+    BICKA BARLOW
+Pro Hac Vice
+VIA EMAIL: bickabarlow@sbcalobal.net
+
+
+
+
+                                                      TRENT TRIPPLE
+                                                      Clerk of the Court
+
+                                                 By   fans Clerk      48/2025 9:47:50 am
+                                                       Deputy
+
+
+
+
+    CERTIFICATE OF SERVICE
+

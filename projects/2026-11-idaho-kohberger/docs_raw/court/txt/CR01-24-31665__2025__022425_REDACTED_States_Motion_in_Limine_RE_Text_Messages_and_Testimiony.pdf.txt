@@ -1,0 +1,414 @@
+                                                                      Filed: 02/24/2025 14:43:39
+                                                                      Fourth Judicial District, Ada County
+                                                                      Trent Tripple, Clerk of the Court
+LATAH COUNTY PROSECUTOR'S OFFICE                                      By: Deputy Clerk Waters, Renee
+                                                                                       -
+
+
+
+
+WILLIAM W. THOMPSON, JR., ISB No. 2613
+PROSECUTING ATTORNEY
+ASHLEY S. JENNINGS, ISB No. 8491
+SENIOR DEPUTY PROSECUTOR
+Latah County Courthouse
+§22 S. Adams Street, Ste. 211
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+
+        IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                   STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+
+
+ STATE OF IDAHO,                                      Case No. CR01-24-31665
+                 Plaintiff,
+                                                                 REDACTED
+                                                      STATE'S MOTION IN LIMINE
+ V                                                    RE: TEXT MESSAGES AND
+                                                      TESTIMONY
+ BRYAN C. KOHBERGER,
+                 Defendant.
+
+
+
+
+        COMES NOW the State of Idaho, by and through the Latah County Prosecuting
+
+Attorney, and respectfully moves the Court for an order in limine allowing the State to admit the
+
+text messages of       D.M.        on November 13, 2022, and the testimony from
+
+ D.M.      and      BAF.        regarding their conversations with each other on November 13,
+
+2022. The phone records were discovered on the hard drive(       DM.             iPhone extraction)
+
+provided on April 5, 2023, and State's Exhibit 18 from the Grand Jury record (State's Exhibit S-1
+
+
+
+STATE'S MOTION IN LIMINE
+RE: TEXT MESSAGES AND TESTIMONY                                                                       1
+                                D.M.                     B.F
+attached). The testimony of                     and                  was provided to the defense as
+
+part of the Grand Jury record (State's Exhibit S-2 and State's Exhibit S-3 attached).
+
+                               STANDARD OF ADMISSIBILITY
+
+        In general, testimony that is hearsay is excludable at trial. I.R.E. 802. However, there are
+
+
+exceptions to this rule. Two firmly rooted exceptions are:
+
+               Idaho Rule of Evidence 803(1) Present Sense Impression. A statement
+               describing or explaining an event or condition, made while or immediately
+               after the declarant perceived it.
+
+               Idaho Rule of Evidence 803(2) Excited Utterance. A statement relating to
+               a startling event or condition, made while the declarant was under the
+               stress of excitement that it caused.
+
+       The requirements of the federal version of the present sense impression and exited
+
+utterance are best stated in U.S.   Mitchell:
+
+               There are three principal requirements which must be met before hearsay
+               evidence may be admitted as a present sense impression: (1) the declarant
+               must have personally perceived the event described; (2) the declaration
+               must be an explanation or description of the event rather than a narration;
+               and (3) the declaration and the event described must be contemporaneous.
+
+
+
+
+               The requirements for a hearsay statement to constitute an excited utterance
+               are: (1) a startling occasion, (2) a statement relating to the circumstances
+               of the startling occasion, (3) a declarant who appears to have had
+               opportunity to observe personally the events, and (4) a statement made
+               before there has been time to reflect and fabricate.
+
+145 F. 3d 572 (3d Cir. 1998). Both exceptions require that the declarant personally
+
+
+perceives the event or condition about which the statement is made. In addition, both
+
+have temporal limitations which limit admissibility. Jd. Under the present sense
+
+impression exception, the declaration must be substantially contemporaneous with the
+
+event in question. The fundamental premise underlying the present sense impression
+
+STATE'S MOTION IN LIMINE
+RE: TEXT MESSAGES AND TESTIMONY                                                                        2
+exception is “that substantial contemporaneity of event and statement minimizes
+
+unreliability due to [the declarant’s] defective recollection or conscious fabrication.”
+
+United States v. Green, 541 F.3d 176, 180 (3d Cir. 2008). Courts have given broader
+
+temporal limitations for excited utterances. In U.S. v Napier, the U.S. Court of Appeals
+
+held that “although in most cases the ‘startling’ events which prompt ‘spontaneous
+
+exclamations’ are accidents, assaults, and the like…there is no reason to restrict the
+
+exception to those situations.” (Victim’s statement’s “he killed me, he killed me” after
+
+being shown a photograph approximately eight weeks after attack held admissible). 519
+
+F.3d 316 (9th Cir. 1975) Following Napier, some courts have
+
+admitted excited utterances “made well after the event when the declarant was
+
+suddenly subjected to rekindled excitement” because “[e]vents may so deeply traumatize
+
+a person that long after stress has subsided a chance reminder may have enormous
+
+psychological impact, causing renewed stress and excitement and educing utterances
+
+relating to the original trauma.” Matter of Troy P., 114 N.M. 525, 842 P.2d 742 (New
+
+Mexico Ct. App. 1992)
+
+       There is no requirement within the language of I.R.E. 803(1) that the declarant be
+
+excited or emotionally affected by the event or condition in order to fall within the
+
+present sense exception; but if so, then the statement can overlap with the excited
+
+utterance exception. U.S. v. Jones, 299 F.3d 103 (Ct. App. 2d Cir. 2002) (holding that
+
+statements were admissible under present sense impression and exited utterance
+
+exceptions to the hearsay rule).
+
+
+
+
+STATE’S MOTION IN LIMINE
+RE: TEXT MESSAGES AND TESTIMONY                                                             3
+                                                      ARGUMENT
+              D.M.                                        Exhibit S-1) for November 13, 2022,
+    A,                          *s phone records (contained in
+         and B-F.            's testimony (contained in Exhibit S-2) as to what.  0-M.
+         told her should be allowed at trial.
+
+         In the case at bar, starting on November 13, 2022, at 2:10:29               D.M.          sends a
+
+text message to       E.G.        (Uber Driver) to inquire if he is driving. The State submits this text
+
+message exchange is not hearsay because it will not be offered for the truth of the matter asserted
+
+(i.e. E.G.   's driving status). Instead, it would be offered to show a timeline for the night (i.e.
+
+     D.M.    was awake and texting at 2:10: 29). From 4:19:07 to 4:21:50,               D-M.
+
+
+attempts to call        BF.            Xana Kernodle, Kaylee Goncalves, and Madison Mogen (all
+
+calls unanswered). The records of these calls are not hearsay as they each do not meet the
+
+definition of a statement: "oral assertion, written assertion, or nonverbal conduct intended as an
+
+assertion" under I.R.E. 801(a).
+
+         From 4:22:08 to 4:24:27,             D.M.        and B.F.   send the following text messages:
+
+                        D.M. to B.F. : "No one is answering"
+                        D.M. to B.F.   "I'mrlly confused m."
+                                          ;
+
+
+                        D.M. to Goncalves: "Kaylee"
+                        D.M. to Goncalves: "What's going on'            3
+
+
+
+
+                     B.F. to    D.M.          : "Ya dude wtf"
+                     B.F. to    D.M.          : "Xana was wearing all black"
+                     D.M to     BF.           : "I'm freaking out rm"
+
+                     D.M.to     B.F.          :   "No it's like ski mask almost"
+                     B.F. to    D.M.          >
+
+                                                  "Stfu"
+                     B.F. to    D.M.          :
+                                                  "Actually"
+                         D.M. to B.F.   "Like he had soemtbinf over is for head and little nd mouth"
+                                              :
+
+                                        " B.F I'm not
+                         D.M. to B.F. :                 kidding o am so freaked out"
+                         B.F. to D.M. : "So am I"
+                         D.M. to B.F. :
+                                        "My phone is going to die fuck"
+                         B.F. to D.M. : "Come to my room"
+                         B.F.   to D.M.       :   "Run"
+                         B.F.   toD.M.        :   "Down here"
+
+
+
+STATE'S MOTION IN LIMINE
+RE: TEXT MESSAGES AND TESTIMONY                                                                              4
+All of the above declarations are present sense impressions and excited utterances. This is
+
+supported by    D.M.          's grand jury testimony where she indicates she just witnessed a startling
+
+event (i.e. heard noises in residence and saw an unknown male in the residence); the declarations
+
+indicate both B.F.     and      D.M.      are trying to make sense of the startling event
+
+
+contemporaneously or immediately following the startling event (i.e. no time for reflection or
+
+fabrication). See      D.M.      's Grand Jury testimony attached as Exhibit S-3.
+
+       At 4:24:39      D.M.        calls Ethan Chapin (call unanswered). This phone record, like the
+
+other records of calls, is not a statement pursuant to I.R.E. 801(a).       D.M.            8-F-   continue
+                                                                                     and|
+
+
+to text. At 4:24:58    D.M.        texts B.F.   "ImscRwd tho" and B.F.       responds at 4:25:16 "Ya
+
+IK but it's better than being alone." Again, both statements are admissible as present sense
+
+impressions and excited utterances as they are describing an event or their state of mind and are
+
+Spontaneous reactions to that event rather than the result of reflective thought.
+
+       At 4:27:47       D.M.       calls Goncalves (call unanswered), and at 4:28:44        D.M.      calls
+
+Kernodle (call unanswered). These are not "statements" pursuant to I.R.E. 801(a).
+
+       At 4:32:57      D.M.        sends a text messages to Goncalves stating "Pls answer". This
+
+statement is a present sense impression (shows         D.M.      's perception of events) and an excited
+
+utterance (spontaneous reaction to that event rather than the result of reflective thought).
+
+       The next morning,           D.M.     sends the following text messages starting at 10:23:23:
+
+                      D.M.     to Goncalves: "Pls answer"
+                      D.M.     to Mogen: "R u up"
+                      D.M.     to Goncalves: "R u up??"
+
+       These text messages are not hearsay because they will not be introduced for the truth of
+
+the matter asserted. Even if deemed hearsay, they are allowable as present sense impressions as
+
+
+they reflect a consistency and continuation of         D.M.    's text messages from the night prior and
+
+STATE'S MOTION IN LIMINE
+RE: TEXT MESSAGES AND TESTIMONY                                                                               5
+reflect her then perception of what was then occurring (i.e. waking up and realizing that she had
+
+not heard from her roommates).
+
+            At 11:39:09      D.M.          has a text exchange with her father               B.M.           .   These
+
+statements are not hearsay as they will not be introduced for the truth of the matter asserted but
+
+instead to show a timeline for the morning. At 11:50:55,                    D.M.        receives a text message from
+
+  J        stating "bro." This text message will not be introduced for the truth of the matter asserted.
+
+At 11:50:58          0.M.      calls       EA.          .   This phone record is not a statement pursuant to
+
+LR.E. 801(a).                       receives a text message from            J    " at 11:51:01 and a Vandal Alert at
+                      D.M.
+
+
+1:04:01; these texts are not hearsay because they will not be introduced for the truth of the matter
+
+asserted but instead to show a timeline for the morning.
+
+      B.             D.M.            and         B.F.              testimony (contained in State's Exhibit S-2
+
+            and State's Exhibit S-3)
+
+            The State anticipates that both                 D.M.          and
+                                                                                       BF.          will testify at trial.
+
+The State intends to ask each witness about statements made to them on November 13, 2022.
+
+This testimony should substantively replicate the testimony they provided at the grand jury
+
+                                                                                D-M.            B.F
+proceedings. The State submits the statements from both                                 and            to each other are
+
+allowable hearsay because they are present sense impressions and/or excited utterances.
+
+      C. Previous Adjudication
+
+            Judge John Judge has previously ruled that the text messages and statements of
+
+      D.M.      to      B.F.           are "present sense impressions" and "excited utterances" holding
+
+"both the text messages and the testimony of                       B-F.    asto what         D.M.           told her were
+
+admissible as exceptions to the hearsay rule." "Sealed Order Denying Motion to Dismiss
+
+
+
+STATE'S MOTION IN LIMINE
+RE: TEXT MESSAGES AND TESTIMONY                                                                                              6
+Indictment on Grounds of Biased Grand Jury, Inadmissible Evidence, Lack of Sufficient
+
+Evidence, and Prosecutorial Misconduct', Pages 20, Filed 12/15/2023.
+
+            D.M.    spphone records ((contained in Exhibit S-1)) for November 13. 2022 and
+            B.F          ''s   Testimony (contained in Exhibit S-2) are allowable at trial under
+       Crawford
+
+       Under I.R.E. 803, present sense impressions and excited utterances are admissible
+
+whether or not the declarant is available as a witness. I.R.E. 803(1) and (2).
+
+       Any statement found outside of the above exceptions to hearsay are non-testimonial for
+
+purposes of a Crawford analysis. Further, even if somehow deemed testimonial, the
+
+Confrontation Clause of the Sixth Amendment does not bar their admission:
+
+               Finally, we reiterate that, when the declarant appears for cross-
+               examination at trial, the Confrontation Clause places no constraints at all
+               on the use of his prior testimonial statements. See California v. Green, 399
+               U.S. 149, 162, 90 S.Ct. 1930, 26 L.Ed.2d 489 (1970). It is therefore
+               irrelevant that the reliability of some out-of-court statements " 'cannot be
+                                                                                           "
+               replicated, even if the declarant testifies to the same matters in court.'
+               Post, at 1377 (quoting United States v. Inadi, 475 U.S. 387, 395, 106 S.Ct.
+               1121, 89 L.Ed.2d 390 (1986)). The Clause does not bar admission of a
+               statement so long as the declarant is present at trial to defend or explain it.
+
+
+Crawford v. Washington, 541 U.S. 36, 59, 124 S.Ct. 1354, 1369 (2004). The State submits if any
+
+of the declarations made are deemed testimonial, both        D.M     and   B-F.   will testify at trial
+
+anyway.
+
+
+
+
+STATE'S MOTION IN LIMINE
+RE: TEXT MESSAGES AND TESTIMONY                                                                           7
+                                         CONCLUSION
+
+        Based on above cited authority, the State respectfully request the court's approval in
+
+limine of the admission of text messages from      D.M.           on November 13, 2022 and the
+
+
+testimony from      B.F.        regarding what      D.M.           told her on November 13,
+
+2022.
+
+        RESPECTFULLY SUBMITTED this 24" day of February 2025.
+
+
+
+                                                      Ashley S. Jennings
+                                                      Sr. Deputy Prosecuting Attorney
+
+
+
+
+STATE'S MOTION IN LIMINE
+RE: TEXT MESSAGES AND TESTIMONY                                                                  8
+                                 CERTIFICATE OF DELIVERY
+
+         I hereby certify that true and correct copies of the STATE’S MOTION IN LIMINE RE:
+
+TEXT MESSAGES AND TESTIMONY were served on the following in the manner indicated
+
+below:
+
+Anne Taylor                                       ☐ Mailed
+Attorney at Law                                   ☒ E-filed & Served / E-mailed
+PO Box 2347                                       ☐ Faxed
+Coeur D Alene, ID 83816
+                                                  ☐ Hand Delivered
+
+         Dated this 24th day of February 2025.
+
+
+                                                 __________________________________________
+
+
+
+
+STATE’S MOTION IN LIMINE
+RE: TEXT MESSAGES AND TESTIMONY                                                           9
+EXHIBITS REDACTED AND SEALED
+

@@ -1,0 +1,42 @@
+07/08/25                    Moscow Police Department                         1272
+11:49                    Law Supplemental Narrative:                 Page:      1
+  Details
+Incident Number   22-M09903             Name   Andrew Fox
+Sequence Number   230                   Date   15:01:41 08/08/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Forensic Examination of Device
+
+Case: 22-M09930
+Officer: Det. Fox #185
+Date: 8/8/2023
+On August 8th, 2023, I began a forensic examination of evidence# 22M-2120. This
+item was a Silver Samsung S8 that was located in a dumpster at                .
+The phone was recovered on November 17th, 2022, by ISP Trooper Justin Klitch and
+transported to the Moscow PD Forensic lab where it was stored securely.
+
+I was able to use Cellebrite UFED version 7.62.2.9 to extract the data and
+Cellebrite Physical Analyzer to examine the data. While reviewing the phone the
+last account email was "              @gmail.com" and
+"                @ymail.com". The phone had multiple messages and call logs that
+I was able to review. The last date of activity was October 15th, 2020. I was
+able to cross reference the known victims in this case and was unable to locate
+any connection to this device.
+At this time, after reviewing the data I was unable to locate any evidence that
+is connected or involved in this case. The phone was located 1.5 miles away from
+the crime scene and appears to have not been active since October of 2020.
+
+This conclusion is based on the evidence that is known currently. This is
+subject to change if more or different evidence is presented.
+
+End of Report,
+Forensic Det. Andrew Fox #185
+Tue Aug 08 15:34:40 PDT 2023
+REVIEWED-Wed Aug 09 08:00:27 PDT 2023
+CPL Payne #157
+

@@ -1,0 +1,691 @@
+Anne Taylor Law, PLLC
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d'Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Bicka Barlow
+Pro Hac Vice
+2358 Market Street
+San Francisco, CA 94114
+Phone: (415) 553-4110
+
+Assigned Attorney:
+Anne C, Taylor, Attorney at Law, Bar Number: 5836
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+
+          IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO                                   CR001-24-31665
+
+                             Plaintiff,           FILED UNDER SEAL
+ V.                                               EXHIBITS 1, 2, & INSUPPORT OF
+                                                                     3
+
+
+
+                                                  MOTION IN LIMINE
+ BRYAN C. KOHBERGER,                              RE: VAGUE AND UNDISCLOSED
+                                                  EXPERT TESTIMONY
+                             Defendant
+
+
+          COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and hereby
+
+files under seal Exhibits 1, 2, & 3 in Support of Motion in Limine RE: Vague and Undisclosed
+
+Expert Testimony:
+
+      e    Exhibit 1   -
+                           ISP Lab Report 3
+
+
+FILED UNDER SEAL EXHIBITS 1, 2, é& 3INSUPPORT OF MOTION
+                             -
+
+
+
+IN LIMINERE: VAGUE AND UNDISCLOSED EXPERT TESTIMONY                                  Page 1
+      Exhibit 2 – Police report indicating additional analysis of Mr. Kohberger’s computer
+
+      Exhibit 3 - Defense’s 9th Supplemental Discovery Request: Item 211 and State’s 8th
+
+       Supplemental Discovery Response: Item 211
+
+
+
+       DATED this ___24____ day of February, 2025.
+
+
+
+
+                                                   _____________________________
+                                                   ANNE C. TAYLOR
+                                                   ANNE TAYLOR LAW, PLLC
+
+
+
+                              CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___24____ day of February, 2025 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+FILED UNDER SEAL - EXHIBITS 1, 2, & 3 IN SUPPORT OF MOTION
+IN LIMINERE: VAGUE AND UNDISCLOSED EXPERT TESTIMONY                                    Page 2
+                                         IDAHO STATE POLICE FORENSIC SERVICES
+                                                  700 South Stratford Drive, Ste 125
+                                                      Meridian, ID 83642-6202
+                                                       Phone: (208) 884-7170
+                                                        Fax: (208) 884-7197
+                                                       FORENSIC DNA REPORT
+
+ Case Agency(s):                                                              Agency Case No(s).:                   Laboratory Case No.:
+ ISP-INVESTIGATIONS D2                                                        D22000030                             M2022-4870
+                                                                                                                    M2022
+ Date(s) of Offense:                                                          Investigating Officer(s):             Report No.:
+ 11/13/2022                                                                   Jeffory Talbott                       3
+ Date Evidence Accepted:                                                      Analyst:
+ 12/12/2022                                                                   Eric Seat
+ Case Name(s):
+ Subject - CONNOR CHESNUT
+
+
+EVIDENCE DESCRIPTION:
+ Item 6: Reference Oral Sample from Connor Chesnut
+ Item 7: DNA Extract from Item 6
+
+CONCLUSIONS AND INTERPRETATIONS:
+ Deoxyribonucleic Acid (DNA) Analysis, employing the Polymerase Chain Reaction (PCR), was used to
+ generate a Short Tandem Repeat (STR) profile from a portion of Item 6. 1
+
+ A male DNA profile was developed from Item 6.
+
+DISPOSITION OF EVIDENCE:
+ All items have been returned to the main laboratory evidence vault for return to the submitting
+ agency.
+
+REMARKS:
+The descriptions, conclusions and interpretations stated above apply to the sample(s) as received.
+
+I declare under penalty of perjury pursuant to the law of the State of Idaho that the foregoing is true
+and correct.
+
+
+
+
+ Eric Seat / Forensic Scientist
+ Issue Date: 12/14/2022
+
+
+
+
+FOOTNOTES
+ 1 Loci Examined: Amelogenin, D3S1358, D1S1656, D2S441, D10S1248, D13S317, Penta E, D16S539, D18S51, D2S1338, CSF1PO, Penta D, TH01, vWA, D21S11,
+
+ D7S820, D5S818, TPOX, DYS391, D8S1179, D12S391, D19S433, FGA, and D22S1045.
+
+
+
+                                                                    005721
+                                                                  Page 1 of 1
+                                                     
+                                                                       
+
+
+ 
+
+     
+
+                                         
+                                   
+                                               
+                                          
+                                          
+                                   
+                                                   
+                         
+                                                   
+                                                         
+                                                   
+                                                   
+                                                   
+                                                   
+
+                                                   
+
+                                                   
+
+
+
+
+                                                             
+
+
+
+                                                                      005722
+005723
+005725
+005726
+005727
+005730
+005731
+                                                                                         sf Gene
+                                                                                        oe         Orr c a Recorp
+FD-1057 (Rev. 5-8-10)                                                                              Document participants have digisally signed
+
+                                            UNCLASSIFIED//FOUO                                     All signatures have been verified by a
+                                                                                                   cortfigd FBI in'ormation system.
+
+
+
+                           FEDERAL BUREAU OF INVESTIGATION
+                                          Electronic Communication
+
+
+          Title:         (U//FOUO) PHRCFL Report 25-114                         Date:    01/13/2025
+
+          From:         PHILADELPHIA
+                           PH-RCFL
+                          Contact:                     1,                5111
+
+
+          Approved By:
+
+          Drafted By:
+
+          Case ID #: 9A-SU-3683464              (U) BRYAN CHRISTOPHER KOHBERGER   Subject,
+                                                                                        -
+
+
+
+
+                                                Moscow Police Department assistance,
+                                                Ethan Chapin   Victim (Deceased) ;
+                                                                 -
+
+
+
+
+                                                Madison Mogen    Victim (Deceased) ;
+                                                                     -
+
+
+
+
+                                                Xana Kernodle    Victim (Deceased);
+                                                                     -
+
+
+
+
+                                                Kaylee Goncalves    Victim (Deceased);
+                                                                         -
+
+
+
+
+                                                EXTORTION   -
+                                                                AGGRAVATED OR OVERT THREATS
+
+
+
+          Synopsis: (U//FOUO) To document the Philadelphia Regional Computer
+          Forensic Laboratory report.
+
+          Enclosure(s): Enclosed are the following items:
+           1.      (U//FOUO) PHRCFL Report 25-114
+
+          Details:
+                         29, 2024, The Philadelphia Regional Computer Forensic
+                On November
+          Laboratory (PHRCFL) was requested to an additional copy of QPH5 1, an
+          image of the Acer laptop hard drive. This additional forensic image was
+          to be provided to subject matter experts.
+
+             This request was completed and a technical report (PHRCFL 25-114) was
+          completed by the PHRCFL and that report is maintained in the Al section
+          of this report. See the PHRCFL report of examination for additional
+          details.
+                A copy     of the PHRCFL report was provided to the investigative team.
+
+                                            UNCLASSIFIED/ / FOUO
+                                                                                                   DEFENDANT'S
+                                                                                              MOTION IN LIMINE #2
+                                                                                                EXHIBIT NO_2
+                                                                                        IDENTIFICATICN/EVIDENCE
+                                                                                         CASE NO. CR001-2431665
+                                                  015992                                           DATE: 2/24/25
+                          UNCLASSIFIED//FOUO
+Title: (U//FOUO) PHRCFL Report 25-114
+Re: 9A-SU-3683464, 01/13/2025
+
+
+
+
++¢
+
+
+
+
+                          UNCLASSIFIED//FOUO
+                                   2
+
+
+
+
+                                015993
+18-21 (Rev. 07-15-2024)
+
+
+
+
+                                                                                                  Radnor Financial Center
+                                        Philadelphia Regional                                                    Suite 300
+
+                                        Computer Forensics Laboratory
+                                                                                                  201 King of Prussia Road
+                                                                                                        Radnor, PA 19087
+
+
+
+
+                                                                  TECHNICAL REPORT
+
+
+               To:             Special Agent                                         Date:        January 1, 2025
+                               FBI Salt Lake City
+                                    -
+                                                                                    Case ID:      365D-SU-3683464
+                                                                                    Request  No.; 25-114
+               Request Date:         November 29, 2024
+
+               This document may contain privileged or personally identifiable information, including information related to juveniles and other
+               protected individuals. This document must be afforded the protections required by applicable law, regulation and policy. you
+               are not the intended recipient of this document, please destroy it promptly without further retention or dissemination, unless
+               otherwise required by law.
+
+               Item(s) Submitted (this report will only cover the following item(s) as received):
+
+                          This is a follow up to 23-157 and this is the original evidence list.
+                          QPHI            One (1) Samsung cel1 phone, model SM-S908U, IMEI 350962377460230
+                                            Barcode 00043643
+
+                          QPH1_1            Contained within QPH1
+                                            One (1) SIM card ICCID 89012804330526197791
+
+                          QPH2              One (1) Intel 512 GB NVMe PCle hard drive
+                                            Model number MEMPEK1W01, serial number PHBT7170046T016D
+                                                                                       >
+
+
+                                            Barcode 00043646
+
+                          QPH3              One (1) Seagate Barracuda 1 TB hard drive
+                                            Model number ST1000DM0010, serial number Z9AB4X7X
+                                            Barcode 00043644
+
+                          QPH4              One (1) Samsung 256 GB SSD, model number 850 EVO
+                                            Serial number S2RSNBOHB44246V
+                                            Barcode 00043645
+
+                          QPHS              One (1) Acer laptop, model N22C2, serial number
+                                            NHQHXAA0012160568934
+                                            Barcode 00043647
+
+                          QPHS_1            Contained within QPH5
+                 Page 1 of 2
+
+                                                                                                                                  Nationa   Accreditation
+                                                                                                                                ACCREDITEO
+                                                                                                                                  FORENSIC TESTING
+                                                                                                                                    LABORATORY
+
+
+                                                                         015994
+                        One (1) Western Digital 512 GB NVMe PCle hard drive, model number
+                        SN810, serial number 21426F466813
+
+       QPH6             Year/Make: 2015 Hyundai, Model: Elantra, VIN: SNPDH4AE6FH579860
+                        Evidence Number: N/A
+
+Details:
+
+       On November 29, 2024, Special Agent                of the FBI Salt Lake City requested
+       a forensic examination be conducted on the submitted digital evidence. This is a follow
+
+       up request to PHRCFL 23-157. Special Agent          requested that a copy of the image
+       QPHS_1 be provided to                   or                for their review.
+
+       The examination was conducted between December 2, 2024 and December 3, 2024.
+       The evidence was successfully processed in accordance to the request. The image of
+       QPH5_1 was copied onto a Samsung USB drive labeled as DEPH1 (Evidence Barcode:
+       00048355). The USB drive contained a verified forensic image of QPH5_1. An archive of
+       this case was not created as the archive is still maintained in 23-157.
+
+
+
+Disposition of Items:
+
+       After the examination, DEPH1 was entered into the evidence control and will be turned
+       over for review. There was no original evidence to return to evidence control for this
+       request as this was a follow-up request. No archive was created for this case as the
+       original archive for 23-157 is retained at the Philadelphia RCFL. Examination and
+       administrative documentation have been placed in the case file and will be maintained
+       at the Philadelphia RCFL.
+
+
+
+
+                                            Examiner:
+
+
+
+
+                                            Philadelphia RCFL
+                                            Computer Analysis Response Team
+
+
+
+
+365D-SU-3683464
+25-114
+Page 2 of 2
+                                           015995
+                                                                    QR “mesa SE18
+                                                           use N0 V\\
+                                                                                   ‘,
+
+
+
+
+                                                                            Cl
+                                                           (XQB CCJxow 3% 3PM
+                                                                     CLERK 0F 3‘ SIRICT COURT
+LATAH COUNTY PROSECUTOR’S OFFICE                                          mm cuoum
+WILLIAM w. THOMPSON, JR, 188 No. 2613
+PROSECUTING ATTORNEY
+ASHLEY S. JENNINGS, [SB No. 8491
+                                                            BY        QM                        ”m"
+                                                                                                 .
+
+
+
+
+SENIOR DEPUTY PROSECUTING ATTORNEY
+Latah County Courthouse
+PO. Box 8068
+Moscow, Idaho 83 843-0568
+(208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+
+     IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+               STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+
+STATE OF IDAHO,
+                Plaintiff,
+                                                     Case No. CR29—22-2805
+V.
+                                                     STATE'S RESPONSE TO
+BRYAN CHRISTOPHER KOHBERGER,                         DEFENDANT’S 8'“ AND 9*
+                Defendant.                           SUPPLEMENTAL REQUESTS
+                                                     FOR DISCOVERY
+
+
+       TO: THE DEFENDANT BRYAN CHRISTOPHER KOHBERGER, and Counsel
+
+Anne Taylor:
+
+       COMES NOW the State of Idaho, by and through the Latah County Prosecuting
+
+Attorney, and submits the attached Exhibit 1 in response to “Defendant’s 8'h Supplemental
+
+Request for Discovery” ﬁled on October 12, 2023, and Exhibit 2 in response to “Defendant’s
+
+9"l Supplemental Request for Discovery" ﬁled on October 18, 2023.
+
+
+
+
+STATE'S RESPONSE TO
+DEFENDANT’S 8" AND 9“ SUPPLEMENTAL
+REQUESTS FOR DISCOVERY                      l
+      The State incorporates the following responses as fully set forth at this point:
+
+          "State’s Response to Request for Discovery” ﬁled on January 23, 2023;
+
+          “State’s Response to Defendant’s First Supplement Request for Discovery” ﬁled
+          on February 21, 2023;
+
+
+          "State’s Response to Defendant’s Second Supplemental Request for Discovery”
+          ﬁled on March 29, 2023;
+
+          “State’s Response to Defendant’s Third Supplemental Request for Discovery” ﬁled
+         on May 12, 2023;
+
+         “State’s Response to Defendant's Motion to Compel Discovery” filed on May 12,
+         2023;
+
+         ”State’s Supplemental Response to Defendant’s l“, 2"“ and 3'“ Supplemental
+         Requests for Discovery" ﬁled on June 8, 2023;
+
+         "State’s Response to Defendant’s 4‘“ Supplemental Request for Discovery” tiled on
+         June l6, 2023;
+
+         "State’s Supplemental Response to Defendant’s 4'“ Supplemental Request for
+         Discovery” tiled on June 29, 2023;
+
+         “State’s Response to Defendant’s Second Motion to Compel Discovery” ﬁled on
+         June 29, 2023.
+
+         “State’s Response to Defendant’s Third Motion to Compel Discovery” ﬁled on July
+         5, 2023.
+
+         “State’s Supplemental Response to Defendant’s 2““ Supplemental Request for
+         Discovery and Defendant’s Motion to Compel Discovery" ﬁled on July 12, 2023;
+         and
+
+         “State’s Supplemental Response to Defendant’s Second Motion to Compel
+         Discovery” ﬁled on July 12, 2023.
+
+         "State’s Response to Defendant’s 5‘“ and 6‘“ Supplemental Requests for Discovery"
+          ﬁled on July 25, 2023.
+
+
+
+STATE‘S RESPONSE TO
+DEFENDANT’S 8‘" AND 9'“ SUPPLEMENTAL
+REQUESTS FOR DISCOVERY                        2
+       o   “State’s Supplemental Response to Defendant‘s Third Motion to Compel
+           Discovery" ﬁled on August 30, 2023.
+
+       o   "State’s Response to Defendant’s 7"1 Supplemental Request for Discovery" ﬁled on
+           September 6, 2023.
+
+
+       The State has and will continue to provide discovery in accordance with Idaho Criminal
+
+Rule 16 and applicable law. and reserves any and all objections thereunder.
+
+       DATED this Mday of October, 2023.
+
+
+
+
+                                              Ashley Jennin
+                                              Senior Deputy rosecuting Attorney
+
+
+
+
+STATE'S RESPONSE TO
+DEFENDANT'S 8"I AND 9‘h SUPPLEMENTAL
+REQUESTS FOR DISCOVERY                         3
+                            CERTIFICATE OF DELIVERY
+
+       I   hereby certify that true and correct copies of the STA'I'E’S RESPONSE TO
+
+DEFENDANT’S 8lh AND 9‘h SUPPLEMENTAL REQUESTS FOR DISCOVERY were
+
+served on the following in the manner indicated below:
+
+Annc Taylor                                   D Mailed
+Attorney at Law                              \Z’E-ﬁled & Served / E-mailed
+PO BOX 9000                                     El Faxed
+Coeur D Alene, ID 83816-9000
+                                                [:1 Hand Delivered
+
+
+       Dated this   a3        day of October, 2023.
+
+
+
+
+STATE'S RESPONSE TO
+DEFENDANT‘S 8lh AND 9'" SUPPLEMENTAL
+REQUESTS FOR DISCOVERY                      4
+                                                Exhibit l
+            State’s Response to “DEFENDANT’S 8T” SUPPLEMENTAL DISCOVERY
+                                       REQUEST: EXHIBIT G"
+
+The State’s responses are provided in blue. The State will continue to supplement its
+discovery responses as additional information is received.
+
+
+ 202.     [phone Extraction from Kaylee’s closet (later determined to be Emma
+          Tiger’s phone)
+          The State has complied with this request:
+
+          AV000806 discovered on 10/5/23
+
+ 203.    [phone Extraction for Xana’s phone as referenced in Fox’s supplemental Report
+         #235.
+
+         The State has complied with this request:
+
+         AV000807 discovered on 10/5/23
+
+ 204.    Copies of all digital image files in their original format (raw, jpeg, tiff, etc.) taken
+         by all ofﬁcers, investigators, forensic personnel, and agents during the course of
+         their investigation. (To date, most of the images provided through discovery have
+         been converted to a PDF format which is of lower resolution, poorer image quality,
+         and lacking in the metadata information embedded in the original ﬁle) including all
+         photo logs associated with the requested images.
+
+         The State has provided 13,407 photographs to date. The State is in the process of
+         gathering the 13,407 ﬁles in their original format (from multiple agencies) for
+         discovery. Due to the large volume of digital images sought, the State will need to
+         requests more time to comply with this request.
+
+ 205.    All 2718 raw data photographs taken by ISP Forensic Services. (We believe we
+         are currently missing photos # 3374-4468; 4505-4901; 7915-8117. Only partial
+         photos were provided to defense see photos numbered in AV000080).
+
+         The State has been informed by the Idaho State Forensic Lab that general crime
+          scene photographs are typically taken as jpegs. However, comparison quality
+         photographs (i.e. bloodstains, latent ﬁngerprints, shoe or tire impressions) are
+         typically taken as RAW (this is a camera setting). With one click of the camera, a
+         jpeg and RAW image is taken. This results in ﬁles having the same photoyaph
+         number (ex: 00020.jpeg and 00020.net). RAW photos are taken only when
+          comparison quality photographs are needed since RAW photos take up a lot more
+          space than jpeg photographs. The photographs in AVOOOSO are the RAW
+          photographs taken by the ISP Lab’s Nikon camera for comparison quality. Not all
+          photographs were taken in RAW format. The State will be providing jpegs for ISP
+          Lab photographs taken as detailed in the response to 204.
+
+                                                         SEALED
+206.   CVs for Cellbright employees involved in the analysis of Kohberger’s phone.
+       The State has complied with this request for Cellebright employees currently known:
+
+       Bates numbers 15251-15256 discovered on 10/20/23.
+
+207.   Work product to include notes, reports, screenshots results of all testing and any
+       other work product developed by Cellbright employees involved in the analysis
+       of Kohberger’s cell phone.
+
+       The State has been informed that this item does not exist.
+
+208.   Lab Report, bench notes, photos for testing conducted on item 132.1.
+       As detailed in the State‘s Informal Discovery Response sent on September 27, 2023,
+       the State has provided the biology screening for this item as Bates numbers 14630-
+       14640. The DNA analysis report has not been received. The State will discover upon
+       receipt.
+
+209.   Copy of Moscow Police Department Policy and Procedure Manual.
+       The State has complied with this request:
+
+       AVOOOSOZ discovered on 10/5/23
+
+210.   Copy of Idaho State Police Policy and Procedure Manual speciﬁcally relating
+       to crime scene procedures. (Only the Idaho State Police Laboratory Policies are
+       located online, no policy relating to Detectives.)
+
+       As detailed in the State’s September 27, 2023 Informal Response to Discovery,
+       Idaho State Police Headquarters informed the State there is no written policy
+       related to “crime scene procedures.” The non-sensitive policies related to
+       investigations is being discovered on this week’s hard drive as AV000810.
+       The State emailed defense on October l8, 2023 and is waiting for a response
+       regarding the “sensitive” policies.
+                                             Exhibit 2
+   State’s Response to “DEFENDANT’S 9TH SUPPLEMENTAL DISCOVERY REQUEST:
+                                            EXHIBIT H”
+
+The State’s responses are provided in blue. The State will continue to supplement its
+discovery responses as additional information is received.
+
+ 211.       All audio recordings, video recordings, notes taken, measurements taken,
+            identiﬁcation of all persons present and a list all pr0ps used during the “Timed
+            runs” conducted at 1122 King by Law Enforcement.
+The State has been informed the following items do not exist: audio recordings; video
+recordings; notes; measurements; a list of props used. The identiﬁcation of all individuals
+present is detailed in Detective Gilbertson’s Supplement 194 (Bates 14730-14731)
+discovered on 10/12/2023.
+
+ 212.       Item #836 and Item#837 (2 DVDs from Palouse Properties) as referenced in
+            Blaker’s Supplemental Report #223.
+
+The State has complied with this request:
+
+AV00079l discovered on 09/26/2023
+AV000792 discovered on 09/26/2023
+
+ 213.       Audio recording of contact with all agents of Palouse Properties including but not
+            limited to Blaker’s contact with Dan Schoenberg as referenced in Gilbertson’s
+            Supplemental Report #194.
+
+ The State has been informed that Capt. Blaker’s contact with Dan Schoenberg was not audio
+ recorded. The State requests reference numbers (i.e. Bates numbers or AV ﬁles) for any          i
+
+
+
+
+ other reference to Palouse Properties in order to ascertain whether there are any recordings.
+
+
+
+                                               SEALED
+

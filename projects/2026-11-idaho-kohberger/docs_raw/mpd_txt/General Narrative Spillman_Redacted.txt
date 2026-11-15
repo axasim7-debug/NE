@@ -1,0 +1,834 @@
+VH       74988   01/20/23   WHI 2015 HYUN ELANTRA WA       *Vehicle
+VH       74559   11/30/22   SIL 2015 LNDR RANGE ID         *Vehicle
+VH       74560   11/30/22   BLU 2010 HOND CIVIC AZ         *Vehicle
+VH       74561   11/30/22   WHI 2014 CHEV CRUZ ID          *Vehicle
+VH       74562   11/30/22   RED 2011 JEEP WRANGLER WA      *Vehicle
+VH       74563   11/30/22   BLK 2017 FORD EXPLORER WA      *Vehicle
+CA   22-078252   11/13/22   11:56 11/13/22 Unconsciousness *Initiating Call
+EV    25M-0937   06/27/25   Item 930 Add. Amazon itms      *Evidence Incident
+EV    25M-0930   06/26/25   Item 927 Tire Repair Kit       *Evidence Incident
+EV    25M-0931   06/26/25   Item 928 Scissor Jack 1.5 Ton *Evidence Incident
+EV    25M-0932   06/26/25   Item 929 Cartman 3 Triangles   *Evidence Incident
+EV    25M-0875   06/05/25   Item 926 Gr Jury Exhibit       *Evidence Incident
+EV    25M-0834   05/29/25   Item 925 D        Prints       *Evidence Incident
+EV    25M-0762   05/05/25   Item 924 USB Intervws          *Evidence Incident
+EV    25M-0590   04/04/25   Item 923 DVD vit. bottle       *Evidence Incident
+EV    25M-0588   04/03/25   Item 922 Supplement            *Evidence Incident
+EV    24M-1623   10/28/24   Item 921 S            Intrview *Evidence Incident
+EV    24M-1447   10/03/24   Item 920 Dig Fingerprints      *Evidence Incident
+EV    24M-1392   09/23/24   Item 919 DNA Extracts          *Evidence Incident
+EV    24M-1332   09/06/24   Item 918 F     Fngrprnts ii    *Evidence Incident
+EV    24M-1317   08/29/24   Item 917 G    Screenshots      *Evidence Incident
+EV    24M-1310   08/28/24   Item 916 PPD Info 2            *Evidence Incident
+EV    24M-1295   08/22/24   Item 915 PPD Info              *Evidence Incident
+EV    24M-1284   08/20/24   Item 913 F     Fingerprints    *Evidence Incident
+EV    24M-1285   08/20/24   Item 914 B       Data          *Evidence Incident
+EV    24M-1203   08/07/24   Item 912 DVD KB Jail Calls     *Evidence Incident
+EV    24M-1145   08/01/24   Item 911 OneDrive HD           *Evidence Incident
+EV    24M-1144   07/31/24   Item 910 PIO USB               *Evidence Incident
+EV    24M-1055   07/25/24   Item 906 HJ Exemplars          *Evidence Incident
+EV    24M-1056   07/25/24   Item 907 Hard Drive i          *Evidence Incident
+EV    24M-1057   07/25/24   Item 908 Hard Drive ii         *Evidence Incident
+EV    24M-1058   07/25/24   Item 909 Hard Drive iii        *Evidence Incident
+EV    24M-1044   07/22/24   Item 902 BK Phone              *Evidence Incident
+EV    24M-1045   07/22/24   Item 903 BK HardDrive          *Evidence Incident
+EV    24M-1046   07/22/24   Item 904 BK HardDrives         *Evidence Incident
+EV    24M-1047   07/22/24   Item 905 BK Laptop             *Evidence Incident
+EV    24M-0943   06/24/24   Item 901 Additional Exemplars *Evidence Incident
+EV    24M-0862   06/17/24   Item 900 FBI Touhy Request     *Evidence Incident
+EV    24M-0788   05/28/24   Item 899 MPD Emails iii        *Evidence Incident
+EV    24M-0749   05/24/24   Item 898 M          Exemplars  *Evidence Incident
+EV    24M-0728   05/22/24   Item 897 CastViz DVD           *Evidence Incident
+EV    24M-0718   05/21/24   Item 890 DNA Extracts          *Evidence Incident
+EV    24M-0720   05/21/24   Item 891 RCFL HDD              *Evidence Incident
+EV    24M-0721   05/21/24   Item 892 RCFL Findings         *Evidence Incident
+EV    24M-0722   05/21/24   Item 893 RDFL Vehicle Data     *Evidence Incident
+EV    24M-0723   05/21/24   Item 894 GrayKey Extracts      *Evidence Incident
+EV    24M-0724   05/21/24   Item 895 Selected Results      *Evidence Incident
+EV    24M-0725   05/21/24   Item 896 RCFL Analyzer         *Evidence Incident
+EV    24M-0698   05/17/24   Item 888 Nunes Emails          *Evidence Incident
+EV    24M-0699   05/17/24   Item 889 Gamma Phi Bet ii      *Evidence Incident
+EV    24M-0677   05/09/24   Item 887 Instagram Data        *Evidence Incident
+EV    24M-0667   05/07/24   Item 886 MPD Emails ii         *Evidence Incident
+EV    24M-0662   05/06/24   Item 882 Sieving Material      *Evidence Incident
+EV    24M-0663   05/06/24   Item 883 Pollen Test Mat       *Evidence Incident
+EV    24M-0664   05/06/24   Item 884 Trace Mineralogy      *Evidence Incident
+EV    24M-0665   05/06/24   Item 885 Trace Mineralogy      *Evidence Incident
+EV   23M-0335   01/23/23   Item 616 Taylor Knife       *Evidence Incident
+EV   23M-0336   01/23/23   Item 617 Swab               *Evidence Incident
+EV   23M-0337   01/23/23   Item 618 Dark Boots         *Evidence Incident
+EV   23M-0338   01/23/23   Item 619 Brown Boots        *Evidence Incident
+EV   23M-0340   01/23/23   Item 620 PhoneData          *Evidence Incident
+EV   23M-0286   01/21/23   Item 578 Clear Glove        *Evidence Incident
+EV   23M-0287   01/21/23   Item 579 Asus Laptop        *Evidence Incident
+EV   23M-0288   01/21/23   Item 580 Dark Jackets       *Evidence Incident
+EV   23M-0289   01/21/23   Item 581 Dark Jackets       *Evidence Incident
+EV   23M-0290   01/21/23   Item 582 Dark Jackets       *Evidence Incident
+EV   23M-0291   01/21/23   Item 583 Dark Jackets       *Evidence Incident
+EV   23M-0292   01/21/23   Item 584 Dark Shirts        *Evidence Incident
+EV   23M-0293   01/21/23   Item 585 Dark Shirts        *Evidence Incident
+EV   23M-0294   01/21/23   Item 586 Dark Shirts        *Evidence Incident
+EV   23M-0295   01/21/23   Item 587 Dark Pants         *Evidence Incident
+EV   23M-0296   01/21/23   Item 588 Dark Pants         *Evidence Incident
+EV   23M-0297   01/21/23   Item 589 HP Laptop          *Evidence Incident
+EV   23M-0298   01/21/23   Item 590 Glock ROS          *Evidence Incident
+EV   23M-0299   01/21/23   Item 591 Note               *Evidence Incident
+EV   23M-0300   01/21/23   Item 592 Book               *Evidence Incident
+EV   23M-0301   01/21/23   Item 593 Univ Documents     *Evidence Incident
+EV   23M-0302   01/21/23   Item 594 Navy Fleece        *Evidence Incident
+EV   23M-0303   01/21/23   Item 595 Drawing            *Evidence Incident
+EV   23M-0304   01/21/23   Item 596 ID Cards           *Evidence Incident
+EV   23M-0204   01/20/23   Item 502 Hyundai Elantra    *Evidence Incident
+EV   23M-0205   01/20/23   Item 503 Elantra Key        *Evidence Incident
+EV   23M-0206   01/20/23   Item 504 Suspect Clothes    *Evidence Incident
+EV   23M-0207   01/20/23   Item 505 Trunk Tools        *Evidence Incident
+EV   23M-0208   01/20/23   Item 506 Flashlight         *Evidence Incident
+EV   23M-0209   01/20/23   Item 507 Medical Gloves     *Evidence Incident
+EV   23M-0210   01/20/23   Item 508 Arizona T-Shirt    *Evidence Incident
+EV   23M-0211   01/20/23   Item 509 WSU Sweatshirt     *Evidence Incident
+EV   23M-0212   01/20/23   Item 510 Nike Shoes         *Evidence Incident
+EV   23M-0213   01/20/23   Item 511 UA Socks           *Evidence Incident
+EV   23M-0214   01/20/23   Item 512 UA Shorts          *Evidence Incident
+EV   23M-0215   01/20/23   Item 513 UA Boxers          *Evidence Incident
+EV   23M-0216   01/20/23   Item 515 DVD Photos         *Evidence Incident
+EV   23M-0217   01/20/23   Item 514 Plastic Baggie     *Evidence Incident
+EV   23M-0218   01/20/23   Item 516 clear glove        *Evidence Incident
+EV   23M-0219   01/20/23   Item 517 Black Glove        *Evidence Incident
+EV   23M-0220   01/20/23   Item 518 Underwear          *Evidence Incident
+EV   23M-0221   01/20/23   Item 519 Coins              *Evidence Incident
+EV   23M-0222   01/20/23   Item 520 Plastic Baggie     *Evidence Incident
+EV   23M-0223   01/20/23   Item 521 Coins              *Evidence Incident
+EV   23M-0224   01/20/23   Item 522 Winter Gloves      *Evidence Incident
+EV   23M-0225   01/20/23   Item 523 Target Receipt     *Evidence Incident
+EV   23M-0226   01/20/23   Item 524 Insurance Card     *Evidence Incident
+EV   23M-0227   01/20/23   Item 525 Registration       *Evidence Incident
+EV   23M-0228   01/20/23   Item 526 Hotel Receipt      *Evidence Incident
+EV   23M-0229   01/20/23   Item 527 Circle K Receipt   *Evidence Incident
+EV   23M-0230   01/20/23   Item 528 Hiking Boots       *Evidence Incident
+EV   23M-0231   01/20/23   Item 529 Key Holder         *Evidence Incident
+EV   23M-0232   01/20/23   Item 530 Tire Iron          *Evidence Incident
+EV   23M-0233   01/20/23   Item 531 Shovel             *Evidence Incident
+EV   23M-0234   01/20/23   Item 532 Goggles            *Evidence Incident
+EV   23M-0235   01/20/23   Item 533 Orange Vest        *Evidence Incident
+EV   23M-0065   01/05/23   Item 417 PSP Suspect Swab       *Evidence Incident
+EV   23M-0066   01/05/23   Item 418 Seat Cover & Cushion   *Evidence Incident
+EV   23M-0067   01/05/23   Item 419 Seat Back              *Evidence Incident
+EV   23M-0068   01/05/23   Item 420 Headliner              *Evidence Incident
+EV   23M-0069   01/05/23   Item 421 Swabs                  *Evidence Incident
+EV   23M-0071   01/05/23   Item 422 Seat Belt              *Evidence Incident
+EV   23M-0072   01/05/23   Item 423 Swab S1                *Evidence Incident
+EV   23M-0073   01/05/23   Item 424 Swab S2                *Evidence Incident
+EV   23M-0074   01/05/23   Item 425 Swab S3                *Evidence Incident
+EV   23M-0075   01/05/23   Item 426 Hair Sample            *Evidence Incident
+EV   23M-0076   01/05/23   Item 427 Buccal Kohberger       *Evidence Incident
+EV   23M-0077   01/05/23   Item 428 MC Prints              *Evidence Incident
+EV   23M-0078   01/05/23   Item 429 Buccal O               *Evidence Incident
+EV   23M-0079   01/05/23   Item 430 Dog Hair               *Evidence Incident
+EV   23M-0080   01/05/23   Item 431 NM Autopsy Photos      *Evidence Incident
+EV   23M-0081   01/05/23   Item 432 O    Interview         *Evidence Incident
+EV   23M-0082   01/05/23   Item 433 Goncalves Documents    *Evidence Incident
+EV   23M-0043   01/04/23   Item 414 DNA DVD                *Evidence Incident
+EV   23M-0044   01/04/23   Item 415 DVD                    *Evidence Incident
+EV   23M-0045   01/04/23   Item 416 ECM Cassette           *Evidence Incident
+EV   23M-0026   01/03/23   Item 398 Nitrile Glove          *Evidence Incident
+EV   23M-0027   01/03/23   Item 399 Receipt & Tag          *Evidence Incident
+EV   23M-0028   01/03/23   Item 400 Marshalls Receipts     *Evidence Incident
+EV   23M-0029   01/03/23   Item 401 Dust Container         *Evidence Incident
+EV   23M-0030   01/03/23   Item 402 Hair Strands           *Evidence Incident
+EV   23M-0031   01/03/23   Item 403 Fire Stick             *Evidence Incident
+EV   23M-0032   01/03/23   Item 404 Animal Hair            *Evidence Incident
+EV   23M-0033   01/03/23   Item 405 Shower Hair            *Evidence Incident
+EV   23M-0034   01/03/23   Item 406 Drain Hair             *Evidence Incident
+EV   23M-0035   01/03/23   Item 407 Computer Hair          *Evidence Incident
+EV   23M-0036   01/03/23   Item 408 Pillow Hair            *Evidence Incident
+EV   23M-0037   01/03/23   Item 409 Computer Tower         *Evidence Incident
+EV   23M-0038   01/03/23   Item 410 Counter Swab           *Evidence Incident
+EV   23M-0039   01/03/23   Item 411 Pillow Swab            *Evidence Incident
+EV   23M-0040   01/03/23   Item 412 Top Mattress Pad       *Evidence Incident
+EV   23M-0041   01/03/23   Item 413 Bottom Mattress Pad    *Evidence Incident
+EV   22M-2256   12/29/22   Item 332 Hair                   *Evidence Incident
+EV   22M-2257   12/29/22   Item 333 Hair                   *Evidence Incident
+EV   22M-2258   12/29/22   Item 334 Tissue                 *Evidence Incident
+EV   22M-2259   12/29/22   Item 335 Receipt                *Evidence Incident
+EV   22M-2260   12/29/22   Item 336 Tissue                 *Evidence Incident
+EV   22M-2261   12/29/22   Item 337 Pen Cap                *Evidence Incident
+EV   22M-2262   12/29/22   Item 338 Plastic Bags           *Evidence Incident
+EV   22M-2263   12/29/22   Item 339 Gift Wrap              *Evidence Incident
+EV   22M-2264   12/29/22   Item 340 Blk Plastic Bags       *Evidence Incident
+EV   22M-2265   12/29/22   Item 341 Hair                   *Evidence Incident
+EV   22M-2266   12/29/22   Item 342 Two Tissues            *Evidence Incident
+EV   22M-2267   12/29/22   Item 343 Contents Bag 1B        *Evidence Incident
+EV   22M-2268   12/29/22   Item 344 Red Pill               *Evidence Incident
+EV   22M-2269   12/29/22   Item 345 Pieces of Notes        *Evidence Incident
+EV   22M-2270   12/29/22   Item 346 Contents Bag 1C        *Evidence Incident
+EV   22M-2271   12/29/22   Item 347 Tissue                 *Evidence Incident
+EV   22M-2272   12/29/22   Item 348 Pieces of Notes        *Evidence Incident
+EV   22M-2273   12/29/22   Item 349 Receipts               *Evidence Incident
+EV   22M-2274   12/29/22   Item 350 Pieces of Notes        *Evidence Incident
+EV   22M-2275   12/29/22   Item 351 Multiple Hairs         *Evidence Incident
+EV   22M-2276   12/29/22   Item 352 Fem Hyg Products   *Evidence Incident
+EV   22M-2277   12/29/22   Item 353 Contents Bag 1D    *Evidence Incident
+EV   22M-2278   12/29/22   Item 354 Empty Bag 2A       *Evidence Incident
+EV   22M-2279   12/29/22   Item 355 Receipt            *Evidence Incident
+EV   22M-2280   12/29/22   Item 356 Receipt            *Evidence Incident
+EV   22M-2281   12/29/22   Item 357 Mail               *Evidence Incident
+EV   22M-2282   12/29/22   Item 358 Mult Hairs         *Evidence Incident
+EV   22M-2283   12/29/22   Item 359 Mult Pills         *Evidence Incident
+EV   22M-2284   12/29/22   Item 360 Contents Bag 2B    *Evidence Incident
+EV   22M-2285   12/29/22   Item 361 Contents Bag 2C    *Evidence Incident
+EV   22M-2286   12/29/22   Item 362 USPS Envelope      *Evidence Incident
+EV   22M-2287   12/29/22   Item 363 Lint & Hair        *Evidence Incident
+EV   22M-2288   12/29/22   Item 364 Contents Bag 2D    *Evidence Incident
+EV   22M-2289   12/29/22   Item 365 H2O Bottle Caps    *Evidence Incident
+EV   22M-2290   12/29/22   Item 366 Gift Wrap          *Evidence Incident
+EV   22M-2291   12/29/22   Item 367 Contents 3B        *Evidence Incident
+EV   22M-2292   12/29/22   Item 368 Bag 3A             *Evidence Incident
+EV   22M-2293   12/29/22   Item 369 Mail               *Evidence Incident
+EV   22M-2294   12/29/22   Item 370 Hair               *Evidence Incident
+EV   22M-2295   12/29/22   Item 371 Tissues & Paper    *Evidence Incident
+EV   22M-2296   12/29/22   Item 372 Blk Plastic Bag    *Evidence Incident
+EV   22M-2297   12/29/22   Item 373 Note               *Evidence Incident
+EV   22M-2298   12/29/22   Item 374 Contents Bag 4D    *Evidence Incident
+EV   22M-2299   12/29/22   Item 375 Mail               *Evidence Incident
+EV   22M-2300   12/29/22   Item 376 Contents Bag 4c    *Evidence Incident
+EV   22M-2301   12/29/22   Item 377 Contents Bag 4B    *Evidence Incident
+EV   22M-2302   12/29/22   Item 378 Contents Bag 3C    *Evidence Incident
+EV   22M-2303   12/29/22   Item 379 Contents Bag 4E    *Evidence Incident
+EV   22M-2700   12/29/22   Item 380 BandAids           *Evidence Incident
+EV   22M-2701   12/29/22   Item 381 Straw              *Evidence Incident
+EV   22M-2702   12/29/22   Item 382 Earplugs           *Evidence Incident
+EV   22M-2703   12/29/22   Item 383 Lollipop Sticks    *Evidence Incident
+EV   22M-2704   12/29/22   Item 384 Nail Clipper       *Evidence Incident
+EV   22M-2705   12/29/22   Item 385 Earplugs           *Evidence Incident
+EV   22M-2706   12/29/22   Item 386 Used Napkins       *Evidence Incident
+EV   22M-2707   12/29/22   Item 387 Flossers           *Evidence Incident
+EV   22M-2708   12/29/22   Item 388 Used Q-Tip         *Evidence Incident
+EV   22M-2709   12/29/22   Item 389 Dunkin Cup & Lid   *Evidence Incident
+EV   22M-2710   12/29/22   Item 390 Straw              *Evidence Incident
+EV   22M-2711   12/29/22   Item 391 Flossers           *Evidence Incident
+EV   22M-2712   12/29/22   Item 392 Q-Tips             *Evidence Incident
+EV   22M-2713   12/29/22   Item 393 Lollipop Stick     *Evidence Incident
+EV   22M-2714   12/29/22   Item 394 Dunkin Cup & Lid   *Evidence Incident
+EV   22M-2715   12/29/22   Item 395 Popsickle Stick    *Evidence Incident
+EV   22M-2716   12/29/22   Item 396 H2O bottles        *Evidence Incident
+EV   22M-2717   12/29/22   Item 397 H2O bottle         *Evidence Incident
+EV   22M-2204   12/16/22   Item 314 DNA Swab           *Evidence Incident
+EV   22M-2205   12/16/22   Item 315 DNA Swab           *Evidence Incident
+EV   22M-2206   12/16/22   Item 316 DNA Swab           *Evidence Incident
+EV   22M-2207   12/16/22   Item 317 DNA Swab           *Evidence Incident
+EV   22M-2208   12/16/22   Item 318 DNA Swab           *Evidence Incident
+EV   22M-2209   12/16/22   Item 319 Nail Clip Swab     *Evidence Incident
+EV   22M-2210   12/16/22   Item 320 DNA Extracts       *Evidence Incident
+EV   22M-2211   12/16/22   Item 321 Nail Clip Swab     *Evidence Incident
+EV   22M-2212   12/16/22   Item 322 Nail Clip Swab     *Evidence Incident
+EV   22M-2213   12/16/22   Item 323 Nail Clip Swab     *Evidence Incident
+EV   22M-2090   11/23/22   Item 254 Portable Speaker    *Evidence Incident
+EV   22M-2091   11/23/22   Item 255 UE Speaker          *Evidence Incident
+EV   22M-2092   11/23/22   Item 256 JBL Speaker         *Evidence Incident
+EV   22M-2093   11/23/22   Item 257 Swab                *Evidence Incident
+EV   22M-2094   11/23/22   Item 258 Swab                *Evidence Incident
+EV   22M-2095   11/23/22   Item 259 DNA                 *Evidence Incident
+EV   22M-2096   11/23/22   Item 260 DNA                 *Evidence Incident
+EV   22M-2097   11/23/22   Item 261 Blood Swab          *Evidence Incident
+EV   22M-2098   11/23/22   Item 262 Blood Swab          *Evidence Incident
+EV   22M-2099   11/23/22   Item 263 Blood Swab          *Evidence Incident
+EV   22M-2100   11/23/22   Item 264 Blood Swab          *Evidence Incident
+EV   22M-2101   11/23/22   Item 265 Buccal Swab/P       *Evidence Incident
+EV   22M-2079   11/21/22   Item 251 Buccal Swab         *Evidence Incident
+EV   22M-2081   11/21/22   Item 252 Cigarette Butt      *Evidence Incident
+EV   22M-2082   11/21/22   Item 253 Cigarette Butt      *Evidence Incident
+EV   22M-2070   11/20/22   Item 244 Power Cord          *Evidence Incident
+EV   22M-2071   11/20/22   Item 245 Power Cord          *Evidence Incident
+EV   22M-2073   11/20/22   Item 246 iPhone              *Evidence Incident
+EV   22M-2074   11/20/22   Item 247 SD Card             *Evidence Incident
+EV   22M-2075   11/20/22   Item 248 Note                *Evidence Incident
+EV   22M-2076   11/20/22   Item 249 Diary               *Evidence Incident
+EV   22M-2077   11/20/22   Item 250 iPhone              *Evidence Incident
+EV   22M-2035   11/19/22   Item 218 Comforter           *Evidence Incident
+EV   22M-2036   11/19/22   Item 217 Camera              *Evidence Incident
+EV   22M-2037   11/19/22   Item 219 Drop Paper          *Evidence Incident
+EV   22M-2038   11/19/22   Item 220 Two Hairs           *Evidence Incident
+EV   22M-2039   11/19/22   Item 221 Buccal Swabs        *Evidence Incident
+EV   22M-2040   11/19/22   Item 222 Apparent Hairs      *Evidence Incident
+EV   22M-2041   11/19/22   Item 223 Cigarette Butt      *Evidence Incident
+EV   22M-2042   11/19/22   Item 224 Note                *Evidence Incident
+EV   22M-2043   11/19/22   Item 225 DNA Swabs           *Evidence Incident
+EV   22M-2044   11/19/22   Item 226 Router & Modem      *Evidence Incident
+EV   22M-2045   11/19/22   Item 227 Stain Swab          *Evidence Incident
+EV   22M-2046   11/19/22   Item 228 Stain Swabs         *Evidence Incident
+EV   22M-2047   11/19/22   Item 229 Stain Swabs         *Evidence Incident
+EV   22M-2048   11/19/22   Item 230 Stain Swabs         *Evidence Incident
+EV   22M-2049   11/19/22   Item 231 Stain Swabs         *Evidence Incident
+EV   22M-2050   11/19/22   Item 232 Stain Swabs         *Evidence Incident
+EV   22M-2051   11/19/22   Item 233 Stain Swabs         *Evidence Incident
+EV   22M-2052   11/19/22   Item 234 Stain Swabs         *Evidence Incident
+EV   22M-2053   11/19/22   Item 235 Stain Swabs         *Evidence Incident
+EV   22M-2054   11/19/22   Item 236 Stain Swabs         *Evidence Incident
+EV   22M-2055   11/19/22   Item 237 Stain Swabs         *Evidence Incident
+EV   22M-2056   11/19/22   Item 238 Stain Swabs         *Evidence Incident
+EV   22M-2057   11/19/22   Item 239 Stain Swab          *Evidence Incident
+EV   22M-2058   11/19/22   Item 240 Stain Swab          *Evidence Incident
+EV   22M-2059   11/19/22   Item 241 Latent Lift Cards   *Evidence Incident
+EV   22M-2060   11/19/22   Item 242 DNA Swabs           *Evidence Incident
+EV   22M-2061   11/19/22   Item 243 King Rd Video       *Evidence Incident
+EV   22M-2028   11/18/22   Item 214 Swab                *Evidence Incident
+EV   22M-2029   11/18/22   Item 215 Swab                *Evidence Incident
+EV   22M-2030   11/18/22   Item 216 Camera              *Evidence Incident
+EV   22M-1876   11/17/22   Item 62 Right Sock           *Evidence Incident
+EV   22M-1877   11/17/22   Item 63 Left Sock            *Evidence Incident
+EV   22M-1878   11/17/22   Item 64 Jewelry              *Evidence Incident
+EV   22M-1879   11/17/22   Item 65 DNA Blood Card       *Evidence Incident
+EV   22M-1880   11/17/22   Item 66 Head Hair           *Evidence Incident
+EV   22M-1881   11/17/22   Item 67 Pubic Hair          *Evidence Incident
+EV   22M-1882   11/17/22   Item 68 Rt Nail Clipping    *Evidence Incident
+EV   22M-1883   11/17/22   Item 69 Lft Nail Clipping   *Evidence Incident
+EV   22M-1884   11/17/22   Item 70 Trace EV Hand       *Evidence Incident
+EV   22M-1885   11/17/22   Item 71 Swab RW             *Evidence Incident
+EV   22M-1886   11/17/22   Item 72 Swab RD             *Evidence Incident
+EV   22M-1887   11/17/22   Item 73 Swab LW             *Evidence Incident
+EV   22M-1888   11/17/22   Item 74 Swab LD             *Evidence Incident
+EV   22M-1889   11/17/22   Item 75 Anal Swab           *Evidence Incident
+EV   22M-1890   11/17/22   Item 76 Oral Swab           *Evidence Incident
+EV   22M-1891   11/17/22   Item 77 Penile Swab W       *Evidence Incident
+EV   22M-1892   11/17/22   Item 78 Penile Swab D       *Evidence Incident
+EV   22M-1893   11/17/22   Item 79 Swab Wrist RW       *Evidence Incident
+EV   22M-1894   11/17/22   Item 80 Swab Wrist RD       *Evidence Incident
+EV   22M-1895   11/17/22   Item 81 Swab Wrist LW       *Evidence Incident
+EV   22M-1896   11/17/22   Item 82 Swab Wrist LD       *Evidence Incident
+EV   22M-1897   11/17/22   Item 83 Swab F Arm RW       *Evidence Incident
+EV   22M-1898   11/17/22   Item 84 Swab F Arm RD       *Evidence Incident
+EV   22M-1899   11/17/22   Item 85 Swab F Arm LW       *Evidence Incident
+EV   22M-1900   11/17/22   Item 86 Swab F Arm LD       *Evidence Incident
+EV   22M-1901   11/17/22   Item 87 Swab Ank RW         *Evidence Incident
+EV   22M-1902   11/17/22   Item 88 Swab Ankle RD       *Evidence Incident
+EV   22M-1903   11/17/22   Item 89 Swab Ankle LW       *Evidence Incident
+EV   22M-1904   11/17/22   Item 90 Swab Ankle LD       *Evidence Incident
+EV   22M-1905   11/17/22   Item 91 Neck Swab W         *Evidence Incident
+EV   22M-1906   11/17/22   Item 92 Neck Swab D         *Evidence Incident
+EV   22M-1907   11/17/22   Item 93 Hand Cover R        *Evidence Incident
+EV   22M-1908   11/17/22   Item 94 Hand Cover L        *Evidence Incident
+EV   22M-1909   11/17/22   Item 95 MC Prints           *Evidence Incident
+EV   22M-1910   11/17/22   Item 96 Underwear           *Evidence Incident
+EV   22M-1911   11/17/22   Item 97 DNA Blood Card      *Evidence Incident
+EV   22M-1912   11/17/22   Item 98 Sweatshirt          *Evidence Incident
+EV   22M-1913   11/17/22   Item 99 Hand Cover R        *Evidence Incident
+EV   22M-1914   11/17/22   Item 100 Hand Cover L       *Evidence Incident
+EV   22M-1915   11/17/22   Item 101 Foot Cover L       *Evidence Incident
+EV   22M-1916   11/17/22   Item 102 Hand Swab RW       *Evidence Incident
+EV   22M-1917   11/17/22   Item 103 Hand Swab RD       *Evidence Incident
+EV   22M-1918   11/17/22   Item 104 Hand Swab LW       *Evidence Incident
+EV   22M-1919   11/17/22   Item 105 Hand Swab LD       *Evidence Incident
+EV   22M-1920   11/17/22   Item 106 Wrist Swab RW      *Evidence Incident
+EV   22M-1921   11/17/22   Item 107 Wrist Swab RD      *Evidence Incident
+EV   22M-1922   11/17/22   Item 108 Wrist Swab LW      *Evidence Incident
+EV   22M-1923   11/17/22   Item 109 Wrist Swab LD      *Evidence Incident
+EV   22M-1924   11/17/22   Item 110 Forearm RW         *Evidence Incident
+EV   22M-1925   11/17/22   Item 111 Forearm RD         *Evidence Incident
+EV   22M-1926   11/17/22   Item 112 Forearm LW         *Evidence Incident
+EV   22M-1927   11/17/22   Item 113 Forearm LD         *Evidence Incident
+EV   22M-1928   11/17/22   Item 114 Foot swab RW       *Evidence Incident
+EV   22M-1929   11/17/22   Item 115 Foot swab RD       *Evidence Incident
+EV   22M-1930   11/17/22   Item 116 Foot Swab LW       *Evidence Incident
+EV   22M-1931   11/17/22   Item 117 Foot Swab LD       *Evidence Incident
+EV   22M-1932   11/17/22   Item 118 Ankle Swab RW      *Evidence Incident
+EV   22M-1933   11/17/22   Item 119 Ankle Swab RD      *Evidence Incident
+EV   22M-1934   11/17/22   Item 120 Ankle Swab LW      *Evidence Incident
+EV   22M-1935   11/17/22   Item 121 Ankle Swab LD      *Evidence Incident
+EV   22M-1936   11/17/22   Item 122 Thigh Swab RW      *Evidence Incident
+EV   22M-1937   11/17/22   Item 123 Thigh Swab LW      *Evidence Incident
+EV   22M-1938   11/17/22   Item 124 Head Hair          *Evidence Incident
+EV   22M-1939   11/17/22   Item 125 Pubic Hair         *Evidence Incident
+EV   22M-1940   11/17/22   Item 126 Nail Clippings R   *Evidence Incident
+EV   22M-1941   11/17/22   Item 127 Nail Clippings L   *Evidence Incident
+EV   22M-1942   11/17/22   Item 128 B Bag Trace        *Evidence Incident
+EV   22M-1943   11/17/22   Item 129 Oral Swab          *Evidence Incident
+EV   22M-1944   11/17/22   Item 130 Anal Swab          *Evidence Incident
+EV   22M-1945   11/17/22   Item 131 Vaginal Swab       *Evidence Incident
+EV   22M-1946   11/17/22   Item 132 Neck Swab W        *Evidence Incident
+EV   22M-1947   11/17/22   Item 133 Neck Swab D        *Evidence Incident
+EV   22M-1948   11/17/22   Item 134 Hand Trace         *Evidence Incident
+EV   22M-1949   11/17/22   Item 135 SD Card            *Evidence Incident
+EV   22M-1950   11/17/22   Item 136 MC Prints          *Evidence Incident
+EV   22M-1951   11/17/22   Item 137 Dryer II           *Evidence Incident
+EV   22M-1952   11/17/22   Item 138 Shirt              *Evidence Incident
+EV   22M-1953   11/17/22   Item 139 Pants              *Evidence Incident
+EV   22M-1954   11/17/22   Item 140 DNA Blood Card     *Evidence Incident
+EV   22M-1955   11/17/22   Item 141 Hand Swab RW       *Evidence Incident
+EV   22M-1956   11/17/22   Item 142 Hand Swab RD       *Evidence Incident
+EV   22M-1957   11/17/22   Item 143 Hand Swab LW       *Evidence Incident
+EV   22M-1958   11/17/22   Item 144 Hand Swab LD       *Evidence Incident
+EV   22M-1959   11/17/22   Item 145 Wrist Swab RW      *Evidence Incident
+EV   22M-1960   11/17/22   Item 146 Wrist Swab RD      *Evidence Incident
+EV   22M-1961   11/17/22   Item 147 Wrist Swab LW      *Evidence Incident
+EV   22M-1962   11/17/22   Item 148 Wrist Swab LD      *Evidence Incident
+EV   22M-1963   11/17/22   Item 149 Forearm Swab RW    *Evidence Incident
+EV   22M-1964   11/17/22   Item 150 Forearm Swab RD    *Evidence Incident
+EV   22M-1965   11/17/22   Item 151 Forearm Swab LW    *Evidence Incident
+EV   22M-1966   11/17/22   Item 152 Forearm Swab LD    *Evidence Incident
+EV   22M-1967   11/17/22   Item 153 Head Hair          *Evidence Incident
+EV   22M-1968   11/17/22   Item 154 Nail Clippings R   *Evidence Incident
+EV   22M-1969   11/17/22   Item 155 Nail Clippings L   *Evidence Incident
+EV   22M-1970   11/17/22   Item 156 Foot Swab RW       *Evidence Incident
+EV   22M-1971   11/17/22   Item 157 Foot Swab RD       *Evidence Incident
+EV   22M-1972   11/17/22   Item 158 Foot Swab LW       *Evidence Incident
+EV   22M-1973   11/17/22   Item 159 Foot Swab LD       *Evidence Incident
+EV   22M-1974   11/17/22   Item 160 Ankle Swab RW      *Evidence Incident
+EV   22M-1975   11/17/22   Item 161 Ankle Swab RD      *Evidence Incident
+EV   22M-1976   11/17/22   Item 162 Ankle Swab LW      *Evidence Incident
+EV   22M-1977   11/17/22   Item 163 Ankle Swab LD      *Evidence Incident
+EV   22M-1978   11/17/22   Item 164 Neck Swab W        *Evidence Incident
+EV   22M-1979   11/17/22   Item 165 Neck Swab D        *Evidence Incident
+EV   22M-1980   11/17/22   Item 166 Oral Swab          *Evidence Incident
+EV   22M-1981   11/17/22   Item 167 Vaginal Swab       *Evidence Incident
+EV   22M-1982   11/17/22   Item 168 Anal Swab          *Evidence Incident
+EV   22M-1983   11/17/22   Item 169 Jewelry            *Evidence Incident
+EV   22M-1984   11/17/22   Item 170 Hand Cover R       *Evidence Incident
+EV   22M-1985   11/17/22   Item 171 Hand Cover L       *Evidence Incident
+EV   22M-1986   11/17/22   Item 172 SD Card            *Evidence Incident
+EV   22M-1987   11/17/22   Item 173 MC Prints          *Evidence Incident
+EV   22M-1988   11/17/22   Item 174 DNA Blood Card     *Evidence Incident
+EV   22M-1989   11/17/22   Item 175 Hand Swab RW       *Evidence Incident
+EV   22M-1990   11/17/22   Item 176 Hand Swab RD       *Evidence Incident
+EV   22M-1991   11/17/22   Item 177 Hand Swab LW       *Evidence Incident
+EV   22M-1992   11/17/22   Item 178 Hand Swab LD       *Evidence Incident
+EV   22M-1993   11/17/22   Item 179 Wrist RW           *Evidence Incident
+EV   22M-1994   11/17/22   Item 180 Wrist RD           *Evidence Incident
+EV   22M-1995   11/17/22   Item 181 Wrist LW           *Evidence Incident
+EV   22M-1996   11/17/22   Item 182 Wrist LD           *Evidence Incident
+EV   22M-1997   11/17/22   Item 183 Forearm RW         *Evidence Incident
+EV   22M-1998   11/17/22   Item 184 Forearm RD         *Evidence Incident
+EV   22M-1999   11/17/22   Item 185 Forearm LW         *Evidence Incident
+EV   22M-2000   11/17/22   Item 186 Forearm LD         *Evidence Incident
+EV   22M-2001   11/17/22   Item 187 Foot Swab RW       *Evidence Incident
+EV   22M-2002   11/17/22   Item 188 Foot Swab RD       *Evidence Incident
+EV   22M-2003   11/17/22   Item 189 Foot Swab LW       *Evidence Incident
+EV   22M-2004   11/17/22   Item 190 Foot Swab LD       *Evidence Incident
+EV   22M-2005   11/17/22   Item 191 Ankle Swab RW      *Evidence Incident
+EV   22M-2006   11/17/22   Item 192 Ankle Swab RD      *Evidence Incident
+EV   22M-2007   11/17/22   Item 193 Ankle Swab LW      *Evidence Incident
+EV   22M-2008   11/17/22   Item 194 Ankle Swab LD      *Evidence Incident
+EV   22M-2009   11/17/22   Item 195 Anal Swab          *Evidence Incident
+EV   22M-2010   11/17/22   Item 196 Oral Swab          *Evidence Incident
+EV   22M-2011   11/17/22   Item 197 Vaginal Swab       *Evidence Incident
+EV   22M-2012   11/17/22   Item 198 Head Hair          *Evidence Incident
+EV   22M-2013   11/17/22   Item 199 Nail Clipping R    *Evidence Incident
+EV   22M-2014   11/17/22   Item 200 Nail Clipping L    *Evidence Incident
+EV   22M-2015   11/17/22   Item 201 Neck Swab W        *Evidence Incident
+EV   22M-2016   11/17/22   Item 202 Neck Swab D        *Evidence Incident
+EV   22M-2017   11/17/22   Item 203 SD Card            *Evidence Incident
+EV   22M-2018   11/17/22   Item 204 T Shirt            *Evidence Incident
+EV   22M-2019   11/17/22   Item 205 Pants              *Evidence Incident
+EV   22M-2020   11/17/22   Item 206 Sock L             *Evidence Incident
+EV   22M-2021   11/17/22   Item 207 Hand Cover R       *Evidence Incident
+EV   22M-2022   11/17/22   Item 208 Hand Cover L       *Evidence Incident
+EV   22M-2023   11/17/22   Item 209 Earring            *Evidence Incident
+EV   22M-2024   11/17/22   Item 210 MC Prints          *Evidence Incident
+EV   22M-2025   11/17/22   Item 211 Dryer I            *Evidence Incident
+EV   22M-2026   11/17/22   Item 212 Buccal Swab        *Evidence Incident
+EV   22M-2027   11/17/22   Item 213 SD Card            *Evidence Incident
+EV   22M-1872   11/16/22   Item 61 Kershaw Knife       *Evidence Incident
+EV   22M-1859   11/15/22   Item 57 Receipts            *Evidence Incident
+EV   22M-1861   11/15/22   Item 58 Phone               *Evidence Incident
+EV   22M-1862   11/15/22   Item 59 Phone               *Evidence Incident
+EV   22M-1863   11/15/22   Item 60 DVDs                *Evidence Incident
+EV   22M-1800   11/14/22   Item 2 Plaster Foot Cast    *Evidence Incident
+EV   22M-1802   11/14/22   Item 3 Fingerprint Lifts    *Evidence Incident
+EV   22M-1803   11/14/22   Item 4 Fingerprint Lifts    *Evidence Incident
+EV   22M-1804   11/14/22   Item 5 Fingerprint Lifts    *Evidence Incident
+EV   22M-1805   11/14/22   Item 6 Fingerprint Lift     *Evidence Incident
+EV   22M-1806   11/14/22   Item 7 Fingerprint Lift     *Evidence Incident
+EV   22M-1807   11/14/22   Item 8 Cell Phone           *Evidence Incident
+EV   22M-1808   11/14/22   Item 9 Laptop               *Evidence Incident
+EV   22M-1809   11/14/22   Item 10 Laptop              *Evidence Incident
+EV   22M-1810   11/14/22   Item 11 Knife Sheath        *Evidence Incident
+EV   22M-1811   11/14/22   Item 12 White Blanket       *Evidence Incident
+EV   22M-1812   11/14/22   Item 13 Blue iPhone         *Evidence Incident
+EV   22M-1813   11/14/22   Item 14 Vape Pen            *Evidence Incident
+EV   22M-1814   11/14/22   Item 15 Fingerprint Lifts   *Evidence Incident
+EV   22M-1815   11/14/22   Item 16 Steak Knife         *Evidence Incident
+EV   22M-1816   11/14/22   Item 17 Blood Swab             *Evidence Incident
+EV   22M-1817   11/14/22   Item 18 Blood Swab             *Evidence Incident
+EV   22M-1818   11/14/22   Item 19 Blood Swab             *Evidence Incident
+EV   22M-1819   11/14/22   Item 20 Blood Swab             *Evidence Incident
+EV   22M-1820   11/14/22   Item 21 Blood Swab             *Evidence Incident
+EV   22M-1821   11/14/22   Item 22 Blood Swab             *Evidence Incident
+EV   22M-1822   11/14/22   Item 23 Blood Swab             *Evidence Incident
+EV   22M-1823   11/14/22   Item 24 Blood Swab             *Evidence Incident
+EV   22M-1824   11/14/22   Item 25 Blood Swab             *Evidence Incident
+EV   22M-1825   11/14/22   Item 26 Blood Swab             *Evidence Incident
+EV   22M-1826   11/14/22   Item 27 Blood Swab             *Evidence Incident
+EV   22M-1827   11/14/22   Item 28 Blood Swab             *Evidence Incident
+EV   22M-1828   11/14/22   Item 29 Blood Swab             *Evidence Incident
+EV   22M-1829   11/14/22   Item 30 Blood Swab             *Evidence Incident
+EV   22M-1830   11/14/22   Item 31 Blood Swab             *Evidence Incident
+EV   22M-1831   11/14/22   Item 32 Blood Swab             *Evidence Incident
+EV   22M-1832   11/14/22   Item 33 Blood Swab             *Evidence Incident
+EV   22M-1833   11/14/22   Item 34 Blood Swab             *Evidence Incident
+EV   22M-1834   11/14/22   Item 35 Blood Swab             *Evidence Incident
+EV   22M-1835   11/14/22   Item 36 Blood Swab             *Evidence Incident
+EV   22M-1836   11/14/22   Item 37 Blood Swab             *Evidence Incident
+EV   22M-1837   11/14/22   Item 38 Blood Swab             *Evidence Incident
+EV   22M-1838   11/14/22   Item 39 Blood Swab             *Evidence Incident
+EV   22M-1839   11/14/22   Item 40 Blood Swab             *Evidence Incident
+EV   22M-1840   11/14/22   Item 41 Blood Swab             *Evidence Incident
+EV   22M-1841   11/14/22   Item 42 Blood Swab             *Evidence Incident
+EV   22M-1842   11/14/22   Item 43 Blood Swab             *Evidence Incident
+EV   22M-1843   11/14/22   Item 44 Disposable Camera      *Evidence Incident
+EV   22M-1844   11/14/22   Item 45 Silver Laptop          *Evidence Incident
+EV   22M-1845   11/14/22   Item 46 Laptop                 *Evidence Incident
+EV   22M-1846   11/14/22   Item 47 Dell Laptop            *Evidence Incident
+EV   22M-1847   11/14/22   Item 48 Latex Gloves           *Evidence Incident
+EV   22M-1848   11/14/22   Item 49 Dell Laptop            *Evidence Incident
+EV   22M-1849   11/14/22   Item 50 iPad                   *Evidence Incident
+EV   22M-1851   11/14/22   Item 51 Bedding Packaging      *Evidence Incident
+EV   22M-1852   11/14/22   Item 52 Game Bags              *Evidence Incident
+EV   22M-1854   11/14/22   Item 53 money                  *Evidence Incident
+EV   22M-1855   11/14/22   Item 54 powder                 *Evidence Incident
+EV   22M-1856   11/14/22   Item 55 blood sample           *Evidence Incident
+EV   22M-1857   11/14/22   Item 56 blood sample           *Evidence Incident
+EV   22M-1798   11/13/22   Item 1 CD Pictures             *Evidence Incident
+DS      75470   07/08/25                    Ashley Hensiek PRR
+DS      75419   07/07/25                 Clodagh Mauchline PRR
+DS      75459   07/07/25                      Christy Lynn PRR
+DS      75465   07/07/25                       Mary Taylor PRR
+DS      75408   07/03/25                 Matthew Filipczuk PRR
+DS      75375   07/02/25             Lauren Makawi Maxton PRR
+DS      75376   07/02/25                   Bakhtawar Zehra PRR
+DS      75382   07/02/25                       Jermel Alex PRR
+DS      75383   07/02/25                    Caitlyn Becker PRR
+DS      75178   06/24/25                      Christy Lynn PRR
+DS      75098   06/18/25                       Jermel Alex PRR
+DS      75031   06/12/25                    James Robinson PRR
+DS      75024   06/11/25                     Christopher J PRR
+DS      74880   06/02/25                    Kaylen Camacho PRR
+DS      74680   05/20/25                           Tayyaba PRR
+DS   74601   05/13/25                     Amanda Arden   PRR
+DS   74543   05/12/25                    Brandon Reese   PRR
+DS   74577   05/12/25                  Michael Goakery   PRR
+DS   74578   05/12/25                      Jean Tassin   PRR
+DS   74579   05/12/25                      Jean Tassin   PRR
+DS   74540   05/09/25                     Amanda Arden   PRR
+DS   74541   05/09/25                      Valentina U   PRR
+DS   74385   04/28/25                   Allison Hester   PRR
+DS   74356   04/23/25                           Alex J   PRR
+DS   74337   04/22/25                     Marco Acosta   PRR
+DS   74338   04/22/25                 Chinakwe Chinedu   PRR
+DS   74313   04/21/25                Nicole Pelletiere   PRR
+DS   74236   04/15/25                  Grace Rodriguez   PRR
+DS   74224   04/14/25              Jonathan Tad Fisher   PRR
+DS   74104   04/07/25                     Peter Ansell   PRR
+DS   74072   04/02/25                  Daryna Voloshyn   PRR
+DS   73823   03/20/25   Julie Scott                      PRR
+DS   73779   03/18/25                    Jessica Thill   PRR
+DS   73780   03/18/25                      Christopher   PRR
+DS   73781   03/18/25                           Kaocen   PRR
+DS   73782   03/18/25                          Purcell   PRR
+DS   73783   03/18/25                 Alexandra Duggan   PRR
+DS   73728   03/14/25              Katherine Ramzinski   PRR
+DS   73729   03/14/25                    Vanessa Walsh   PRR
+DS   73730   03/14/25                    Brian Bardsle   PRR
+DS   73731   03/14/25                   Sonia Dagenais   PRR
+DS   73732   03/14/25                      Tammy Kirby   PRR
+DS   73733   03/14/25                    Melissa Ysais   PRR
+DS   73734   03/14/25              John Heaton - Curte   PRR
+DS   73735   03/14/25                   Lenn Thornhill   PRR
+DS   73738   03/14/25                      Kavin Kavin   PRR
+DS   73740   03/14/25                      Julie Scott   PRR
+DS   73743   03/14/25                                    PRR
+DS   73746   03/14/25                Christina Coleman   PRR
+DS   73747   03/14/25                           Fox 13   PRR
+DS   73748   03/14/25                  Danielle Allsop   PRR
+DS   73710   03/13/25                    Paige Hoskins   PRR
+DS   73711   03/13/25                    Sydney Norton   PRR
+DS   73712   03/13/25                  Kayna Whitworth   PRR
+DS   73713   03/13/25                   Virginia Ebert   PRR
+DS   73714   03/13/25                     Kevin Fixler   PRR
+DS   73715   03/13/25                      Hank Folder   PRR
+DS   73716   03/13/25                  Julia Truesdell   PRR
+DS   73717   03/13/25          P Joseph Couts JS Media   PRR
+DS   73720   03/13/25                     Katie DeJong   PRR
+DS   73721   03/13/25                Deanna L Thompson   PRR
+DS   73722   03/13/25                    Alyssa Tjader   PRR
+DS   73723   03/13/25                              JAN   PRR
+DS   73724   03/13/25                   Paula N Mooney   PRR
+DS   73705   03/12/25                      Brian Entin   PRR
+DS   73636   03/07/25                      Julie Scott   PRR
+DS   73357   02/13/25                 Carl Enzo Pisano   PRR
+DS   73347   02/12/25                Carl Enzo Piscano   PRR
+DS   73265   02/05/25                    Diana Alvarez   PRR
+DS   72435   12/06/24                    William Tardy   PRR
+DS   71489   10/08/24           Livia maria Melo Sousa   PRR
+DS   71380   09/27/24                            Mitch   PRR
+DS   71320   09/25/24                      Julie Scott   PRR
+DS   71293   09/24/24                  Rebecca Redeker   PRR
+DS   69153   04/22/24                     Dustin Davis   PRR
+DS   68672   03/19/24                    Ivan Sotocrux   PRR
+DS   68659   03/18/24                    Ivan Sotocrux   PRR
+DS   68552   03/08/24                      Elle Wilson   PRR
+DS   68407   02/28/24                    Erica Sweeney   PRR
+DS   67727   01/05/24                       Anna Armas   PRR
+DS   67612   12/26/23                    Shannon Lewis   PRR
+DS   66640   10/04/23                  Danielle Allsop   PRR
+DS   66617   10/03/23                   Nikki Stephens   PRR
+DS   66137   08/21/23                 Justin Rodriguez   PRR
+DS   65694   07/14/23                    Rosalia Ayala   PRR
+DS   65649   07/06/23                   Amanda Wolberg   PRR
+DS   65361   06/07/23                    Andra Griffin   PRR
+DS   65050   05/15/23                     Tyler Feller   PRR
+DS   65062   05/15/23                  Danielle Allsop   PRR
+DS   64914   05/05/23                           Justin   PRR
+DS   64799   04/26/23                           NICOLE   PRR
+DS   64474   04/03/23                  Fatma Nida Ocak   PRR
+DS   63674   02/13/23                   Jennifer young   PRR
+DS   63645   02/09/23                      Darci Price   PRR
+DS   63498   01/31/23                     Tyler Joseph   PRR
+DS   63433   01/23/23                   David Overholt   PRR
+DS   63438   01/23/23                    Brian Michael   PRR
+DS   63342   01/13/23                Patricia Crabtree   PRR
+DS   63343   01/13/23                Michelle Anderson   PRR
+DS   63344   01/13/23                    Morgan Romero   PRR
+DS   63328   01/12/23             Taylor Mirfendereski   PRR
+DS   63330   01/12/23                Tiffany Zavarelli   PRR
+DS   63331   01/12/23                      Kate Wilcox   PRR
+DS   63310   01/11/23                   Benjamin Evans   PRR
+DS   63292   01/10/23                Brittany Campbell   PRR
+DS   63293   01/10/23                      Marisa Iati   PRR
+DS   63295   01/10/23           Carolyn Marti-Kavarnos   PRR
+DS   63300   01/10/23                  Carolyn Ossorio   PRR
+DS   63255   01/09/23   LexisNexis                       PRR
+DS   63259   01/09/23                  Martha Bellisle   PRR
+DS   63260   01/09/23                     Autumn Aouad   PRR
+DS   63261   01/09/23                     Katie DeJong   PRR
+DS   63266   01/09/23                       ERIK ORTIZ   PRR
+DS   63268   01/09/23                       ALEX STONE   PRR
+DS   63274   01/09/23                   Thomas Volscho   PRR
+DS   63276   01/09/23                 Lillian Marhofer   PRR
+DS   63194   01/06/23                    Amanda Valdez   PRR
+DS   63195   01/06/23                     Deidre Smith   PRR
+DS   63176   01/05/23              Orignal Media Group   PRR
+DS   63186   01/05/23                          James H   PRR
+DS   63164   01/04/23                     Paula Mooney   PRR
+DS   63166   01/04/23                       Rachel Ahn   PRR
+DS   63119   01/03/23                    Andra Griffin   PRR
+DS   63122   01/03/23                    Michele MaILE   PRR
+DS   63126   01/03/23                    Tim McAleenan   PRR
+DS   63133   01/03/23             Original Media Group   PRR
+DS   63144   01/03/23           Carolyn Matri-Kavarnos   PRR
+DS   63073   12/30/22           Jennifer Risch   PRR
+DS   62937   12/29/22             Rachel Sharp   PRR
+DS   62937   12/29/22             Rachel Sharp   PRR
+DS   63022   12/28/22                Amy Orris   PRR
+DS   63025   12/28/22       Jenna Marie Brewer   PRR
+DS   62978   12/23/22            MATTHEW STONE   PRR
+DS   62963   12/22/22            Cally Camacho   PRR
+DS   62966   12/22/22   Carolyn Matri-Kavarnos   PRR
+DS   62956   12/21/22         Kaylen Boeddeker   PRR
+DS   62922   12/20/22                    Caleb   PRR
+DS   62926   12/20/22            Payden Fisher   PRR
+DS   62941   12/20/22             Michael Ruiz   PRR
+DS   62802   12/12/22            PAYDEN FISHER   PRR
+DS   62808   12/12/22   LAURIE APPELBAUM HYNES   PRR
+DS   62809   12/12/22              SCOTT WEISS   PRR
+DS   62653   12/05/22            Angenett Levy   PRR
+DS   62617   11/30/22               Eric Hobbs   PRR
+DS   62618   11/30/22        Stephanie Pagones   PRR
+DS   62622   11/30/22            Andra Griffin   PRR
+DS   62567   11/29/22               Lisa Henry   PRR
+DS   62570   11/29/22             Kevin Fixler   PRR
+DS   62574   11/29/22          Douglas Montero   PRR
+DS   62576   11/29/22               LexisNexis   PRR
+DS   62554   11/28/22                Matt Finn   PRR
+DS   62502   11/22/22           Lenn Thornhill   PRR
+DS   62514   11/22/22             Lacey LeCroy   PRR
+DS   62515   11/22/22          Audrey Connklin   PRR
+DS   62516   11/22/22        Stacey McLaughlin   PRR
+DS   62485   11/21/22          Danielle Allsop   PRR
+DS   62486   11/21/22          Danielle Allsop   PRR
+DS   62488   11/21/22             Kevin Fixler   PRR
+DS   62406   11/17/22            Matt Loveless   PRR
+DS   62369   11/16/22          ANDREA BABINEAU   PRR
+DS   62374   11/16/22            Joshua Fiallo   PRR
+DS   62375   11/16/22              Tim Stelloh   PRR
+DS   62391   11/16/22            Brian Micheal   PRR
+DS   62392   11/16/22              Lexis Nexis   PRR
+DS   62393   11/16/22           Audrey Conklin   PRR
+DS   62394   11/16/22        Alexander Peebles   PRR
+DS   62398   11/16/22          Demetrius Moore   PRR
+DS   62399   11/16/22             Chris Murphy   PRR
+DS   62401   11/16/22           paige Cornwell   PRR
+DS   62346   11/15/22                  Rebecca   PRR
+DS   62350   11/15/22              Ruth Styles   PRR
+DS   62351   11/15/22            Andrea Blanco   PRR
+DS   62352   11/15/22        Andrew Blankstein   PRR
+DS   62353   11/15/22          Sophie Morrison   PRR
+DS   62354   11/15/22          Nicholas Cirone   PRR
+DS   62356   11/15/22           Audrey Conklin   PRR
+DS   62358   11/15/22                DUPLICATE   PRR
+DS   62331   11/14/22             Kevin Fixler   PRR
+DS   62333   11/14/22              Mia Carlson   PRR
+DS   63118   01/03/22            Andra Griffin   PRR
+LAW Incident Offenses Detail:
+                                 Offense and Statute Codes
+Seq Code                               Statute Code                         Amou
+t
+  1 HOMI Homicide
+  0.00
+LAW Incident Circumstances:
+                  Contributing Circumstances
+Seq Code                                 Comments
+  1 NIBRC NIBRS COMPLETE
+LAW Incident Responders Detail
+    Responding Officers
+Seq Name            Unit
+  1 Mitch Nunes     M170
+  2 Eric Warner     M146
+  3 S Gunderson     M113
+  4 Corbin Smith    M171
+  5 Ryan Snyder     M153
+  6 Tyson Berrett   M102
+  7 A Dahlinger     M107
+  8 Jon Rosinsky    M167
+  9 Aaron Morris    M172
+ 10 N Rosendahl     M177
+ 11 Jay Waters      M129
+ 12 Casey Green     M111
+Main Radio Log Table:
+Time/Date           Typ Unit          Code Zone     Agnc Description
+08:09:14 11/14/22   l   M113          CMPLT MPD     MPD incid#=22-M09903 Compl
+08:09:08 11/14/22   l   M113          ASSGS MPD     MPD incid#=22-M09903 Assig
+08:08:58 11/14/22   l   M113          ASSGS MPD     MPD Assigned as Responsibl
+08:03:56 11/14/22   l   M113          CMPLT MPD     MPD incid#=22-M09903 Reass
+06:54:15 11/14/22   l   M113          ASSGS MPD     MPD incid#=22-M09903 Assig
+06:25:59 11/14/22   l   M113          TI    MPD     MPD Crisis center ref Kell
+05:58:02 11/14/22   l   M111          CMPLT MPD     MPD incid#=22-M09903 Compl
+05:57:57 11/14/22   l   M113          ASSGN MPD     MPD Assigned as Responsibl
+05:57:50 11/14/22   l   M113          ASSGN MPD     MPD incid#=22-M09903 Assig
+05:55:32 11/14/22   l   M111          I     MPD     MPD latah here to relieve
+05:55:01 11/14/22   l   M111          I     MPD     MPD perimeter check, seals
+05:43:23 11/14/22   l   M111          ARRVD MPD     MPD incid#=22-M09903 media
+05:07:08 11/14/22   l   M111          ARRVD MPD     MPD (MDC) Arrived on scene
+05:07:01 11/14/22   l   M111          ARRVD MPD     MPD (MDC) Seals Intact inc
+05:02:53 11/14/22   l   M111          ARRVD MPD     MPD (MDC) Perimeter Check
+04:29:03 11/14/22   l   M111          ARRVD MPD     MPD (MDC) Arrived on scene
+04:28:57 11/14/22   l   M111          ARRVD MPD     MPD (MDC) Seals Intact inc
+04:24:48 11/14/22   l   M111          ARRVD MPD     MPD (MDC) Perimeter Check
+03:52:31 11/14/22   l   M111          ARRVD MPD     MPD (MDC) Arrived on scene
+03:52:26 11/14/22   l   M111          ARRVD MPD     MPD (MDC) Seals intact inc
+Time/Date           Typ Unit   Code Zone   Agnc Description
+03:47:12 11/14/22   l   M111   ARRVD MPD   MPD (MDC) Perimeter Check
+03:11:04 11/14/22   l   M111   ARRVD MPD   MPD (MDC) Arrived on scene
+03:10:56 11/14/22   l   M111   ARRVD MPD   MPD (MDC) Seals intact inc
+03:07:02 11/14/22   l   M111   ARRVD MPD   MPD (MDC) Perimeter check
+03:06:02 11/14/22   l   M129   CMPLT MPD   MPD incid#=22-M09903 Compl
+03:05:58 11/14/22   l   M111   ARRVD MPD   MPD Assigned as Responsibl
+03:05:52 11/14/22   l   M111   ARRVD MPD   MPD incid#=22-M09903 Arriv
+01:46:30 11/14/22   l   M129   7     MPD   MPD Assigned as Responsibl
+01:46:20 11/14/22   l   M177   CMPLT MPD   MPD incid#=22-M09903 Compl
+01:46:16 11/14/22   l   M129   7     MPD   MPD incid#=22-M09903 King
+01:45:59 11/14/22   l   M129   ASSGN MPD   MPD incid#=22-M09903 Assig
+01:42:10 11/14/22   l   M177   ARRVD MPD   MPD (MDC) perimeter check
+01:10:40 11/14/22   l   M177   ARRVD MPD   MPD (MDC) perimeter check
+00:00:32 11/14/22   l   M172   CMPLT MPD   MPD incid#=22-M09903 Compl
+00:00:26 11/14/22   l   M177   ARRVD MPD   MPD Assigned as Responsibl
+23:57:47 11/13/22   l   M172   ENRT MPD    MPD incid#=22-M09903 01 ca
+23:45:50 11/13/22   l   M177   ARRVD MPD   MPD (MDC) Arrived on scene
+23:45:48 11/13/22   l   M177   ENRT MPD    MPD (MDC) Assisting unit M
+22:47:41 11/13/22   l   M172   ARRVD MPD   MPD incid#=22-M09903 Secur
+22:47:25 11/13/22   l   M113   CMPLT MPD   MPD incid#=22-M09903 Compl
+22:47:23 11/13/22   l   M172   ASSGN MPD   MPD Assigned as Responsibl
+22:47:15 11/13/22   l   M172   ASSGN MPD   MPD Assigned as Responsibl
+22:47:10 11/13/22   l   M172   ASSGN MPD   MPD incid#=22-M09903 Assig
+18:31:57 11/13/22   l   M107   CMPLT MPD   MPD incid#=22-M09903 Compl
+18:31:55 11/13/22   l   M113   01    MPD   MPD Assigned as Responsibl
+18:29:21 11/13/22   l   M102   CMPLT MPD   MPD incid#=22-M09903 Compl
+18:29:03 11/13/22   l   M113   01    MPD   MPD incid#=22-M09903 At St
+18:28:47 11/13/22   l   M113   CMPLT MPD   MPD incid#=22-M09903 Compl
+18:28:39 11/13/22   l   M153   CMPLT MPD   MPD incid#=22-M09903 Compl
+18:28:20 11/13/22   l   M167   CMPLT MPD   MPD incid#=22-M09903 Compl
+18:28:20 11/13/22   l   M172   CMPLT MPD   MPD incid#=22-M09903 Compl
+18:00:48 11/13/22   l   M113   01    MPD   MPD incid#=22-M09903 At St
+17:59:10 11/13/22   l   M170   CMPLT MPD   MPD incid#=22-M09903 Compl
+17:59:10 11/13/22   l   M171   CMPLT MPD   MPD incid#=22-M09903 Compl
+17:58:30 11/13/22   l   M171   NMINQ MPD   MPD MDC: name=M     , A
+17:57:54 11/13/22   l   M171   VHINQ MPD   MPD MDC: pl=        st=ID
+17:49:13 11/13/22   l   M153   8     MPD   MPD incid#=22-M09903 In Se
+17:21:39 11/13/22   l   M107   01    MPD   MPD incid#=22-M09903 At St
+16:51:44 11/13/22   l   M171   ENRT MPD    MPD (MDC) Assisting unit M
+16:48:56 11/13/22   l   M167   ENRT MPD    MPD incid#=22-M09903 pd ca
+16:39:50 11/13/22   l   M172   ENRT MPD    MPD (MDC) Assisting unit M
+16:33:33 11/13/22   l   M146   ENRT MPD    MPD incid#=22-M09903 pd ca
+16:20:33 11/13/22   l   M170   ARRVD MPD   MPD incid#=22-M09903 king
+16:05:27 11/13/22   l   M113   ARRVD MPD   MPD incid#=22-M09903 Arriv
+16:03:31 11/13/22   l   M113   ENRT MPD    MPD incid#=22-M09903 Enrou
+15:44:08 11/13/22   l   M113   ENRT MPD    MPD incid#=22-M09903 trans
+15:23:58 11/13/22   l   M146   ARRVD MPD   MPD incid#=22-M09903 Arriv
+15:15:03 11/13/22   l   M146   ENRT MPD    MPD incid#=22-M09903 back
+15:09:59 11/13/22   l   M153   TI    MPD   MPD D       J     503 840
+15:02:54 11/13/22   l   M146   8     MPD   MPD incid#=22-M09903 enrt
+14:52:00 11/13/22   l   M167   ARRVD MPD   MPD incid#=22-M09903 Arriv
+14:35:27 11/13/22   l   M170   NMINQ MPD   MPD MDC: name=GONC*, KAY*
+14:34:18 11/13/22   l   M170   NMINQ MPD   MPD MDC: name=MOGEN, MAD*
+14:33:15 11/13/22   l   M170   NMINQ MPD   MPD MDC: name=CHAPIN, ETHA
+Time/Date           Typ Unit            Code Zone    Agnc Description
+12:01:22 11/13/22   f   ME20            ENRT MFD     MFD incid#=22F-X2884 Enrou
+12:01:06 11/13/22   l   M170            I     MPD    MPD think we have a homoci
+12:00:48 11/13/22   l   M146            ARRVD MPD    MPD incid#=22-M09903 Arriv
+12:00:01 11/13/22   f   MC1             ENRT MFD     MFD incid#=22F-X2884 Enrou
+11:59:42 11/13/22   l   M170            ARRVD MPD    MPD (MDC) Arrived on scene
+11:59:38 11/13/22   f   MB1             ENRT MFD     MFD incid#=22F-X2884 Enrou
+11:59:29 11/13/22   f                   CRCVD MFD    MFD Call 95f changed from
+11:59:07 11/13/22   l   M146            ENRT MPD     MPD incid#=22-M09903 Enrou
+11:58:50 11/13/22   e   MAMB            PAGED MAMB   MFDA incid#=22MA01913 Units
+11:58:46 11/13/22   l   M170            ENRT MPD     MPD incid#=22-M09903 Enrou
+11:58:30 11/13/22   l                   CRCVD MPD    MPD Call 95l changed from
+11:58:29 11/13/22   e                   CRCVD MAMB   MFDA Call 95e changed from
+Incident M.O. Detail:
+                               Modus Operandi
+Seq Factor                                           Method
+  1 RPT LOCKED      Report locked
+Narrative:
+__________
+General Narrative Outline
+1.    Offense
+Homicide - I.C 18-4001
+
+2.    Synopsis /   PC
+Kaylee J. Goncalves, Ethan J. Chapin, Xana A. Kernodle, and Madison M. Mogen
+were found deceased inside 1122 King Rd.
+3.    Total Property Value(Damaged/Stolen)
+N/A
+
+4.    WatchGuard
+WatchGuard Event: Yes
+Additional Responding Officers: Officers with BWCs Snyder, Warner, Nunes, Smith,
+Morris, Rosinsky.
+Case number added to WG:
+
+5.    Evidence
+N/A
+6.    Narrative
+
+On 11/13/22, at approximately 1156 hours, MPD officers responded to an
+unconscious call. The RP, later identified as B          F    , reported her
+roommate was passed out, not conscious, and not breathing. As I was preparing to
+leave the station, Ofc. Nunes, who was already on scene, advised of a likely
+homicide and asked for additional units. While I was enroute, Ofc. Nunes advised
+he had located two additional victims. The victims were later identified as
+Kaylee J. Goncalves, Ethan J. Chapin, Xana A. Kernodle, and Madison M. Mogen.
+Moscow EMS was asked to stage and not respond to the scene unless requested.
+
+Upon arrival, I saw H         J       crouching near the entrance to 1122 King
+Rd. J       was in obvious emotional distress. I entered through the 1st floor
+door (which faces north towards the parking lot). I announced myself as a Moscow
+Police Officer and heard Ofc. Nunes and Warner respond from upstairs. When I got
+to the second floor, I saw a female covered in blood in the bedroom on the NW
+side of the second floor. I believe this female to be Xana. I looked inside the
+bedroom Xana was laying and it was obvious an intense struggle had occurred.
+Xana was obviously deceased. There was blood smeared on various items in the
+room and all over the floor. There was blood cast-off on the walls in various
+places, including above Xana's body. Xana was on her back on the floor in the
+center of the room with her head towards the west. Xana was in her underwear and
+a long sleeved grey shirt. Both her shirt and underwear were covered in blood.
+Xana's face and body was covered in dried blood. I could see what appeared to be
+defensive knife wounds on Xana's hands. There was a deep gash on Xana's left
+

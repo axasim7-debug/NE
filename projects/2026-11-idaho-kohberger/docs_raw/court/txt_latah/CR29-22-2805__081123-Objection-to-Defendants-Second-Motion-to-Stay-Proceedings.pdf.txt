@@ -1,0 +1,391 @@
+                                                                                Electronically Filed
+                                                                                8/11/2023 2:28 PM
+                                                                                Second Judicial District, Latah County
+                                                                                Julie Fry, Clerk of the Court
+                                                                                By: Tamzen Reeves, Deputy Clerk
+
+
+LATAH COUNTY PROSECUTOR’S OFFICE
+WILLIAM W. THOMPSON, JR., ISB 2613
+PROSECUTING ATTORNEY
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latah.id.us
+
+
+           IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+                   STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+
+ STATE OF IDAHO,                                       Case No. CR29-22-2805
+                Plaintiff,
+                                                       OBJECTION TO DEFENDANT’S
+                                                       SECOND MOTION TO STAY
+                                                       PROCEEDINGS
+ V.
+
+ BRYAN C. KOHBERGER
+                 Defendant.
+
+
+
+
+       COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney,
+
+and objects to the Defendant’s Second Motion to Stay Proceedings. Because the Defendant has
+
+not factually asserted a substantial failure to comply with the Uniform Jury Selection and Service
+
+Act, his motion should be denied.
+
+                                        INTRODUCTION
+
+       Before ever reviewing any of the grand jury materials to determine whether a violation of
+
+Idaho’s Uniform Jury Selection and Service Act had actually occurred, the Defendant was
+
+determined to obtain a stay in this case. And so, he ﬁled his ﬁrst motion to stay under Idaho Code
+
+§ 2—213. Def M0. To Stay (June l3, 2023). Without knowing whether he had any basis in law or
+
+fact to make such a request, the Defendant asked this Court to grind the litigation in this matter to
+
+a halt because he “intend[ed] to contest the indictment,” Def Mo. T0 Stay, p. 2, and desired to
+
+
+OBJECTION TO SECOND MOTION TO STAY                                                                       l
+“discover the grounds upon which to ﬁle a motion to dismiss related to the how the grand jury was
+
+selected[.]” Id. at 2-3. The Court declined to grant relief under that subsection, and instead, issued
+
+a limited stay ordering that speedy trial be tolled for a period of 37 days. Order Staying Time for
+
+
+Speedy Trial (July 7, 2023). The State has moved to reconsider that order and argument is set for
+
+August 18, 2023.
+
+       Having now reviewed the grand jury materials provided since his initial motion, the
+
+Defendant has delivered on his promised strategy: he seeks a stay to buy more time to challenge
+
+the indictment in this case. In support of his second motion to stay, the Defendant submitted the
+
+afﬁdavit of Anne Taylor, ﬁled under seal. Through that afﬁdavit, the Defendant argues for a stay
+
+relying solely on Idaho Code §§ 2-208 and 2-213. This motion—like the last—should be denied.
+
+                                           ARGUMENT
+
+        A. Defendant’s allegations regarding juror bias and statements of the court during the
+           jury selection process do not fall within the scope of the Uniform Jury Selection and
+            Service Act
+        The Uniform Jury Selection and Service Act is concerned with the procedural mechanisms
+
+put in place by the courts in selecting grand and trial juries. Speciﬁcally, the purpose
+                                                                                           of the Act is
+
+to ensure that “all persons selected for jury service be selected at random from a fair cross
+
+section of the population of the area served by the court, and that all qualiﬁed citizens have
+
+the opportunity, in accordance with this act to be considered for jury service in this state and
+
+an obligation to serve as jurors when summoned for that purpose.” Idaho Code § 2-202. To that
+
+end, the Act prohibits discrimination against jurors on the basis of “race, color, religion, sex,
+
+national origin, or economic status,” Idaho Code § 2-203 (emphasis added); establishes the process
+
+for appointment of a jury commissioner and the process of reimbursing the jury commissioner for
+
+travel and other expenses, Idaho Code § 2—205; establishes the procedure by which jury lists are
+
+                                                                                      the courts must
+ compiled and maintained, Idaho Code § 2-206; sets forth a procedure by which
+
+
+ OBJECTION TO SECOND MOTION TO STAY                                                                      2
+update those jury lists, Idaho Code § 2-207; establishes the procedure for the courts to issue juror
+
+questionnaires and summonses, Idaho Code § 2—208; and sets forth other processes and procedures
+
+to ensure that grand and trial juries are fairly selected from a reasonable cross-section of the
+
+
+community.
+
+       The Act does not address—nor does it provide a remedy for—individual juror bias or
+
+statements made by the court during the jury selection process. Thus, to the extent that Defendant’s
+
+concerns are based on such allegations, see Aﬁdavit ofAnne Taylor at 11 2, such issues fall outside
+
+the scope of the Act and cannot form a basis for the stay Defendant seeks.
+
+           B. Defendant’s allegations regarding the exclusion of clerical information on some of
+              the questionnaires do notfall within the scope of the Act.
+
+           Defendant asserts that the court—issued questionnaires constitute a failure of mechanism in
+
+drawing a grand jury pool. In support of this argument, Defendant asserts that some of the
+
+questionnaires did not include certain numerical information at the top of the page. Taylor Aff, 11
+
+4. However, the information referenced by the Defendant is not required by the Act. See Idaho
+
+Code § 2-208. Further, this information is not even included in the model form promulgated by
+
+the Idaho Supreme Court. See Idaho Court Administrative Rule 62(0), Appendix A, available at
+
+https://isc.idaho.g0v/rules/Appendix-A-ICAR62(c).pdf (model juror qualiﬁcation questionnaire
+
+form that does not include the information referenced by Defendant). Thus, this issue also falls
+
+totally outside the scope of the Act.
+
+           C. Defendant’s suggestion that courts should maintain separate qualiﬁed juror lists for
+              grand juries and trial juries misreads the plain language of Idaho Code § 2-208
+           Through Ms. Taylor’s afﬁdavit, Defendant argues that Idaho Code § 2-208
+                                                                                            states that
+
+
+ “individuals must be randomly drawn from a county jury list and that the jury commissioner shall
+
+ draw a requisite number of qualiﬁed juries for one or more panels OR for a grand jury.” Taylor
+
+ Aff, l (emphasis in original). Thus, the defense asserts, the panel was improperly brought in as
+      11
+
+
+
+
+ OBJECTION TO SECOND MOTION TO STAY                                                                    3
+a grand jury. Id. Later, the defense again points out that “the language of the statute uses the word
+
+OR between jury panels and a grand jury panel.” Id. 11 3 (emphasis in original). This is a misreading
+
+of the plain language of the statute. Idaho Code § 2-208(l) provides that:
+
+                [t]he court or any other state or county ofﬁcial having authority to
+                conduct a trial or hearing with a jury within the county may direct
+                the jury commissioner to draw and assign to that court or ofﬁcial the
+                number of qualifiedjurors deemed necessary for one or more grand
+               jury panels Q as required by law for a grandjury. Upon receipt of
+                the direction and in a manner prescribed by the court, the jury
+                commission shall publicly draw at random, by use of a manual,
+                mechanical, or automated system, from the county jury list the
+                number ofprospective jurors specified.
+
+Idaho Code § 2-208 (emphasis added). Plainly, the word “or” appears because the requisite number
+
+ofjurors for a misdemeanor, felony, or civil trial jury is not always the same as the requisite number
+
+for a grand jury.. Nothing in the Act requires that courts maintain separate lists for grand or trial
+
+juries. The Court should decline to entertain this misreading of the Act.
+
+        D. As to the remainder of Defendant’s allegations, he has not alleged a substantial
+           failure to comply with the Act
+        Even if Defendant can factually establish that a violation occurred, Defendant has not met
+
+his burden of demonstrating a “substantial failure to comply” with the Act. See LC. 2-213(l).
+
+Instead, Defendant asks the Court to enter a stay in this case by raising allegations
+                                                                                           of technical
+                                                                    ” standard set forth in the statute,
+violations without ever explaining how any reach the “substantia
+
+                                                                                    5. But the Act does
+apparently inviting the Court to apply a strict liability standard. Taylor Aff. ﬂ
+
+not sweep so broadly. Only a substantial failure to comply can trigger a stay:
+
+                Upon motion ﬁled under subsection (l) of this section containing
+                                                                                       a
+                sworn statement of facts which, if true, would constitute a
+                substantial failure to comply with this chapter, the moving party is
+                entitled to present in support of the motion the testimony of the jury
+                commissioner or the clerk, any relevant records and papers not
+                                                                                or the
+                public or otherwise available used by the jury commissioner
+                clerk, and any other relevant evidence. If the court   determines  that
+                in selecting either a grand jury or trial jury there has been a
+
+
+ OBJECTION TO SECOND MOTION TO STAY                                                                     4
+               substantial failure to comply with this chapter, the court shall stay
+               the proceedings pending the selection of the jury in conformity with
+               this chapter, quash an indictment, or grant other appropriate relief.
+
+Id. (emphasis added).   Thus, to obtain a stay, Defendant cannot merely allege that a Violation
+
+occurred—the Defendant must allege that a substantial Violation occurred. Setting aside the claims
+
+of juror bias and missing numerical information on the questionnaire forms that fall wholly outside
+
+the scope of the Act, the Court has before it three issues related to the questionnaires: ﬁrst, that
+
+one of the grand jurors marked a box indicating that they do not comprehend English; second, that
+
+one of the grand jurors disclosed that they were a prior criminal defendant; and third, that one of
+
+the grand jurors did not mark whether they were a prior criminal defendant and did not sign and
+
+afﬁrm the truth of responses. The Court should dismiss out of hand the arguments related to prior
+
+criminal history, because being a prior criminal defendant does not preclude someone from sitting
+
+on a grand jury. See Idaho Code § 2-208 (setting forth qualiﬁcation questionnaire requirements).
+
+                                                                                       on a grand jury.
+Instead, only those with a felony criminal conviction are disqualiﬁed from serving
+
+See Idaho Code § 2-209(2)(b). Thus, this allegation falls outside the scope of the Act altogether.
+
+        The ﬁnal two allegations concern the duty of the courts to follow up when a juror is not
+
+                                                                         Idaho Code § 2—209(1) (“the
+qualiﬁed to serve or when a questionnaire is not fully completed. See
+
+administrative district judge or administrative district judge’s designee, upon request . . . or on its
+
+own initiative, shall determine on the basis of information provided on the qualiﬁcation
+
+                                                                            it appears that there is an
+questionnaire” whether a juror is disqualiﬁed); and see § 2-208(3)(“if
+
+ omission. . . the clerk or the jury commissioner shall again send the form with instructions. . . to
+
+ make the necessary addition[.]”).
+
+        Defendant alleges that one of the grand jurors submitted an incomplete questionnaire and
+
+ suggests that this somehow violated the Act. But the submission
+                                                                 of an incomplete form is not a
+
+
+
+
+ OBJECTION TO SECOND MOTION TO STAY                                                                    5
+violation of the Act. In fact, the Act contemplates that incomplete forms will be submitted, in
+
+which case the statute requires only that the jury commissioner “again send the form with
+
+instructions to the prospective juror to make the necessary addition, clariﬁcation, or correction and
+
+to return the form to the jury commission within ten (10) days after its second mailing.” LC. § 2-
+
+
+208(3). Notably, the statute requires no additional follow up after the jury commissioner simply
+
+sends out the form a second time. That means there are two problems with Defendant’s incomplete
+
+form theory. First, just as with the check-box allegation above, the defense’s afﬁdavit does not
+
+even allege that the jury commissioner failed to follow this process in response to the incomplete
+
+questionnaires, and thus Defendant is not entitled to a stay. See LC. § 2-213(2) (requiring
+                                                                                                 for a
+
+
+stay a “sworn statement of facts which, if true, would constitute a substantial
+                                                                                     failure to comply
+
+with this chapter”). Second, even if that allegation had been made, the jury commissioner’s mere
+
+failure to conduct the ministerial task of sending the questionnaire out a second time cannot
+
+accurately be described as a “substantial failure to comply” with the statute. Id.
+
+        As to the allegation that a grand juror checked a box indicating that he or she did not
+
+                                                                                who actually cannot
+comprehend the English language, it is entirely accurate that an individual
+
+                                                                                See Idaho Code § 2-
+comprehend the English language is not qualiﬁed to sit on a grand jury.
+
+                                                                                          the English
+209(1)(a) (setting forth the requirement that jurors read, speak, and understand
+                                                                                  the qualiﬁcation of
+language). And, the Act provides a process by which the Court may determine
+
+grand jurors either upon request or upon its own initiative. Idaho
+                                                                     Code § 2-2090).
+
+        That this grand juror was presumably able to otherwise complete the questionnaire form
+
+                                                                               demonstrates that the
+ entirely in English, and to participate in the grand jury proceedings,
+
+ individual merely checked the wrong box of a lengthy form. More importantly, however, the
+
+ defense does not even allege that the administrative district court judge or designee failed to follow
+
+
+
+
+ OBJECTION TO SECOND MOTION TO STAY                                                                     6
+up on this particular questionnaire. Idaho Code § 2-209(2)(b). Thus, the Defendant has not alleged
+
+any Violation of the Act, let alone a substantial one.
+
+                                           CONCLUSION
+
+       Most of the allegations submitted by the Defendant fall entirely outside of the Uniform
+
+Jury Selection and Service Act. The few that remain do not factually allege a “substantial failure”
+
+to comply with the Act. The Court should decline to indulge the Defendant’s already-stated
+
+intention to buy more time to engage in various litigation strategies. Def M0. to Stay, p. 2-3. This
+
+motion, like his last, should be denied.
+
+
+
+
+RESPECTFULLY SUBMITTED this 11th day of August                             , 2023.
+
+
+
+
+    93%
+William W. Thompson, Jr.                                 Ingrid Batey
+                                                         Special Assistant Attorney General
+Prosecuting Attorney
+
+
+
+
+OBJECTION TO SECOND MOTION TO STAY                                                                 7
+                                         CERTIFICATE OF DELIVERY
+
+           I hereby certify that a true and correct copy of the foregoing OBJECTION TO SECOND
+
+    MOTION TO STAY was served on the following in the manner indicated below:
+
+    Anne Taylor                                    □ Mailed
+    Attorney at Law                                181 E-filed & Served/ E-mailed
+    PO Box 9000
+                                                   □ Faxed
+    Coeur D Alene, ID 83 816-9000
+                                                   □ Hand Delivered
+
+
+           Dated this 11 th day of August, 2023.
+
+
+
+
+?
+
+
+
+
+    OBJECTION TO SECOND MOTION TO STAY                                                      8
+

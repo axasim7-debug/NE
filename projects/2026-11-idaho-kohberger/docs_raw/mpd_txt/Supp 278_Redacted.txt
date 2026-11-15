@@ -1,0 +1,47 @@
+07/08/25                       Moscow Police Department                      1272
+12:05                       Law Supplemental Narrative:              Page:      1
+  Details
+Incident Number      22-M09903          Name   Brett Payne
+Sequence Number      278                Date   11:10:34 05/10/24
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+_     __
+C      T       Audio Issue-#157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+NA
+3.        Narrative
+
+On Wednesday, May 8, 2024, I was notified by the Latah County Prosecutor's
+Office that the audio portion of my interview with C      T    did not appear to
+be working as it was provided to them. Evidence Custodian S           also
+stated he could not get the audio stream to work on the recording.
+I logged into ExacqVision, the program used to record interviews at MPD to
+ascertain why the audio stream did not get downloaded. After attempting to
+re-download the interview, I learned the audio recording for the interview room
+did not work. I reviewed the footage and could see where I flipped the audio
+switch on prior to the interview. In addition, I ensured both audio and video
+streams were downloaded for the duration of the interview. However, it appears
+the microphone recording system did not function and did not record any audio
+for this interview.
+4.        Other
+NA
+
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+
+CPL Payne #157
+Fri May 10 11:11:08 PDT 2024
+
+Reviewed By:
+Capt. Dustin Blaker #108
+Tue May 14 15:15:11 PDT 2024
+

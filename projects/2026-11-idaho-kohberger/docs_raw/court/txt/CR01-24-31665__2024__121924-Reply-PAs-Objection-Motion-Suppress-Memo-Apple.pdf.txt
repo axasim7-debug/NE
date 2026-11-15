@@ -1,0 +1,316 @@
+                                                                       Electronically Filed
+                                                                       12/19/2024 5:54 PM
+                                                                       Fourth Judicial District, Ada County
+                                                                       Trent Tripple, Clerk of the Court
+                                                                       By: Jennifer Keyes, Deputy Clerk
+Anne Taylor Law, PLLC
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d’Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Jay W. Logsdon, First District Public Defender
+Idaho State Public Defender
+1450 Northwest Blvd.
+Coeur d’Alene, Idaho 83814
+Phone: (208) 605-4575
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Assigned Attorney:
+Anne C. Taylor, Attorney at Law, Bar Number: 5836
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+
+      IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+ STATE OF IDAHO,                                 CASE NUMBER CR01-24-31665
+
+                      Plaintiff,                 REPLY TO STATE’S OBJECTION TO
+                                                 DEFENDANT’S MOTION TO
+ V.                                              SUPPRESS AND MEMORANDUM IN
+                                                 SUPPORT
+ BRYAN C. KOHBERGER,
+                                                 RE: APPLE ACCOUNT FEDERAL
+                      Defendant.                 GRAND JURY SUBPOENA AND
+                                                 SEARCH WARRANT DATED AUGUST
+                                                 1, 2023
+
+
+        COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and submits
+
+the following Reply to the State’s objection to his Motion to Suppress and Memorandum in
+
+Support Re: Apple Account Federal Grand Jury Subpoena and Search Warrant Dated August 1,
+
+2023.
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS AND
+MEMORANDUM IN SUPPORT RE: APPLE ACCOUNT FEDERAL GRAND JURY
+SUBPOENA AND SEARCH WARRANT DATED AUGUST 1, 2023                                        Page - 1
+       Securing a search warrant after seeking privately protected information with a federal
+
+subpoena does not rectify a search in violation of the Fourth Amendment to the United States
+
+Constitution or Article 1 Section 17 of the Idaho Constitution. The words “proof upon oath” are
+
+not synonymous with “the affidavit for search warrant is here by incorporated”. A non-
+
+particularized general affidavit in support of a search warrant held in the hands of law enforcement,
+
+which never accompanied the electronically served warrant, cannot be relied upon to validate a
+
+warrant. All contents of the Apple/iCloud must be suppressed.
+
+                                          ARGUMENT
+
+I.     The Contents of the Apple/iCloud are Privately Protected Information, Not Protected
+
+       by the Third-Party Doctrine.
+
+       The comparison that dialing a person’s phone number is akin to a copy of the contents of
+
+an Apple account is inaccurate. An Apple or iCloud account is a copy of a cellular phone, IOS or
+
+other device. Without the information obtained by the federal grand jury subpoena, the State did
+
+not know what Apple and/or iCloud accounts were associated with Mr. Kohberger to seek with a
+
+search warrant. All they knew was that there was a receipt for an IPad, purchased in 2018, in his
+
+car. To collect the records that law enforcement requested from Apple, it had to have a valid
+
+warrant, and that valid warrant could not rely on records obtained with a federal grand jury
+
+subpoena or a search warrant that recklessly and intentionally omitted material facts.
+
+       The Supreme Court observed in Katz v. United States, 389 U.S. 347, 351 (1967) that the
+
+Fourth Amendment “protects people, not places” in finding the Fourth Amendment protects a
+
+person’s conversations and that a physical intrusion into the area a person occupies is not necessary
+
+to a constitutional violation. A party has standing to argue a violation of Fourth Amendment rights
+
+if his reasonable expectation of privacy has personally been infringed. United States v. SDI Future
+
+Health, Inc., 568 F.3d 684, 695 (9th Cir. 2009) [hereinafter “SDI”].
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS AND
+MEMORANDUM IN SUPPORT RE: APPLE ACCOUNT FEDERAL GRAND JURY
+SUBPOENA AND SEARCH WARRANT DATED AUGUST 1, 2023                                             Page - 2
+        Through the use of federal grand jury subpoena, the State learned that the Apple iCloud
+
+accounts searched were registered to Mr. Kohberger. Mr. Kohberger’s expectation of privacy in
+
+these personal accounts is objectively reasonable, which establishes his standing to challenge the
+
+search and seizure of those accounts under the Fourth Amendment.
+
+II.     The Warrant was General, and the Affidavit was Not Incorporated into the Warrant
+
+        or Served with the Warrant.
+
+        The Fourth Amendment to the United States Constitution states:
+
+        The right of the people to be secure in their persons, houses, papers, and effects,
+        against unreasonable searches and seizures, shall not be violated, and no warrants
+        shall issue, but upon probable cause, supported by oath or affirmation, and
+        particularly describing the place to be searched, and the persons or things to be
+        seized.
+
+
+Article I, Section 17 of the Idaho Constitution is virtually identical to the Fourth Amendment,
+
+except that “oath or affirmation” is termed “affidavit.”
+
+        The Supreme Court has acknowledged “that a court may construe a warrant with reference
+
+to a supporting application or affidavit if the warrant uses appropriate words of incorporation, and
+
+if the supporting document accompanies the warrant.” Groh v. Ramirez, 540 U.S. 551, 557–58,
+
+124 S.Ct. 1284, 157 L.Ed.2d 1068 (2004). In SDI, the Ninth Circuit held that a statement on the
+
+face of the warrant noting “the supporting affidavit(s)” was sufficient as a suitable reference and
+
+incorporation. Id. at 699–700        The warrant contained no language that the affidavit was
+
+incorporated. The process described at pages 5-6 of the State’s Objection lacks proof that the
+
+affidavit of search warrant was provided to Apple. The State indicates that the “investigators
+
+necessarily had copies of the affidavit in their possession when they executed the warrant by
+
+emailing it to Apple.” See Objection, p. 5. Further, the State offers that “[t]he effect of this is that
+
+the Affidavit for Search Warrant and appended Exhibit A cure any supposed deficiencies in the
+
+naked warrant.” See Objection, pp. 5-6. An officer sitting at a computer executing a search
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS AND
+MEMORANDUM IN SUPPORT RE: APPLE ACCOUNT FEDERAL GRAND JURY
+SUBPOENA AND SEARCH WARRANT DATED AUGUST 1, 2023                                                Page - 3
+warrant by emailing it to Apple and having the affidavit for search warrant in his hand is different
+
+than an officer being physically present when executing a search warrant and having the affidavit
+
+for search warrant available for reference. The State has not provided proof (e.g. transmittal email
+
+to Apple) that the Affidavit for Search Warrant and appended Exhibit A was either attached to the
+
+search warrant or emailed to Apple as a separate document along with the search warrant. The
+
+August 9, 2023, Affidavit of Det. Brett Payne corresponding to the Return of Warrant has no
+
+indication that the Affidavit of Search Warrant with the appended Exhibit A was provided to Apple
+
+along with the search warrant. See Defendant’s Exhibit E, p. 1, ¶ 4. To the contrary, the sworn
+
+document states “The warrant was served                by Cp. Payne on August, 2023 to
+
+Lawenforcment@apple.com.” Id. Where a supporting affidavit does not accompany the search
+
+warrant at the time of execution, the detail set out in the affidavit does not cure any deficiencies.
+
+U.S. v. Pilling, 721 F.Supp. 3d 1113, 1126 (D. Idaho 2024). An affidavit is considered “to be part
+
+of a warrant, and therefore potential curative of any defects, ‘only if (1) the warrant expressly
+
+incorporated the affidavit by reference and (2) the affidavit either is attached physically to the
+
+warrant or at least accompanies the warrant while agents execute the search.’” SDI at 699 (citing
+
+United States v. Kow, 58 F.3d 423, 429 n. 3 (9th Cir.1995).
+
+III.   The Search Warrants Fail to Provide Specific Particularization of What to Search or
+
+       separate any production that was not related.
+
+       Courts consider three factors in analyzing the potential overbreadth of a warrant: (1)
+
+“whether probable cause existed to seize all items of a category described in the warrant,” (2)
+
+“whether the warrant set forth objective standards by which executing officers could differentiate
+
+items subject to seizure from those which were not,” and (3) “whether the government could have
+
+described the items more particularly in light of the information available.” United States v. Flores,
+
+802 F.3d 1028, 1044 (9th Cir. 2015) (quoting United States v. Lei Shi, 525 F.3d 709, 731–32 (9th
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS AND
+MEMORANDUM IN SUPPORT RE: APPLE ACCOUNT FEDERAL GRAND JURY
+SUBPOENA AND SEARCH WARRANT DATED AUGUST 1, 2023                                              Page - 4
+Cir. 2008)).
+
+       The Fourth Amendment requires particularity. “The particularity requirement’s objective
+
+is that those searches deemed necessary based on a probable cause determination by a magistrate
+
+should be as limited as possible.” State v. Teal, 145 Idaho 985, 991, 188 P.3d 927, 931 (2008).
+
+Even if the Affidavit of Search Warrant had been incorporated into the warrant, it could have
+
+described particularized items as opposed to the laundry list of everything held by Apple with dates
+
+more restrictive than October 7, 2016 to December 30, 2022 and a designation of a duty to separate
+
+lawful items.
+
+       The particularity requirement means that a warrant must be “specific enough to enable the
+
+person conducting the search reasonably to identify the things authorized to be sized.” U.S. v.
+
+Spilotro, 800 F.2d 959, 963 (9th Cir. 1986). Once the warrant is specific enough, there must still
+
+be a search that provides guidelines to ‘distinguish items used lawfully form those the government
+
+had probably cause to seize.” Id. 1t 961. Not only did the State obtain the entirety of Mr.
+
+Kohberger’s Apple accounts or 13.3 gigabytes of data, but it has taken no action to sort through
+
+that which is lawful or applies to the charges. It has produced the warrant return without any
+
+analysis whatsoever.
+
+       The fact that an Apple account is sought because it may hold some of the objects of the
+
+proposed search does not automatically give the State authority to seize every file, photograph, or
+
+text that ever touched the account. Instead, the “balance between the government's interest in law
+
+enforcement and the right of individuals to be free from unreasonable searches and seizures of
+
+electronic data must be determined on a case- by-case basis.” United States v. Schesso, 730 F.3d
+
+1040, 1050 (9th Cir. 2013).
+
+       The Apple Search warrant was not supported by probable cause to search and seize
+
+everything listed, there were absolutely no limiting standards included at all, and the state could
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS AND
+MEMORANDUM IN SUPPORT RE: APPLE ACCOUNT FEDERAL GRAND JURY
+SUBPOENA AND SEARCH WARRANT DATED AUGUST 1, 2023                                            Page - 5
+have particularized the warrant to specific dates and items that would be evidence of the specific
+
+crimes. The Apple Search Warrant did none of that. This result is worse than that in Pilling
+
+because no separation of data was even attempted leaving 13.3 gigabytes of data without any
+
+analysis about what the State intends to use as evidence. The State has rummaged through it all.
+
+In Pilling, the prosecution narrowed the Apple data to 9 documents. The court suppressed, as it
+
+must here.
+
+IV.    The Affidavit Submitted in Support of the Application for the Issued Search Warrant
+
+       Recklessly or Intentionally Omitted Material Information.
+
+       In response to the State’s arguments under “Defendant Has Not Demonstrated the Search
+
+Warrant Affidavits Contain Intentionally or Recklessly False Statements or Omissions,”
+
+Defendant refers the Court to and hereby incorporates Defendant’s Replies in Support of
+
+Defendant’s pleadings in support of a Franks Hearing and suppression of Genetic Information.
+
+                                        CONCLUSION
+
+       Mr. Kohberger requests that this Court suppress all evidence obtained by police via the
+
+subpoenas and warrants that permitted them to search Mr. Kohberger’s Apple and iCloud accounts.
+
+       DATED this _19_ day of December, 2024.
+
+
+                                             BY:    _/s/ Elisa G. Massoth
+                                                    Elisa G. Massoth
+
+                               CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___19____ day of December, 2024 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS AND
+MEMORANDUM IN SUPPORT RE: APPLE ACCOUNT FEDERAL GRAND JURY
+SUBPOENA AND SEARCH WARRANT DATED AUGUST 1, 2023                                          Page - 6
+

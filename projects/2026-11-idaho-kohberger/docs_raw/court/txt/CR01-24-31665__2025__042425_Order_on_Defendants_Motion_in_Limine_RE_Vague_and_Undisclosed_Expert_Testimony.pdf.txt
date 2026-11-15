@@ -1,0 +1,805 @@
+                                                                                    Filed: 04/24/2025 15:25:14
+                                                                                    Fourth Judicial District, Ada County
+                                                                                    Trent Tripple, Clerk of the Court
+                                                                                    By: Deputy Clerk Waters, Renee
+                                                                                                       -
+
+
+
+
+           IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+
+                THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+    STATE OF IDAHO,
+
+              Plaintiff,                                   Ada County Case No. CR01-24-3 1665
+    V.
+                                                           ORDER ON DEFENDANT'S MOTION IN
+    BRYAN C. KOHBERGER,                                    LIMINE RE: VAGUE AND
+                                                           UNDISCLOSED EXPERT TESTIMONY
+              Defendant.
+
+
+
+I.       INTRODUCTION
+         Defendant moves to limit or exclude several different experts disclosed by the State on
+
+grounds that their disclosures are deficient in some regard.' The State responds that it has
+
+complied with all discovery obligations and its disclosures are sufficient. It adds that several
+                                                                                                           of
+Defendant's challenges are fodder for cross-examination, not exclusion.
+         Oral argument on the motion was held on April 9, 2025, after which the Court took the
+
+matter under advisement. The Court finds no basis to exclude or limit the disclosed expert
+
+testimony at this time, but if Defendant believes an expert is testifying at
+                                                                                   trial outside the scope
+
+of his or her disclosure, he may object at that time and the Court will consider it.
+II.      STANDARD
+         A trial court's decision regarding discovery violations must be supported by substantial
+and competent evidence in the record. State v. Koch, 157 Idaho 89, 93, 334 P.3d 280, 284
+
+(2014). Choice of sanctions for failure to comply with discovery obligations, or whether to
+impose  a sanction at all, is discretionary. State v. Cochran, 129 Idaho 944, 949, 935 P.2d 207,
+
+212 (Ct. App. 1997). On discretionary matters, the trial court must: 1) correctly perceive the
+
+issue as one of discretion; 2) act within the outer boundaries of its discretion; 3) act consistently
+
+with the legal standards applicable to the specific choices available to it, and; 4) reach its
+
+
+
+'
+ Defendant's challenge to Rylene Nowlin's expert disclosures was addressed in the Order on Defendant's Motion in
+Limine re: Rylene Nowlin and 'Touch' or 'Contact'? DNA (Apr. 18, 2025). Defendant's challenge to David
+Mittelman's disclosure is rendered moot by the parties' agreement to not present IGG evidence.
+
+                                                       1
+decision by the exercise of reason. Lunneborg v. My Fun Life, 163 Idaho 856, 863, 421 P.3d 187,
+
+194 (2018)).
+
+Il.     ANALYSIS
+        Rule 16(b)(7) requires the State to provide, upon written request of the defendant, "a
+written summary or report of any testimony that the state intends to introduce at trial" that
+
+qualifies as expert witness testimony under IRE 702, 703, or 705. The disclosure must include a
+summary of "the witness's opinions, the facts and data for those opinions, and the witness's
+
+qualifications...." ICR16(b)(7). When a party fails to comply with discovery, the trial court may
+impose sanctions including, in appropriate circumstances, the exclusion of a witness. State v.
+Wilson, 158 Idaho 585, 588, 349 P.3d 439, 442 (Ct. App. 2015) (citing ICR 16(f)(2), 16Q)).
+        A.       Jennie Ayers"
+        Jennie Ayers is a forensic scientist with the Idaho State Police ("ISP") Forensic Services
+who works in evidence collecting and crime scene processing. She is disclosed to testify in the
+
+State's case-in-chief about crime scene processing generally, including collecting DNA, blood
+
+stains, latent fingerprints, hair and fibers and shoe impressions. She will explain what DNA is,
+that it may be present in biological material or left on an item when handled, and that it iS
+
+collected for preservation and sent elsewhere for testing. She is also going to testify to her work
+in this case detailed in Lab Report 25 and supporting field notes. That report discusses ISP's
+                                                                                      which
+processing of Defendant's Pullman apartment and Washington State University office,
+included photographing and collecting evidence. Ms. Ayers was specifically involved in
+                                                                        tests for the presence
+capturing images of the apartment and office and performing presumptive
+of blood at various points in the apartment.
+        Her rebuttal testimony concerns ISP's crime scene investigation procedures generally and
+
+the ISP forensic team's processing of the crime scene at 1122 King Road, including identifying
+
+areas that contained probative evidence. In addition, the lab report (Lab Report 11) and field
+
+notes for the team's work are referenced by Bates within the disclosure.
+
+        Defendant argues Ms. Ayers' case-in-chief disclosures do not provide any opinions she
+
+has about crime scene processing or about the DNA at issue in this case. Thus, he asks the Court
+
+
+
+
+2
+ The State submitted three disclosures for Ms. Ayers: the Initial Disclosure (S-15) (Dec. 18, 2024); the Rebuttal
+Disclosure (S-1) (Feb. 17, 2025), and; the Amended Supplemental Disclosure (S-1) (Mar. 3, 2025).
+
+
+                                                          2
+to limit her testimony to her qualifying background and her work in Lab Report 25. As to her
+
+rebuttal disclosure, Defendant argues again that it fails to provide any opinion about crime scene
+
+investigation procedures and it does not clearly state what she did in processing 1122 King Road
+and what her opinion is regarding that work.
+
+        Defendant's challenges misapprehend the type of expert Ms. Ayers is. Much like law
+
+enforcement, Ms. Ayers is a hybrid fact/expert witness as opposed to a traditional expert. She
+will be educating the jury on crime scene investigation procedures to provide foundation for her
+
+testimony regarding the work she and her team performed in this case, as outlined in Lab Reports
+25 and 11 and the accompanying field notes. This testimony is factual in nature, despite that fact
+
+that it requires special knowledge, skill, experience and training. Consequently, the absence of
+
+"opinions" in her disclosure does not limit her ability to testify to these matters. In addition, Ms.
+Ayer's rebuttal disclosure is replete with explanations about why and how the crime scene
+investigation was carried out at 1122 King Road.' Her testimony will be allowed as disclosed.
+        B.       Special Agent Nicholas Ballance'
+        FBI Special Agent Ballance was primarily involved in the analysis of cell phone records
+in the investigation. He is disclosed to testify in the State's case-in-chief about his analysis of
+
+AT&T cell phone records for Defendant, Madison Mogen and Xana Kernodle, as well as his
+own drive testing measurements to determine the use and general location of their cell phones
+between June 2022 and November 2022. Accompanying his Initial Disclosure is his 30-page
+
+CAST Report, which discusses and maps the data he reviewed, and the methodology employed.
+Initial Discl., Exh. S-2(a), His Supplemental Disclosure goes through each page of the CAST
+                                                                                        to how cellular
+Report to discuss its significance. He will also discuss topics pertaining
+
+technology works, particularly how cell towers operate and how
+                                                                   cell phones connect to the
+
+towers, how cell phone usage data is reflected in call detail records and how those
+                                                                                    records
+
+
+
+
+3
+  For example, the disclosure discusses why the team focused on certain areas of the home as opposed to others, why
+                                                                  swabbed and/or applied amido black where they
+they decided not to collect mattresses and bedframes and why they
+did.
+
+4
+ The State submitted three disclosures for Mr. Ballance: the Initial Disclosure (S-2) (Dec. 18, 2624); the Rebuttal
+Disclosure (S-2) (Feb. 17, 2025), and the Amended Supplemental Disclosure (S-2) (Mar. 3, 2025). In addition
+throughout this case Defense has had and been on notice
+                                                          of the "Exhibit A"'s to the various search warrant affidavits
+which detail much of the opinion and analysis of the CAST team, and thus Ballance, including those related to
+Defendant's locations at the outlined times before and after the homicides.
+
+                                                           3
+provided by AT&T for the target cell phones in this case were used to create cell site maps
+
+showing their general location before and after the homicide and their direction of travel.
+        In challenging Agent Ballance's case-in-chief disclosures, Defendant provides the
+
+affidavit of his cell phone data expert, Sy Ray. Mr. Ray complains that he is unable to identify
+
+Agent Ballance's methodology, which was described in the CAST Report. Mr. Ray states that
+the CAST Report omits data and/or fails to mention how certain AT&T data was utilized in his
+
+analysis (namely handoff data and drive test mapping) and why some data was ignored.° He
+asserts this omitted data and methodology is exculpatory and, without it, he cannot fairly analyze
+
+Agent Ballance's work.
+        According to the State, its disclosures sufficiently identify Agent Ballance's opinions and
+the facts and data he relied upon and Defendant's concerns are fodder for cross-examination. In
+
+fact, in Agent Ballance's Rebuttal Disclosure, the State marches through each concern outlined
+
+by Mr. Ray, offering additional explanation about what Agent Ballance considered, including the
+handoff data, and why.
+
+        Defendant, however, asserts the attempted clarification in the Rebuttal Disclosure is
+
+insufficient, arguing there is "no disclosure[] as to why he has omitted 95% of the relevant
+
+coverage maps" for his drive testing, no analysis or mapping of the handoff data and no
+documentation provided of the CAST Report's peer review process.°
+
+         However, the fact remains that Defendant has all the facts and data that Agent Ballance
+relied upon to form his opinions, which are expressed within his CAST Report.' Initial Discl., p.
+
+4 ("The data supporting      SA Ballance's opinions is located in the files of the cell phone records
+provided by AT&T and the drive testing files which were provided to defense through
+discovery."); Supp. Discl., p. 2 (identifying disclosed information relied upon by Agent Ballance
+by description, AV number and date disclosed). While his methodology might
+                                                                                                 not be set forth
+
+
+
+5
+  Mr. Ray notes that Agent Balance failed to include an analysis of handoff data for Defendant's cell phone between
+the hours of 2:30 and 3:00 a.m. on November 13, 2022, that he did not include the mapping he relied upon to
+establish Defendant was near the crime scene on several occasions before the crime and he failed to disclose how his
+drive testing works to a sufficient degree.
+
+6
+  There is no requirement under Rule 16, ICR, that the State provide peer review documentation of an expert's
+                                                                  the data they did not rely upon or why they did not
+report. Likewise, the rule does not require an expert to identify
+rely upon that data.
+7
+ A draft of the CAST report was disclosed to the defense in the early stages of this case. It was subsequently peer
+reviewed and the final CAST report was issued and disclosed in July of 2024.
+
+                                                           4
+with as much specificity as Mr. Ray would like, Rule 16 does not require that detailed
+
+methodology be provided. It requires merely opinions, facts and data for those opinions, and the
+witness's qualifications. ICR 16(b)(7). To the extent Defendant believes Agent Ballance omitted
+
+important data or is relying on insufficient data for his opinions, this is fodder for cross-
+
+examination, not exclusion. Moreover, if, an opinion is not reasonably set forth within the
+
+disclosure, it will not be allowed.'
+         C.       Heather and Jared Barnhart?
+         The Barnharts are digital specialists with Cellebrite who were retained by law
+enforcement to analyze Defendant's cell phone and PC to determine "user behavior and actions."
+
+They are disclosed to opine that the gaps in data on the two devices were "abnormal."!° Attached
+to the disclosures is a report jointly authored by the Barnharts detailing their analysis and
+
+findings. Their CVs were provided as well.
+         Defendant argues that the disclosures indicate they will testify to "habit" evidence, which
+
+he complains is not explained and is not accompanied by any opinions. Defendant's challenge is
+
+confusing. Nowhere do the disclosures or the report indicate the Barnharts will testify about
+"habit" evidence. Rather, the disclosures state they will testify to their findings pertaining to
+Defendant's activities on his PC and cell phone for a period of time before and after the
+homicides and why gaps in data over that time period are "abnormal."
+         The Barnharts' opinions regarding these topics are fully set forth in their joint report. For
+                                                                                                     with cleaning up
+example, they observed gaps in Defendant's school PC that "may be consistent
+
+*
+  For example, Defendant complained at the hearing that Agent Ballance analyzed handoff data for the seven
+minutes prior to the phone powering off at 2:54 a.m. on November 13, 2022, but did not provide an opinion about
+what his analysis showed. Thus, Defendant wants to exclude any opinion as to what his analysis of those seven
+minutes showed. However, as pointed out in Agent Ballance's rebuttal disclosure, page 13 of the CAST Report sets
+forth the data Agent Balance relied upon to opine that Defendant's phone used a certain tower and sector at 2:47
+a.m. southeast of his apartment and ceased communication with the network at 2:54. He also explains that the
+location of a device is best estimated by the initial cell site versus the handoff cell site. He will be allowed to testify
+to these opinions. If Defendant believes Agent Ballance strays beyond these opinions, he can object and the Court
+will take the matter up then.
+
+°
+  The State submitted the following disclosures for the Bamharts: Initial Disclosure Heather Barnhart (Exh. S-3)
+                                                                                                             Heather and
+(Dec. 18, 2024); Initial Disclosure Jared Barnhart (Exh. S-4) (Dec. 18, 2024); Rebuttal Disclosures
+                                                                                                            -
+                                     -
+
+
+
+
+Jared (Exhs. S-3 through S-5) (Feb. 17, 2025).   Their rebuttal disclosures state simply  that the Barnharts intend to
+rebut the expert testimony  of Carol Penden,  Kevin  Penden  and  Josiah Roloff  but need  additional information prior to
+offering rebuttal opinions. Defendant  is not challenging these.
+
+                                                                                                   or using anti-forensic
+'Specifically, their report explains that the gaps in data may be consistent with "cleaning up
+methods to clear evidence." Report, p. 1.
+
+
+                                                             5
+or using anti-forensic methods to clear evidence." Rpt., p. 1. Among the gaps found were in the
+
+PC's event logs and System Resource Usage Monitoring between November 11, 2022 and
+November 16, 2022, which Barnharts opined was abnormal given that school was in session. /d.
+
+Likewise, they located gaps in the PC's Chrome history during dates where downloads occurred
+on the system, indicating the user was private browsing or clearing browsing history. Jd.
+
+Together, the Barnharts' disclosures and joint report set forth all that is required by ICR 16(b)(7)
+and there is not no basis to exclude or limit their testimony.
+
+       D.       Michael Douglass!!
+       Mr. Douglass is a forensic accountant for the FBI and is disclosed to testify to financial
+
+transaction data for Defendant, the four victims and the two other roommates. His Initial
+
+Disclosure identifies by category and date range the financial transaction data he intends to
+
+testify to and appends Mr. Douglass's report of specific transactions found within
+                                                                                              these
+
+individuals' financial data. His Supplemental Disclosure identifies more specifically the financial
+data associated with Defendant that he intends to discuss and also identifies video evidence
+
+obtained showing Defendant's ATM withdrawals.
+
+        Defendant contends that Mr. Douglass should not be able to offer any opinions because
+
+none are expressed in his disclosures. Specifically, Defendant notes that Mr. Douglass's
+
+Supplemental Disclosure indicates he will testify to an "analysis"
+                                                                           of Defendant's "spending
+habits." Defendant takes issue with this, arguing there is no spending habit opinion disclosed.
+
+        However, Mr. Douglass's disclosure makes clear that he is intended as a fact witness and
+is only being disclosed as an expert in the event the Court determines his testimony was based on
+                                                                                Disclosure appears
+specialized knowledge under IRE 702. Moreover, although the Supplemental
+to indicate he will offer an opinion as to Defendant's spending habits, and his testimony will be
+
+limited to factual changes in how Defendant spent money. For example, the disclosure notes
+Defendant only conducted ATM withdrawals on and after the date of the homicide and ceased
+                                                                                          he had
+using his debit card after November 10, 2022 whereas, prior to November 10,             regularly
+
+used his debit card. There is no indication he will attempt to opine about the reasons for the
+
+
+
+
+"The State submitted two disclosures for Mr. Douglass: Initial Disclosure (S-7) (Dec. 18, 2024) and Amended
+Supplemental Disclosure (S-2) (Mar. 14, 2025).
+
+
+                                                       6
+spending changes, just that they occurred.'? Thus, there is no basis for excluding or limiting Mr.
+
+Douglass's testimony based upon disclosure concerns.
+             E.       Shane Cox3
+             Mr. Cox is a litigation and regulatory manager for Amazon.com. His Initial Disclosure
+states Mr. Cox will testify to the content of documents produced by Amazon to law enforcement
+
+pertaining to an Amazon account associated with Defendant. The documents include the order
+history between January 5, 2022 and December 13, 2022 and click history and sign-in history for
+
+specific dates in that time frame. The documents are referenced by Bates number. His
+Supplemental Disclosure identifies with specificity the facts Mr. Cox will be testifying
+                                                                                                               to from
+
+the identified documents.
+
+             As with his challenge to Mr. Douglass, Defendant asserts that Mr. Cox should not be able
+to offer any opinion because none are expressed in his disclosures.'* Again, Mr. Cox is a fact
+
+witness and will not be offering opinions on the documents apart from explaining what the
+
+document show as outlined in his disclosures. There is no basis for exclusion.
+
+              F.       Darren Gilbertson'®
+              Defendant disclosed expert opinions from Brent Turvey that more than one assailant was
+                                                                                               he asserts that: 1) there
+necessary to accomplish the crime in the time frame alleged. Specifically,
+is direct and indirect evidence that attempts were made by the suspect(s) to clean up the crime
+
+scene after the homicides, which would have taken far longer than the time interval alleged by
+
+the State, and; 2) there were multiple weapons used against Kaylee Goncalves, and Xana and
+
+Ethan appeared to have been attacked at the same time. Turvey Rpt., p. 20. Through his other
+                                                                             that he suffers from Developmental
+expert, Rachel Orr, Defendant has also submitted evidence
+Coordination Disorder, which has resulted in deficits in fine motor dexterity and visual motor
+
+
+12
+  Without more, the Court has concerns about the relevance of this testimony, but Defendant has not challenged it
+on this basis as yet.
+
+\3-The State submitted two disclosures for Mr. Cox: Initial Disclosure (S-5) (Dec. 18, 2024)
+                                                                                                  and Amended
+
+Supplemental Disclosure (S-1) (Mar. 3, 2025).
+
+14
+  Defendant also asserts in the motion that Mr. Cox's testimony should not be allowed because, according to
+defense expert David Howell, far more information must be reviewed in order to attribute specific activity to
+                                                                                                              a
+                                                                   with forensic certainty. This          was
+specific person or otherwise render an opinion about user behavior                               argument
+addressed and rejected by the Court in its Order Memorializing Oral Rulings on Motions in Limine, pp. 7-8 (April
+18, 2025) and will not be reiterated here.
+
+1   5
+        The State submitted only a rebuttal disclosure for Detective Gilbertson. (Exh. S-7) (Feb. 17, 2025).
+
+                                                                7
+function. His attorneys have argued in other motions that these deficits render it "not possible"
+
+for Mr. Kohberger to have acted with the speed and coordination required to commit the crimes
+
+in the time frame alleged by the State. However, this has not been disclosed as an opinion of any
+
+of Defendant's experts.
+         In rebuttal, the State disclosed Detective Darren Gilbertson, a lead investigator for ISP in
+
+this case. The disclosure indicates he will testify that he and other investigators conducted timed
+
+runs at 1122 King Road to gain an understanding of the approximate time needed to have carried
+
+out the homicides. A report of the timed runs is attached to his disclosure. It was performed to
+
+determine if one person could carry out the homicides. His opinion will be that, depending on the
+                                                                                                  two to four
+suspect's pace and route, he could have carried out the crimes in approximately
+minutes.
+
+         Defendant argues Det. Gilbertson's testimony should be excluded because: 1) the State
+
+has failed to disclose how Det. Gilbertson is an expert in timed runs; 2) the relevance is minimal;
+
+3) important data (i.e., recordings, photographs and notes of the experiment)
+                                                                                              was not disclosed,
+
+and; 4) his opinion carries a risk ofjuror confusion and prejudice. On the prejudice issue,
+Defendant claims that Det. Gilbertson was already familiar with the house when he did the
+                                                                                     also notes the house has
+experiment and, additionally, the house had been vacated. Defendant
+been torn down so he is not able to conduct his own tests.
+
+         Whether Det. Gilbertson's opinions are relevant will depend on what Mr. Turvey and Dr.
+
+Orr opine to at trial.!© While Dr. Turvey does not specifically state in his report that one assailant
+could not have accomplished the murders in the short time frame alleged by the State, he infers
+as much through his opinion that there was evidence of clean-up efforts at the crime scene,
+
+which would have taken a significantly longer period of time. Further, while Dr. Orr's report
+does not opine as to what deficits in fine motor dexterity and visual motor function Defendant
+
+suffers from, to the extent she testifies to these deficits at trial, it may render Det. Gilbertson's
+                                                                                 have single-handedly
+opinions relevant to rebut any inference that Defendant could not
+committed the crimes in less than fifteen minutes.
+
+
+
+16
+  The Court has indicated in a separate order that there is no foundation at this point for Defendant's assertion that
+his deficits in fine motor dexterity and visual motor function rendered it difficult or impossible for him to commit
+the crimes. See, Order on State's Motion in Limine re: Neuropsychological and Psychiatric Evidence (April 18,
+2025).
+
+
+                                                           8
+        Further, given Detective Gilbertson's role as the lead detective for ISP in the
+
+investigation, he is well qualified to offer his opinion on suspected movement throughout a crime
+scene. In addition, there does not appear to be a disclosure violation due to the lack of underlying
+
+data. It was a simple experiment consisting of timing Det. Gilbertson moving through the house
+
+at a slower speed and a faster speed. His routes were described, as well his pauses to simulate the
+
+number of stab wounds each autopsy showed. It does not appear there are any photographs or
+
+recording or any other data not already described therein.
+        As for Defendant's IRE 403 concerns, they are baseless. The State represents that there
+were no structural changes to the house when Det. Gilbertson performed his experiments. The
+
+fact that it was vacated or that Det. Gilbertson was familiar with the home-which would
+
+presumably allow him to conduct a faster timed run                is fodder for cross-examination, not
+
+exclusion. The State further notes that Defendant stipulated to the house being torn down after
+Det. Gilbertson's report was disclosed. Thus, any concern of prejudice in this regard is his own
+                                                                                            Det. Gilbertson's
+doing. Finally, Defendant cites no basis for jury confusion. Consequently,
+disclosed testimony will not be excluded or limited at this time.
+        G.        ISP Forensic Lab Scientists!"
+        The State disclosed several forensic scientists from the ISP forensics lab to testify as
+
+experts in this case. The Initial Disclosure for each scientist
+                                                                          describes the subject matter the
+                                                                                              The disclosures also
+expert will discuss, including the particular evidence and testing performed.
+reference each scientist's specific lab report by Bates number. In each disclosure, the State
+
+included the following caveat:
+        This disclosure is provided as an aid; it does not encompass all findings,
+        impressions, conclusions, or materials related to this expert's
+                                                                        involvement in this
+        case. It further does not in any [way] limit the scope of the expert's testimony.
+        Further, this expert may testify about findings, impressions, and/or conclusions
+        that he/she drew from the work of other experts who previously examined or
+         handled the evidence in question.
+
+
+
+
+17
+   The experts in this category specifically referenced by Defendant are Katherine Dace (White), Taylor Maichak,
+                                                                                                              The
+Tara Martinez, Jade Miller, Anne Nord, Eric Seat, Tina Walthall, Stephanie Wilt and Hailey Youngling.
+                                                             raised for the first time in his reply brief  to forensic
+analysis herein applies equally to Defendant's challenges
+                                                                               and  Chelsea   Deisher (Exh. S-6) (Dec.
+toxicologists from NMS Labs, Daniel Anderson (Exh. S-1) (Dec. 18, 2024)
+18, 2024).
+
+
+                                                            9
+             After Defendant moved to compel more complete disclosures, the Court advised the State
+to supplement accordingly. On March 3, 2025, the State did so largely by expounding upon the
+
+general subject matter of the experts' respective work.'® They did not add any new opinions.!9
+             Defendant now moves to limit the scientists' testimony in the State's case-in-chief to
+
+their lab reports. This limitation is not necessary. If the scientists testify to something that is not
+
+disclosed in their disclosures or lab reports, Defendant can object at trial. There is no basis to
+
+prospectively limit their testimony now.
+             H.       Gary Dawson"?
+             Dr. Gary Dawson was disclosed in rebuttal by the State to testify to "the degree of
+
+impairment of the victims, particularly Madison Mogen, at the time of the homicide." His expert
+
+report, attached to his disclosure, opines that Madison Mogen would have been "markedly
+intoxicated from the effects of alcohol around the time of her death. She would not have the
+                                                                                                              3. He
+ability to mount a meaningful response to a sudden threat to her person." Dawson Rpt., p.
+further states that while he has limited his review to Madison Mogen, the same "general
+
+principles" apply to the other victims.
+              Defendant seeks to strike his testimony on grounds that it is improper rebuttal. He
+
+contends that none of his experts have challenged her ability to fight back or otherwise contested
+
+her toxicology levels. The State responds that the opinion rebuts defense expert Brent Turvey's
+                                                                          crime in the time
+opinion that that more than one assailant was necessary to accomplish the
+frame alleged. Specifically, the State argues that evidence Ms. Mogen was unable to effectively
+                                                                                           the homicides in a short
+fight back supports its position that one assailant could have completed
+time frame.
+
+
+
+
+1
+  For example, where the initial disclosures stated the expert would testify generally about the collection of DNA,
+    8
+
+
+the supplemental disclosures include far more detail about the collection procedure.
+
+1
+  To the extent that Jade Miller's Supplemental Disclosure and Katherine Dace (White)'s Rebuttal Disclosure
+    9
+
+contain a discussion of CODIS, how it works, how CODIS eligibility is determined and why the decision was made
+not to enter certain profiles into the system, Defendant objects that it is new, untimely opinion. However, the Court
+does not view this discussion as opinion; rather it is a purely factual issue explaining reasons why certain decisions
+were made consistent with CODIS rules/limitations. In addition, to the extent Defendant contends these facts were
+not         disclosed, Defendant has plenty of time between their disclosure and trial to address them.
+         timely
+2°
+        The State submitted only a rebuttal disclosure for Dr. Dawson. (Exh. S-6) (Feb. 17, 2025).
+
+
+                                                              10
+        "Rebuttal evidence is evidence which explains, repels, counteracts, or disproves evidence
+
+which has been introduced by or on behalf of the adverse party." State v. Moses, 156 Idaho 855,
+
+867, 332 P.3d 767, 779 (2014) (internal quotes and citation omitted). Mr. Turvey has opined in
+his report that two assailants were involved in the homicide, partially because he believes
+
+multiple weapons were used against Kaylee Goncalves. Inferred in this opinion is that one
+
+person would not have had the time or ability to use multiple weapons in the time frame alleged
+when faced with two victims. If Ms. Mogen was intoxicated to the point of being unable to fight
+
+back, however, it would be possible for one suspect to incapacitate her and then use multiple
+
+weapons in attacking Ms. Goncalves. However, whether Dr. Dawson's opinion is relevant
+
+depends on how Mr. Turvey's testimony unfolds at trial. Consequently,
+                                                                                        his disclosed rebuttal
+
+opinion will not be excluded or limited at this time.
+        I.       Lawrence Mowery; Jeffrey Tanzola; Neil Uhrig"!
+        Detective Lawrence Mowery, Agent Jeffrey Tanzola and Detective Neil Uhrig are
+"forensic detectives" who were involved in the investigation of this case.
+         Detective Mowery of the Moscow Police Department is disclosed to testify in the State's
+case-in-chief as an expert in the field of digital forensics and his role in the investigation.
+                                                                                           and may identify and
+Specifically, he may testify to "any of the subjects identified in his reports,
+                                                                               records identified in
+testify to chain of custody, extractions, electronic data, files, and location
+the materials made available to Defendant." Initial Discl, p. 1. There are approximately 50
+
+individual devices, electronic accounts and digital data listed in the disclosures about which he
+will testify, and he will opine that he found no connection in that material linking Defendant to
+the devices and data he analyzed."
+                                                                                                   and archived
+       Jeffrey Tanzola is a Special Agent with the FBI who extracted, processed
+the contents of seven identified digital devices belonging to Defendant. His is disclosed to
+
+discuss in the State's case-in-chief the "extraction/imagining, examination, processing,
+
+
+
+
+21
+   The disclosures for these individuals are as follows: Lawrence Mowery Initial ('Amended") Disclosure (S-10)
+                                                                            -
+
+
+
+
+                                                                            Tanzola Initial Disclosure (S-13) (Dec.
+(Jan. 7, 2025), Amended Supplemental Disclosure (Mar. 3, 2025), Jeffrey
+                                                                                    -
+
+
+
+
+            Rebuttal Disclosure (S-3 to S-5)  (Feb.  17, 2025); Neil Uhrig
+                                                                        -
+                                                                           Initial Disclosure (S-14) (Dec. 18, 2024),
+ 18, 2024),
+Amended Supplemental Disclosure (S-4) (Mar. 14, 2025).
+
+                                                                                                          these are
+22
+  Because Detective Mowery analyzed devices and information associated with Defendant, presumably
+excluded from his opinion.
+
+
+                                                          11
+verification, transportation, and chain of custody" of those devices. The disclosure references
+and appends his "Report of Examination" regarding his work in this regard."
+
+          Neil Uhrig is a Forensic Examiner and Detective Sergeant for the Post Falls Police
+
+Department who extracted, processed and archived the contents of computers belonging to the
+victims and two other roommates of 1122 King Road. His case-in-chief disclosures likewise state
+he will discuss "extraction/imagining, examination, processing, verification, transportation, and
+
+chain of custody" as to those computers, including the expertise necessary to extract the data
+
+from the devices. He will opine that there was no connection found between the listed devices
+
+and Defendant. His Initial Disclosure references and appends his "Officer Report" regarding his
+
+work in this regard.
+           Defendant argues that each of the three experts' testimony must be limited to what has
+
+been disclosed, i.e., the devices/data examined and processes used. Other than the disclosed
+                                                                                                between
+opinions by Detectives Mowery and Uhrig that no digital connection was found
+Defendant and the residents of 1122 King Road, Defendant argues no specific testimony
+
+regarding what the devices and data depicted should be allowed. To this end, Defendant
+                                                                                              notes
+
+that the State has not identified in the disclosures the specific portions of the identified devices
+
+and data that these experts will testify to.
+
+           In response, the State clarifies that it not seeking to elicit opinions from these witnesses;
+
+rather, it intends to elicit testimony about their qualifications necessary to perform the extractions
+and analysis of the identified devices and data. It further represents that Defendant has been
+
+provided with all the data analyzed.
+           There is no basis to exclude or limit the detectives' disclosed testimony. It is clear they
+will be testifying to the facts of their investigation, not providing traditional expert opinions.
+There is no need, therefore, for the detectives to identify specifically what the devices and data
+
+depict. This is factual in nature and Defendant has been provided with
+                                                                                      all of the material the
+
+detectives reviewed.
+           J.       Rob Hille4
+
+
+
+
+23
+     Defendant is not challenging Det. Uhrig's rebuttal disclosures.
+
+*4The State submitted only a rebuttal disclosure for Agent Hille. (Exh. S-8) (Feb. 17, 2025).
+
+                                                            12
+       Rob Hille is a Special Agent with the FBI who reviewed surveillance footage from the
+hours before and after the homicides occurred depicting what law enforcement believes is
+
+Suspect Vehicle 1. Agent Hille was disclosed to rebut opinions by defense expert Steven Becker
+that it was not possible to ascertain from the surveillance vidoes whether a front license plate was
+
+missing from the vehicle. Agent Hille's rebuttal references the "full summary of video" depicting
+Suspect Vehicle 1-which has been disclosed to Defendant         as a basis for his opinion that
+
+Suspect Vehicle 1 did not have a front plate. He then lists the specific camera locations and time
+
+stamps he contends show a clear view of a missing front plate. His rebuttal also states he
+                                                                                             will
+
+provide testimony about the significance of the missing front plate.
+       Defendant contends that since Agent Hille has not offered an opinion as to any videos
+
+other than those specific clips referenced, his testimony must be limited to those identified clips.
+
+However, Agent Hille's disclosed opinion is not restricted to the identified clips; it expressly
+based on the "full summary" of video of Suspect Vehicle 1, with the identified clips being the
+
+most clear. Thus, the Court will not limit his testimony in this regard.
+
+V.     ORDER
+       Based on the foregoing, Defendant's Motion in Limine re: Vague and Undisclosed Expert
+
+Testimony is DENIED.
+
+
+IT IS SO ORDERED.
+
+
+DATED this          ay of April, 2025.
+
+
+
+
+                                                 evenen Hipple€©
+
+                                               District Judge
+
+
+
+
+                                                  13
+                                    CERTIFICATE OF SERVICE
+
+|
+    hereby certify that on 412412025       served a true and correct copy of the ORDER ON DEFENDANT'S
+    MOTION IN LIMINE RE: VAGUE AND UNDISCLOSED EXPERT TESTIMONY
+LATAH COUNTY PROSECUTING ATTORNEY'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.gov
+
+ASHLEY JENNINGS
+SENIOR DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JOSHUA D. HURWIT
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.gov
+
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: jeff.nve@aq idaho.gov
+
+MADISON ALLEN
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Madison.allen@aq.idaho.qov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetaylorlaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+FIRST DISTRICT PUBLIC DEFENDER
+JAY W. LOGSDON
+VIA EMAIL: jay.loasdon@spd.idaho.gov
+
+BICKA BARLOW
+Pro Hac Vice
+VIA EMAIL: bickabarlow@sbcalobal.net
+
+
+
+
+                                                     TRENT TRIPPLE
+                                                     Clerk of the Court
+
+                                                 By: Kanai.   Bete?
+                                                      Deputy Clerk   4/24/2025 3:25:43 PM
+
+
+
+
+    CERTIFICATE OF SERVICE
+

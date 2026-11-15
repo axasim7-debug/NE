@@ -1,0 +1,36 @@
+07/08/25                     Moscow Police Department                        1272
+11:49                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number   22-M09903           Name   Brett Payne
+Sequence Number   226                 Date   15:00:35 08/01/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Apple Warrant- #157
+
+Kohberger Apple Warrant
+On Tuesday, August 1, 2023 I applied for a search warrant for the Apple Inc.
+records from December of 2016 (account creation date) to December 30, 2023
+(Kohberger's arrest date) for all data associated with the following
+identifiers:
+Apple ID:
+Apple ID:
+The warrant was granted on Tuesday August 1, 2023 with fourteen (14) days to
+serve the legal process. At approximately 1450 hours on the same date I served
+the warrant via               @apple.com/. I will complete a return of warrant
+and receipt and inventory of items upon receipt of requested data.
+
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+
+CPL Payne #157
+Tue Aug 01 15:00:59 PDT 2023
+
+Reviewed By:
+Capt. Dustin Blaker #108
+Thu Aug 03 10:09:42 PDT 2023
+

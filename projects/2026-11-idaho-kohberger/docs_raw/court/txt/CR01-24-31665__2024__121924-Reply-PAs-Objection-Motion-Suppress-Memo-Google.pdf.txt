@@ -1,0 +1,960 @@
+                                                                      Electronically Filed
+                                                                      12/19/2024 5:54 PM
+                                                                      Fourth Judicial District, Ada County
+                                                                      Trent Tripple, Clerk of the Court
+                                                                      By: Jennifer Keyes, Deputy Clerk
+
+Anne Taylor Law, PLLC
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d’Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Jay W. Logsdon, First District Public Defender
+Idaho State Public Defender
+1450 Northwest Blvd.
+Coeur d’Alene, Idaho 83814
+Phone: (208) 605-4575
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Assigned Attorney:
+Anne C. Taylor, Attorney at Law, Bar Number: 5836
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+
+      IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+ STATE OF IDAHO,
+                                                 CASE NUMBER CR01-24-31665
+                      Plaintiff,
+                                                 REPLY TO STATE’S OBJECTION TO
+                                                 DEFENDANT’S MOTION TO
+ V.                                              SUPPRESS AND MEMORANDUM IN
+                                                 SUPPORT
+
+ BRYAN C. KOHBERGER,                             RE: GOOGLE WARRANTS DATED
+                                                 1-3-23, 1-24-23, and 2-24-23
+                      Defendant.
+
+
+
+       COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and submits
+
+the following Reply to the State’s objection to his Motion to Suppress and Memorandum in
+
+Support Re: Google Warrants Dated 1-3-23, 1-24-23, and 2-24-23.
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+AND MEMORANDUM IN SUPPORT RE: GOOGLE WARRANTS DATED 1-3-23,
+1-24-23, and 2-24-23                                                                   Page 1
+       The words “proof upon oath” are not synonymous with “the affidavit for search warrant is
+
+here by incorporated”. A non-particularized general affidavit in support of a search warrant held
+
+in the hands of law enforcement, which never accompanied the electronically served warrant,
+
+cannot be relied upon to validate a warrant. The warrants never directed law enforcement to
+
+exclude any legal information obtained, in support of particularity. All contents of the Google
+
+Warrant returns must be suppressed.
+
+I.     The Warrants were General and the Affidavit was Not Incorporated into the Three
+
+       Warrants or Served with the Warrants.
+
+       The Fourth Amendment to the United States Constitution states:
+
+       The right of the people to be secure in their persons, houses, papers, and effects,
+       against unreasonable searches and seizures, shall not be violated, and no warrants
+       shall issue, but upon probable cause, supported by oath or affirmation, and
+       particularly describing the place to be searched, and the persons or things to be
+       seized.
+
+
+Article I, Section 17 of the Idaho Constitution is virtually identical to the Fourth Amendment,
+
+except that “oath or affirmation” is termed “affidavit.”
+
+       The Supreme Court has acknowledged “that a court may construe a warrant with reference
+
+to a supporting application or affidavit if the warrant uses appropriate words of incorporation, and
+
+if the supporting document accompanies the warrant.” Groh v. Ramirez, 540 U.S. 551, 557–58,
+
+124 S.Ct. 1284, 157 L.Ed.2d 1068 (2004). In SDI Future, the Ninth Circuit held that a statement
+
+on the face of the warrant noting “the supporting affidavit(s)” was sufficient as a suitable reference
+
+and incorporation. The warrants contained no language that the affidavit was incorporated. In
+
+misguided fashion, the State asserts that there is no requirement for specific language and relies
+
+on Adamcik v. State, which upheld a warrant where “the opening paragraph of the warrant
+
+unambiguously referenced the affidavit and sworn testimony of Detective Sellers as the basis for
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+AND MEMORANDUM IN SUPPORT RE: GOOGLE WARRANTS DATED 1-3-23,
+1-24-23, and 2-24-23                                                                          Page 2
+the warrant.” 163 Idaho 114, 125 (Idaho S. Ct. 2017). No such language exists in the Google
+
+Warrants. The word affidavit is not mentioned or incorporated into the warrants.
+
+        The Affidavit of Det. Brett Payne swears that Detective Mowery served the “warrant.”
+
+See Exhibit D Google Memorandum. The email between Mowery and Google reference a
+
+“warrant.” See Exhibit F Google Memorandum. No return documents reference the Affidavit in
+
+Support of Search Warrant as having accompanied any of the Google warrants when they were
+
+served. Nor does the State produce such records in its Objection. The process described by the
+
+State as meeting the criteria of State v. Teal simply does not exist. In its incorporated Objection to
+
+the Motion to Suppress Apple Warrant, the State indicates that the “investigators necessarily had
+
+copies of the affidavit in their possession when they executed the warrant by emailing it to Apple.”
+
+See Apple Objection, p. 5. Further, the State offers that “[t]he effect of this is that the Affidavit for
+
+Search Warrant and appended Exhibit A cure any supposed deficiencies in the naked warrant.”
+
+See Apple Objection, pp. 5-6. An officer sitting at a computer executing a search warrant by
+
+submitting it to Google through a law enforcement portal and having the affidavit for search
+
+warrant in his hand is different than an officer being physically present when executing a search
+
+warrant and having the affidavit for search warrant available for reference. Where a supporting
+
+affidavit does not accompany the search warrant at the time of execution, the detail set out in the
+
+affidavit does not cure any deficiencies. U.S. v. Pilling, 721 F.Supp. 3d 1113, 1126 (D. Idaho 2024)
+
+(warrant suppressed where supporting affidavit was not provided to Apple). An affidavit is
+
+considered “to be part of a warrant, and therefore potential curative of any defects, ‘only if (1) the
+
+warrant expressly incorporated the affidavit by reference and (2) the affidavit either is attached
+
+physically to the warrant or at least accompanies the warrant while agents execute the search.’”
+
+SDI Future Health Inc., at 699 (citing United States v. Kow, 58 F.3d 423, 429 n. 3 (9th Cir.1995)).
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+AND MEMORANDUM IN SUPPORT RE: GOOGLE WARRANTS DATED 1-3-23,
+1-24-23, and 2-24-23                                                                            Page 3
+III.   The Search Warrants Fail to Provide Specific Particularization of What to Search.
+
+         Courts consider three factors in analyzing the potential overbreadth of a warrant: (1)
+
+“whether probable cause existed to seize all items of a category described in the warrant,” (2)
+
+“whether the warrant set forth objective standards by which executing officers could differentiate
+
+items subject to seizure from those which were not,” and (3) “whether the government could have
+
+described the items more particularly in light of the information available.” United States v. Flores,
+
+802 F.3d 1028, 1044 (9th Cir. 2015) (quoting United States v. Lei Shi, 525 F.3d 709, 731–32 (9th
+
+Cir. 2008)).
+
+       The Fourth Amendment requires particularity. “The particularity requirement’s objective
+
+is that those searches deemed necessary based on a probable cause determination by a magistrate
+
+should be as limited as possible.” State v. Teal, 145 Idaho 985, 991, 188 P.3d 927, 933 (2008).
+
+Even if the Affidavit of Search Warrant had been incorporated into the warrant, it could have
+
+described particularized items as opposed to the laundry list of items held by Google without
+
+designation of a duty to separate lawful items.
+
+       The particularity requirement means that a warrant must be “specific enough to enable the
+
+person conducting the search reasonably to identify the things authorized to be seized.” U.S. v.
+
+Spilotro, 800 F.2d 959, 963 (9th Cir. 1986). Once the warrant is specific enough, there must still
+
+be a search that provides guidelines to ‘distinguish items used lawfully from those the government
+
+had probably cause to seize.” Id. at 964. Not only did the state obtain the entirety of Mr.
+
+Kohberger’s Google accounts, it has taken no action to sort through that which is lawful or applies
+
+to the charges. It has produced the warrant return data without any reports or analysis whatsoever.
+
+       The fact that the Google Accounts are sought because they may hold some of the objects
+
+of the proposed search does not automatically give the State authority to seize every piece of data
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+AND MEMORANDUM IN SUPPORT RE: GOOGLE WARRANTS DATED 1-3-23,
+1-24-23, and 2-24-23                                                                          Page 4
+that ever touched the accounts between January 1, 2021 and December 30, 2022. Instead, the
+
+“balance between the government's interest in law enforcement and the right of individuals to be
+
+free from unreasonable searches and seizures of electronic data must be determined on a case- by-
+
+case basis.” United States v. Schesso, 730 F.3d 1040, 1050 (9th Cir. 2013).
+
+       The Google Search warrants were not supported by probable cause to support everything
+
+listed, there were absolutely no limiting standards included at all, and the state could have
+
+particularized the warrant to specific dates and items that would be evidence of the specific crimes.
+
+The Google Search Warrants did none of that.
+
+IV.    The Affidavit Submitted in Support of the Application for the Issued Search Warrant
+
+       Recklessly or Intentionally Omitted Material Information.
+
+       In response to the State’s arguments under “Defendant Has Not Demonstrated the Search
+
+Warrant Affidavits Contain Intentionally or Recklessly False Statements or Omissions,”
+
+Defendant refers the Court to and hereby incorporates Defendant’s Replies in Support of
+
+Defendant’s pleadings in support of a Franks Hearing and suppression of Genetic Information.
+
+                                         CONCLUSION
+
+       Mr. Kohberger requests that this Court suppress all evidence obtained by police via the
+
+subpoenas and warrants that permitted them to search Mr. Kohberger’s Google accounts.
+
+
+
+       DATED this _19_ day of December, 2024.
+
+
+                                              BY:     _/s/ Elisa G. Massoth
+                                                      Elisa G. Massoth
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+AND MEMORANDUM IN SUPPORT RE: GOOGLE WARRANTS DATED 1-3-23,
+1-24-23, and 2-24-23                                                                         Page 5
+                              CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___19____ day of December, 2024 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+AND MEMORANDUM IN SUPPORT RE: GOOGLE WARRANTS DATED 1-3-23,
+1-24-23, and 2-24-23                                                                   Page 6
+United States v. Pilling, 721 F.Supp.3d 1113 (2024)
+
+
+
+
+                                                                  Attorneys and Law Firms
+                   721 F.Supp.3d 1113
+           United States District Court, D. Idaho.                 *1117 Cassandra Barnum, DOJ-Enrd, Washington, DC,
+                                                                  Francis Joseph Zebari, United States Attorney's office, Boise,
+          UNITED STATES of America, Plaintiff,                    ID, for Plaintiff.
+                          v.
+               Brek PILLING, Defendant.                           David Z. Nevin, Nathan Pittman, Scott McKay, Nevin,
+                                                                  Benjamin & McKay LLP, Boise, ID, for Defendant.
+                Case No. 4:22-cr-00282-BLW
+                              |
+                   Signed March 2, 2024                                 MEMORANDUM DECISION AND ORDER
+Synopsis                                                          B. Lynn Winmill, United States District Court Judge
+Background: Defendant, who was charged with violating
+the Clean Air Act (CAA) by causing the demolition of two
+buildings without following the Environmental Protection                               INTRODUCTION
+Agency's (EPA) National Emissions Standard for Hazardous
+                                                                  Before the Court is Defendant Brek Pilling's Motion to
+Air Pollutants (NESHAP) work practice standards for
+                                                                  Suppress (Dkt. 37). The *1118 defendant seeks to suppress
+handling and removal of asbestos, moved to suppress
+                                                                  evidence obtained pursuant to two search warrants. For the
+evidence obtained pursuant to two search warrants.
+                                                                  reasons explained below, the Court will grant the motion, in
+                                                                  part, and deny it, in part.
+
+Holdings: The District Court, B. Lynn Winmill, J., held that:
+
+                                                                                        BACKGROUND
+search warrant directed to web-based email provider for two
+email accounts associated with defendant was not overbroad;       The Clean Air Act (CAA) authorizes the Environmental
+                                                                  Protection Agency (EPA) to establish standards for protecting
+search warrant directed to web-based email provider was
+                                                                  the public from hazardous air pollutants.            42 U.S.C.
+supported by probable cause;
+                                                                  § 7412(h)(1). The EPA exercised that authority by
+                                                                  promulgating the National Emissions Standard for Hazardous
+search warrant directed to web-based email provider was
+                                                                  Air Pollutants (NESHAP). Among other things, the NESHAP
+sufficiently particular;
+                                                                  identifies asbestos as a hazardous air pollutant and establishes
+                                                                  “work practice standards” that govern the handling and
+warrant authorizing search of defendant's entire cloud storage
+                                                                  removal of asbestos. 40 C.F.R. § 61.140–157. The asbestos
+account for fruits, contraband, evidence, and instrumentalities
+                                                                  work practice standards apply to “owners” and “operators” of
+of violations of five statutes lacked particularity required by
+                                                                  demolition and renovation activities. § 61.145(a). Under the
+Fourth Amendment;
+                                                                  CAA, failure to comply with the NESHAP is a crime. See
+doctrine of severance did not apply to warrant authorizing           42 U.S.C. § 7413(c)(1).
+search of defendant's entire cloud storage account; and
+                                                                  In this case, the United States charges Defendant Brek Pilling
+government violated Fourth Amendment through its detailed,        with seven counts of violating the CAA. 1 Specifically, the
+nine-month review of defendant's entire cloud storage             Indictment (Dkt. 1) alleges that he caused the demolition
+account without removing unresponsive data.                       of two buildings in Burley, Idaho, without following the
+                                                                  NESHAP work practice standards. Each count of the
+                                                                  Indictment corresponds to a separate work practice standard
+Motion granted in part and denied in part.
+                                                                  that the defendant allegedly violated. See Indictment ¶¶ 8–21,
+                                                                  Dkt. 1.
+Procedural Posture(s): Pre-Trial Hearing Motion.
+
+
+
+               © 2024 Thomson Reuters. No claim to original U.S. Government Works.                                             1
+United States v. Pilling, 721 F.Supp.3d 1113 (2024)
+
+
+1      The Court dismissed Count One of the Indictment
+                                                                 In December of 2021, Google produced, and the government
+       in a Memorandum Decision and Order entered
+                                                                 downloaded, approximately 9.56 gigabytes of compressed
+       February 27, 2024. Dkt. 78.
+                                                                 data pursuant to the search warrant. The government
+                                                                 segregated portions of the data that were presumably
+1. The Google Warrant
+                                                                 privileged and filtered the remaining documents using search
+The government executed at least two search warrants in
+                                                                 terms designed to identify the materials that the government
+this case. The first (“the Google Warrant”) was signed
+                                                                 was specifically authorized to seize under Attachment B of
+on November 2, 2021, and served on Google LLC the
+                                                                 the warrant.
+following day. It authorized a search of two email accounts
+associated with the defendant: brek66@gmail.com and
+brek@kodiakamerica.us. 2                                         2. The Apple Warrant
+                                                                 The government also served a warrant on Apple Inc.
+2                                                                (“the Apple Warrant”). The warrant authorized a search
+       The warrant also authorized a search of a third
+       email account belonging to Brian Tibbets. The             of information associated with the defendant's Apple
+       search of that account is not at issue here.              account, mobile phone number, and two Apple IDs
+                                                                 (brek66@gmail.com and brek@kodiakamerica.us).
+In a probable cause affidavit (“the Google Affidavit”)
+attached to the warrant, Special Agent Bryan Byrd provided       In his probable cause affidavit (“the Apple Affidavit”),
+a basis for the search. First, Agent Byrd reported that two      Agent Byrd reported that the defendant's iCloud account
+demolition bids had been emailed to brek66@gmail.com             likely contained evidence of “obstructive” conduct and
+before the demolition of the buildings in Burley, Idaho.         information related to the defendant's ownership of the
+Google Warrant, Dkt. 38, ¶¶ 25–26. And second, after             demolished buildings. Apple Warrant Dkt. 38-1. According to
+the demolition, the defendant reportedly sent an email           information that Agent Byrd obtained during a proffer session
+from brek@kodiakamerica.us to Brian Tibbets regarding the        with the defendant's former business partner, Brian Tibbets,
+discovery of asbestos at the demolition site. Id. ¶ 39.          the defendant “made calls, sent text messages, or sent email
+                                                                 to Tibbets and other relevant parties on or near the date of the
+Based upon those emails, Agent Byrd concluded that the           first proffer session, as well as on or about June 2, 2018[.]” Id.
+email accounts likely “contain[ed] emails unknown to the         ¶ 52. Mr. Tibbets also told Agent Byrd that he had transferred
+Government regarding the Property, bids for the demolition,      a recording of his first proffer session to the defendant via
+asbestos, and other relevant topics.” Id. ¶ 41. He further       AirDrop. Id. ¶ 51.
+explained that “information stored in connection with an
+email account” may show the “who, what, why, when,               Based upon the Apple Affidavit, the magistrate judge
+where, and how” of the alleged criminal conduct. Id. ¶ 46        authorized a search of the defendant's Apple account.
+(emphasis added). For example, “user attribution” evidence       Attachment A of the warrant described the property to be
+“may indicate who used or controlled the account at a relevant   searched, and Attachment B listed the things to be seized.
+time.” Id. Similarly, geographic location data revealing the     Attachment B was divided into two subsections. Section
+“physical location associated with the logged IP addresses”      I of Attachment B listed the information and records that
+may “inculpate or exculpate the account owner” by revealing      Apple was required to disclose as to the defendant's accounts,
+who used the account on the relevant occasions. Id.              including:
+
+Based upon the Google Affidavit, the magistrate judge              • All records and information “regarding the identification
+authorized a search of the defendant's accounts for “evidence,        of the account;”
+contraband, fruits, and/or instrumentalities of violations” of
+the Clean Air Act (CAA). Id., Attach. B(II). The warrant only      • All records and information about all devices ever
+applied to “information from October 1, 2017, *1119 to June          associated with the account or used in connection with
+30, 2018.” It also specified the categories of information and       the account;
+records that Google was required to produce, and identified
+                                                                   • The contents of all emails from October 1, 2017, to
+the kinds of materials that the government was authorized to
+                                                                     present, including drafts and deleted emails;
+seize.
+
+
+               © 2024 Thomson Reuters. No claim to original U.S. Government Works.                                              2
+United States v. Pilling, 721 F.Supp.3d 1113 (2024)
+
+
+
+
+  • The contents of all instant messages from October 1,            • “The identity of the person(s) who communicated with
+    2017, to present, including drafts and deleted messages;           the user ID about matters relating to the aforementioned
+                                                                       violations, including records that help reveal their
+  • The content of all files stored on the iCloud,                     whereabouts.”
+    including those related to email, photos, document
+    drives, passwords, address books, contact lists, notes,       In November of 2022, Apple provided, and the government
+    reminders, calendars, images, videos, voicemails, device      downloaded, approximately 118 gigabytes of data pursuant to
+    settings, and bookmarks;                                      the search warrant. In May of 2023, after filtering the data
+                                                                  to exclude presumptively privileged results, the prosecution
+  • All activity, connection, and transactional records,
+                                                                  team began to search and review the files. On January 30,
+    including those related to FaceTime, messaging, email,
+                                                                  2024, the government realized that it had inadvertently failed
+    iCloud, iTunes, the AppStore, and the Game Center;
+                                                                  to purge the data of files that did not fall within the categories
+  • All records and information related to account access,        authorized for seizure under Section II of Attachment B.
+    device location, and services used;                           The government did so and was left with 156 responsive
+                                                                  documents, nine of which it intends to offer at trial.
+  • All records of communication with Apple regarding the
+    account; and
+                                                                  3. Motion to Suppress (Dkt. 37)
+  • All files, keys, and information necessary to decrypt the     The defendant filed this motion on January 19, 2024, seeking
+     disclosed data.                                              to suppress all evidence seized pursuant to the Google
+                                                                  Warrant and Apple Warrant. Dkt. 37. He argues that both
+Section II of Attachment B listed the information and records     warrants are overbroad and lack particularity in violation of
+that the government was authorized to seize, including:           the Fourth Amendment to the United States Constitution.
+
+  •    “All information described in Section I that               On February 1, 2024, the government informed the defendant
+      constitutes fruits, contraband, *1120 evidence, and         that it had inadvertently failed to conduct the second step
+      instrumentalities of violations of 42 U.S.C. § 7413(c)      of the two-step electronic seizure process authorized by the
+      (Clean Air Act), 18 U.S.C. § 371 (conspiracy to             Apple Warrant. Def.’s Reply at 2, Dkt. 54. The defendant
+                                                                  addressed that failure in his Reply (Dkt. 54) and the Court
+      defraud the United States),     18 U.S.C. § 1001 (false
+                                                                  allowed the government to file a Surreply (Dkt. 55-1)
+      statements), 18 U.S.C. § 1505 (obstruction of agency
+                                                                  responding to the defendant's new arguments. See Dkt. 56.
+      proceedings), and 18 U.S.C. § 1512 (witness tampering
+      and destruction/alteration of evidence);”
+                                                                  The defendant's motion is now fully briefed and ripe for
+  • “[I]nformation pertaining to ... Clean Air Act violations,    decision. The Court has determined that oral argument and
+     Conspiracy, False Statements, Obstruction, Witness           an evidentiary would not aid the decisional process. An
+     Tampering, and Destruction/Alteration of Evidence;”          evidentiary hearing on a motion to suppress is required only
+                                                                  if contested issues of fact going to the validity of the search
+  • “Evidence indicating how and when the email account
+                                                                  are in issue. See      United States v. Howell, 231 F.3d 615,
+     was accessed or used, to determine the geographic and
+                                                                  620–21 (9th Cir. 2000); United States v. Babichenko, Case No.
+     chronological context of account access, use, and events
+                                                                  1:18-CR-00258-BLW, 2020 WL 4043143, at *1 (D. Idaho
+     relating to the crime under investigation and to the email
+                                                                  July 16, 2020). Here, the defendant challenges the validity of
+     account owner;”
+                                                                  two search warrants on grounds that they are overbroad and
+  • “Evidence indicating the email account owner's state of       lacking particularity. The Court need not resolve any disputed
+     mind as it relates to the crime under investigation;”        issue of fact to rule on the defendant's motion. Accordingly,
+                                                                  an evidentiary hearing was not warranted.
+  • “The identity of the person(s) who created or used the user
+     ID, including records that help reveal the whereabouts
+     of such person(s);” and
+
+
+
+                © 2024 Thomson Reuters. No claim to original U.S. Government Works.                                              3
+United States v. Pilling, 721 F.Supp.3d 1113 (2024)
+
+
+                                                                      “whether the warrant set forth objective standards by which
+                                                                      executing officers could differentiate items subject to seizure
+                *1121 LEGAL STANDARDS
+                                                                      from those which were not,” and (3) “whether the government
+The Fourth Amendment provides that “[t]he right of the                could have described the items more particularly in light of
+people to be secure in their persons, houses, papers, and             the information available.”     United States v. Flores, 802
+effects, against unreasonable searches and seizures, shall not
+be violated, and no Warrants shall issue, but upon probable           F.3d 1028, 1044 (9th Cir. 2015) (quoting    United States v.
+cause, supported by Oath or affirmation, and particularly             Lei Shi, 525 F.3d 709, 731–32 (9th Cir. 2008)).
+describing the place to be searched, and the persons or things
+to be seized.” U.S. CONST. amend. IV.                                 Unique challenges arise when executing search warrants on
+                                                                      electronically stored information. That is because “[t]here is
+Probable cause is the bedrock of every search warrant. It             no way to be sure exactly what an electronic file contains
+“means a fair probability that contraband or evidence of a            without somehow examining its contents[.]”        Flores, 802
+crime will be found in a particular place, based on the totality
+                                                                      F.3d at 1044–45 (quoting    United States v. Comprehensive
+of circumstances.” United States v. Diaz, 491 F.3d 1074,
+                                                                      Drug Testing, Inc., 621 F.3d 1162, 1176–77 (9th Cir. 2010)
+1078 (9th Cir. 2007) (internal quotation marks omitted). In
+addition to having a basis in probable cause, a warrant must          (hereinafter   “CDT”)). Given those challenges, the federal
+be specific about the place to be searched and the things to          rules provide for a two-step process wherein “officers may
+seized. “Specificity has two aspects: particularity and breadth.      seize or copy the entire storage medium and review it later
+Particularity is the requirement that the warrant must clearly        to determine what electronically stored information falls
+state what is sought. Breadth deals with the requirement that         within the scope of the warrant.” FED. R. CRIM. P. 41(e)
+the scope of the warrant be limited by the probable cause on          (2)(B) advisory committee note to 2009 amendment. The
+which the warrant is based.”     United States v. Towne, 997          Ninth Circuit has embraced that two-step approached. See
+F.2d 537, 544 (9th Cir. 1993) (internal quotation omitted).              Flores, 802 F.3d at 1046; United States v. Pelayo, No.
+                                                                      21-30249, 2023 WL 4858147, at *2 n.2 (9th Cir. July 31,
+A search warrant is sufficiently particular if it “enable[s]
+the person conducting the search reasonably to identify the           2023);    United States v. Schesso, 730 F.3d 1040, 1046 (9th
+                                                                      Cir. 2013).
+things authorized to be seized.”    United States v. Mann,
+389 F.3d 869, 877 (9th Cir. 2004). This principle keeps the            *1122 At the same time, courts have also recognized
+government from “seiz[ing] the haystack to look for the               that the “nature of digital storage” creates “enormous”
+needle.”     United States v. Hill, 459 F.3d 966, 975 (9th            risks of authorizing “unbridled, exploratory search[es]” of
+Cir. 2006). And in doing so, it protects against the “specific        electronically stored data.    United States v. Galpin, 720
+evil [of] the ‘general warrant’ abhorred by the colonists,”           F.3d 436, 446–47 (2d Cir. 2013). Thus, while the Ninth
+and dissuades courts from authorizing “general, exploratory           Circuit has acknowledged that the “reality of over-seizing
+rummaging in a person's belongings[.]”     Coolidge v. New            is an inherent part of the electronic search process,” it has
+Hampshire, 403 U.S. 443, 467, 91 S.Ct. 2022, 29 L.Ed.2d 564           also emphasized the need for a “greater vigilance on the
+(1971).                                                               part of judicial officers” in balancing the needs of law
+                                                                      enforcement and the privacy rights of the people.        CDT,
+A search warrant is not overbroad if its scope is supported by
+                                                                      621 F.3d at 1177; see also       Schesso, 730 F.3d at 1042
+probable cause.      United States v. SDI Future Health, Inc.,        (“[L]aw enforcement and judicial officers must be especially
+568 F.3d 684, 703 (9th Cir. 2009) (“The search and seizure of         cognizant of privacy risks when drafting and executing search
+large quantities of material is justified if the material is within   warrants for electronic evidence.”).
+the scope of the probable cause underlying the warrant.”)
+(quoting     United States v. Hayes, 794 F.2d 1348, 1355 (9th
+Cir. 1986)). In determining whether a warrant is overbroad,
+                                                                                             DISCUSSION
+a court must consider (1) “whether probable cause existed to
+seize all items of a category described in the warrant,” (2)
+
+
+                © 2024 Thomson Reuters. No claim to original U.S. Government Works.                                               4
+United States v. Pilling, 721 F.Supp.3d 1113 (2024)
+
+
+The defendant's motion will be denied to the extent that it         shortly after the defendant's alleged email communications
+challenges the Google Warrant. That warrant is not overbroad        regarding his engagement with the EPA. Based upon Agent
+and sufficiently describes the place to be searched and the         Byrd's representations in the Google Affidavit, the Court
+things to be seized. However, the defendant's motion will be        concludes this nine-month window was reasonably rooted
+granted as to the Apple Warrant, which lacks the degree of          in the magistrate's probable cause finding. Next, the warrant
+particularity required by the Fourth Amendment.                     limits the government to seizing information and records
+                                                                    that “constitute[ ] fruits, contraband, *1123 evidence, and
+                                                                    instrumentalities” of violations of the Clean Air Act and 40
+1. The Google Warrant                                               C.F.R. § 61.145(a). And finally, the warrant lists eight specific
+                                                                    categories of evidence authorized to be seized.
+   A. The Google Warrant was not overbroad.
+The defendant first argues that the Google Warrant was
+                                                                    Applying the three factors outlined by the Ninth Circuit in
+overbroad. Based on the existence of a few emails, he
+explains, the government seized information “from every                Lei Shi, the Court concludes that the Google Warrant was
+corner of [his] electronic life,” including “volumes of other
+                                                                    not overbroad.      525 F.3d at 731–32. First, the scope of the
+types of information that might be tangentially attached
+                                                                    search warrant was supported by probable cause. Agent Byrd
+to a digital account[.]” Def.’s Memo. in Supp. at 8, Dkt.
+                                                                    identified emails passing to and from the Google Accounts in
+37-1. The government responds by noting that the Google
+                                                                    which the defendant collected bids for the destruction of the
+Warrant “imposed subject matter, categorical, and temporal
+                                                                    buildings and communicated with his business partner about
+limitations,” that were reasonable under the circumstances.
+                                                                    his dealings with the EPA. Two of those emails contained file
+Gov.’s Memo. in Opp. at 10, Dkt. 42. Moreover, the
+                                                                    attachments. Based on the defendant's alleged use of the email
+government explains, the “unique challenges” of searching
+                                                                    accounts to communicate about the building demolition and
+electronic records did not allow for the kind of specificity that
+                                                                    asbestos testing, the magistrate judge properly found probable
+the defendant suggests. Id. at 9.
+                                                                    cause to search the accounts for other emails related to the
+                                                                    buildings and the presence of asbestos. Moreover, on that
+In United States v. Pelayo, the Ninth Circuit rejected a
+                                                                    same basis, it was also reasonable to conclude that additional
+broadness challenge under similar circumstances. 2023 WL
+                                                                    relevant evidence would likely be found within the files
+4858147 at *2. 3 There, as here, a warrant authorized a             associated with the defendant's accounts. See Google Warrant
+search of the defendant's iCloud account. Id. at *1. Although       ¶¶ 42–46, Dkt. 38. The warrant's scope did not exceed its
+the warrant required Apple to produce “the entirety of [the         probable cause foundation.
+defendant's] iCloud account” under step one, “the search and
+seizure of evidence was limited to the outlined crimes” and         Second, as further explained below, the warrant established
+the warrant “specified twenty-one types of evidence that the        objective standards by which the executing officers could
+government could seize.” Id. at *1. Those limitations were          determine which items were subject to seizure. Attachment
+adequate to prevent the warrant from becoming a “general            B tied each category of material to the suspected crime
+warrant” that would “allow the executing officer to rummage         and delineated the kinds of evidence (e.g., “emails or email
+through Pelayo's iCloud account without discretion.” Id.            attachments”) authorized to be seized.
+
+3                                                                   Finally, the government could not have been more specific
+        The Ninth Circuit's unpublished decision in Pelayo
+        is not precedent. See 9th Cir. R. 36-3(a) (citation         in light of the information available. The defendant argues
+        of unpublished opinions). It is, nevertheless,              that the search should have been confined to email
+        instructive.                                                communications “between the parties identified by the
+                                                                    government in its supporting affidavit.” Def.’s Memo. in
+The Google Warrant is similar to the search warrant upheld
+                                                                    Supp. at 9, Dkt. 37-1. But such a limitation would have
+in Pelayo. At the outset, it lists broad categories of data
+                                                                    created a substantial risk of excluding relevant records; for
+to be disclosed by Google. It then narrows that list in
+                                                                    example, demolition bids provided by other contractors, and
+several respects. First, it imposes a temporal limitation,
+                                                                    communications between the defendant and other business
+only authorizing a search of information “from October
+                                                                    associates about the presence of asbestos at the demolition
+1, 2017, to June 30, 2018.” That date range spans from
+                                                                    site. The government limited the scope of the warrant to a
+the time the buildings were allegedly purchased until
+
+
+                © 2024 Thomson Reuters. No claim to original U.S. Government Works.                                               5
+United States v. Pilling, 721 F.Supp.3d 1113 (2024)
+
+
+reasonable degree in light of the information upon which the       searched. Manriquez, 46 F.4th at 1129; see also Pelayo,
+warrant was based.                                                 2023 WL 4858147 at *2 (rejecting argument that an “iCloud
+                                                                   account” was “too broad a place to be searched”).
+In sum, the Google Warrant was not overbroad. Its scope was
+supported by probable cause, described in sufficiently clear       Next, the defendant argues that the Google Warrant lacked
+terms, and not reasonably susceptible to a greater degree of       particularity because did not “specify how the items to
+specificity.                                                       be seized related to the designated crimes.” Def.’s Memo.
+                                                                   in Supp. at 12, Dkt. 37-1. As discussed above, the
+                                                                   Google Warrant did describe the items to be seized with
+    B. The Google Warrant was sufficiently particular.             reasonable specificity. First, it only authorized the seizure
+The Google Warrant was also sufficiently particular because        of items that constituted “fruits, contraband, evidence, and
+it reasonably identified the place to be searched and the things   instrumentalities of violations” of the Clean Air Act and/
+to be seized. See    Mann, 389 F.3d at 877.                        or 40 C.F.R. § 61.145(a). Second, it further limited what
+                                                                   could be seized by listing eight specific categories of
+To begin, the defendant argues that the Google Warrant did         information and records. See Pelayo, 2023 WL 4858147 at
+not “adequately describe the place to be searched.” Def.’s         *1 (rejecting particularity challenge because “the search and
+Memo. in Supp. at 12, Dkt. 37-1. The relevant test is “(1)         seizure of evidence was limited to the outlined crimes and
+whether the warrant describes the place to be searched with        specified twenty-one types of evidence that the government
+‘sufficient particularity to enable law enforcement officers       could seize”). Each category description specified how the
+to locate and identify the premises with reasonable effort,’       items to be seized related to the alleged crime. 4 For
+and (2) whether any reasonable probability exists that the         example, the warrant authorized the seizure of any “emails
+officers may mistakenly search another premise.” Manriquez         or email attachments related to the purchase or ownership
+v. Ensley, 46 F.4th 1124, 1129 (9th Cir. 2022) (quoting            of the property/buildings located at 1222 and 1226 Overland
+   United States v. Brobst, 558 F.3d 982, 992 (9th Cir. 2009)).    Avenue in Burley, Idaho, including but not limited to
+                                                                   contracts, deeds, tax records, and sales/purchase records.”
+The Google Warrant clearly identified the place to be              Google Warrant, Attach. B(II)(c), Dkt. 38 (emphasis added).
+searched:                                                          That description is “reasonably specific” and “clearly state[s]
+                                                                   what is sought.”    Towne, 997 F.2d at 544.
+
+             PROPERTY TO BE SEARCHED.                              4      The one exception is found in paragraph (h)
+             This      warrant      applies     to                        of Attachment B(II). That portion authorized the
+             information    from     October    1,                        seizure of information related to the “identity
+             2017,     to    June    30,     2018,                        of the person(s) who created or used the email
+             associated with btibbets@gmail.com,                          account and associated ID, including records that
+             brek66@gmail.com,                 and                        help reveal the whereabouts of such person(s).”
+             brek@kodiakamerica.us *1124 that                             Although that paragraph did not specifically
+             is stored at premises owned,                                 reference the alleged crime, it is nevertheless
+             maintained, controlled, or operated                          sufficiently clear as to the kind of data to be seized.
+             by Google LLC, a company
+             headquartered at 1600 Amphitheatre                    In sum, the Google Warrant was not overbroad and
+             Parkway, Mountain View, CA 94043.                     it contained sufficient particularity to satisfy the Fourth
+                                                                   Amendment. The defendant's request to suppress evidence
+                                                                   obtained pursuant to the Google Warrant will therefore be
+                                                                   denied.
+Google Warrant, Attach. A, Dkt. 38.
+
+That description enabled law enforcement officers to identify      2. The Apple Warrant
+the place to be searched with “reasonable effort” and created      The defendant next argues that the Apple Warrant was
+little or no risk that the wrong place would be mistakenly         overbroad, lacked particularity, and was executed improperly.
+
+
+
+                © 2024 Thomson Reuters. No claim to original U.S. Government Works.                                                 6
+United States v. Pilling, 721 F.Supp.3d 1113 (2024)
+
+
+The Court agrees that the warrant did not adequately             to only records that are evidence of the violation of a certain
+describe the things authorized to be seized. Moreover, the       statute is generally not enough.”).
+government's failure to purge the data within a reasonable
+time violated the defendant's Fourth Amendment rights.           The Ninth Circuit considered a challenge to the particularity
+Evidence obtained pursuant to the warrant will therefore be
+                                                                 of a search warrant in      United States v. Spilotro, 800
+suppressed. 5                                                    F.2d at 963. There, a search warrant was issued against
+                                                                 individuals suspected of engaging in unlawful loan sharking
+5      The Court grants the defendant's motion based             and gambling activities. Id. at 961. The warrant authorized
+       upon the warrant's lack of particularity and the          law enforcement to search the defendants’ stores and seize
+       government's delay in purging the data obtained           “address books, notebooks, notes, documents, records, assets,
+       from Apple. Accordingly, this Order does not              photographs, and other items and paraphernalia evidencing
+       address the defendant's additional argument related
+       to overbroadness.                                         violations of the multiple criminal statutes listed.” Id. at
+                                                                 964. The warrant failed, however, to indicate the “precise
+   A. The Apple Warrant failed to particularly describe          identity, type, or contents of the records sought.” Id. The
+   the things authorized to be seized.                           court held that the warrant lacked sufficient particularity
+The Apple Warrant authorized a search of the defendant's         because it authorized the “wholesale seizure[ ] of entire
+entire iCloud account for “fruits, contraband, evidence,         categories of items” and “provide[d] no guidelines to
+and instrumentalities of violations” of five statutes. While     distinguish items used lawfully from those the government
+the supporting affidavit *1125 detailed the facts and
+                                                                 had probable cause to seize.”       Id. The only limitation
+circumstances underlying the magistrate's probable cause
+                                                                 was the warrant's reference to the laws that the defendants
+finding, it is unclear whether the affidavit accompanied or
+                                                                 were suspected of violating. But that reference alone
+was incorporated into the warrant itself. 6 Consequently, the    did not provide sufficient guidance to satisfy the Fourth
+warrant provided almost no guidance as to what things the        Amendment's standard of particularity.
+government was authorized to seize. In doing so, it violated
+the Fourth Amendment.                                            The government urged the court to read the warrant “in light
+                                                                 of the [supporting] affidavit,” which “exhibit[ed] the required
+6      After carefully reviewing the warrant and probable        degree of specificity.”   Id. at 967. The court refused. “We
+       cause affidavit, the warrant makes only a passing         are unable,” it explained, “to rely on the affidavit to cure
+       reference to the affidavit, and the Court has found       the generality of the warrants ... since it was not attached to
+       no indication that the affidavit accompanied the          and incorporated by reference in the warrants as required by
+       warrant at the time of execution.
+                                                                 this court's decision in   United States v. Hillyard, 677 F.2d
+At its core, the particularity requirement of the Fourth
+Amendment means that a warrant must be “specific enough          1336, 1340 (9th Cir. 1982).”     Id.
+to enable the person conducting the search reasonably to
+identify the things authorized to be seized.”  United States     In another case, the Ninth Circuit distinguished      Spilotro
+v. Spilotro, 800 F.2d 959, 963 (9th Cir. 1986). Naturally,       and rejected a defendant's particularity challenge. United
+the degree of specificity required “varies depending on the      States v. Adjani, 452 F.3d 1140 (9th Cir. 2006). There, a
+circumstances of the case and the type of items involved.”       warrant authorized a search of the defendant, his vehicle,
+   Id. Sometimes, it is simply impossible to use more than       and his residence, for evidence of extortion.  Id. at 1144.
+“generic descriptions” of the items likely to be found during    The warrant specified the kinds of things to be seized,
+a search.   Id. Still, the Ninth Circuit has marked a cautious   including “records, documents and materials which reflect
+path when dealing with warrants that use generic descriptions    communications with” particular individuals, and “any and
+and rely merely on references to the laws suspected of having    all evidence of travel, including hotel bills and receipts,
+                                                                 gasoline receipts, ... or any other documents related to
+been violated. See    United States v. Cardwell, 680 F.2d 75,
+78 (9th Cir. 1982) (“As we noted before, ‘limiting’ the search   travel from January 8, 2004 to present.”        Id. The court
+
+
+
+                © 2024 Thomson Reuters. No claim to original U.S. Government Works.                                          7
+United States v. Pilling, 721 F.Supp.3d 1113 (2024)
+
+
+distinguished the warrant *1126 from the one challenged in
+                                                                   § 7201”); see also      United States v. Crozier, 777 F.2d 1376,
+   Spilotro and found that it contained “adequate specificity      1381 (9th Cir. 1985).   8
+and sufficiently restricted the discretion of agents executing
+the warrant.”    Id. at 1148. Further, unlike in   Spilotro,       7      To be clear, Section I of Attachment B did list many
+the “extensive 24–page supporting affidavit describ[ing] the              categories of information, such as emails and text
+extortion scheme in detail” was attached to the warrant. Id.              message. But those were categories of data that
+at 1145. The warrant was sufficiently particular because it               Apple was required to disclose under step one of
+“provided a specific ... list of possible documents that fell             the two-step process. At step two, that data was to
+within this category and temporally restricted the breadth of             be searched for items falling within Section II of
+                                                                          Attachment B.
+the search.” Id. at 1148; see also United States v. Wong,
+334 F.3d 831, 838 (9th Cir. 2003) (rejecting particularity         8      “Other circuits agree that a warrant's ‘reference to
+challenge “[b]ecause the police were on notice that they could            a broad federal statute is not a sufficient limitation
+only search the computer for the items listed in the warrant,             on a search warrant.’ ” United States v. Mokbel, No.
+all of which were detailed and specific[.]”). “Moreover, the              H-21-103-1, 2021 WL 4554660, at *4 (S.D. Tex.
+extensive statement of probable cause in the affidavit detailed           Oct. 5, 2021) (collecting cases)
+the alleged crime and Adjani's unlawful scheme.”          Id. at   Second, the supporting affidavit apparently did not
+1149.                                                              accompany the Apple Warrant at the time of execution.
+                                                                   Consequently, as in   Spilotro, the significant detail set out
+The Apple Warrant resembles the warrant invalidated in
+                                                                   by Agent Byrd cannot “cure the generality of the warrant[ ].”
+   Spilotro in two important respects. First, the Apple
+                                                                      Spilotro, 800 F.2d at 967; see also       SDI, 568 F.3d at
+Warrant itself did not provide any real guidance for the
+                                                                   699 (“We consider an affidavit to be part of a warrant, and
+executing officer to determine what kinds of information and
+                                                                   therefore potentially curative of any defects, only if (1) the
+records may be seized. Instead, it broadly authorized a search
+                                                                   warrant expressly incorporated the affidavit by reference and
+of the defendant's entire iCloud account for information
+                                                                   (2) the affidavit either is attached physically to the warrant
+or records that “constitute[ ] fruits, contraband, evidence,
+                                                                   or at least accompanies the warrant while agents execute the
+and instrumentalities of violations” of five statutes. Apple
+                                                                   search.”) (internal citations and quotations omitted). Viewed
+Warrant, Attach. B, Dkt. 38-1. Unlike the warrant upheld
+                                                                   on its own, without the context provided in the affidavit, the
+in    Adjani, the Apple Warrant did not state the identity         Apple Warrant simply cannot satisfy the Fourth Amendment's
+and “nature of the items to be seized.”    Adjani, 452 F.3d        particularity requirement. See     *1127 Groh v. Ramirez,
+at 1148. Nor did it describe, in any detail, “the items one        540 U.S. 551, 557, 124 S.Ct. 1284, 157 L.Ed.2d 1068
+commonly expects to find on premises used for the criminal         (2004) (“The fact that the application adequately described
+                                                                   the ‘things to be seized’ does not save the warrant from
+activities in question.”   Id. at 1149. 7 There is ample case
+                                                                   its facial invalidity. The Fourth Amendment by its terms
+law in this circuit demonstrating that a search warrant's
+                                                                   requires particularity in the warrant, not in the supporting
+bare reference to ‘evidence of a violation of’ a certain
+                                                                   documents.”).
+statute is generally insufficient to satisfy the particularity
+requirement. See    United States v. Clark, 31 F.3d 831, 836       The government claims it could not have provided more
+(9th Cir. 1994) (“[T]he catchall phrase authorizing seizure        detailed descriptions of the items to be seized, given the
+of ‘fruits and instrumentalities of [a] violation of’ 21           unique challenges of searching electronically stored data.
+U.S.C. § 841(a)(1) did not adequately describe the items           The Court disagrees. The warrant could have been more
+                                                                   specific in several ways. First and foremost, the government
+to be seized.”);      Cardwell, 680 F.2d at 77–78 (finding         could have incorporated the supporting affidavit and ensured
+insufficiently particular a warrant authorizing a search for       that it accompanied the warrant at the time of execution.
+“fruits and instrumentalities, of violations of Title 26, U.S.C.   Doing so would have substantially increased the degree
+                                                                   of guidance for the warrant's execution. The warrant also
+                                                                   could have described the kinds of things authorized to be
+
+
+                © 2024 Thomson Reuters. No claim to original U.S. Government Works.                                                8
+United States v. Pilling, 721 F.Supp.3d 1113 (2024)
+
+
+seized, such as emails and text messages related to the              set forth in the affidavit. Without that information, however,
+                                                                     the executing officer was left with no way of determining
+buildings or the EPA.      Spilotro, 800 F.2d at 964 (“[T]he
+                                                                     what constituted evidence of, say, “conspiracy to defraud the
+government could have narrowed most of the descriptions
+                                                                     United States,” or “obstruction of agency proceedings.”
+in the warrants either by describing in greater detail the
+items one commonly expects to find on premises used for
+                                                                     10
+the criminal activities in question[.]”). Instead, the warrant               It is at least arguable that the language in the Apple
+simply punted to the executing officer, allowing that person to              Warrant was sufficient to establish incorporation
+scour the defendant's entire iCloud account for “information                 by reference. See     United States v. Vesikuru, 314
+pertaining” to the suspected criminal activity.                              F.3d 1116, 1120 (9th Cir. 2002). But, even so, there
+                                                                             is no indication that the affidavit accompanied the
+The warrant's reference to five criminal statutes did not                    warrant at the time of execution.
+add a sufficient dose of particularity to save the warrant. It
+is true that references to suspected crimes are relevant to           *1128 In sum, the Apple Warrant authorized a search of vast
+—and sometimes sufficient to establish—particularity. See            swaths of data but failed to particularly identify the things to
+                                                                     be seized. That gave the executing officer near total discretion
+   id. (“Reference to a specific illegal activity can, in            to rummage through the defendant's iCloud account and seize
+appropriate cases, provide substantive guidance for the              anything that appeared to be “fruits, contraband, evidence,
+officer's exercise of discretion in executing the warrant.”).        and instrumentalities” of the suspected crimes. The Fourth
+But the Apple Warrant merely listed five broad statutes. 9           Amendment demands more.
+Beyond including parenthetical labels, the warrant provided
+no further guidance. Moreover, those criminal statutes were
+not specific enough to impose adequate “inherent guidelines,”          B. The good faith exception does not apply.
+as is true when the suspected crime is highly specific. See,         In     United States v. Leon, the United States Supreme
+e.g.,    United States v. LeBron, 729 F.2d 533, 538–39 (8th          Court held that “evidence obtained pursuant to a facially-
+Cir. 1984) (noting that a reference to “specific illegal activity”   valid search warrant later found to be invalid is admissible if
+like narcotic sales would provide a “particularized description      the executing officers acted in good faith and in objectively
+
+and inherent guidelines”);       United States v. Hay, 231           reasonable reliance on the warrant.”        Spilotro, 800 F.2d
+F.3d 630, 636–38 (9th Cir. 2000) (rejecting particularity            at 968 (citing    United States v. Leon, 468 U.S. 897, 922,
+challenge because limitation of the search to evidence of            104 S.Ct. 3405, 82 L.Ed.2d 677 (1984)). However, the Court
+child pornography was “sufficiently specific”). Instead, the         noted that there may be instances where a warrant is “so
+listed statutes were of “exceptional scope” and provided little      facially deficient—i.e., in failing to particularize the place to
+guidance of their own.      Spilotro, 800 F.2d at 965.               be searched or the things to be seized—that the executing
+                                                                     officers cannot reasonably presume it to be valid.”       Leon,
+9
+        The warranted listed the following statutes: “ 42            468 U.S. at 923, 104 S.Ct. 3405; see also       United States
+        U.S.C. § 7413(c) (Clean Air Act), 18 U.S.C. § 371            v. Crews, 502 F.3d 1130, 1136 (9th Cir. 2007) (“[R]eliance is
+                                                                     per se unreasonable ... where the warrant is facially deficient
+        (conspiracy to defraud the United States),     18
+                                                                     in detail as to the place to be searched or the things to be
+        U.S.C. § 1001 (false statements), 18 U.S.C. §
+                                                                     found that the officers could not reasonably presume it to be
+        1505 (obstruction of agency proceedings), and 18
+                                                                     valid[.]”).
+        U.S.C. § 1512 (witness tampering and destruction/
+        alteration of evidence).” Apple Warrant, Attach.
+                                                                     The Ninth Circuit has applied the good faith exception where
+        B(II).
+                                                                     the government showed that an unattached, unincorporated
+The outcome may have been different if Agent Byrd's                  probable cause affidavit actually limited the search. In
+affidavit had been incorporated into and accompanied the
+                                                                        United States v. Luk, the court affirmed a district court's
+Apple Warrant. 10 That is, the warrant's instruction to search       application of the good faith exception to deny a suppression
+for evidence of violations of the five statutes would probably
+be sufficiently particular if combined with the information          motion.     859 F.2d 667, 678 (9th Cir. 1988). The search
+
+
+
+                © 2024 Thomson Reuters. No claim to original U.S. Government Works.                                                   9
+United States v. Pilling, 721 F.Supp.3d 1113 (2024)
+
+
+warrant there was “constitutionally defective for lack of
+                                                                    Cir. 2005); see also       United States v. Barnes, 749 F.
+particularity” because the “affidavit was not expressly
+                                                                    Supp. 2d 1124, 1134–35 (D. Idaho 2010). Courts must also
+incorporated into the warrant by reference.”     Id. at 676. As     consider “the relative size of the valid and invalid portions
+the court explained, however, that did “not preclude the use of     of the warrant”—severance is not appropriate where only
+the executing officers’ reliance upon the affidavit as evidence     a “relatively insignificant” portion of the warrant is valid.
+of their reasonable reliance on the validity of the warrant or
+                                                                       Sears, 411 F.3d at 1131.
+their good faith.”    Id. at 676–77. Indeed, the district court
+had found that “the agents specifically relied on the affidavit”    Here, the nine text messages sought to be introduced appear
+and “acted in good faith by limiting their search to items ...      to have been obtained under the language of the warrant
+                                                                    authorizing the seizure of “fruits, contraband, evidence, and
+described in the affidavit.”    Id. at 677.
+                                                                    instrumentalities” of violations of the suspected crimes. Apple
+                                                                    Warrant, Attach. B(II), Dkt. 38-1. That is the same language
+To invoke the good faith exception in this context, the
+                                                                    the Court finds lacking in particularity. Moreover, even if the
+government must show that the individuals who executed the
+                                                                    text-message portion of the warrant could be severed, that
+warrant “actually relied on the affidavit.”     SDI, 568 F.3d at    portion would be relatively insignificant compared with the
+706; see     United States v. Kow, 58 F.3d 423, 429 (9th Cir.       vast scope of the warrant. In sum, severance does not apply
+1995) (refusing to apply good faith exception absent evidence       here, and the evidence obtained pursuant to the Apple Warrant
+that the executing officers “actually relied on the information     must be suppressed.
+in the affidavit to limit the warrant's overbreadth”). Here, the
+government merely referenced the good faith exception in
+                                                                       D. Suppression is also justified because the
+a footnote. Although the Court will not deem the argument
+                                                                       government did not filter unresponsive data before
+waived, the government certainly has not carried its burden
+                                                                       reviewing the defendant's entire iCloud account.
+of showing that the exception applies in this case.
+                                                                    There is another, independent basis for suppressing the
+                                                                    evidence obtained pursuant to the Apple Warrant. Namely,
+   C. The doctrine of severance does not apply.                     members of the prosecution team performed a months-
+The Ninth Circuit has “embraced the doctrine of severance,”         long review of the defendant's entire iCloud account before
+which allows a court “to strike from a warrant those portions       excluding the information and records not authorized to be
+that are invalid and preserve those portions that satisfy the       seized. The government insists that its failure to conduct
+Fourth Amendment. Only those articles seized pursuant to the        this second step of the process outlined in the warrant was
+                                                                    “inadvertent.” See Dkt. 55-1. That may be. But, under the
+invalid portions need be suppressed.”         Flores, 802 F.3d at   circumstances, the Court need not—and does not—make a
+1045 (quoting United States v. Gomez–Soto, 723 F.2d 649,            factual finding to that effect. Even if the government did
+654 (9th Cir. 1984)).                                               not intentionally violate the terms of the warrant, its detailed
+                                                                    review of the defendant's entire iCloud account over the
+In an exhibit attached to its Surreply, the government              course of nearly nine months plainly violated the defendant's
+identified the nine items of evidence obtained pursuant to          Fourth Amendment rights.
+the Apple Warrant that it intends to offer at trial. Dkt. 55-2.
+To the extent the Court invalidates the Apple Warrant, the          To be sure, Fourth Amendment violations do not always
+government *1129 asks that the invalid portions of the              require application of the exclusionary rule. See     Hudson
+warrant be severed from the valid portions and that the nine        v. Michigan, 547 U.S. 586, 591, 126 S.Ct. 2159, 165 L.Ed.2d
+text messages be admitted under the doctrine of severance.          56 (2006). The judicially created exclusionary rule is “a
+                                                                    deterrent sanction that bars the prosecution from introducing
+But the doctrine of severance cannot be applied to the              evidence obtained by way of a Fourth Amendment violation.”
+Apple Warrant under the circumstances. Severance is only
+appropriate as to “identifiable portions of [a] warrant” where         Davis v. United States, 564 U.S. 229, 236, 131 S.Ct. 2419,
+it is “feasible to excise” the problematic portions from the        180 L.Ed.2d 285 (2011). It is not, however, “ ‘a personal
+                                                                    constitutional right,’ nor is it designed to ‘redress the injury’
+valid ones.      U.S. v. Sears, 411 F.3d 1124, 1130 (9th
+
+
+
+                © 2024 Thomson Reuters. No claim to original U.S. Government Works.                                             10
+United States v. Pilling, 721 F.Supp.3d 1113 (2024)
+
+
+                                                                       In sum, even if the warrant had not lacked particularity, the
+occasioned by an unconstitutional search.”         Id. (quoting        Court would likely suppress government's evidence on this
+   Stone v. Powell, 428 U.S. 465, 486, 96 S.Ct. 3037, 49               independent ground.
+L.Ed.2d 1067 (1976)).
+
+The government correctly notes that there is no “established                                      ORDER
+upper limit as to when the government must review the
+seized electronic data[.]” Gov.’s Surreply at 4, Dkt. 55-1.            IT IS ORDERED that Defendant Brek Pilling's Motion to
+But here, we are not dealing with a mere passage of                    Suppress (Dkt. 37) is GRANTED, in part, and DENIED, in
+time. The government engaged in a months-long review                   part, as follows:
+of the defendant's entire iCloud account before removing
+unresponsive data. During that process, at least one member            1. The motion is GRANTED as to evidence obtained
+of the prosecution team reviewed all 1,248 files that Apple            pursuant to the Apple Warrant; and
+had produced under step-one of the warrant, despite the fact
+that only 156 of those materials fell within the scope of the          2. The motion is DENIED as to evidence obtained pursuant
+seizure authorized by the *1130 warrant. If the government             to the Google Warrant.
+is to be given the latitude of the two-step process for seizing
+electronic data, it is absolutely essential that it performs the
+second step within a reasonable time, and in any case, before          All Citations
+it reviews the data.
+                                                                       721 F.Supp.3d 1113
+
+
+End of Document                                                    © 2024 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+
+                © 2024 Thomson Reuters. No claim to original U.S. Government Works.                                               11
+

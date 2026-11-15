@@ -1,0 +1,65 @@
+07/08/25                     Moscow Police Department                         1272
+11:38                     Law Supplemental Narrative:                Page:       1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number    196                Date   15:51:37 05/11/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Kohberger AT&T Data
+
+Case # 22-M09903
+Date: 5/3/2023
+
+I was assigned the task of examining the Call Detail Records (CDRs) that were
+obtained from AT&T pursuant to a warrant served by Cpl Brett Payne for the time
+frame of November 12, 2022 at 0000 hours through November 14, 2022 at 0000 hours
+PST. These records were requested for the account associated with the phone
+number              , known the "8458 phone." This phone showed the subscriber
+as Brian Kohberger.
+I was specifically requested to examine the records showing connectivity to cell
+towers between the hours of 0200 and 0600 PST (1000 and 1400 UTC), as this was
+the timeframe surrounding the homicides at 1122 King Road. Although the records
+contained records for voice, data, and SMS usage in the 48-hour data set, I only
+located 27 data usage records in the specified timeframe.
+To assist in mapping the location of the cellular towers and the direction of
+their sector antennas I imported the data into CASTViz version # 30.0.0.
+The 8458 phone connects with several different cell towers in Pullman,
+Washington between 0200 hours and 0225 hours. The phone appears to be traveling
+within or near the city of Pullman, Washington.
+At 0242 hours the phone connects to a tower near North East Skyview Drive on the
+Washington State University Campus.
+At 0247 hours, the phone connected to a tower on Observation Drive on the
+Washington State University Campus.
+In continuing to examine the data, I found an approximately 2-hour period with
+no interactions between the 8458 phone and the AT&T network between 0247 and
+0448 hours.
+
+The phone connects to a tower located near Paradise Ridge, south of Moscow,
+Idaho at 0448 hours.
+The phone connects with towers south of Moscow, Idaho, which is consistent with
+travel back to Pullman, Washington utilizing towers along the route.
+From my training an experience, I know cellular devices can send and receive
+data to cellular towers with the user's input (such as surfing the internet) or
+without the user's input (system data). The normal reasons for a cellular device
+to not show connections to a cellular tower are the device is not in range of
+the tower's signal, the device is physically blocked from receiving/sending
+(such as a faraday bag), the device is in airplane mode, or the device is
+powered off.
+
+I contacted AT&T Global Legal Demands Center and confirmed devices on the AT&T
+network connect at least every 60 minutes, if no user connectivity is initiated.
+
+I verified the location of the several towers shown in CASTViz and confirmed
+their locations with the data in the Call Detail Records.
+
+Det. Lawrence Mowery - 162
+Thu May 11 15:51:42 PDT 2023
+
+REVIEWED-Fri May 12 08:18:15 PDT 2023
+CPL Payne #157
+

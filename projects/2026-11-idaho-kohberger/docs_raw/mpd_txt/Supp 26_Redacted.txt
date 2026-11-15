@@ -1,0 +1,46 @@
+07/08/25                     Moscow Police Department                        1272
+10:08                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number     26                Date   10:06:25 11/19/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Uber Location Request
+
+Case # 22-M09903
+Date: 11/18/2022
+
+On November 18, 2022, I logged into the Uber Law Enforcement Portal
+(lert.uber.com) and submitted an exigent preservation request for any location
+data associated with the Uber driver named E    G     with the phone number of
+             . Due to the nature of the investigation, Uber recommended an
+exigency request for the preservation.
+
+In a screen shot received from A      G        , it showed messages which appear
+to be from G       phone between Kaylee Goncalves and himself. The name of the
+recipient is "Kaylee Uber."
+It is unknown if G     was "on duty" with Uber at the time of him picking up
+Goncalves and Maddie Mogen. Uber stated if the driver was "on duty" it would
+show the location of the vehicle. If the driver was not "on duty," Uber would
+not have the data. I was informed by Uber Customer Service this is common if the
+driver provides personal transportation services.
+At 1434 hours, I received an email from Uber stating they received my request.
+
+I received an email at approximately 1617 hours from Uber, which contained files
+regarding the Uber logs of E    G    . The records showed his location up until
+approximately 0115 hours, where it appears no other information is found and
+G     goes "off duty." These records were attached to the case file. No warrant
+was requested or returned as Uber provided the data via the exigent request.
+
+Det. Lawrence Mowery - 162
+Sat Nov 19 10:07:50 PST 2022
+
+Reviewed:
+Sgt. J. W. Lawrence
+Sun Nov 20 06:05:44 PST 2022
+

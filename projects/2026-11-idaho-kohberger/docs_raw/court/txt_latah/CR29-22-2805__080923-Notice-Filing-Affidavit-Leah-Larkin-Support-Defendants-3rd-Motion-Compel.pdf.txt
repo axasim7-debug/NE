@@ -1,0 +1,729 @@
+                                                                             Electronically Filed
+                                                                             8/9/2023 10:24 AM
+                                                                             Second Judicial District, Latah County
+                                                                             Julie Fry, Clerk of the Court
+Anne C. Taylor, Public Defender                                              By: Tamzen Reeves, Deputy Clerk
+
+Kootenai County Public Defender
+PO Box 9000
+Coeur d’Alene, Idaho 83816
+Phone: (208) 446-1700; Fax: (208) 446-1701
+Bar Number: 5836
+iCourt Email: pdfax@kcgov.us
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: 208-642-3797; Fax: 208-642-3799
+
+Assigned Attorney:
+Anne C. Taylor, Public Defender, Bar Number: 5836
+Jay W. Logsdon, Chief Deputy Public Defender, Bar Number: 8759
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+     IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+            STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+
+STATE OF IDAHO                                    CASE NUMBER CR29-22-2805
+
+                     Plaintiff,
+                                                  NOTICE OF FILING AFFIDAVIT OF
+V.                                                LEAH LARKIN IN SUPPORT OF
+                                                  DEFENDANT’S THIRD MOTION TO
+BRYAN C. KOHBERGER,                               COMPEL
+
+                     Defendant.
+
+
+       COMES NOW, Bryan C. Kohberger, by and through his attorney of record, Anne C.
+Taylor, Public Defender, and hereby files the attached Affidavit of Leah Larkin in support of the
+Defendant’s Third Motion to Compel.
+
+       DATED this ___9____ day of August, 2023.
+
+                                            ANNE C. TAYLOR, PUBLIC DEFENDER
+                                            KOOTENAI COUNTY PUBLIC DEFENDER
+
+
+                                            BY:     _________________________________
+                                                    ANNE TAYLOR
+                                                    PUBLIC DEFENDER
+                                                    ASSIGNED ATTORNEY
+NOTICE OF FILING AFFIDAVIT OF LEAH LARKIN IN
+SUPPORT OF DEFENDANT’S THIRD MOTION TO COMPEL                                                Page 1
+                               CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___9____ day of August, 2023 addressed to:
+
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+
+
+
+
+NOTICE OF FILING AFFIDAVIT OF LEAH LARKIN IN
+SUPPORT OF DEFENDANT’S THIRD MOTION TO COMPEL                                               Page 2
+Anne C. Taylor, Public Defender
+Kootenai County Public Defender
+PO Box 9000
+Coeur d’Alene, Idaho 83816
+Phone: (208) 446-1700; Fax: (208) 446-1701
+Bar Number: 5836
+iCourt Email: mfax@kcgov.us
+
+Elisa G. Massoth, PLLC
+Atlomey at Law
+P.O. Box 1003
+Fayette, Idaho 83661
+Phone: 208-642-3797; Fax: 208-642-3799
+
+
+Assigned Attorney:
+Anne C. Taylor, Public Defender, Bar Number: 5836
+Jay W. Logsdon, Chief Deputy Public Defender, Bar Number: 8759
+Elisa G. Massoth, Bar Number: 5647
+
+       IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+ STATE 0F mAHo                                   i
+                                                     CASE NUMBER elm-224805
+                                                 I
+
+
+
+
+                        Painting                 l
+
+
+
+
+                                                     AFFIDAVIT 0F LEAH LARKIN
+ v.
+                                                 l
+
+
+
+
+ BRYAN c. KOHBERGER,
+
+                        Defendant.
+                                                 i
+
+
+
+
+STATE 0F (Minna
+
+County of   AM)
+             I
+                       : ss.
+
+
+
+
+l. I am an adult, over the age of l8, and I have personal knowledge of the facts set forth in this
+      Aﬂidavit;
+2. I have been engaged as an expert in the above-entitled matter since
+                                                                         July 27, 2023.
+3. I am a genetic genealogist, having practiced
+                                                genetic genealogy since 2014. My educational
+      background is a bachelor’s degee in Biology and a PhD in Botany. My curriculum vitae is
+
+
+AFFIDAVIT OF LEAH LARKIN                                                                           l
+                                                                                          Page -
+     attached. As a genetic genealogist, I have a clear
+                                                        understanding of how genetic genealogy
+     works. I have developed tools that are in widespread use by
+                                                                 genealogy practitioners.
+
+4. Genetic genealogy is best described as the use of DNA data to evaluate
+                                                                          biological relationships.
+   There are three categories of genealogical DNA test: Y-chromosome DNA (direct
+                                                                                           paternal
+   line only), mitochondrial DNA (direct maternal line only), and autosomal DNA (all branches
+   of a pedigree). A genetic genealogist integrates information from these DNA tests with
+     genealogical documentation to reveal or corroborate relationships.
+
+
+
+5. Genetic genealogy primarily uses autosomal DNA tests that were
+                                                                          originally designed for
+     biomedical research. Since 23andMe brought their health tests to the consumer market in late
+     2007, FamilyTreeDNA, AncestryDNA, MyHeritage, and a handful of smaller companies have
+     launched their own genetic genealogy products. These companies all provide
+                                                                                  genealogy tools
+     to their customers on their websites and also produce a “raw DNA data ﬁle” that the customer
+     can download. The raw data ﬁle contains the genetic proﬁle for that customer. This
+                                                                                           genetic
+     profile is not the same as an STR proﬁle that is commonly uploaded to CODIS in a forensic
+     DNA analysis.
+
+6. Most of the human genome is identical across all people. Only the DNA
+                                                                                   positions that vary
+   between individuals are useful for genealogy. These variable positions are called
+                                                                                               “single
+   nucleotide polymorphisms” (SNP, pronounced “snip”). The direct-to-consumer
+                                                                                           genealogy
+   companies use a type of test called a microarray that samples roughly 600,000 of these DNA
+   SNPs. Unlike the STR markers used for matching in CODIS, SNPs can convey information
+   about medical and physical traits as well as biological
+                                                           relationships to close and distant cousins.
+
+
+
+7.   A microarray SNP proﬁle is sometimes called a “kit.” Once the lab test is complete, the
+     genealogy company compares the new kit to those already in its database looking for long
+     stretches of SNPs that are compatible. The company then presents these matches in a list,
+     sorted by the amount of shared DNA measured in
+                                                    “centimorgans” (abbreviated cM).‘
+
+8.   A standard DNA microarray requires approximately 200 ng of quality DNA? That quality
+     and quantity is often not available from crime scenes or degraded human remains.
+                                                                                        Instead,
+     specialized laboratories can  generate a SNP profile through a more complex process. First,
+     they attempt   to sequence   the entire genome using “next-generation sequencing” (NGS)
+     technology. This technology works a bit like skimming while reading a document. On the
+     ﬁrst pass, NGS technology will not capture all of the data, and it
+                                                                        may make mistakes. NGS
+
+
+
+
+1
+  The default sorting at 23andMe is not by ccntimorgans but by
+2
+                                                                 “Strength of Relationship."
+ Illumina, Inﬁnium Global Screening Array (hltps;y’l’wtyw.illmilitia.cum/prutltigsilty—lypc/micruurrzu-kitsfinl Imum:
+global-scrccninglitml : accessed 7 August 2023)
+
+AFFIDAVIT 0F LEAH LARKIN                                                                                     Page - 2
+    involves repeated passes (called “coverage”) to get more accurate results. For human genome
+    sequences, 30x to 50x coverage is recommended?
+
+
+
+    Once the NGS ﬁle is obtained, it must be manipulated through bioinformatics to make it
+    compatible with the genealogy databases. The extra data must be stripped out to just the SNPs
+    that the genealogy companies test, and missing or ambiguous data must be inferred using
+    statistical methods. The kit is then uploaded to a genealogy database and evaluated. A poor
+    quality kit might have too few matches or it might have phantom matches that are not real
+    measures of relationship. Often, the bioinformatics step must be repeated. This trial-and-error
+    process can take several tries to produce a kit that works well in a genealogy database.
+
+10. Only GEDmatch, FamilyTreeDNA, and some smaller entities allow crime scene and human
+    remains samples to be uploaded. The Terms of Service at AncestryDNA, 23andMe, and
+    MyHeritage prohibit forensic/investigative genetic genealogy in their databases.4'5~5 However,
+    in the absence of effective oversight, forensic genetic genealogists are on an “honor system”
+    to obey the Terms of Service and the Department of Justice Interim Policy on forensic genetic
+    genealogy.
+
+11. Each of the genealogy databases compares the user’s DNA data to all of the other data files in
+    their database then presents a list of “DNA matches” who share meaningful amounts of DNA.
+    The match list includes the match’s name or alias, how much DNA they share in centimorgans,
+    and occasionally a link to a family tree that the match has voluntarily provided.
+
+
+
+12 . The genetic genealogy databases are siloed from one another. If you test at
+                                                                                                 AncestryDNA and
+    your sibling tests at 23andMe, you will not be matched to one another because you are not in
+    the same database. GEDmatch is a third-party site that functions as a
+                                                                              genetic genealogy
+    commons; a user can upload their raw DNA data ﬁle from their testing company and ﬁnd
+    matches to people who uploaded to GEDmatch from different companies. Like GEDmatch,
+    FamilyTreeDNA and MyHeritage also allow uploads of raw data ﬁles; AncestryDNA and
+    23andMe do not.
+
+
+
+
+3
+  Illumina, Coverage depth recommendations. (hllpsu'iwu u .illun1iimtorn/wicnccr’lccluiology/nul agent-ration—
+scqucncing/plun—cxpurimcntsy’cuvcrugchlml : accessed 7 Augusl 2023)
+4
+  AncestryDNA's Terms state, “You also agrec'         Not to use the information obtained from the DNA Services
+(including any downloaded DNA Data (deﬁned in the Privacy Statement» in whole. in part, and/or in combination
+with any other database, for any medical, diagnostic. or paternity
+                                                                   testing purpose, in any judicial proceeding, or for
+any discriminatory purpose or illegal activity."
+5
+  23andMe’s Terms state: “You will not use the Services for any investigative forensic
+°                                                                                        gtntdlogy uses.“
+  MyHeritagc‘s Terms state: “using the DNA Services for law enforcement purposes. forensic examinations,
+criminal investigations, "cold case" investigations, identiﬁcation of unknown deceased people, location of relatives
+of deceased people using cadaver DNA. and/or all similar purposes, is strictly prohibited. unless a court order is
+obtained.”
+
+AFFIDAVIT 0F LEAH LARKIN                                                                                       Page - 3
+l3. Broadly speaking, the more DNA two people share, the
+    more closely they are related.          The correlation is not         "m                                                                  "‘
+
+
+
+    perfect, though.      Any given centimorgan amount can
+    represent more than one possible relationship. The                     ..                                                            .      ..
+    testing companies suggest probable relationships, but
+    experienced genetic genealogists typically use the online                       .-- n-               awry-n.
+                                                                                                                          ..       ...
+
+    “Shared cM Tool" (shown at right for a hypothetical                               45%             m               m
+    match of 200 cM) to see mathematical probabilities of                             “We
+                                                                                                  :3: 3‘" £35        “"’°'“          "“
+
+    different relationships for a given centimorgan amount.7                                 7%
+                                                                                             3%
+    Note that there are nearly 20 possible relationships listed                                                                mm
+                                                                                                  3513;33333mu
+    for a match of 200 cM, which is considered a fairly close                                     "3'71?
+                                                                                                              ~33;.' . 21.5..’
+                                                                                                      .:.-....':;.
+                                                                                                                               _         .
+
+    match.                                                                      .
+
+
+
+
+14. Adoptees have used genetic genealogy DNA tests to identify their biological families for
+    roughly 15 years now. The same methods used for people with unknown parentage can be
+    used to identify forensic samples from a crime scene or unidentiﬁed human remains. Unlike
+    standard forensic STR tests which are used to identify individuals, genetic genealogy testing
+    identiﬁes possible relatives.
+
+
+
+15. First, the genealogist attempts to build family trees for the DNA matches of the person of
+    interest, starting with the closest matches.     Relatively few users at GEDmatch and
+    FamilyTreeDNA post their pedigrees there, so the genealogist must build trees for them. We
+    attempt to identify the match using their screen name and email address. Then, we search
+    public records, social media, obituaries, news articles, and genealogy websites to build out
+    their tree through their parents, grandparents, and so on. Most genetic genealogists build these
+    so-called research trees at Ancestry .com.
+
+16. The goal of building trees is to ﬁgure out how two or more matches are related to one another.
+    For example, if the person of interest matches two people who share a great- grandparent couple
+    (making them 2"“ cousins to one another), the genealogist now knows which branch of their
+    tree is relevant to the search. The person of interest could be descended from that
+                                                                                        couple, or
+    the connection could be one or more generations further back through either the husband or
+    the wife in that couple.
+
+
+
+17. Once several of the DNA matches have been connected to one another, the
+                                                                                genealogist must
+    ﬁgure out how  the person  of  interest ﬁts into the tree of those matches. We use age, sex,
+    geographic location, and other  circumstantial evidence alongside the DNA-based relationship
+    predictions. A statistical tool called “What Are the Odds?” can analyze multiple DNA matches
+
+
+
+7
+  Jenny Perl. Blaine Bettinger. and Leah Larkin, 2020. The Shared cM Project 4.0 tool v4
+(https:lfdnapaintcr.coiii/lmls/shuredcmv4 : accessed 7 August 2023).
+
+AFFIDAVIT 0F LEAH LARKIN                                                                                                                     Page - 4
+        together to evaluate where the person of interest best ﬁts into the tree based on the amounts of
+        shared DNA.”
+
+
+18. “What Are the Odds?” is not intended to give a deﬁnitive answer, rather it points the
+        genealogist toward the most likely branches in the tree for further research. The tool is also
+        not appropriate for all circumstances. For example, it is not intended for populations that
+        married within themselves, for double cousins, or when most of the matches are below 40 cM.
+
+
+
+l9. The genealogist needs to do this for both the maternal and paternal sides of the person of
+        interest's pedigree. Often, this involves building dozens of trees and performing several “What
+        Are the Odds?” analyses. We are looking for instances where a descendant in one DNA family
+        tree married a descendant in another DNA family tree, because those unions point to where the
+        person of interest might ﬁt into the tree. Often, the best we can do with the existing DNA
+        matches is to focus on a set of cousins as candidates. Then, more DNA testing is required.
+
+
+    .   This process can vary in complexity depending on the individual starting point. In doing this
+        type of research, the genetic genealogist will generate numerous documents to ensure an
+        adequate paper trail. This paper trail can include: the list of DNA matches, the research tree
+        with genealogical documentation, public record searches for members of the DNA family,
+        correspondence with DNA matches, descendant diagrams showing how the DNA matches are
+        related to one another, and “What Are the Odds?” analyses. This documentation is necessary
+        and important for the following reasons: DNA matches sometimes hide their proﬁles, an error
+        in the tree can mislead the genealogist, and the descendant diagrams and What Are the Odds?
+        analyses are usually updated repeatedly during a search.
+
+
+
+21. As a Genetic Genealogist I have learned about the power and the privacy implications of
+        genetic genealogy. The tests themselves were designed to reveal biomedical information and
+        can also reveal “family secrets” about the tester. In many cases, private information can be
+        inferred about the DNA relatives of the tester as well. 9 For those reasons, leaders in the genetic
+        genealogy community developed standards that emphasize consent and privacy. ‘°
+
+22.1 am aware of the Department of Justice Interim Policy to limit when Forensic Genetic
+   Genealogy can be used and which databases are accessible to law enforcement." It is possible
+
+
+
+8
+  Jonny Perl, Leah Larkin, and Andrew Millard, 2018, What Are the Odds? (hups:l/dnapainter.com/toolg/pmbabilitv
+: accessed  4 August, 2023).
+9
+  Leah Larkin, 2017, Cystic fibrosis: A case study in genetic privacy, The DNA Geek Blog
+(mtpsgﬂhcglpaggcLight/gstic-fibrosis-:1 tum- .sludy in gcnclic privacy : accessed 2 August 2023)
+'0
+   Leah Larkin, 2017, Cystic ﬁbrosis: A case study in genetic privacy. The DNA Geek Blog
+(httpngxI-"thcdnugcck,mnt&ystic lihrmts :1 use w My m grncttt' pm .t, 1.5 accessed 2 August 2023)
+ ” United States Department of Justice. 2019, Interim
+                                                                     '.
+
+
+
+                                                       Policy: Forensic Genetic Genealogical DNA Analysis and
+Searching (htlpszl/www Justice-gm:"nlpl’pugc/ﬁle’ l 2043861tluwnloud : accessed 7 August 2023)
+
+AFFIDAVIT OF LEAH LARKIN                                                                               Page - 5
+   for the databases to be utilized in a way that circumvents these core
+                                                                         principles. Notably, I am
+   aware of:
+
+   a.   A case in which the chain of custody failed and the wrong SNP proﬁle was sent to the
+        wrong client.
+   b. Investigative genetic genealogists uploading SNP
+                                                           proﬁles to a forbidden database in
+      violation of that company’s Terms of Service and the Department of Justice Interim
+                                                                                           Policy.
+   c. Forensic genetic genealogy being used for a case that did not meet the Department of
+      Justice threshold.
+   d. Investigative genetic genealogists using security loopholes to see DNA kits who are
+                                                                                          opted
+      out of forensic matching at GEDmatch and FamilyTreeDNA.
+   e.   A case in which a SNP proﬁle was performed on an innocent woman, a potential Fourth
+        Amendment violation of her right to privacy, and uploaded to GEDmatch without her
+        knowledge or consent.
+
+23. Having access to the data and methods used to identify someone will provide answers to:
+           a. compliance with Department of Justice Policies;
+           b. how a DNA sample was handled from the time of collection through its forensic
+               genetic genealogy testing;
+           c. the process of SNP creation;
+           d. the use of the SNP proﬁle;
+           e. the use (or lack thereof) of loopholes and violations of terms of service to the
+               various genetic genealogy databases.
+
+FURTHER YOUR AFFIANT SAYETH NAUGHT.
+
+DATED this     g        day of August, 2023.
+
+
+
+
+                                                      LEALARKIN
+                                                                                             see
+SUBSCRIBED AND SWORN to before me this                                                        (Pr
+                                                           day of Augus      23.
+                                                                                            xii—lac“?
+
+                                                      N   Public in and for the State of
+                                                      ommission Expires:
+
+
+
+
+AFFIDAVIT 0F LEAH LARKIN                                                                   Page - 6
+                                                             AFFIANT STATEMENT                    GOVERNMENT CODE § 8202
+CALIFORNIAJURAT WITI'I
+E/See Attached Document (Notary to cross out lines 1—6 below)
+I] See Statement Below (Lines 1-6 to be completed only by document signerts]. not Notary)
+
+
+2,. -                                                                                                                               -
+3   __    _
+
+4,               -                                                                                                           .-
+
+
+
+
+5_ _
+
+
+6
+               Signature of Document Signer No. 1                                  Signature of Document Signer No. 2 ﬁf any)
+
+
+         A notary public or other officer completing this certiﬁcate veriﬁes only the identity of the individual who signed the
+         document to which this certiﬁcate is attached, and not the truthfulness, accuracy. or validity of that document.
+
+
+State of California                                                           Subscribed and sworn to (or affirmed) before me
+Go"my of                  (fl/«ME As
+                                                                              on this    5 5 day of Auquﬁ'              .   2023.
+                                                                                         Date            “Month                   Year
+                                                                              by
+                                                                              (1   Lark £4 perle Lair-KM
+                                                                                                   I
+
+
+                                                                              (and (2)                                               ).
+                                                                                                Name(s) of Signer(s)
+
+                                                                              proved to me on the basis of satisfactory evidence
+                          7                 JONATHAN
+                                                       mmm
+                                              Notary Public - Cali
+                                                                              to be the person(s) who appeared before me.
+                     ..       '?—'._‘T
+                                                  AI        Com
+                              2
+                                  .-
+                                       .i
+                                       ,.
+                                                 mmrumn
+                                            ”Comm. Eminent-123.2026
+
+                                                                              Signature—QWW
+                                                                                      ignature of Notary Public
+
+
+                                        Seal _
+
+
+
+                               Place Notary Seal Above
+                                                                         OPﬂONAL
+          Though this section is optional, completing this information can deter alteration of the document or
+                           fraudulent reattachment of this form to an unintended document.
+Description of Attached Document
+Title or Type of Document: 144'? (km/‘3‘ o"? C?41"                                 LC“ k5" Document Date: A ugl’td’g5‘“£523
+Number of                                        4.    Signer(s) Other Than Named Above:
+                 Pages:
+@2014 National Notary Association www. NationalNotary org 1-800-US NOTARY (1 -800-876-6827)                            Item #5910
+                    Leah LaPerle Larkin, PhD.
+                           Genetic Genealog Expert
+                    theDNAgeek@gmail.com   (925) 980-2460
+                                                ——
+
+
+
+
+                            www.theDNAgeek.com
+
+
+
+OVERVIEW                       ,      .   ,          _
+
+
+
+Professional genetic genealogist, educator, and innovator
+
+
+EDUCATION                  ’
+Ph.D. in Botany, 2002              University of Texasiat Austin          Austin, TX
+B.A. in Biology, 1991              Swarthmore College               Swarthmore, PA
+
+
+PROFESSIONAL EXPERIENCE                                                      "
+cents; cent-Lacy
+2016—      Founder and Lead Genealogist at The DNA Geek             Livermore, CA
+           Consulting services for unknown parentage searches, genealogy speaker
+           and educator
+2016—      Author of The DNA Geek Blog (253 posts as of 24July 2023)
+           Highlighting the science, methods, and ethics of genetic genealogy
+2023       Co-devcloper of BanyanDNA, an online tool for advanced genetic
+          genealogy analyses
+2018      Co-developer of the What Are the Odds? tggl (ﬂATO), a revolutionary
+          tool for statistical analyses of autosomal DNA matches
+2018      Genealogist for the TLC television show Taken at Birth
+2017      Genealogy consultant for the TLC television show I Should Have Known
+2016—2018 Editor, journal of Genetic Genealogy
+          Solicited manuscripts, coordinated peer reviews, edited papers for
+          publication
+
+Scientiﬁc Editing and Grant Writing
+2011—2015 Scientiﬁc Editor, Edanz Group
+                                                                         Hong Kong
+           Provided English—language scientiﬁc editing and publication-related
+           services to clients globally
+2011—2015 Scientiﬁc Editor, ISIS Group
+                                                                    Cambridge, MA
+           Revise and reﬁne grant proposals to US funding agencies for primarily
+           biomedical research scientists
+Teaching and Assessment
+2014      Freelance Pedagogy Writer (HS Biology), Pearson          White Plains, NY
+          Wrote instructional materials for 10-day professional development
+          workshop for teachers
+                                                                      Barrington, IL
+2013—2015 Freelance Content Specialist (K—12 Math),
+                                                     Symmetry
+          Wrote and edited standardized test items, workbooks, and digital
+          interactive learning materials
+2014      Freelance Assessment Writer (G5 and G7 Biology), Questar Assessment
+                                                                    Brewster, NY
+2014        Freelance Course Evaluator (HS Health Course), CompassLcarning
+                                                                               Austin, TX
+2013      Freelance Lesson Writer (G8 Life Science), SureScore            Austin, TX
+2013      Adjunct Lecturer, San  Francisco  State University (Evolution)
+                                                                   San Francisco, CA
+2008—2010 Assistant Professor of Biological Sciences, University of the Paciﬁc
+                                                                            Stockton, CA
+           Courses: Principles of Biology l 8c II, Evolution, Biology of Insects,
+           Evolutionary Medicine, Undergraduate Research
+2006—2008 Adjunct , University of New Mexico
+                                                                    Albuquerque, NM
+           Courses: Plant—Insect Interactions, Biology for Non-Majors, Systematics
+           Seminar
+2003, Fall Instructor, TVI (now CNM) Community College              Albuquerque, NM
+           Courses: Introductory Biology for Majors, Biology for Non-Majors
+1992—2000 Teaching Assistant, The University of Texas                       Austin, TX
+           Courses: General Botany, Native Plants, Field Biology, Ecology and
+           Evolution, Laboratory in Cell 8c Molecular Biology, Laboratory in
+           Structure & Function of Organisms.
+
+Scientific Research
+2004—2008 Research Assistant Professor of
+                                          Biology, University of New Mexico
+                                                                  Albuquerque, NM
+            Conducted independent research on insect taxonomy; supervised
+          undergraduate research students
+2007—2009 National Science Foundation grant-review
+                                                   panel member, ad boa grant
+          reviewer for the NSF, the National Geographic Society, and the
+          University of New Mexico Department of Biology
+2005—2010 Ad b0: manuscript reviewer for scientiﬁc
+                                                          journals
+2000-2001 Assistant editor, L14ndellz'a: journal of the Plant Remain: Center qf UT-Amlin
+1998—1999 Botany Research Assistant, The University of Texas at Austin
+                                                                                 Austin, TX
+1991—1992 McHenry Research Fellow, Academy of Natural Sciences
+                                                                           Philadelphia, PA
+1989—1990 Biochemistry Research Technician, Swarthmore
+                                                                  College Swarthmore, PA
+GENETIC GENEALOGY PRESENTATIONS
+2023 Applied Genetic Genealogy (4-week course)
+                                                   Applied Genealogy Institute
+     Autosomal and X-DNA Analysis              Salt Lake Institute of Genealogy
+     From Madness to Method: Making Sense of Your DNA Results         Eventbrite
+      LucidChart for Genetic Genealogy                                    DNAngels
+                                                                          Eventbrite
+      No One Told Me There Would Be Math! DNA Numbers Made Easy
+                                                                          Eventbrite
+      Relationship Predictors                                             Eventbrite
+      SOLVED! Case Studies in Genetic Genealogy                           Eventbrite
+      Third Party Tools                           Salt Lake Institute of Genealogy
+      What’s Next? Your Future in Geneu'c Genealogy
+                                                  Salt Lake Institute of Genealogy
+      When Your Tree ls a Banyan: Untangling Endogamy                    Eventbrite
+      Working  With WATO   (What  Are the Odds?)                         Eventbrite
+                                           Pima County (AZ) Genealog'cal Society
+                                            Texas Institute of Genealog'cal Research
+2022 Applied Genetic Genealogy (4—week course)           Applied Genealogy Institute
+     DNA Directions (3-part workshop)                       Family History Academy
+     From Madness to Method: Making Sense of Your DNA Results              Eventbrite
+     The Hicks Babies: Research Strategies for Adoptees                    Eventbrite
+                                                Connecticut Society of Genealogists
+                                     South King County (\WA) Genealogical Society
+     Panel on Human Chimen'sm: Developmental Biology
+                Association of Professional Genealogists Forensic Genealogy Group
+     SOLVED! Case Studies in Genetic Genealogy                             Eventbrite
+     What Are the Odds? Workshop (2-part workshop)          Family History Academy
+     When Your Tree Is a Banyan: Untangling Endogarny                      Eventbrite
+     Working  With  WATO    (What  Are the Odds?)                          Eventbrite
+                                         Ventura County (CA) Genealogical Society
+2021 Evaluating Shared Autosomal and X—DNA          Salt Lake Insu'tute of Genealogy
+     From Madness to Method: A Step by Step Guide to DNA             SCGS jamboree
+     From Madness to Method: Making Sense of Your DNA Results              Eventbrite
+     Introduction to WATO (What Are the Odds?)
+                    Auckland & Christchurch (New Zealand) Family History Expos
+     What’s Next? Your Future in Genetic Genealogy
+                                                    Salt Lake Institute of Genealogy
+     When Your Tree Is a Banyan: Untangling Endogamy                      RootsTech
+                    Auckland & Christchurch (New Zealand) Family History Expos
+                                         Ventura County (CA) Genealogical Society
+     Worldng  With  WATO (What Are the Odds?)                        SCGS Jamboree
+    2020 The Hicks Babies: Research Strategies for Adoptees
+                                                        Austin (I'X) Genealogical Society
+           Inﬂoduction to What Arc the Odds? (WATO) RootsTech, Salt Lake City, UT
+           What Arc the Odds? (WATO)                                      Right to Know
+           What Are the Odds? (WATO) Workshop             RootsTech, Salt Lake City, UT
+    2019   The Hicks Babies: Research Strategies for Adoptees
+                                                          SCGSJamboree, Burbank, CA
+           The Uses and Misuses of Segment Data           SCGS jamboree, Burbank, CA
+           What Are the Odds? (WATO): A Workshop          SCGS Jamboree, Burbank, CA
+           What Are the Odds? Getting the Most Out of AutoClusters, Theory of Family
+           Relan'vityTM, and DNA Matches      MyHeritage Live, Amsterdam, Netherlands
+           When Your Tree ls a Banyan: Untangling Endogamy in your Family History
+                                                                  Family History Fanatics
+    2018   Beyond Centimorgans: Segment Size and Number Can Distinguish
+           Relationships                                  SCGS jamboree, Burbank, CA
+           Genome Mate Pro workshop                       SCGS jamboree, Burbank, CA
+           When Your Tree ls a Banyan: Untangling Endogamy in your Family History
+                                                          SCGS jamboree, Burbank, CA
+    2017   Science the Heck Out of Your DNA: Using Hypotheses and Probability to
+           Solve Genealogical Problems                 i4GG conference, San Diego, CA
+    2016   When Your Tree Is a Banyan: Coping with Endogamy in Genetic Genealogy
+                                                       i4GG conference, San Diego, CA
+
+
+    sCIENTtFIc PUBLICATIONS
+    Geurts, P., L. Zhao, Y. Hsia, E. Gnesa, S. Tang, F. Jeffery, C. La Mattina, A. Franz, L.
+      Larkin, and C. Vierra. 2010. Synthetic spider silk ﬁbers spun from pyriform
+      spidroin 2, A glue silk protein discovered in orb-weaving spider attachment discs.
+       Biomacromolemle: 11: 3495—3503.
+    Marshall, D. L., A. P. Tyler, M. G. Shaner, N. j. Abrahamson,}. j. Avritt, M. G.
+       Barnes, L. L. Larkin,]. S. Medeiros,J. Reynolds, H. L. Simpson, and S. Maliakal-
+.
+
+
+
+
+       Witt. 2010. Pollen performance of Rapbanm saliva; (Brassicaceae) declines over
+       time in response to elevated [C02] Plant Sexual Repmdm‘tion 23: 325—336.
+    Blasingame, E., T. Tuton-Blasingame, L. Larkin, A. M. Falick, P. Geurts, X. Hu, V.
+       Vaidyanathan, A. Vispcras, C. La Mattina, and C. Vierra. 2009. Pyriform spidroin
+       1, a novel member of the silk gene family that anchors dragline silk ﬁbers in
+       attachment discs of the black widow spider, Lmmdeclu: bespemr. journal
+                                                                                qfBio/ogiral
+       Cbemim 284 (42): 29097—29108.
+    Brady, S. G., L. L. Larkin, and B. N. Danforth. 2009. The timeline of aculeate
+       evolution. Invited chapter to The TimeTree of Life, ed. Blair Hedges 8c Sudhir
+       Kumar, Oxford University Press.
+    Larkin, L. L.,]. L. Neff & B. B. Simpson. 2008. The evolution of a pollen diet:
+       Host choice and diet breadth of Andrcna bees (Hymenoptera: Andrenidae).
+      Apidobgie 39: 133—145.
+    Larkin, L. L., S. Droege, R. Andrus and T. Griswold. 2006. An interactive web-
+       based key to the Andrena species of the eastern United States. Online at:
+                             cdu          ? ui e:—    drcna         and
+       gg‘deZAndrena    male.
+    Simpson, B. B., L. L. Larkin, A. Weeks, 8:}. McDill. 2006. Phylogeny and
+       biogeography of Pomona (Caesalpinioideae: Leguminosae). Systematic Botany 31 (4):
+       792—804.
+    Pohl, T. & L. L. Larkin. 2006. A new species of Andrena (Hymenoptera:
+       Andrenidae) from Mexico. journal of tbe Kama: Entomological Sociey 79(1): 104—109.
+    Larkin, L. L.,J. L. Neff & B. B. Simpson. 2006. Phylogeny of the Callandrena
+       subgcnus of Andrena (Hymenoptera: Andrcnidac). based on mitochondrial and
+       nuclear DNA data: Polyphyly and convergent ev lution. Molecular
+                                                                             Ply/genetic: and
+       Evolution 38(2): 330—343.
+    Larkin, L. L. 2004. Four new species of fall Andre a from the southwestern United
+       States. journal oft/1e Kama: Entomological .S'ociey 77( ): 254—268.
+    Simpson, B. B., A. Weeks, D. M. Helfgott & L. L. Larkin. 2004. Species
+       relationships in Krameria (Krameriaceae) based on ITS sequences and morphology:
+       Implications for character evolution and biogeography. Systematic Botany 29(1): 97—
+       108 + cover photo.
+    Simpson, B. B., L. L. Larkin, & A. Weeks. 2003. Progress towards resolving the
+       relationships of the Caesalpinia group (Caesalpinieae: Caesalpinioideae: Fabaceae).
+       pp. 123—148 In B. Klitgaard & A. Bruneau (editors). Advance: in Legume .Sjrternalz'c:
+       X. Higher-Level Systematic: and Biogeograplgy. Royal Botanic Gardens, Kew,
+       Richmond.
+    Neff,_]. L. 8: L. L. Larkin. 2002. Andrena cbaparmlenri: new species, a new vernal bee
+       associated with Asteraceae on the South Texas Plains (Hymenoptera,
+                                                                               Apoidea,
+       Andrenidae). journal oflbe Kama: Entomological Sodey 75(4); 268—273.
+.
+

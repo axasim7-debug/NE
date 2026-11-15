@@ -1,0 +1,46 @@
+07/08/25                     Moscow Police Department                         1272
+10:19                     Law Supplemental Narrative:                Page:       1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number     40                Date   13:38:16 11/28/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Router Interrogation
+
+Case # 22-M09903
+Date: 11/15/2022
+
+On November 13, 2022, I responded to 1122 King Road in Moscow, Idaho in an
+attempt to interrogate the wireless router located at this residence. After
+speaking with Cpl Brett Payne, he informed me the wireless router and cable
+modem were located in the living room on the second floor.
+After arrival, I used an ethernet cable to connect my laptop to the Local Area
+Network (LAN) ports on the back of the Spectrum WiFi 6 router with the Serial #
+               . The router then provided my laptop with an IP address and
+Gateway IP, which resolved to the router.
+I attempted to locate a web-based management portal for the device but was
+prompted to download the Spectrum app and use the account username and password
+to access the device. I contacted Spectrum technical support and found this was
+the only way for the client to access the data on the device.
+
+I then called the Charter Law Enforcement Response Team (LERT) and spoke with a
+representative and tried to ascertain if Charter/Spectrum could retrieve data
+from the router via their diagnostic portal. After several days and phone calls
+to Charter, I spoke with T     D      , the manager of the Legal Response
+Operations Center. D       stated her team was working on verifying if the
+router hardware was able to be accessed.
+On November 17, 2022, I again called Charter and left a voicemail. D
+returned my phone call and stated her technicians were able to access and
+download the data from the router, however, the did not preserve the correct
+timeframe specified in my request. I was told she would have her technicians
+retry and preserve the data.
+On November 17, 2022, I again called Charter and left a voicemail for D      . I
+received a call back from D       who stated the technicians were able to
+retrieve data for the time periods of September 14, 2022 to November 7, 2022 and
+November 11, 2022 to November 14, 2022. I was informed there was a problem with
+

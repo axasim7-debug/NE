@@ -1,0 +1,58 @@
+07/08/25                     Moscow Police Department                        1272
+10:46                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number     88                Date   22:48:46 12/22/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Video Capture
+
+Case # 22-M09903
+Date: 12/22/2022
+
+On December 22, 2022, I was tasked with re-installing the exterior camera, known
+as the "Lightbulb Camera" at      King Road, to capture some comparison video
+and audio. I contacted one of the tenants, T       L  , who gave me permission
+to access her residence and conduct the recording.
+Upon arrival, I unplugged the power to the current router and removed the camera
+from the light socket on the exterior of the residence. I then powered on the
+router I had secured from the residence earlier and installed the camera I
+secured as evidence earlier into the light socket. While installing the camera,
+I hear a crack and felt the lightbulb base mount become lose. It should be noted
+the approximate temperature outside while installing the camera was between 5
+and 9 degrees.
+I previously had installed a new SDCard into the camera and powered on the
+router and camera at the Moscow Police Department to ensure the camera was
+functional.
+I then was able to monitor the camera using the Homeye Pro app on my phone. Cpl
+Brett Payne was able to drive a white colored vehicle into the view of the
+camera. Sgt Dustin Blaker parked a vehicle near the residence and closed the
+doors and trunk on a vehicle for audio comparison. A K9 Unit from Lewis County
+Sheriff's Office was utilized to capture barking audio comparison from the
+residence.
+
+Upon completion of the data collection, I powered off the evidentiary router and
+removed the camera from the light socket. In doing so, the base detached from
+the camera and a wire became disconnected. I gathered the router and camera,
+placed them back into their evidentiary bags and returned them to the secure
+computer forensic lab.
+
+I reinstalled the current camera and reconnected the power to the new router. I
+contacted L    to ensure she could access her camera, and she responded in the
+affirmative. Cpl Payne and I then ensured the residence was locked and left the
+residence without further incident.
+
+Upon returning to the Moscow Police Department, I was able to download the
+videos collected and they were saved to the server located in the secure
+computer forensic lab.
+Det. Lawrence Mowery - 162
+Thu Dec 22 22:48:50 PST 2022
+Reviewed By:
+Sgt. Dustin Blaker #108
+Tue Dec 27 07:11:16 PST 2022
+

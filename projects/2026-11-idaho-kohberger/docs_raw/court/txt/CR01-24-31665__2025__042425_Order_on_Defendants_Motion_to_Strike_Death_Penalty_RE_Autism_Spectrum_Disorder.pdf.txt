@@ -1,0 +1,784 @@
+                                                                        Filed: 04/24/2025 15:17:51
+                                                                        Fourth Judicial District, Ada County
+                                                                        Trent Tripple, Clerk of the Court
+                                                                        By: Deputy Clerk Waters, Renee
+                                                                                          -
+
+
+
+
+           IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+
+               THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO,
+
+             Plaintiff,                               Ada County Case No. CR01-24-31665
+
+                                                      ORDER ON DEFENDANT'S MOTION
+ BRYAN C. KOHBERGER,                                  TO STRIKE DEATH PENALTY RE:
+                                                      AUTISM SPECTRUM DISORDER
+             Defendant.
+
+
+
+I.     INTRODUCTION
+       Having been recently diagnosed with Autism Spectrum Disorder ("ASD") by a clinical
+neuropsychologist retained by his defense team, Defendant seeks to strike the death penalty as a
+sentencing option, arguing it violates his constitutional rights. He contends ASD is the functional
+
+equivalent of an intellectual disability, which is categorically recognized as a disqualifying
+exemption to the death penalty. Even if the Court rejects a categorical approach, he argues the
+death penalty option should nevertheless be stricken in his case given the intense media attention
+
+on Defendant's disability.
+
+       In response, the State disputes that ASD is equivalent to an intellectual disability for
+
+purposes of a categorical exemption to the death penalty and further notes that Defendant has not
+shown a national consensus supporting such an exemption. As for Defendant's individualized
+
+argument, the State contends that none of Defendant's concerns warrant striking the death
+
+penalty.
+       Oral argument on the motion was held on April 9, 2025, after which the Court took the
+
+matter under advisement. The Court finds striking the death penalty is not warranted.
+
+Il.    STANDARD
+       Constitutional issues, including the constitutionality of Idaho's capital sentencing scheme,
+are questions of law. Rhoades v. State, 149 Idaho 130, 132, 233 P.3d 61, 63 (2010).
+
+
+
+
+                                                  1
+III.       FACTS
+           During the course of this case, the defense team retained Dr. Rachel Orr, a clinical
+neuropsychologist, to conduct a comprehensive neuropsychological evaluation of Defendant and
+issue a report. Def.'s Exh. 2 (Orr Report). As part of this evaluation, Dr. Orr interviewed
+
+Defendant, Defendant's immediate family members and other relevant adults from Defendant's
+
+childhood, including former teachers. She gathered information on Defendant's history, made
+behavioral observations and administered cognitive tests. Based on her evaluation, Dr. Orr
+
+diagnosed Defendant with "Autism Spectrum Disorder, level 1, without accompanying
+intellectual or language impairment." ("ASD"). /d., p. 16.
+
+           According to Dr. Orr, ASD is a "complex, heterogenous, neurodevelopmental disorder
+rooted in brain differences and characterized by social and behavioral features." /d., p. 16. It
+
+causes "deficits in which affected individuals perceive and react to others and their environment,
+
+causing problems in social communication and interactions, repetitive behaviors, and narrow
+range of interests." Def's Exp. Discl., Exh. D13-B, p. 31 ("Ryan Report").! There is a wide range
+of autism symptoms and severity. Jd. Deficits can include a restricted range of affect, atypical
+eye contact, displaying facial expressions or movements that do not match what is being said,
+failure to consider social cues, having trouble with speech reciprocity and repetitive behaviors."
+           Pursuant to the American Psychiatric Association's Diagnostic and Statistical Manual,
+
+Fifth Edition (2013) ("DSM-5"), there are two primary diagnostic criteria for ASD. U.S. Center
+for Disease Control & Prevention ("CDC"), Clinical Testing and Diagnosis for Autism Spectrum
+
+Disorder, https://www.cdc.gov/autism/hep/diagnosis/index.html (last visited Apr. 22, 2025)
+
+(citing DSM-5). The first criterium is persistent deficits in each of the following areas of social
+communication and interactions: 1) social-emotional reciprocity; 2) nonverbal communicative
+behaviors used for social interactions, and; 3) developing, maintaining and understanding
+
+relationships. The second criterium is the display of restrictive, repetitive patterns of behavior,
+interests or activities, as manifested by at least two of the following: 1) stereotyped or repetitive
+
+movements, use of objects, or speech; 2) insistence on sameness, inflexible adherence to
+
+
+!
+    Dr. Eileen Ryan conducted a psychiatric evaluation of Defendant and agreed with Dr. Orr's diagnoses. Her expert
+report is attached to her disclosure, filed by Defendant as Exhibit D-13 on January 23, 2025.
+
+2
+    U.S. National Institute of Mental Health website, available at:
+https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder (last visited April 16, 2025).
+
+
+                                                             2
+routines, or ritualized patters of verbal or nonverbal behavior; 3) highly restricted, fixated
+interests that are abnormal in intensity or focus, and; 4) hyper- or hypo-reactivity to sensory
+
+input or unusual interest in sensory aspects of the environment. Jd.
+          The severity of ASD is based on these two criteria. /d. There are three levels of severity,
+which corollate to how much support is needed. Level 3, which is the most severe, requires "very
+substantial support." Level 1, the least severe, requires merely "support." Jd.
+
+          As to the first criterium, Dr. Orr noted in her report that Defendant's family and peers
+reported that Defendant displayed atypicalities and difficulties in social settings dating back to
+
+early childhood, including: 1) inability to adjust his behavior to suit the social context; 2) poor
+social reciprocity in conversation; 3) issues with nonverbal behavior like personal space, and; 4)
+limited ability to take perspectives of others. She notes that these difficulties played a role in the
+
+eventual termination of his funding for his graduate program. At the time of his arrest, he was
+
+pursuing a PhD in criminal justice and criminology at Washington State University.4
+          In her personal evaluation of Defendant, Dr. Orr observed that Defendant demonstrated
+
+some typical social behaviors, such as "fairly consistent (though intense) eye contact, polite
+
+demeanor, and social conventions (e.g. shaking hands upon greeting)." He engaged in
+conversation and was never "overtly inappropriate." However, Dr. Orr also noted social behavior
+
+consistent with that reported by others, such as a "lack of fluidity" in his verbal interactions,
+
+awkward comments? or abrupt responses, "inconsistent understanding/acknowledgement of
+humor" and "occasional intense gaze." /d. at p. 9. She noted he had "poor reciprocity of
+
+interaction, including very frequent re-focus of conversation back on his own experiences or
+unusual responses to my sharing." Jd. She also noted his lack of close friends and his "poor
+
+insight into his role in relationships." Jd.
+           Dr. Orr further observed deficits in Defendant's nonverbal communication, noting "poor
+
+integration of verbalizations and eye contact; limited use of descriptive gestures; restricted range
+
+
+3At an early age, Defendant's school psychologist recommended that he be evaluated for ADHD and Asperger's
+disorder (now ASD). He was clinically diagnosed with ADHD only.
+
+4
+ Defendant previously received an associate's degree in liberal arts, with a concentration in psychology (2018), a
+bachelor's degree in forensic track, psychology (2020) and a master's degree in criminal justice (2022). Defendant
+achieved a 4.0 GPA in his master's program.
+
+    By way of example, Dr. Orr noted that Defendant commented that he "had a lot of fun" completing a cognitive
+5
+
+
+test.
+
+
+
+                                                          3
+of affect;° atypical tone." /d., p. 16. As to his speech, Dr. Orr observed that Defendant was
+generally clearly articulated and his speech was appropriate in rate and volume, but overall
+monotone. His language was "generally appropriate" in content and form with an "extensive
+
+vocabulary," but "overly formal", "often over-inclusive and disorganized" and "highly repetitive,
+with frequent scripted phrases." Jd., p. 9. By way of example, Dr. Orr noted that Defendant often
+used the phrases "'Objectively speaking..."; "Mind you..."; "To be fair..." and "Moral of the
+
+story..." Id.
+            As to the second criterium, Dr. Orr found Defendant exhibited all four of the behaviors.
+He engaged in "occasional, subtle rocking of his upper torso while seated" and "scripted" and
+
+"repetitive" language. /d., pp. 7, 9. He appeared "fixated" on the routine or timing of breaks and
+procedures during the examination. /d., p. 10. He also demonstrated "rigidity" in his thinking and
+behavior, perseverative ideation (wanting to know the results of his testing) and was highly
+interested in "circumscribed" topics, such as forensic psychology, intellectual topics and
+
+Murakami. /d., pp. 10, 17. She also noted he was "highly distracted" by sounds or activity
+
+occurring around him and frequently looked from side-to-side to monitor his periphery. Jd., p. 9.
+As aresult of being easily distracted, he needed instructions repeated to him.
+            Defendant's neuropsychological profile revealed a "high average intellect at baseline"
+and his Full Scale IQ score was 119, which is in the 90" percentile for his age. /d., p. 10.
+
+Cognitively, Defendant showed strong verbal abilities, abstract reasoning, memory, concept
+formation and reading skills. However, he displayed weakness in executive functioning, such as
+
+planning, cognitive flexibility, impulse control and organizational approach. He tended to
+perceive information in a piece-meal manner rather than look at the whole picture. /d., p. 11.
+Ultimately, Dr. Orr found Defendant was "clearly a neurodivergent individual, manifesting all
+the social and behavioral features of [ASD]." Jd., p. 17. As noted, Defendant was assigned a
+
+Level   1
+            diagnosis without intellectual impairment, which is the least severe level.
+            Dr. Eileen Ryan, a board-certified psychiatrist retained by the defense team, agreed with
+Dr. Orr's ASD diagnosis after conducting a comprehensive forensic psychiatric examination of
+Defendant. Of note, she observed that Defendant "is highly intelligent and has a factual
+
+understanding of the proceedings against him, the penalty he is possibly facing, pleas, and the
+
+
+6
+ Dr. Orr noted Defendant's social smiling was "inconsistent" and occurred in "unusual and incongruent contexts."
+She also noted he did not display tearfulness, anxiety or anger.
+
+                                                        4
+roles of courtroom personnel, etc." Ryan Report, p. 33. She further noted there was "no evidence
+
+of a formal thought disorder or thought disorganization." Jd., p. 18.
+IV.     ANALYSIS
+        Relying on the Fifth, Sixth, Eighth and Fourteenth Amendments to the United States
+Constitution and Article I, §§ 1, 2, 6, 7 and 13 of the Idaho Constitution,' Defendant seeks to
+have individuals diagnosed with ASD categorically exempt from the death penalty. He contends
+
+a categorical exemption is warranted for individuals with ASD because: 1) they are insufficiently
+
+culpable and execution would not satisfy the retributive and deterrent purposes of capital
+
+punishment; 2) execution of individuals with ASD is contrary to the evolving standards of
+
+decency, and; 3) death sentences for individuals with ASD are inherently unreliable due to their
+
+inability to present meaningful mitigation evidence. Alternatively, he argues removal of the
+death penalty as a sentencing option in his case is warranted due to the impact his ASD will have
+
+on his ability to present a meaningful defense, particularly given the intense media attention on
+
+his disability.
+
+        A.        A Categorical Exemption from Capital Punishment For Individuals with
+                  ASD is Not Warranted.
+        The Eighth Amendment provides: "Excessive bail shall not be required, nor excessive
+fines imposed, nor cruel and unusual punishments inflicted." U.S. Const. amend. VIII. The
+
+United States Supreme Court has interpreted the Eighth Amendment to categorically prohibit the
+execution of three classes of individuals: 1) the intellectually disabled under Atkins v. Virginia,
+
+536 U.S. 304,311 (2002); 2) individuals who commit murder while before the age of 18 under
+
+Roper v. Simmons, 543 U.S. 551, 574 (2005), and; 3) individuals incompetent to be executed
+under Ford v. Wainwright, 477 U.S. 399, 418 (1986).
+
+        At issue here is the first category. In Atkins, the Court held the "mentally retarded" (now,
+"intellectually disabled") must be categorically exempt from execution after finding that the
+cognitive and behavior deficiencies that drive an intellectual disability diagnosis negate the
+penological purposes served by the death penalty and give rise to a "special risk" that the death
+penalty will be wrongfully imposed. 536 U.S. at 318-21. In addition, the Court found that a
+
+
+
+
+7
+ While Defendant cites to the Idaho Constitution as a basis for his motion, he has not provided any argument or
+authority as to why the Idaho Constitution should apply any broader than similar provisions in the United States
+Constitution. See, e.g. State v. Donato, 135 Idaho 469, 472, 20 P.3d 5, 8 (2001).
+
+                                                          5
+categorical exemption was consistent with society's contemporary standards of decency. /d. at
+315-16.
+
+          No court has ever found ASD to be a categorically death-disqualifying diagnosis.
+
+However, Defendant argues ASD is the functional equivalent of an intellectual disability and,
+therefore, the rationale underpinning Atkins applies with equal force to individuals with ASD. He
+further argues that categorically excluding individuals with ASD from capital punishment is
+
+consistent with society's prevailing standards of decency. The State responds that a categorical
+
+exemption from the death penalty is only available under the law to those with intellectual
+disabilities, the definition of which ASD fails to satisfy. It further disputes that there is any
+national consensus supporting Defendant's claim.
+
+          The State is correct. First, intellectual impairment             a hallmark of an intellectual
+
+disability-is not present in the diagnostic criteria of ASD and no court has ever found the two to
+be equivalent. Second, Defendant has not presented any evidence of a national consensus as to
+
+whether the death penalty is a disproportionate punishment for individuals with ASD.
+
+                   1.       ASD is not equivalent to an intellectual disability for purposes of death
+                            penalty exemption.
+
+          Capital punishment must be limited to those offenders who commit "a narrow category of
+the most serious crimes" and whose extreme culpability makes them "the most deserving of
+
+execution." Atkins, 536 U.S. at 319. In considering whether intellectually disabled persons are
+
+"categorically less culpable than the average criminal," the Atkins court relied on clinical
+definitions of an intellectual disability offered by the American Association on Mental
+
+Retardation and the American Psychiatric Association. /d. at 308, n. 3, 31 8.8 Both defined the
+
+condition based on the presence of two criteria: 1) subaverage intellectual function, and; 2)
+
+significant limitations in adaptive skills manifesting prior age 18. Based on this criteria, the
+Court found the intellectually disabled were categorically less culpable for their crimes, noting:
+
+          [C]linical definitions of mental retardation require not only subaverage
+          intellectual functioning, but also significant limitations in adaptive skills such as
+          communication, self-care, and self-direction that became manifest before age 18.
+
+
+  In referencing the clinical definitions of an intellectual disability, the Atkins court did not adopt these definitions or
+8
+
+otherwise offer any procedural or substantive guidelines for determining whether a person is intellectually disabled.
+Shoop v. Hill, 586 U.S. 45, 49 (2019) ("Atkins gave no comprehensive definition of 'mental retardation' for Eighth
+Amendment purposes."). Rather, it tasked the states with developing their own mechanism for enforcing the
+restriction. 536 U.S. at 318. Idaho did so through the passage of I.C. § 19-2515A, discussed infra.
+
+
+                                                             6
+        Mentally retarded persons frequently know the difference between right and
+        wrong and are competent to stand trial. Because of their impairments, however,
+        by definition they have diminished capacities to understand and process
+        information, to communicate, to abstract from mistakes and learn from
+        experience, to engage in logical reasoning, to control impulses, and to understand
+        the reactions of others. There is no evidence that they are more likely to engage in
+        criminal conduct than others, but there is abundant evidence that they often act on
+        impulse rather than pursuant to a premeditated plan, and that in group settings
+        they are followers rather than leaders.
+
+Id. at 318.
+
+        Based on these deficiencies, the Court found two independent reasons to categorically
+
+exclude the intellectually disabled from the death penalty    both of which the Court found were
+
+"consistent with the legislative consensus that the mentally retarded should be categorically
+
+excluded from execution." /d. at 318. First, the reduced culpability of the intellectually disabled
+
+undermined the twin justifications underpinning the death penalty-retribution and deterrence of
+
+capital crimes. /d. at 318-19. As to retribution, the Court reasoned that if the culpability of the
+
+average murderer is insufficient to justify the imposition of death, "the lesser culpability of the
+
+mentally retarded offender surely does not merit that form of retribution." /d. As to deterrence,
+the Court reasoned that the same cognitive and behavioral impairments that render mentally
+
+disabled offenders less culpable also render them less likely to appreciate the consequences of
+
+their conduct and control their behavior. /d. at 320.
+
+        Second, the Court found that the reduced capability of intellectually disabled offenders
+
+gave risk to an unacceptable risk that the death penalty could not be reliably imposed. /d. at 320-
+21. Namely, the Court found that, in the aggregate, intellectually disabled offenders faced a
+
+special risk of wrongful execution because they: 1) are more susceptible to false confessions; 2)
+less able to "make a persuasive showing of mitigation in the face of prosecutorial evidence of
+
+one or more aggravating factors"; 3) "may be less able to give meaningful assistance to their
+
+counsel"; 4) "are typically poor witnesses," and; 5) "their demeanor may create an unwarranted
+impression of lack of remorse for their crimes." /d. Further, the Court found that "reliance on
+mental retardation as a mitigating factor can be a two-edged sword that may enhance the
+
+likelihood that the aggravating factor of future dangerousness will be found by the jury." Jd.
+
+       Relying on the diagnostic criteria set forth in the DSM-IV, various publications and Dr.
+Orr's evaluative report, Defendant argues that individuals with ASD, himself included, exhibit
+
+
+                                                  7
+similar adaptive impairments to those with an intellectual disability and, consequently, the same
+
+justifications underlying the Atkins exemption should apply to defendants with ASD. This is an
+apple-to-oranges comparison, however. While intellectually disabled and ASD individuals may
+share some of the same adaptive impairments, the intellectual deficit                   an essential feature of an
+
+intellectual disability      is not a diagnostic element of ASD.
+         As noted in Afkins, an intellectual disability is based on deficits in both intellectual
+function and adaptive function. 536 U.S. at 308, n. 3, 318; see also, Hall v. Florida, 572 U.S.
+
+701, 710 (2014) (noting that the "defining characteristic of intellectual disability" in the medical
+
+community is the "existence of concurrent deficits in intellectual and adaptive functioning."')
+
+(emphasis added). While Atkins did not set out a comprehensive definition of an intellectual
+deficit, it did provide guidance, noting that prevailing medical authorities required "significantly
+
+subaverage intellectual functioning." 536 U.S. at 308, n. 3. To this end, the Court noted that the
+medical community typically considered "the cutoff IQ score of the intellectual function prong
+
+of the mental retardation definition" to be between 70 and 75 and lower. /d. at 308, n. 5.
+         Under Atkins and its progeny, it is the intersection of intellectual and adaptive deficits
+
+that render an individual with an intellectual disability less morally culpable for purposes of
+
+death penalty disqualification. Hall, 572 U.S. at 710. As recognized by the Idaho Supreme Court,
+
+adaptive deficits alone will not render a defendant mentally incapacitated for purposes of the
+
+exemption. Pizzuto v. State, 146 Idaho 720, 729, 202 P.3d 642, 651 (2008) ("Significant
+limitations in adaptive functioning alone will not bring an offender within the protection of [I.C.
+
+§ 18-2515A].")° Substantial intellectual deficits are required.
+
+         Intellectual deficiency, however, is not among the diagnostic criteria for ASD. See, DSM-
+
+5. While individuals with       ASD may share some of the same adaptive deficits as those with an
+Atkins-qualifying intellectual disability, the essential feature, i.e., intellectual disability, is
+lacking. That is not to say that individuals with ASD cannot also suffer from intellectual
+deficiencies. Indeed, Dr. Ryan noted in her report that it is estimated that 50% of individuals
+
+
+°As authorized by Atkins, Idaho prohibits the execution of the mentally disabled through 1.C. § 19-2515A. That
+statute defines "mentally retarded" as: "significantly subaverage general intellectual functioning that is accompanied
+by significant limitations in adaptive functioning in at least two (2) of the following skill areas: communication, self-
+care, home living, social or interpersonal skills, use of community resources, self-direction, functional academic
+skills, work, leisure, health and safety. The onset of significant subaverage general intelligence functioning and
+significant limitations in adaptive functioning must occur before age eighteen (18) years." The statutes further
+defines "significantly subaverage general intellectual functioning" as "an intelligence quotient of seventy (70) or
+below." LC. § 19-2515A(1).
+
+                                                            8
+with ASD have "a degree of intellectual disability." Ryan Report, p. 31. However, it is not
+
+necessary to a diagnosis of ASD and, therefore, cannot be equated to a mental disability for
+
+purposes of Atkins. In fact, in United States v. Roof, the Fourth Circuit declined to apply Atkins
+to a defendant with ASD who had an IQ of 125, noting that his limitations in adaptive skills
+
+alone are insufficient to render him intellectually disabled. United States v. Roof, 10 F.4th 314,
+
+380 (4th Cir. 2021). With an IQ of 119, Defendant likewise fails to qualify.
+
+       Further, even if adaptive deficits alone could give rise to a categorical exemption,
+Defendant has presented no authority that the adaptive deficits of ASD have the equivalent effect
+
+on culpability or on the ability to make a persuasive showing of mitigation as does an intellectual
+
+disability. He dedicates a large portion of his briefing to describing how individuals with ASD,
+like those who are intellectually disabled, struggle to present meaningful mitigation evidence due
+to their adaptive deficits. He contends they are less able to meaningfully assist counsel due to
+
+social and communication deficits and their tendency to focus on specifics rather than the whole
+
+picture. He argues that the flat affect and other physical manifestations of ASD can create an
+unwarranted impression of lack of remorse and, further, awkward speech and distractability
+
+render individuals with ASD poor witnesses. He also contends that evidence of ASD is "double-
+
+edged" because it will likely be perceived by the jury as aggravating rather than mitigating.
+       However, to even be considered for categorical exemption from the death penalty based
+on these adaptive impairments alone, Defendant would-at a minimum-have to demonstrate
+
+that, considered as a whole, individuals with ASD suffer from these same or similar impairments
+that render them more susceptible to false confessions and diminish their ability to assist in their
+
+defense. Atkins, 536 U.S. at 320-21 (noting that intellectually disabled individuals "in the
+
+aggregate" face a special risk of wrongful execution due to their deficits). As Defendant's
+authorities point out, however, "the presentation and symptomology of ASD vary widely."
+
+Colleen M. Berryessa, Defendants with Autism Spectrum Disorder in Criminal Court: AJudge's
+
+Toolkit, 13 Drexel L. Rev. 841, 842 (2021). Indeed, as its name implies, it is on a spectrum.
+Some may suffer from adaptive deficiencies to a degree where it interferes with the presentation
+of mitigation evidence and some may not. Ryan Report, p. 31 (noting the "wide range of autistic
+
+
+
+
+                                                  9
+symptoms and severity.")!° The lack of any uniform presentation which can be measured on an
+
+objective scale (like IQ, youth and competency) renders ASD inapt for categorical exemption.
+         Further, courts that have considered whether to extend Atkins to mental health disorders
+similar to ASD have uniformly declined to do so. For example, Fetal Alcohol Spectrum
+
+Disorder, which is a group of conditions that can occur in a person exposed to alcohol before
+
+birth, is characterized by many of the same behavioral issues and learning challenges that mark
+an ASD diagnosis.'' Reasoning that FASD cannot be medically equated to an intellectual
+
+disability, courts have found that the justifications for exempting individuals with intellectual
+disabilities from the death penalty do not apply to individuals with FASD. See, /n re Soliz, 938
+F.3d 200, 203 (5th Cir. 2019) (inmate failed to show that FASD the functional equivalent of an
+intellectual disability as defined in Atkins); United States v. Fell, 2016 WL 11550800, *7 (D. Vt.
+
+2016) ("Fell has not shown that all persons with FASD ... have cognitive and behavioral
+impairments that result in the same (or 'equivalent') diminishment in moral culpability, ability to
+be deterred, and capacity to assist in their defense as individuals with [intellectual disability]").!?
+
+
+
+   Indeed, Defendant is an example of a highly functioning individual with ASD. His diagnosis is not accompanied
+!©
+
+by an intellectual or language impairment, he has an IQ of 119 and graduated from his master's program with 4.0
+GPA. At the time of the homicides, he was enrolled in a doctoral program. His experts describe him as "highly
+intelligent," having "strong verbal abilities, abstract reasoning, memory, concept formation and reading skills." They
+noted "no evidence of a formal thought disorder or thought disorganization." He understands the proceedings
+against him and the penalty he is possibly facing. He is "generally clearly articulated" and "demonstrated some
+typical social behaviors, such as "fairly consistent (though intense) eye contact, polite demeanor, and social
+conventions." There is no indication he is susceptible to a false confession nor is there anything approaching a
+confession in this case, to the Court's understanding. In fact, Dr. Ryan notes that Defendant "continues to adhere
+rigidly to a belief that he will be found Not Guilty[.]" Ryan Report, p. 33. While he is noted to have a "flat affect"
+and other physical mannerisms that can potentially be interpreted by the jury as lack of remorse, Atkins demands
+more of a reduced capacity than this. 536 U.S. at 320-21. Further, any danger that the jury will interpret his affect as
+a lack of remorse can be mitigated by addressing ASD in voir dire, and through expert testimony and evidence in the
+penalty phase.
+
+11
+   U.S. Center for Disease Control & Prevention, About Fetal Alcohol Spectrum Disorders (FASDs),
+https://www.cdc.gov/fasd/about/index.html#cdc_disease_basics_testing_screening-diagnosis (last visited April 22,
+2025). As an umbrella term for a broad range of symptoms cause by prenatal alcohol exposure, FASD is not a
+clinical diagnosis, like ASD. However, according to the CDC, FASD includes Neurobehavioral Disorder Associated
+With Prenatal Alcohol Exposure, which is DSM-V diagnosis. It requires evidence of prenatal alcohol exposure and
+central nervous system involvement, as indicated by impairments in cognition, self-regulation and adaptive
+functioning. /d.
+
+12
+  See also, Garza v. Shinn, 2021 WL 5850883 at *105 (D. Ariz, 2021) ("There is no authority holding that
+individuals with FASD are exempt from capital punishment."), appeal filed, No. 22-99001 (9" Cir. Jan. 7, 2022),
+Garcia v. State, 356 So. 3d 101, 113 (Miss. 2023) (while FASD may be a mitigating factor to be weighed against the
+aggravating factors, "it is not a death penalty disqualifier."); Ellison v. Thornell, 721 F. Supp. 3d 820, 979 (D. Ariz.
+2024) (appeal filed, No. 24-3527 (9" Cir. June 5, 2024) (finding "no authority" that individuals with FASD are
+exempt from capital punishment).
+
+                                                           10
+         Likewise, courts-including the Idaho Supreme Court                       have squarely refused to extend
+
+Atkins to severe mental illness, such as schizophrenia, bipolar disorder and anti-social personality
+disorder. State v. Dunlap, 155 Idaho 345, 380, 313 P.3d 1, 36 (2013) (declining to extend Atkins
+
+to categorically prohibit execution of the mentally ill, joining "every court" to have considered
+
+the issue and collecting cases); State v. Hall, 163 Idaho 744, 814, 419 P.3d 1042, 1112(2018)
+
+(reaffirming Dunlap in finding defendant's mental illness did not prevent imposition of capital
+sentence). If courts are uniformly unwilling to extend Atkins to severe mental illness, which can
+be at least equally as adaptively debilitating as ASD, an extension for ASD is unavailing.
+
+         In sum, Defendant has not demonstrated                   nor has any court held-that persons with
+
+ASD have similar cognitive and behavioral deficiencies that result in an equivalent diminishment
+of culpability, ability to be deterred and capacity to assist in their defense as individuals with an
+intellectual disability. While they may share some similar adaptive deficiencies, Defendant has
+
+not demonstrated how this alone establishes equivalence for Eighth Amendment purposes.
+
+                   2.       Defendant has not established a national consensus against execution of
+                            individuals with ASD.
+         For Eighth Amendment purposes, cruel and unusual punishment is defined by "evolving
+standards of decency that mark the progress of a maturing society." Dunlap, 155 Idaho at 379-
+
+80, 313 P.3d at 35-36 (quoting Arkins, 536 U.S. at 311-12). Ascertaining the standards of
+
+decency require consideration of "objective indicia of society's standards, as expressed in
+
+legislative enactments and state practice to determine whether there is a national consensus
+against the sentencing practice at issue." Graham v. Florida, 560 U.S. 48, 61 (2010) (quotes and
+citation omitted). In Atkins, for example, the Court found that the two independent reasons for
+
+categorically excluding the intellectually disabled from the death penalty were "consistent with
+the legislative consensus that the mentally retarded should be categorically excluded from
+
+execution." 536 U.S. at 318.
+
+
+
+3
+   At oral argument, Defendant suggested that if the Court found the individuals with ASD were categorically
+exempt from the death penalty based on the unreliability rationale of Atkins, it need not consider whether
+                                                                                                                  the
+national consensus supported exemption.    This  is an  incorrect reading of  Atkins, which  in no  uncertain terms   found
+that the national consensus   supported exemption   for  both rationales articulated  by the Court.  536 U.S. at 318   ("In
+light of these deficiencies, our death penalty jurisprudence provides    two  reasons  consistent with  the legislative
+consensus that the mentally retarded should be categorically excluded from execution."). Therefore, Defendant must
+establish a national consensus against execution of ASD, regardless of whether exemption is warranted under the
+unreliability rationale or the retribution/deterrence rationale of Atkins.
+
+
+                                                             11
+         Defendant argues categorically excluding individuals with ASD from capital punishment
+is consistent with society's prevailing standards of decency. He notes that the psychological
+
+community's understanding of the manifestations of ASD has significantly evolved over the past
+forty years, bringing with it a marked explosion in both ASD diagnoses and increased societal
+awareness.' He points out that this growing awareness of ASD has coincided with efforts by the
+criminal legal system to address mental health disorders through the creation of mental health
+courts. He further notes that evidence of ASD has been held to be relevant in criminal cases to
+
+issues of intent. As for legislative enactments, he points to two states, Ohio and Kentucky, which
+
+recently enacted legislation barring people with serious mental illness from being sentenced to
+death.
+
+         At best, this evidence demonstrates a growing societal sensitivity to mental disorders
+generally. However, evidence of evolving standards of decency must come from legislative and
+executive actions. Two states protecting individuals with severe mental illness from execution is
+not a national consensus.'° Further, these two state statutes only apply to schizophrenia,
+
+schizoaffective disorder, bipolar disorder and delusional disorder, not ASD. See, Ohio Rev. Code
+Ann. § 2929.025(A)(1)(a); Ky. Rev Code Ann. § 532.130(3). Moreover, courts-including the
+Idaho Supreme Court-continue to reject the notion of a national consensus in the context of
+
+mental illness. See, e.g., Hall v. State, 172 Idaho 334, 361, 533 P.3d 243, 270 (2023), reh'g
+
+denied (Aug. 10, 2023) (noting that there has been no change in the national consensus refusing
+
+to extend Atkins to the mentally ill); People v. Steskal, 11 Cal. Sth 332, 374, 485 P.3d 1, 34
+
+(2021) (observing there is "no evidence" that a national consensus has formed against the
+imposition of the death penalty for mentally ill).
+         Perhaps recognizing the lack of legislative acts in support of his argument, Defendant
+
+attempts to show a national consensus against executing individuals with ASD through a handful
+
+
+
+
+14
+   He notes that ASD is now the fastest-growing developmental disability in the United States, with a significant
+increase in diagnoses in both adults and children between 2011 and 2022. Luke P. Governor, et al., Autism
+Diagnosis Among US Children and Adults, 2011-2022, JAMA Network Open (Oct. 30, 2024),
+https: jamanetwork.com/joumals/jamanetworkopen/fullarticle'2825472 (last visited Apr. 22, 2025).
+
+
+  By contrast, Atkins concluded "a national consensus has developed against" using the death penalty on the
+5
+
+
+intellectually disabled only after finding that eighteen states had adopted legislation to that effect, one state
+legislature had unanimously adopted a similar bill, and two other states passed similar bills in at least one house. 536
+US. at 315-16.
+
+                                                          12
+of court decisions finding the diagnosis to be of evidentiary value.'® None of these, however, are
+capital cases. He also cites to recent media attention on a Texas capital case against Robert
+Roberson, an autistic man who was convicted of killing his baby on a theory of shaken baby
+
+syndrome. Mr. Roberson is seeking to commute his death sentence based, in part, on the
+
+argument that his ASD contributed to his conviction. See, Jn re Robert Leslie Roberson III,
+Petition for Commutation of Death Sentence to a Lesser Penalty, Or, In the Alternative, a 180-
+
+Day Reprieve, and Request for an Interview and Hearing on the Matter.'' Defendant notes that a
+group of 84 Texas legislators recommended clemency for Mr. Roberson. However, what
+Defendant fails to mention is these legislators did not recommend clemency due to his autism,
+
+but because of "significant scientific and medical evidence now shows that his daughter, Nikki,
+
+who was chronically ill, died of          a   combination of natural and accidental causes, not the debunked
+
+shaken baby syndrome hypothesis that State used to convict [him]." /d. at p. 13.
+
+            In sum, not only has Defendant failed to show that ASD is equivalent to an intellectual
+
+disability for death penalty exemption purposes, he has not shown there is a national consensus
+against subjecting individuals with ASD to capital punishment. ASD may be a mitigating factor
+to be weighed against the aggravating factors in determining if a defendant should receive the
+
+death penalty, but it is not a death-penalty disqualifier.
+
+            B.       Case-Specific Factors Do Not Warrant Defendant's Exemption from Capital
+                     Punishment.
+            Defendant alternatively argues he should be exempt from the death penalty because the
+
+intense media scrutiny on his ASD undermines his ability to present a meaningful defense and
+
+renders it "impossible" for him to receive a fair individualized sentencing determination. He
+
+points out that news sources have focused on his "social deficits," including his past interactions
+                                                                                           "rigid posture" and lack of
+                                                                                   55 66
+with females, his "deadpan look," "robot-like walk," "cold iciness,
+facial affect. He argues the media is demonizing him for his disability while at the same time
+
+
+
+
+  See, US. v. Cottrell, 333 F.App'x 213, 216 (9" Cir. 2009) (finding evidence of defendant's Asperger's diagnosis
+16
+
+
+was relevant to whether he had specific intent to aid and abet arson); State v. Suber, 2008 WL 942622, *10 (Minn.
+Ct. App. April 8, 2008) (reversing defendant's DUI conviction where physical impairment the officer interpreted as
+intoxication could have been attributable to Asperger's syndrome); State v. Burr, 948 A.2d 627 (N.J. 2008)
+(evidence of defendant's Asperger's syndrome relevant to rebut inference of grooming by having child sit on his lap
+where he did not realize it was inappropriate.).
+
+     Available at: https://www.texas.gov/scanned/archive/2024/54898.pdf (last accessed April 22, 2025)
+
+
+                                                            13
+emphasizing the brutality of the crime. This, he warns, will overpower any mitigating arguments
+based on ASD and poses a risk that he will be sentenced based on his disability.
+
+        As the State points out, however, there is no precedent for striking the death penalty due
+to media coverage.'® Further, any concerns that arise from such media coverage can be mitigated
+
+through voir dire and from expert testimony and evidence during the penalty phase of the trial.
+V.      ORDER
+        Based on the foregoing, Defendant's Motion to Strike the Death Penalty re: Autism
+
+Spectrum Disorder is DENIED.
+
+
+IT IS SO ORDERED.
+
+
+DATED this            day of April, 2025.
+
+
+
+
+                                                                 ZO
+                                                        ve Tipp
+                                                      Administrative District Judge
+
+
+
+
+  Indeed, jurors will not access media once selected to serve, and if exposed to pretrial media that has impaired their
+1   8
+
+
+ability to be unbiased, they would be excluded from jury service on this case.
+
+                                                          14
+                                    CERTIFICATE OF SERVICE
+
+                        4/24/2025      served a true and correct copy of the ORDER ON DEFENDANT'S
+|
+ hereby certify that on
+MOTION TO STRIKE DEATH PENALTY RE: AUTISM SPECTRUM DISORDER
+LATAH COUNTY PROSECUTING ATTORNEY'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+ASHLEY JENNINGS
+SENIOR DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.gov
+
+JOSHUA D. HURWIT
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: jeff.nye@aq.idaho.gov
+
+MADISON ALLEN
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Madison.allen@aq.idaho.qov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetaylorlaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+FIRST DISTRICT PUBLIC DEFENDER
+JAY W. LOGSDON
+VIA EMAIL: jay.logsdon@spd.idaho.gov
+
+BICKA BARLOW
+Pro Hac Vice
+VIA EMAIL: bickabarlow@sbcglobal.net
+
+
+
+
+                                                       TRENT TRIPPLE
+                                                       Clerk of the Court
+
+                                                 By:
+                                                       Deputy Clerk    4/24/2025 3:18:14 PM
+
+
+
+
+CERTIFICATE OF SERVICE
+

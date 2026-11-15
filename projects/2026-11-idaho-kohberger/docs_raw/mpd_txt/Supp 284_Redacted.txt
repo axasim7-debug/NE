@@ -1,0 +1,46 @@
+07/08/25                       Moscow Police Department                      1272
+12:07                       Law Supplemental Narrative:              Page:      1
+  Details
+Incident Number      22-M09903          Name   Brett Payne
+Sequence Number      284                Date   11:21:37 07/02/24
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+IT Assistance with Workstation Check-#157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+NA
+3.        Narrative
+
+On June 26th, 2024 I requested assistance from City of Moscow IT Manager C
+C      with determining what logins may have been created for use on MPD
+computers by other agency personnel (i.e. FBI or ISP).
+C      told me the following names were created during the time frame of
+11/13/22 to 12/30/22:
+                              . C      also told me numerous MPD computers have
+been rotated out since that time frame and the drives on those computers have
+been wiped clean. I requested C      access those username accounts and make
+sure there was nothing case related on them.
+I spoke to C      on 7/2/24, and he told me he had checked those usernames and
+there was nothing related to this case pertaining to any of those accounts.
+I will request all MPD personnel access the workstations they remember using
+during that time to further verify there is nothing of evidentiary value found.
+4.        Other
+
+NA
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+CPL Payne #157
+Tue Jul 02 11:22:45 PDT 2024
+Reviewed By:
+Capt. Dustin Blaker #108
+Tue Jul 02 15:02:06 PDT 2024
+

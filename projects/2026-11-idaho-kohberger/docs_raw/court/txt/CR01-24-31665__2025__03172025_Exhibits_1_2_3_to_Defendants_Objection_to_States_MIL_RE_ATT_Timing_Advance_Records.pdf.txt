@@ -1,0 +1,1300 @@
+Anne Taylor Law, PLLC
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d’Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Bicka Barlow
+Pro Hac Vice
+2358 Market Street
+San Francisco, CA 94114
+Phone: (415) 553-4110
+
+Assigned Attorney:
+Anne C. Taylor, Attorney at Law, Bar Number: 5836
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+
+
+      IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+ STATE OF IDAHO                                    CASE NUMBER: CR01-24-31665
+
+                      Plaintiff,                   FILED UNDER SEAL
+
+ V.                                                EXHIBITS 1, 2, & 3 IN SUPPORT OF
+                                                   OBJECTION TO STATE’S MOTION IN
+ BRYAN C. KOHBERGER,                               LIMINE
+                                                   RE: AT&T TIMING ADVANCE
+                      Defendant.                   RECORDS
+
+
+
+       COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and hereby
+
+files under seal Exhibits 1, 2, & 3 in Support of their Objection to the State’s Motion in Limine
+
+RE: AT&T Timing Advance Records:
+
+
+FILED UNDER SEAL – EXHIBITS 1, 2, & 3 IN SUPPORT OF OBJECTION TO
+STATE’S MOTION IN LIMINE RE: AT&T TIMING ADVANCE RECORDS                                 Page 1
+   •   Exhibit 1 – Email chain between law enforcement, Ashley Jennings, and Special
+
+       Agent N. Ballance
+
+   •   Exhibit 2 – AT&T Search Warrants
+
+   •   Exhibit 3 – AT&T Mobility Carrier Request Form
+
+       DATED this ___17____ day of March, 2025.
+
+
+
+
+                                                   _____________________________
+                                                   ANNE C. TAYLOR
+                                                   ANNE TAYLOR LAW, PLLC
+
+
+
+                              CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___17____ day of March, 2025 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+FILED UNDER SEAL – EXHIBITS 1, 2, & 3 IN SUPPORT OF OBJECTION TO
+STATE’S MOTION IN LIMINE RE: AT&T TIMING ADVANCE RECORDS                               Page 2
+From:       Lawrence Mowery
+Sent:       11/15/2022 4:25:21 PM
+To:         Ashley Jennings <ajennings@latahcountyid.gov>
+Subject:    FW: ATT Tower Dump.pdf
+
+Attachments: Warrant ATT Tower Dump edit w location information.docx
+
+Ashley,
+
+ATT has specific verbiage that used to be NELOS, but apparently they changed it to LocDBor...
+Can we add that to the Advanced Timing section.
+I got the attached back from Nick FBI with his recommendations.
+
+L
+
+From: Nicholas Ballance <njballance@fbi.gov>
+Sent: Tuesday, November 15, 2022 3:10 PM
+To: Lawrence Mowery <lmowery@ci.moscow.id.us>
+Subject: Re: ATT Tower Dump.pdf
+CAUTION: This message originated from outside the City of Moscow's network. Exercise caution when clicking links or opening attachments. If in doubt, please contact Information
+Systems at extension 7004.
+Nelos became Location Database of Record or LocDBoR a little while back. List that and timing Advance since both are applicable w them now.
+
+Nick Ballance
+Special Agent
+FBI-Salt Lake City
+Boise Resident Agency
+C: 412-735-4432
+________________________________
+From: Lawrence Mowery <lmowery@ci.moscow.id.us>
+Sent: Tuesday, November 15, 2022 4:03:27 PM
+To: Ballance, Nicholas James (SU) (FBI) <njballance@fbi.gov>
+Subject: [EXTERNAL EMAIL] - FW: ATT Tower Dump.pdf
+ATT for review...
+Do we need to use NELOS instead of Advanced Timing? Or is AT generic enough to use?
+
+L
+From: Ashley Jennings <ajennings@latahcountyid.gov>
+Sent: Tuesday, November 15, 2022 1:01 PM
+To: Lawrence Mowery <lmowery@ci.moscow.id.us>
+Subject: ATT Tower Dump.pdf
+CAUTION: This message originated from outside the City of Moscow's network. Exercise caution when clicking links or opening attachments. If in doubt, please contact Information
+Systems at extension 7004.
+How’s this look?
+This message is confidential and may be legally privileged. Unless you are the intended recipient, you may not use, copy or disclose this message or any information herein. If
+you have received this message in error, please immediately delete it and any attachments, and notify the sender.
+From:    Lawrence Mowery
+Sent:    11/15/2022 9:06:47 AM
+To:      LER3 <LER3@T-Mobile.com>
+Subject: RE: Exigent Form Request
+
+
+Hello again,
+Thank you for you quick response regarding this exigent circumstance/tower dump. I was wondering if it would be possible to request the Timing Advance area search for all
+records and unique device/user identifiers pertaining to Timing Advance location information during the previously listed dates, times and geographical boundaries? This
+information was not included in the tower dump records provided.
+
+If I need to provide another request form, affidavit or other documentation, please let me know.
+
+
+_____________________
+Det. Lawrence Mowery
+Moscow Police Department
+208-883-7054
+
+
+From: LER3 <LER3@T-Mobile.com>
+Sent: Sunday, November 13, 2022 6:29 PM
+To: Lawrence Mowery <lmowery@ci.moscow.id.us>
+Subject: RE: Exigent Form Request
+
+CAUTION: This message originated from outside the City of Moscow's network. Exercise caution when clicking links or opening attachments. If in doubt, please contact Information
+Systems at extension 7004.
+Det. Lawrence,
+The requested timeframe for the tower dump is too broad. Please narrow down the requested time frame requested on the form and resubmit for processing. (ie If the incident
+occurred at 0400 pst to ask for something like 0300-0500 pst or 0330-0430 pst)
+Thank you
+
+From: Lawrence Mowery <lmowery@ci.moscow.id.us>
+Sent: Sunday, November 13, 2022 8:07 PM
+To: LER3 <LER3@T-Mobile.com>
+Subject: Exigent Form Request
+[External]
+
+Hello,
+After speaking with one of your helpful LE Specialists...
+Please accept the following Exigent Form for review and processing for tower dump of tower(s) providing coverage to:
+46.72196, -117.01079 (1122 King Road, Moscow - Idaho 83843)
+For 12 hours prior to and following the incident time of:
+11/13/2022 0400 hours (PST)
+If there are any concerns or questions, please feel free to contact me.
+
+Thank you!
+_____________________
+Det. Lawrence Mowery
+Moscow Police Department
+208-883-7054
+                                                                                                             "Fines
+
+
+
+
+                                                                                                    DEPUTY
+                                                                                                                    [oad
+                                                                                                             Rete
+
+
+
+
+      IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+               STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+
+                                                      )
+In the Matter of the Application                              Case No. CR29-
+For a Search Warrant for:
+                                                              SEARCH WARRANT AND
+AT&T                                                  )       ORDER AUTHORIZING
+11760 U.S. Highway 1, Suite 300                               INSTALLATION AND/OR
+North Palm Beach, FL 33408-3029                       )       USE OF A PEN REGISTER,
+                                                              TRAP AND TRACE DEVICE
+                                                      )
+                                                      )       AND
+                                                      )       NON-DISCLOSURE ORDER
+                                                      )       PURSUANT TOLC. 18-6722
+MPD Case No.22°M09903.                                :
+
+
+
+
+TO:     ANY PEACE OFFICER AUTHORIZED TO ENFORCE OR ASSIST IN
+        ENFORCING ANY LAW OF THE STATE OF IDAHO.
+
+Brett Payne, having given me proof, upon oath, this day showing
+                                                                  probable cause establishing
+
+grounds for issuing a search warrant and probable cause to believe there are records related to
+
+the crime(s) of homicide at 1122 King Road, Moscow, Idaho and are
+                                                                         currently under the
+
+control of AT&T for historic call detail records for the telephone number 509-592-8458
+
+with cell sites for all voice, sms, and data connections between June 23, 2022, to present,
+
+to include:
+
+
+SEARCH WARRANT                                                                 :
+AND ORDER FOR A                                                                                 Y
+PEN REGISTER OR A                                                                  ORIG
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                       1
+                                        003731
+           .@    Subscriber or Registration Account Information, including subscriber or
+                 registered user name or identity, address, billing/payment information;
+                 account initiation date; type of account; custom account features; additional
+                 phone numbers; addresses (both physical and electronic) and/or other
+                 contact information; additional persons having authority on the account;
+                                                                                           any
+                 additional accounts linked to the subject account; account changes for the
+                 target address and any linked accounts; and
+
+            ¢ Device Identifying Information for the device using the target address, such
+              as phone number, MAC address, IP address, and other
+                                                                     unique hardware and
+                 software identifiers; and
+
+            *   Usage and Location Information, including stored and transactional records
+                for all voice, sms and data connections such as inbound and outbound call,
+                message, radio or other communication detail data, together with date and
+                time of each communication; including positioning information such as
+                GPS longitude/latitude or multilateration or precision location, historical
+                and prospective cell site location information (CSLI), or other information
+                tending to reveal the proximate or precise location of the device associated
+                with the above-identified target address; E911 data for the target address;
+                and, for internet communications, detail such as IP address, Port, Socket
+                Address, VoIP address, routing information; the address(es) from which the
+                communication is made, conducted, and terminated; non-content text or
+                email, header, IP address; and other non-content information; and
+           ®    such as cell site positioning information, GPS longitude/latitude or
+                multilateration or precision location (including RTT and LocDBoR reports
+                or similarly generated location information), Timing Advance and/or True
+                Cail or other information tending to reveal the proximate or precise location
+                of the device associated with the target address; E911 data for the target
+                address; and
+
+           ®
+                Physical address of cellular antenna towers used by the customer's device,
+                together with RF coverage map(s) and/or satellites contacted or used by the
+                above-identified customer/number/account(s)/device(s), and periods of
+                telephone activation, session times, duration, and the identity of any
+                temporarily assigned network addresses; and
+           * subscriber identity information for customers who contact or are contacted
+                by the device using the target address;
+
+located at the following premises:
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                         2
+                                             003732
+AT&T
+11760 U.S. Highway 1, Suite 300
+North Palm Beach, FL 33408-3029
+
+
+        You are therefore commanded to search the above-described premises for the property
+
+described above, to seize it if found and bring it promptly before the court above named. This
+
+warrant shall be executed within 14      days of issuance, and is authorized for daytime and.
+
+nighttime service (pursuant to Idaho Criminal Rule 41, "daytime" means the hours between
+
+6:00 a.m. and 10:00 p.m. PST).
+
+
+       FURTHER, there is probable cause to believe that use of a pen register and/or trap
+and trace device will lead to law enforcement acquisition of real time pen register and/or
+                                                                                             trap
+
+and trace information, and that this information would be evidence related to the
+                                                                                  crime(s) of
+
+homicide which are currently under the control of AT&T. The court finds that Brett Payne,
+
+investigating officer, and Ashley Jennings, Senior Deputy Prosecutor, has certified to the
+
+"court that the information likely to be obtained by such installation and use is relevant to
+
+
+an ongoing criminal investigation.
+
+
+       Pursuant to LC. 18-6722(2) the Court finds that the identity of the person to whom
+
+the phone is leased or in whose name is listed to the telephone line to which the pen
+
+
+register or trap and trace device is to be attached is Bryan Kohberger; the identity of the
+
+person who is subject of the criminal investigation is Bryan Kohberger who resides at 1630
+
+Northeast Valley Road, Apt. G201, Pullman, WA; the phone number is 509-592-8458 and
+
+the physical location of the phone is currently Albrightsville, Pennsylvania; the phone's
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO I.C. 18-6722                       3
+                                         003733
+ service provider is:
+
+
+ AT&T
+ 11760 U.S. Highway 1, Suite 300
+ North Palm Beach, FL 33408-3029
+
+
+         The geographic limits of the trap and trace order are the United States and U.S
+
+ Territories.
+
+
+         IT IS HEREBY ORDERED pursuant to LC. 18-6722 that the above-identified
+
+investigators and investigative agency/agencies are authorized to install and use a pen register
+
+to register, filter, record and decode electronic or other
+                                                             impulses, including, but not limited to
+
+dialing, routing, addressing, signs and signaling information, or other impulses that together
+
+with date time and duration identify the numbers dialed, electronic mail
+                                                                              addressing or routing
+
+information, email address, IP address and/or other non-content information otherwise
+
+transmitted from the target address; and information tending to identify the device
+                                                                                           using the
+
+target address including any other unique identifiers for the device, including the information
+
+referenced above; and
+
+
+        IT IS FURTHER ORDERED pursuant to I.C. 18-6722 that the above-identified
+
+investigators and investigative agency/agencies are authorized to install and use a trap and
+
+trace device to trace, identify, register, filter, record and decode electronic or other
+                                                                                           impulses,
+
+including, but not limited to dialing, routing, addressing, signs and signaling information, or
+
+other impulses that, together with date time and duration, identify the numbers dialed,
+
+electronic mail addressing or routing information, email address, IP address and/or other non-
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                          4
+                                             003734
+content information otherwise transmitted to the target address, or other impulses that
+                                                                                              identify
+
+the originating numbers or digital addresses from which a wire or electronic communication
+
+is transmitted; and, if known, the customer or user name or identity associated with the
+
+
+device, number or address sending communications, signals, messages, or other electronic
+
+impulses to the above-identified target address, from any location within the United States;
+
+and
+
+
+        IT IS FURTHER ORDERED based upon probable cause, that the above-identified
+
+service provider, investigators and investigative agencies are authorized to use a cell site
+
+simulator in connection with the target address; and that any cell site simulator device may be
+
+used in any geographic area necessary to locate the device using the target address in real
+
+time; and that the above-listed service provider and any other person served with this order
+
+shall, upon request by law enforcement, assist by providing, on a 24-hour basis the listed
+
+investigative agency with all information tending to reveal or to lead to learning the location
+
+of the device using the target address, including positioning information such as GPS
+
+longitude/latitude or multilateration or precision location, prospective cell site location
+
+information (CSL), or other information tending to reveal the proximate or precise location
+
+of the device associated with the target address, including positioning information such as
+
+GPS longitude/latitude or multilateration or precision location, prospective cell site location
+
+information (CSLD), or other information tending to reveal the proximate or precise location
+
+of the device associated with the target address; and
+
+
+       IT IS FURTHER ORDERED that, for purposes of this order, the terms "cell site
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A.
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TOLC. 18-6722                           5
+                                          003735
+ simulator and "cell site simulator data" include pen register and
+                                                                      trap and trace, and data
+
+ derived from pen register and/or trap and trace for the target device, as those terms are defined
+
+ by LC. 18-6719 and also includes real time location information collected by a law
+
+ enforcement operated cell site simulator device and/or
+                                                          by a service provider when, at law
+
+ enforcement request, the provider deliberately seeks to locate the
+                                                                      target device, to the extent
+
+ the terms or technology overlap.
+
+
+
+        IT IS FURTHER ORDERED that the above listed service provider and any other
+
+person served with this order shall furnish agents of the above-identified investigative
+
+agency/agencies forthwith all information, facilities, and technical assistance necessary to
+
+accomplish the installation and/or operation of the pen register, trap and trace, and cell site
+
+simulator, and search of their facilities and records unobtrusively and with minimum
+
+interference to the services accorded persons with respect to whom the installation and/or use
+
+is to take place; and upon request from law enforcement and for the duration of this warrant;
+
+AT&T will provide ali RTT reports.
+
+        IT IS FURTHER ORDERED that this Order shall apply to, and the definition of
+
+target address shall include, any other account, target address, network, hardware or software
+
+identity or other unique device identifier, to which the target address has changed for the two
+
+months preceding the signing of this order through the end date of the authority
+                                                                                    granted
+
+pursuant to this order; and
+
+
+       IT IS FURTHER ORDERED, that investigators and service providers are authorized
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT To LC. 18-6722                        6
+                                           003736
+    to continue using the tools and techniques authorized
+                                                            by this order during any time that the
+
+    devices being monitored enter private property; and
+
+
+            IT IS FURTHER ORDERED that the investigators and investigative agencies using a
+
+    cell site simulator shall take all steps necessary to limit collection of any information or
+
+    metadata to the target address; take all steps necessary to
+                                                                  permanently delete any information
+
+    or metadata collected from any party not specified in this order
+                                                                       immediately following its
+
+    collection; and must not transmit, use, or retain such information or metadata for any purpose
+
+    whatsoever; and must delete any information or metadata collected from the device using the
+
+    target address within thirty days if there is no longer any probable cause to support the believe
+
+    that such information or metadata is evidence of a crime.
+
+
+            IT IS FURTHER ORDERED that the listed service provider and any other person or
+
+    entity providing assistance be compensated by the above-identified investigative
+
+    agency/agencies for reasonable expenses incurred in complying with this Order; and records
+
+    and information provided pursuant to this order should be provided in a
+                                                                               commercially-
+
+    reasonable electronic format and delivered forthwith via electronic mail as
+                                                                                  specified by the
+
+    law enforcement officer serving this Order.
+
+
+            IT IS FURTHER ORDERED that this Order is effective on December 23, 2022 at
+
+4:53 pm PST     to be completed no later than..   February 23, 2023           at the same time of
+
+    day..
+
+
+            IT IS FURTHER ORDERED pursuant to IC. 18-6722(4)(a) this order will be sealed
+    SEARCH WARRANT
+    AND ORDER FOR A
+    PEN REGISTER OR A
+    TRAP AND TRACE DEVICE
+    AND NON-DISCLOSURE ORDER
+    PURSUANT TO LC. 18-6722                         7
+                                              003737
+ until otherwise ordered by the court; and
+
+
+        IT IS FURTHER ORDERED pursuant to I.C. 18-6722(4)(b) that the service provider
+
+ to whom this order is addressed, or any other person served with this order, are
+                                                                                    prohibited
+
+ from giving notice of the existence of this order to any person, including the subscriber or
+
+customer to whom the target address relates, except that the service provider may disclose the
+
+order to its legal counsel for purpose of receiving legal advice.
+
+
+GIVEN UNDER MY HAND and DATED this 231d                             day of December, 2022, at
+     4:53
+
+
+
+                                                        Magistrate fudge
+
+
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO L.C. 18-6722                       8
+                                             003738
+                                                                                                                                                                                                                                                                                                                                                                           In
+                                                                                                                                 and                                                                                                                                  TO
+                                                                                                                                                     2022                                          1122
+                                                                                                                                                                                                                                                                                       "MPD,               North                                                           the
+                                                                                                                                                                                                                                                                                                                          11760
+                                                                                                                                                                                                                                                                                                                                      AT&T
+         SEARCH
+                                                                                                                                                     at                            number                         consists
+                                                                                                                                                                                                                                                                                                                                                                                                    IN
+                                                                                                                                 stored
+                                                                                                          1..All                                                                                  King            of
+                                         date                                                                                                                                                                                   establishing                                                               Palm
+                                                                                                                                                                                                                                                 Brett
+                                                                                                                                                                                                                                                                      ANY                                                                                                  Matter
+                                                         device                                                                                      1200                                                                                                                                                                                                                                           THE
+                                                                                                                                                                                                                                                                                   Case.No,
+
+                                         and                                                                                                                                                       Road
+                                                                                                                                                                                                                                                                                                                                                                           of
+                                                                                             telephone
+                         purchased                                                                                                                                                                                certain
+         WARRANT
+                                                                                                                                                    a.m.                                                                                                                                               Beach,
+                                                                              address(es),                                                                                                         in                                                                                                                                                                      the
+                                                                                                                                                                                                                                               Payne,
+                           if                                                                                                                                                                                                   grounds
+                                                                                                                                                                                                                                                                                                                        U.S.Highway
+                                                                                                                                                                                                                                                                      PEACE
+                                                                                                                                                                                                                                                          ENFORCING
+                                                                                                                                                                                                                                                                                                                                                                                            STATE
+                                                                                                                                                                                   509-592-8458                                                                                                            FL 1,
+                                                                              any
+                                                                                                                                                                                                                                  for
+                                                                                                                                                                                                                                                                                                                                                 Fora.SearchWarrantfor
+
+                                                                                                                                                                                                                                                                                                                                                                                            OF      DISTRICT
+
+                                                                                                                                 conamunications
+                                                                                                                                                                                                                  evidence
+                                                                                                                                                                                                                                               having
+                                                                                                                                                                                                                                                                                       22-M09903
+                                                                                                                                                                                                                                                          ANY
+                                                                                                                                                                                                  Moscow,                                                                                                                 Suite
+                                                                                             number(s),
+                                         deactivation
+
+                                                         identifiers/serial
+                                                                                other                                                                                                                                           issuing
+                         applicable;                                                                       customer/subscriber                                                     between                                                                                                                                                                               Application
+                                                                                                                                 held
+                                                                                                                                                                                                                                                                      OFFICER
+                                                                                                                                                                                                                                  a            given                                                                      300
+                                                                                                                                                                                                                                                          LAW
+                                                                                                                                 by                                                                                                                                                                                                                                                        IDAHO,   COURT
+                                                                                                                                                                                                   Idaho                                                                                                   33408-3029
+
+
+                                       date,                                                                                                                                                                                                    me
+                                                                                              social                                                                                               is           regarding                                 OF                                                                                                                                IN      OF
+                                                                                                                                                                                                                                  search
+                                                         numbers                                                                                                                                   on
+                                         and                                    customer                                                                                                                          the
+                                                                                                                                 AT&T,                                             November                                                    proof,     THE
+                                                                                                                                                                                                                                                                                                                                                                                           AND      THE
+                                                                                                          information,                                                                             the
+         1                                                                                                                                                                         12,
+                                                                                             security
+                                                                                                                                                                                                                                  warrant
+                                       point                                                                                                                                                                                                   upon                   AUTHORIZED
+
+                                                        (MEID,                                                                                                                                                                                                                                                                                                                             FOR
+003775
+
+                                                                                                                                                    PST.Informationshouldinclude
+                                                                                                                                                                                                                                                          STATE
+                                         of                                                                                                                                        2022            AT&T                           and
+                                                                                                                                 described                                                                                                                            TO
+                                                                              identifying                                                                                                                                                                                                              )                                     )
+                                                                                                                                                                                                                                               oath,                               )               )                                                                                   )            SECOND
+                                                                                                          including                                                                at                           investigation                             OF                                                                                                                               THE
+                                                        ESN,
+                                                                                                                                 in                 user
+                                                                                                                                                                                                                                                                                                                        )) ))
+                                                                                                                                                                                                                                                this
+                                                                                                          any                                                                                                     into
+                                                                                             number(s),
+                                                                                                                                                                                                   account
+                                                                                                                                                                                   1200                                         probable
+                                       purchase
+                                                        IMSI,                                                                    further                                                                                                       day
+                                                                                                                                                                                                                  the
+                                                                                                                                                     account
+                                                                                                                                                                                                                                                          IDAHO.      ENFORCE
+
+                                         or                                                                listed                                                                                                                                                                                                                                                         Case             COUNTY
+                                                                                                                                                                                   a.m.                                                                                                                                                                                                             JUDICIAL
+                                                                                               dates                                                                                                                              cause
+                                                                              information,
+
+                                                                                                                                 detail                                                                                                                               OR
+                                                        IMEI,                                                                                                                                                                     to                                                                                                                                      No.              OF
+                                                                                                                                                                                                                                                                                                                         SEARCH
+                                                                                               of                                as                                                PST                                                         showing
+                                                                                                                                                                                                   associated
+                                                                                                                                                                                                                crime(s)
+                                                                                                                                                                                   to
+                                         location
+                                                                                mobile
+                                                                                                          addresses,
+                                                                                                                                                                                                                  of
+                                                                                                                                                   information,
+                                                                                                                                                                                                   with                                                                                                                                                                   CR29-
+                                                        SUPI),                                                                                                                                                                    believe                             ASSIST
+                                                                                             birth,                                                                                                                                                                                                                                                                                                 DISTRICT
+                                                                                                                                                                                                                                                                                                                                                                                           LATAH
+                                                                                                                                 follows
+                                                                                                                                                                                                   the                                         probable               IN
+                                                                                                                                                                                                                                                                                                                                                                                                    OF
+                                                                                                           other
+                                         device
+                                                                                                                                                                                                                                                                                                                         WARRANT
+
+
+                                                                                handset                                                                                            November                       homicide
+         WU                                                                                                                                          location
+                                                                                                                                                                                                                                property
+                                                                                                                                                                                                                                                cause
+                                                                                                                                                                                                  phone
+                                                                                                                                                                                                                                                                                                                                                                                                    THE
+                                         was             activation             or           name(s),      listed
+                                                                                                                                                                                                                  at
+                                                                                                                                                                                   14,
+                   TNT                                                                                                                             data,
+         ek
+         AT
+                                                                                                                                                                                                                                                                                                                                                                                                               aifid              8
+                                                                                                                                                                                                                                                                                                                                                                                                                               "ON SHO
+                                                                                                                                                                                                                                                                                                                                                                                                                       wa ao
+  2.   Device Purchase Information. This is specifically to include the Date, Time and
+       Location of where the device or any pre-paid refill cards were purchased as well
+       as any information maintained about the purchase to include store name, store
+       number, terminal number, and amount of purchase;
+
+  3.   Any email addresses associated with the account or with the device that is
+       currently on file and stored in the normal course of business of the Service
+       Provider;
+
+  4, Call detail records, including detailed information in reference to all known
+     outgoing and incoming calls associated with the account, dates and times calls
+     were made, and duration of all calls made or received. This is to include any other
+     pertinent call detail records including special features codes, or any other codes
+     that are maintained in the normal course of business for the Service Provider, of
+     any cellular numbers identified in the course of the investigation. In addition to
+     voice calls, this would also include any detail records showing text messages,
+     MMS messages, or data activity;
+
+           a.   In the event the requested Call Detail Records contain other Service
+                Provider customer numbers, identified as either incoming or outgoing
+                calls, the Service Provider will provide subscriber information to the
+                specific numbers identified, if requested.
+
+  5.   Cell site information, to include all known cell towers associated with outgoing
+       and incoming calls (Call Detail Records). This information is to include any
+       sector information, azimuth for each identified sector, cell site location, handoff
+       tower and sector, time on tower information, and any other related material that
+       would be necessary to identify the location and sector in reference to the cell site
+       information associated with the call detail records. In the event text messages,
+       MMS messages, Data activity, including IP sessions and destination addresses
+       that were produced, these records are also included in this request;
+
+  6.   Cell site locations for all Service Provider Cell Sites, sector information,
+       including azimuth headings, in the regional market associated with the requested
+       cell site information;
+
+  7.   Location information, to include any estimated or known longitude and latitude
+       of the cellular device's current location, or approximate location, information
+       received by cell tower(s) in reference to direction and distance from the tower a
+       device may be located (timing and triangulation information). Radio Frequency
+       signal strengths, direction, and transmission information. The geographical
+       constraints of location information will be limited to the United States;
+
+  8.   Location information can be in the form of historical records. This would include
+
+
+SEARCH WARRANT                                2
+
+                                         003776
+         any reports of device activity that would include the approximate latitude and
+         longitude of the device at the time of the activity, estimated margin of error,
+         direction and distance from the tower, and other location related information
+         commonly referred to as Real Time Tool (RTT), Timing Advance Information,
+         Location Database of Record (LocDBoR). This further includes any other report
+         similar in nature that would provide an estimate of the cellular phone on the
+         Service Provider's network;
+
+    9.   All text message and/or MMS messages, including message content, currently
+         stored in the normal course of business for the Service Provider, to include any
+         cloud services which allow for the long-term storage of both voicemails and
+         SMS/MMS messages;
+
+    10. Cloud Data, any content that may have been backed up to Cloud Storage for the
+        listed dates/times. If said Cloud Storage has been provided by a third-party
+         provider, please provide relevant contact information for that provider;
+
+located within the following described premises:
+
+          AT&T
+         Attn: Global Legal Demands Center
+         11760 US Highway 1, Suite600
+         North Palm Beach, FL 33408
+         gldc@att.com
+
+
+         Please provide this information to Brett Payne at bpayne@ci.moscow.id.us in digital
+
+format on a compact disk in Excel, PDF or TXT format. You are therefore commanded to
+
+search the above-described premises for the property described above, to seize it if found and
+
+
+bring it promptly before the court above named. This warrant shall be executed within 14
+
+days of issuance, and is authorized for daytime or nighttime service (pursuant to Idaho
+
+Criminal Rule 41, "daytime" means the hours between 6:00 a.m. and 10:00 p.m. PST), and
+
+under the following special directions:
+
+         **THIS SEARCH WARRANT IS ISSUED FOR A LAW
+         ENFORCEMENT PURPOSE, THE SERVICE PROVIDER (AT&T) IS
+         ORDERED NOT TO DISCLOSE THE EXISTENCE OR CONTENTS OF
+         THIS SEARCH WARRANT OR THE INFORMATION FURNISHED IN
+         RESPONSE TO THE SEARCH WARRANT FOR A PERIOD OF 90
+
+
+SEARCH WARRANT                                 3
+
+
+                                           003777
+     DAYS OR UNTIL FURTHER ORDER OF THE COURT.
+
+     THE SERVICE PROVIDER SHALL DISCLOSE THE DESCRIBED
+     PROPERTY AND INFORMATION WITHIN 14 DAYS OF
+     ISSUANCE.**
+
+
+GIVEN UNDER. MY HAND and DATED this   23rd      day of December, 2022, at
+        10:03
+
+
+                                      Magistrate Judge
+
+
+
+
+SEARCH WARRANT                   4
+
+                             003778
+                 AT&T Mobility Carrier Request Form
+         avat    11760 U.S. Hwy One, 6th Floor, North Palm Beach, FL 33408
+
+                Phone: 800-635-6840                      Fax: 888-938-4715                  Email: gldc@att.com
+CONTACT INFORMATION
+Requesting Agency: FBI-Salt Lake City
+LEA Tracking Number: ATT-SU-20221224-0001                                             Date: 12/24/2022
+Primary POC: Seth Footlik                                                             Office: (801) 579-6949             Mobile: (435) 680-3481
+Email Addr: syfootlik@fbi.gov                                                         Fax:
+Additional Authorized Contacts:                                                       Billing Address:
+                                                                                       Federal Bureau of Investigation
+<See Attachment>
+                                                                                       Mailstop/Attn to: FBI ETMU
+                                                                                       FRF. Building 7795RA
+                                                                                       Quantico. VA 27135
+ **Please include last four digits of Target's telephone number and the FBI Tracking Number on invoice**
+
+LEGAL AUTHORITY
+Legal Authority: Criminal Court Order                                                 Court Order / Docket Number : cR29-
+                                                                                                                                          Time
+Action: New Activation                                                                Date/Time Signed: 12/23/2022 05:53 PM               Zone   MST
+Cell Site Location Authorized: Yes                                                    Judges Name: Megan Marshall
+PROVISIONING INFORMATION
+
+Target Identifier: (509) 592-8458                            International Number               IMSI/MSID
+CALEA Services                                                              Historical Records Services
+  Pen Register / Trap and Trace                                              Start 06/23/2022              End 12/23/2022
+   Start 12/23/2022     End 02/23/2023                                       x    Call Detail Records           x   w/ Cell Site Location
+     x    Telephony                   [XI   w/ Cell Site Location            C w/Pctpp                              w/ PCMD / RTT / TRUECALL / NELOS
+     x    Text Messaging                    w/PcTDD                          D1   stored Content                    Subscriber Info
+                     Talk                   Packet Data/WiFi                 Email records to: njballance@fbi.gov
+           PTT ID:
+                                                                                  Cell Tower Search
+  Full Content
+   Start                        End                                          Email records to:
+                                                                            Location Services
+    OC    Telephony                   CO w/PR/TT
+                                                                             Start 12/23/2022              End 02/23/2023 17:53:00 MST
+                                      C1 w/ Cell Site Location
+                                                                             x                             x
+          Packet Data/wiFi            0 w/PctTpD                                  GPS PING                     CALEA Event-Based Location
+
+           Push-To-Talk                                                             Frequency:       1sMin OJ 30min           60 Min  1
+           PTT ID:                                                          Primary email:   precisionlocation@4A35rack6.com
+                                                                            Secondary email: precisionLocation@RakeReceiver.com
+Audio Delivery: Dial Down 1:                                          Dial Down 2:                                  Method:
+Call Data Channel Delivery: IP:                                                               Port:                         CFID:
+
+Packet Data/WiFi Delivery: IP:                                                                 Port:                          CFID:
+Markets/Switches:
+                          Northeast, Southeast, Central, West
+
+
+REMARKS/SPECIAL INSTRUCTIONS
+Non-disclosure order included. Past seven (7) days of Timing Advance data, as available. Please include Cellular Analysis Survey
+Team SA Sean Kennedy, as well as SA Nicholas Ballance and Anthony Vega as additional contacts. Thank you,
+ADDITIONAL CONTACTS
+
+ Wilson, Brandon      Woodall, Brian
+
+
+ Fellenz, Erich       Capson, Karen
+
+
+ Watson, Ken          Kohn, Michael
+
+
+  Footlik, Seth       Fellenz, Mandy
+
+
+ Wilson, Robert       Nielsen, Jeremy
+      IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+
+                                                      )
+In the Matter of the Application                      )       Case No. CR29-
+For a Search Warrant for:                             )
+                                                      )       SEARCH WARRANT AND
+AT&T                                                  )       ORDER AUTHORIZING
+11760 U.S. Highway 1, Suite 300                       )       INSTALLATION AND/OR
+North Palm Beach, FL 33408-3029                       )       USE OF A PEN REGISTER,
+                                                      )       TRAP Al\l) TRACE DEVICE
+                                                      )
+                                                      )       AND
+                                                      )       NON-DISCLOSURE ORDER
+                                                      )       PURSUANT TO LC. 18-6722
+MPD Case No. 22-M09903                                )
+
+TO:    ANY PEACE OFFICER AUTHORIZED TO ENFORCE OR ASSIST IN
+       ENFORCING ANY LAW OF THE STATE OF IDAHO.
+
+Brett Payne, having given me proof: upon oath, this day showing probable cause establishing
+
+grounds for issuing a search warrant and probable cause to believe there are records related to
+
+the crime(s) of homicide at 1122 King Road, Moscow, Idaho and are currently under the
+
+control of AT&T for historic call detail records for the telephone number 509-592-8458
+
+with cell sites for all voice, sms, and data connections between June 23, 2022, to present,
+
+to include:
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+At'\'D NON-DISCLOSURE ORDER
+PURSUANT TO l.C. 18-6722
+               Subscriber or Registration Account Information, including subscriber or
+               registered user name or identity, address, billing/payment information;
+               account initiation date; type of account; custom account features; additional
+               phone numbers; addresses (both physical and electronic) and/or other
+               contact information; additional persons having authority on the account; any
+               additional accounts linked to the subject account; account changes for the
+               target address and any linked accounts; and
+
+               Device Identifying Information for the device using the target address, such
+               as phone number, MAC address, IP address, and other unique hardware and
+               software identifiers; and
+
+               Usage and Location Information, including stored and transactional records
+               for all voice, sms and data connections such as inbound and outbound call,
+               message, radio or other communication detail data, together with date and
+               time of each communication; including positioning information such as
+               GPS longitude/latitude or multilateration or precision location, historical
+               and prospective cell site location information (CSLD, or other information
+               tending to reveal the proximate or precise location of the device associated
+               with the above-identified target address; E911 data for the target address;
+               and, for internet communications, detail such as IP address, Port, Socket
+               Address, VoIP address, routing information; the address(es) from which the
+               communication is made, conducted, and terminated; non-content text or
+               email, header, IP address; and other non-content information; and
+
+               such as cell site positioning information, GPS longitude/latitude or
+               multilateration or precision location (including RTT and LocDBoR reports
+               or similarly generated location information), Timing Advance and/or True
+               Cail or other information tending to reveal the proximate or precise location
+               of the device associated with the target address; E911 data for the target
+               address; and
+
+               Physical address of cellular antenna towers used by the customer's device,
+               together with RF coverage map(s) and/or satellites contacted or used by the
+               above-identified customer/number/account(s)/device(s), and periods of
+               telephone activation, session times, duration, and the identity of any
+               temporarily assigned network addresses; and
+
+               subscriber identity information for customers who contact or are contacted
+               by the device using the target address;
+
+located at the following premises:
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER.
+PURSUANT TO LC. 18-6722                      2
+AT&T
+11760 U.S. Highway 1, Suite 300
+North Palm Beach, FL 33408-3029
+
+
+        You are therefore commanded to search the above-described premises for the property
+
+described above, to seize it if found and bring it promptly before the court above named. This
+
+warrant shall be executed within 14      days of issuance, and is authorized for daytime and
+
+nighttime service (pursuant to Idaho Criminal Rule 41, "daytime" means the hours between
+
+6:00 a.m. and 10:00 p.m. PST).
+
+
+       FURTHER, there is probable cause to believe that use of a pen register and/or trap
+
+and trace device will lead to law enforcement acquisition of real time pen register and/or trap
+
+and trace information, and that this information would be evidence related to the crime(s) of
+
+homicide which are currently under the control of AT&T. The court finds that Brett Payne,
+
+investigating officer, and Ashley Jennings, Senior Deputy Prosecutor, has certified to the
+
+court that the information likely to be obtained by such installation and use is relevant to
+
+an ongoing criminal investigation.
+
+
+
+       Pursuant to I.C. 18-6722(2) the Court finds that the identity of the person to whom
+
+the phone is leased or in whose name is listed to the telephone line to which the pen
+
+
+register or trap and trace device is to be attached is Bryan Kohberger; the identity of the
+
+person who is subject of the criminal investigation is Bryan Kohberger who resides at 1630
+
+Northeast Valley Road, Apt. G201, Pullman, WA; the phone number is 509-592-8458 and
+
+the physical location of the phone is currently Albrightsville, Pennsylvania; the phone's
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                        3
+service provider is:
+
+
+AT&T
+11760 U.S. Highway 1, Suite 300
+North Palm Beach, FL 33408-3029
+
+
+        The geographic limits of the trap and trace order are the United States and U.S.
+
+Territories.
+
+
+        IT IS HEREBY ORDERED pursuant to LC. 18-6722 that the above-identified
+
+investigators and investigative agency/agencies are authorized to install and use a pen register
+
+to register, filter, record and decode electronic or other impulses, including, but not limited to
+
+
+dialing, routing, addressing, signs and signaling information, or other impulses that together
+
+with date time and duration identify the numbers dialed, electronic mail addressing or routing
+
+information, email address, IP address and/or other non-content information otherwise
+
+transmitted from the target address; and information tending to identify the device using the
+
+
+target address including any other unique identifiers for the device, including the information
+
+referenced above; and
+
+
+        IT IS FURTHER ORDERED pursuant to IC. 18-6722 that the above-identified
+
+investigators and investigative agency/agencies are authorized to install and use a trap and
+
+trace device to trace, identify, register, filter, record and decode electronic or other impulses,
+
+
+including, but not limited to dialing, routing, addressing, signs and signaling information, or
+
+other impulses that, together with date time and duration, identify the numbers dialed,
+
+electronic mail addressing or routing information, email address, IP address and/or other non-
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER.
+PURSUANT TO LC. 18-6722                          4
+content information otherwise transmitted to the target address, or other impulses that identify
+
+the originating numbers or digital addresses from which a wire or electronic communication
+
+is transmitted; and, if known, the customer or user name or identity associated with the
+
+device, number or address sending communications, signals, messages, or other electronic
+
+impulses to the above-identified target address, from any location within the United States;
+
+and
+
+
+        IT IS FURTHER ORDERED based upon probable cause, that the above-identified
+
+service provider, investigators and investigative agencies are authorized to use a cell site
+
+simulator in connection with the target address; and that any cell site simulator device may be
+
+used in any geographic area necessary to locate the device using the target address in real
+
+time; and that the above-listed service provider and any other person served with this order
+
+shall, upon request by law enforcement, assist by providing, on a 24-hour basis the listed
+
+investigative agency with all information tending to reveal or to lead to learning the location
+
+of the device using the target address, including positioning information such as GPS
+
+longitude/latitude or multilateration or precision location, prospective cell site location
+
+information (CSLD, or other information tending to reveal the proximate or precise location
+
+of the device associated with the target address, including positioning information such as
+
+GPS longitude/latitude or multilateration or precision location, prospective cell site location
+
+information (CSLI), or other information tending to reveal the proximate or precise location
+
+of the device associated with the target address; and
+
+
+        IT IS FURTHER ORDERED that, for purposes of this order, the terms "cell site
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                          §
+simulator" and "cell site simulator data" include pen register and trap and trace, and data
+
+derived from pen register and/or trap and trace for the target device, as those terms are defined
+
+by LC. 18-6719 and also includes real time location information collected by a law
+
+enforcement operated cell site simulator device and/or by a service provider when, at law
+
+enforcement request, the provider deliberately seeks to locate the target device, to the extent
+
+the terms or technology overlap.
+
+
+        IT IS FURTHER ORDERED that the above listed service provider and any other
+
+person served with this order shall furnish agents of the above-identified investigative
+
+agency/agencies forthwith all information, facilities, and technical assistance necessary to
+
+accomplish the installation and/or operation of the pen register, trap and trace, and cell site
+
+simulator, and search of their facilities and records unobtrusively and with minimum
+
+interference to the services accorded persons with respect to whom the installation and/or use
+
+is to take place; and upon request from law enforcement and for the duration of this warrant;
+
+AT&T will provide all RTT reports.
+
+        IT IS FURTHER ORDERED that this Order shall apply to, and the definition of
+
+target address shall include, any other account, target address, network, hardware or software
+
+identity or other unique device identifier, to which the target address has changed for the two
+
+months preceding the signing of this order through the end date of the authority granted
+
+
+pursuant to this order; and
+
+
+       IT IS FURTHER ORDERED, that investigators and service providers are authorized
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER ORA
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                         6
+    to continue using the tools and techniques authorized by this order during any time that the
+
+    devices being monitored enter private property; and
+
+
+            IT IS FURTHER ORDERED that the investigators and investigative agencies using a
+
+    cell site simulator shall take all steps necessary to limit collection of any information or
+
+   metadata to the target address; take all steps necessary to permanently delete any information
+
+    or metadata collected from any party not specified in this order immediately following its
+
+    collection; and must not transmit, use, or retain such information or metadata for any purpose
+
+   whatsoever; and must delete any information or metadata collected from the device using the
+
+   target address within thirty days if there is no longer any probable cause to support the believe
+
+   that such information or metadata is evidence of a crime.
+
+
+            IT IS FURTHER ORDERED that the listed service provider and any other person or
+
+    entity providing assistance be compensated by the above-identified investigative
+
+   agency/agencies for reasonable expenses incurred in complying with this Order; and records
+
+    and information provided pursuant to this order should be provided in a commercially-
+
+    reasonable electronic format and delivered forthwith via electronic mail as specified by the
+
+    law enforcement officer serving this Order.
+
+
+            IT IS FURTHER ORDERED that this Order is effective on December 23, 2022 at
+
+4:53 pm PST      to be completed no later than    February23,2023              at the same time of
+
+
+    day.
+
+
+            IT IS FURTHER ORDERED pursuant to LC. 18-6722(4)(a) this order will be sealed
+   SEARCH WARRANT
+   AND ORDER FOR A
+   PEN REGISTER OR A
+   TRAP AND TRACE DEVICE
+   AND NON-DISCLOSURE ORDER
+   PURSUANT TO LC, 18-6722                           7
+until otherwise ordered by the court; and
+
+
+        IT IS FURTHER ORDERED pursuant to I.C. 18-6722(4)(b) that the service provider
+
+to whom this order is addressed, or any other person served with this order, are prohibited
+
+from giving notice of the existence of this order to any person, including the subscriber or
+
+customer to whom the target address relates, except that the service provider may disclose the
+
+order to its legal counsel for purpose of receiving legal advice.
+
+
+GIVEN UNDER MY HAND and DATED this 29rd                             day of December, 2022, at
+     4:53            mn.
+
+
+
+                                                          Va
+                                                        Magis
+
+
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                         g
+

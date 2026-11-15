@@ -1,0 +1,46 @@
+07/08/25                        Moscow Police Department                    1272
+12:07                        Law Supplemental Narrative:            Page:      1
+  Details
+Incident Number       22-M09903          Name   Brett Payne
+Sequence Number       288                Date   11:47:56 07/25/24
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Supplemental #73 Correction-#157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+NA
+3.        Narrative
+
+On July 25, 2024 I was asked by the prosecution in this case to review my
+supplement number #73 to clarify where the "94" samples were in relation to this
+supplement as I only listed four samples as being booked into evidence. I
+reviewed my supplemental and readily recognized there was a typing error. The
+sentence reads "In addition, there were more blood spatter spots on the wall on
+the entryway into the living room. Samples of each were collected 94 in total)
+and ISP Det. Talbott took photos of the residence." The error occurred when I
+typed "94 in total)". This was supposed to read "(4 in total)". I failed to hold
+the shift key to select the parentheses on the "9" key which resulted in a "9"
+being typed instead of a "(".
+The sentence was meant to read as follows: In addition, there were more blood
+spatter spots on the wall on the entryway into the living room. Samples of each
+were collected (4 in total) and ISP Det. Talbott took photos of the residence.
+
+4.        Other
+NA
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+CPL Payne #157
+Thu Jul 25 11:48:40 PDT 2024
+Reviewed By:
+Capt. Dustin Blaker #108
+Thu Jul 25 12:51:17 PDT 2024
+

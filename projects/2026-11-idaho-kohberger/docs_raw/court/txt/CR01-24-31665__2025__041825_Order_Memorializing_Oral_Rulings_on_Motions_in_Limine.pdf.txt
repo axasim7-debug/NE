@@ -1,0 +1,871 @@
+                                                                            Filed: 04/18/2025 09:34:53
+                                                                            Fourth Judicial District, Ada County
+                                                                            Trent Tripple, Clerk of the Court
+                                                                            By: Deputy Clerk Waters, Renee
+                                                                                             -
+
+
+
+
+          IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+
+               THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO,
+
+             Plaintiff,                                Ada County Case No. CR01-24-31665
+
+                                                       ORDER MEMORIALIZING ORAL
+ BRYAN C. KOHBERGER,                                   RULINGS ON MOTIONS IN LIMINE
+
+             Defendant.
+
+
+
+I.     INTRODUCTION
+       Before the Court are several motions in limine filed by both Defendant and the State. Oral
+
+argument on motions was held on April 9, 2025. On several motions, the Court rendered oral
+
+rulings from the bench. This Order serves to memorialize those oral rulings, together with the
+findings the Court made during the hearing.
+II.    STANDARDS
+       Evidence is relevant if it has "any tendency to make the existence of any fact that is of
+
+consequence to the determination of the action more probable or less probable than it would be
+without the evidence." I.R.E. 401. "All relevant evidence is admissible except as otherwise
+
+provided by these rules or by other rules applicable in the court of this state." I.R.E. 402.
+"Although relevant, evidence may be excluded if its probative value is substantially outweighed
+by the danger of unfair prejudice, confusion of the issues, or misleading the jury, or by
+considerations of undue delay, waste of time, or needless presentation of cumulative evidence."
+
+I.R.E. 403. "The question of whether evidence is relevant is reviewed de novo, while the
+decision to admit relevant evidence is reviewed for an abuse of discretion." State v. Shutz, 143
+Idaho 200, 202, 141 P.3d 1069, 1071 (2006).
+
+       On discretionary matters, the trial court must: 1) correctly perceive the issue as one of
+
+discretion; 2) act within the outer boundaries of its discretion; 3) act consistently with the legal
+standards applicable to the specific choices available to it, and; 4) reach its decision by the
+
+exercise of reason. Lunneborg v. My Fun Life, 163 Idaho 856, 863, 421 P.3d 187, 194 (2018).
+
+
+
+
+                                                   1
+HI.    ANALYSIS
+       A.      Defendant's MIL #1 re: Inflammatory Evidence
+       Defendant moves under IRE 403 to prevent the State from introducing testimony and
+
+evidence that is "exceptionally inflammatory," arguing it is irrelevant and/or unfairly prejudicial.
+
+The Court finds this motion is premature. As with any potentially prejudicial evidence, the Court
+must first consider whether it is relevant and material as to an issue of fact under IRE 401 before
+
+assessing whether its probative value is substantially outweighed by the danger of unfair
+
+prejudice. State v. Winn, 121 Idaho 850, 853, 828 P.2d 879, 882 (1992). At this point, Defendant
+has not identified what specific evidence he wants kept out or otherwise defined "exceptionally
+
+inflammatory." Issuing an order as requested by Defendant would lack any substance; it would
+simply require the State to abide by evidentiary rules and prosecutorial responsibilities when
+presenting its case. The Court finds this unnecessary and, therefore, DENIES the motion.
+However, this was a particularly horrific murder and there will be exceptionally graphic
+
+depictions of the victims and crime scene. Prior to seeking the admission of this evidence, the
+State is required to provide copies to Defendant. If Defendant believes the evidence is
+
+cumulative, unnecessary or otherwise prejudicial, he can seek to take the matter up outside the
+
+presence of the jury.
+       B.      Defendant's MIL #3 re: Use of the Term Murder
+                                                                                       55 46
+       Defendant seeks to prohibit the use of the words "murder,
+                                                                   33 46
+                                                                           murderer,           murdered,"
+"murder weapon," and similar forms of the word "murder" as applied to Defendant. Again,
+
+Defendant seeks an order requiring the State to abide by the evidentiary rules, particularly the
+
+prohibition against argument outside of closing. This is unnecessary. The State acknowledges it
+would be improper to refer to Defendant as the murderer other than stating what the allegations
+
+are and has no plans to do so or otherwise elicit similar testimony from its witnesses. Thus, the
+
+motion is DENIED as unnecessary.
+       C.      Defendant's MIL #4 re: Use of Terms Psychopath or Sociopath
+       Defendant moves to exclude any reference to the terms "psychopath" or "sociopath" at
+
+trial, arguing it is unfairly prejudicial under IRE 403 and improper opinion testimony under IRE
+702. The State does not intend to use these terms at trial. Indeed, the terms are irrelevant given
+
+the lack of evidence Defendant has been diagnosed with a personality disorder or similar mental
+
+
+                                                 2
+illness. Their use would also be highly prejudicial. Thus, the State is not to use these terms, or
+their equivalents, at the guilt phase of trial. If, however, the State believes the door has been
+
+opened to allow the use of such terms, it shall raise the matter in advance outside the presence of
+the jury. The motion is GRANTED.
+
+       D.      State's MIL re: Improper Death Penalty Comments
+       The State moves under IRE 401 and 403 to preclude defense counsel from making what
+it calls "improper" comments about the death penalty; specifically, that the State is "attempting
+
+to kill" Defendant, which defendant counsel has stated in past hearings. Defendant stipulates to
+
+using phrases that comport with "existing language in statute and jury instruction." Again, the
+Court is unwilling to enter an order requiring defense counsel to act professionally and comply
+
+with existing rules. As defense counsel recognizes, any such statements would be argumentative
+and improper. The Court trusts defense counsel will comport themselves accordingly. The
+
+motion is DENIED as unnecessary.
+
+       E.      Defendant's MIL #8 re: Unnoticed 404(b) Evidence
+       Defendant moves in limine to exclude any IRE 404(b) evidence that has not already been
+noticed by the State which, at this point, is only Defendant's pre-homicide traffic stop. By way of
+
+example of allegedly unnoticed 404(b) evidence, Defendant notes that the State intends to
+
+present evidence of Defendant's graduate paper regarding how to conduct a crime scene
+
+investigation and his Amazon purchase records, both of which Defendant contends are subject to
+IRE 404(b).
+       As an initial matter, Defendant appears to misapprehend the scope of IRE 404(b). The
+rule provides that "[e]vidence of a crime, wrong, or other act is not admissible to prove a
+
+person's character in order to show that on a particular occasion the person acted in accordance
+with the character." IRE 404(b)(1). Defendant takes the position that "other acts" encompasses
+
+any other acts of any nature other than the crime at issue. The rule is not so broad. Its purpose is
+to govern the use of character evidence. It forbids the use of evidence "to show a defendant's
+
+criminal propensity." State v. Johnson, 148 Idaho 664, 667, 227 P.3d 918, 921 (2010) (citing
+State v. Sheldon, 145 Idaho 225, 227, 178 P.3d 28, 30 (2008)). "[I]f the evidence does not bear
+
+upon the defendant's character, it is not subject to ILR.E. 404(b)." State v. Whitaker, 152 Idaho
+945, 949, 277 P.3d 392, 396 (Ct. App. 2012) (citing State v. Norton, 151 Idaho 176, 190, 254
+
+
+
+                                                   3
+P.3d 77, 91 (Ct.App.2011)).' Defendant's Amazon purchases and his graduate paper discussing
+
+proper crime scene investigation techniques do not, standing alone, bear on his character or
+
+suggest he has a propensity to commit crimes, including those charged."
+         Further, the Court is unwilling at this point to preclude the State from filing a 404(b)
+notice in the future if it determines its evidence is encompassed by the rule. There are still four
+
+months until trial begins, well within the "reasonably in advance of trial" time frame required by
+
+the rule. The State acknowledges its notice obligations under the rule and intends to comply with
+
+the rule with regard to any proposed IRE 404(b) evidence. The timeliness of such future notice
+
+will be analyzed if and when such notice is given and objections can be advanced at that time.
+The motion is therefore DENIED.
+         F.       Defendant's MIL #10 re: Improper Expert Testimony                      -
+                                                                                             Mittelman
+                  Defendant's MIL #11 re: Exclude IGG Evidence
+                  State's MIL re: Investigative Genetic Genealogy
+         Both parties move to exclude evidence of law enforcement's Investigative Genetic
+
+Genealogy (IGG) testing in this case, but for entirely different reasons. Given the parties'
+agreement to not present any IGG evidence, those reasons need not be discussed given the
+bottom-line agreement and the Court GRANTS the motions. The State has indicated it will
+
+present evidence through Detective Brent Payne that Defendant's name was revealed to law
+enforcement through a "tip." To avoid issues at trial, the Court advises the parties to arrive at a
+
+mutually agreeable narrative about how the tip came about.' The parties are also directed to
+
+jointly craft a jury instruction advising the jurors to not concern themselves with the source or
+nature of the tip.
+
+
+
+
+' In
+    essence, the rule's reach is prior crimes, wrongful conduct or other prior acts of a nature from which a jury could
+conclude the person has a bad character and is therefore predisposed to commit crimes that that charged. This
+conduct is commonly described by Idaho courts as "prior bad acts." Whitaker, 152 Idaho at 949, 277 P.3d at 396.
+While the rule is not limited to "bad" acts, it does not implicate acts that do not bear on a defendant's poor character,
+even if that act is also evidence of the defendant's motive, intent, identity, etc. /d.
+
+2
+  Even if this evidence could qualify as character evidence     which it does not-Defendant has notice of the State's
+intent to rely on it.
+
+3
+ If agreement cannot be reached, the parties are to submit to the Court their proposed narratives prior to trial and the
+Court will decide how it will be presented.
+
+
+                                                            4
+           G.     Defendant's MIL #13 re: Conditions as Aggravator
+           Defendant moves to prevent the State from using Defendant's diagnosis of Autism
+
+Spectrum Disorder (""ASD") and the characteristics of his ASD as an aggravating factor at the
+
+penalty phase of trial. The State responds that it has no plans to use such evidence as an
+
+aggravating factor in light of Zant v. Stephens, 462 U.S. 862 (1983), but it will argue against and
+rebut Defendant's diagnosis to the extent he relies upon it as a mitigating factor.'
+
+           Despite the State's concession, the Court is concerned with the breadth of Defendant's
+motion. He is not only seeking to preclude the State from referencing his ASD diagnosis as an
+
+aggravator, but any symptom of his ASD. Given the broad nature of ASD symptoms, the Court
+foresees an issue potentially arising at trial whereby the State makes reference to an action taken
+
+by Defendant that Defendant contends is a symptom of his ASD. That evidence is not currently
+before the Court. Thus, at this point, the Court will preclude the State from arguing or presenting
+
+evidence of Defendant's ASD diagnosis as an aggravator, but it is not in a position to rule on
+
+whether any particular evidence must be excluded on grounds that it evidences a symptom of
+
+Defendant's ASD. The motion is, therefore, GRANTED, in part only.
+           H.     State's MIL re: Alternative Perpetrator Evidence
+          The State seeks an order prohibiting Defendant from offering "alternate perpetrator"
+evidence without first making a showing that such evidence is relevant and admissible under IRE
+401 and IRE 403. These rules govern the standard of admissibility for alternate perpetrator
+
+evidence. State v. Meister, 148 Idaho 236, 220 P.3d 1055 (2009) ("Mere inferences that another
+
+person could have committed the crime will most likely not be relevant, and if relevant will still
+be subject to the limitation provisions of I.R.E. 403."). Defendant acknowledges his burden
+
+under Meister, but argues the State's motion is premature. According to Defendant, this case is
+
+"full of alternate perpetrators" and he intends to produce offers of proof as to alternate
+
+perpetrators.
+           While Defendant is correct that such offers of proof can be made at trial, this case is not
+well-suited to waiting until the time of trial to do so, particularly if Defendant intends to submit
+
+multiple offers of proof. Laying foundation for the admission of the evidence will likely take a
+
+
+'To the extent Defendant introduces evidence of his ASD as a mitigating factor, the State is allowed to confront that
+evidence so that the jury can afford it appropriate weight. I.C. § 19-2515(6). It cannot, however, attach an aggravator
+label to it.
+
+
+                                                           5
+significant amount of time. After all, Defendant cannot merely show another person could have
+committed the crime; rather, there must be "evidence (direct or circumstantial) linking the third
+
+person to the actual perpetration of the crime." 2 Clifford S. Fishman and Anne Toomey
+
+McKenna, Jones on Evidence § 13: 38.50 (7th ed.) (Dec. 2024 update). To avoid undue delay at
+trial, Defendant must present the offer(s) of proof no later than May 14, 2025 so the matter can
+be addressed at the pretrial conference.° The Court will RESERVE ruling on the motion.
+
+         I.       Defendant's MIL #14 re: Statistical Analysis
+         Defendant moves in limine to exclude any misleading comments about the meaning of a
+
+"likelihood ratio" for DNA purposes. Specifically, Defendant seeks to avoid attempts to define
+likelihood ratio through a comparison to the world population.® The State agrees that this type of
+
+comparison is inappropriate. The Court GRANTS Defendant's motion insofar as it applies to the
+
+question asked by the prosecutor at the grand jury proceedings, which both sides agree was not
+
+proper. However, the Court will not dictate how the question is to be asked at trial. If Defendant
+believes there is a similar misrepresentation as to the likelihood ratio at trial, he can object at that
+time.
+
+         J.       Defendant's MIL #5 re: Inconclusive Data
+         Defendant moves to limit expert testimony about the Idaho State Police Forensic Lab's
+statistical analysis of a swab taken from the fingernail clippings of Madison Mogen ("Item
+
+Q13.1"). The testing revealed a likelihood ratio ("LR") in the "inconclusive" range as to whether
+Defendant was a potential contributor to the DNA mixture. During her grand jury testimony, the
+
+lab analyst, Jade Miller, testified that "inconclusive" meant she was "unable to say one way or
+
+another whether or not [Defendant] is included in the mixture." Defendant argues this is
+
+misleading language in that it allows for an inference that Defendant might be included, which he
+asserts is inaccurate. The State indicates it will not offer the results of Q13.1 as inculpatory
+
+evidence, which Defendant agrees renders his motion moot. However, if the State changes
+
+
+5
+ The scope of the preclusive effect of this ruling includes suggesting that specific individuals looked at and cleared
+by law enforcement are alternate perpetrators without first complying with a showing required by this Order.
+
+®Defendant's motion is directed toward the prosecutor's questioning of a lab analyst at the grand jury proceedings.
+There, the analyst testified that her DNA testing showed the profile developed from the knife sheath was 5.37
+octillion times more likely to be seen if Defendant was the source than if an unrelated individual randomly selected
+from the general population is the source. In an attempt to clarify this result, the prosecutor asked whether this meant
+that "if there were 1.37 octillion people that it would be that Bryan Kohberger is one out of that many octillion." The
+lab analyst explained why this comparison is not a proper way to view a likelihood ratio.
+
+                                                           6
+course with regard to the evidence, it must first raise the matter with the Court outside the
+
+presence of the jury so the anticipated testimony regarding the meaning of "inconclusive" can be
+discussed. At this time, however, the motion is DENIED as moot.
+
+           K.      Defendant's MIL #9 re: Excluding Amazon Click Activity Evidence at Trial
+           Defendant moves to exclude any evidence of Defendant's Amazon purchase history or
+
+"click activity" on grounds that it is "out of context, incomplete and unfairly prejudicial." This
+evidence will be presented by the State through Shane Cox and Michael Douglass, who will
+
+testify simply to what the documentary evidence state, all of which was provided to Defendant in
+
+discovery.'
+           The evidence is highly relevant.       A   Ka-Bar knife sheath was found lying next to the body
+of one of the deceased victims, all of whom were stabbed to death. Defendant's DNA was found
+on the knife sheath. Records from an Amazon account registered to Defendant's name and email
+
+show that a purchase of a Ka-Bar knife and sheath was made from the account approximately
+
+eight months prior to the homicides. Click activity on the same account shows the customer also
+viewed pages associated with Ka-Bar style knives at that time and, in the week following the
+
+purchase, viewed pages associated with the shipping progress of the knife and sheath. The
+
+product was shipped to "Bryan Kohberger" at his family address in Pennsylvania. After the
+homicides, activity from the same account showed the user navigated pages related to the
+deletion of account activity and, a week later, viewed pages associated with a Ka-Bar knife and
+
+sheath. This evidence establishes a significant connection between Defendant and a Ka-bar knife
+
+and sheath.
+
+           In addition, there is no basis under IRE 403 to exclude the evidence, particularly given
+
+how probative it is. Defendant argues it is misleading and prejudicial because it paints and
+
+incomplete picture of the account activity. To this end, Defendant provides the declaration of his
+
+expert, David Howell, the founder of a firm specializing in, inter alia, digital forensics and
+
+digital marketplace analytics. According to Mr. Howell, far more information must be reviewed
+in order to attribute specific activity to a specific person or otherwise render an opinion about
+
+
+
+
+?
+    Within this motion, Defendant also seeks to exclude testimony by Shane Cox and Michael Douglass on grounds
+that their expert disclosures were insufficient. That will be addressed in a separate order regarding Defendant's
+motion to exclude vague and undisclosed expert testimony.
+
+
+                                                           7
+user behavior with forensic certainty, including Amazon advertising logs, recommended
+
+algorithms, cross-device history, retargeting behavior, account personalization and device IDs.
+        Defendant is free to challenge this evidence through cross-examination and establish
+
+through Mr. Howell why more information is needed to reach the conclusion that Defendant
+made the purchases or "clicks." However, it is not a basis for exclusion. There is nothing
+
+inherently unfairly prejudicial or misleading about the evidence itself. It will be up to the jury to
+consider all the evidence and decide whether Defendant was the "clicker."             ®
+                                                                                          Thus, the motion is
+DENIED.
+         L.       State's MIL re: AT&T Timing Advance Records
+        The State moves in limine to prohibit the defense from making any reference to the
+absence of AT&T Timing Advance Records ("TA Records") related to Defendant's cell phone.
+
+The State contends it never received such records from AT&T in response to its subpoenas and,
+
+therefore, any statements by Defendant that the records could have or should have been provided
+to Defendant should not be allowed as it mischaracterizes the evidence, will mislead the jury,
+
+waste time and cause undue delay. In support, the State provides Certificates of Authenticity
+
+AT&T for each of the two warrants, stating that it "did not provide Timing Advance Records for
+phone number 509-592-8458" because such records were, at that time, "only available if
+
+requested within seven (7) days of the specified time frame."? Defendant, relying largely on the
+affidavit of its expert, Sy Ray, is adamant that the State did receive the documents              which he
+
+argues are exculpatory      and is hiding them. Defendant points out he has a constitutional right to
+
+challenge evidence against him and, therefore, must be allowed to explore the State's
+
+misrepresentation as to the availability of the records.
+        The Sixth and Fourteenth Amendments guarantee a criminal defendant "a meaningful
+
+opportunity to present a complete defense." Crane v. Kentucky, 476 U.S. 683, 690 (1986)
+(internal quotation marks omitted). This includes the right to confront and effectively cross-
+
+®
+  Defendant relies, in part, on IRE 106 to exclude the Amazon click evidence. However, that rule "is not an
+exclusionary rule." 21A Federal Practice & Procedure (Evid.) (Wright & Miller) § 5078 (2d ed.) (June 2024 update)
+(discussing FRE 106). "Rule 106 does not give the opponent the power to prevent the proponent from introducing an
+incomplete statement; it only gives him the power to require that the statement be completed or to complete it
+himself." Ja.
+
+° The homicides
+                 occurred on November 13, 2022. Defendant first became a person of interest on December 19,
+2022. The two AT&T Warrants were issued on December 23, 2022. Thus, TA Records for Defendant that could have
+been of any relevance had long been discarded by AT&T and no longer exist.
+
+
+                                                       8
+examine witnesses. Davis v. Alaska, 415 U.S. 308 (1974). However, these rights are not
+
+absolute. State v. Araiza, 124 Idaho 82, 91, 856 P.2d 872, 881 (1993). "The trial court may
+
+reasonably limit cross-examination that is harassing, confusing, repetitive, or only marginally
+relevant." /d. (citing Delaware v. Van Arsdall, 475 U.S. 673, 679 (1986)). "The Confrontation
+Clause guarantees an opportunity for effective cross-examination, not cross-examination that is
+effective in whatever way, and to whatever extent, the defense might wish." Id. (quoting
+Delaware v. Fensterer, 474 U.S. 15, 20 (1985)). Additionally, a defendant "has no right to
+
+present irrelevant evidence and even if evidence is relevant, it may be excluded in certain cases."
+State v. Self, 139 Idaho 718, 722, 85 P.3d 1117, 1121 (Ct. App. 2003).
+
+        Applying these principles here, Defendant will be allowed to voir dire Special Agent
+Ballance outside the presence of the jury to ask whether he received Defendant's TA records
+
+covering the early morning hours of November 13, 2022 and the months prior, when Defendant
+was believed to have been in the area of 1122 King Road. However, if Agent Ballance denies
+
+having received the TA records, Defendant may not explore the matter further, either in voir dire
+or before the jury, given the absolute lack of any factual basis supporting his position that the
+
+State is hiding them.!'° Thus, the State's motion is GRANTED, except as qualified regarding the
+
+very brief voir dire outside the presence of the jury.
+        K.        State's MIL re: Self-Authentication of Records in Reliance on IRE 803(6),
+                 803(8), 902(4), (11) and/or IRE 803(24)
+        The State moves in limine to permit the admission of approximately 60 exhibits pursuant
+to IRE 803(6), (8) and/or (24). The State represents that it will obtain and submit certifications
+
+for the foregoing exhibits to render them "self-authenticating" under IRE 902(4) and/or (11).
+
+However, as the State acknowledges, IRE 902(11) contains a notice requirement that has not
+been satisfied. To this end, the Court will require that, after proper notice is given under IRE
+
+902(11), the parties are to meet and confer regarding self-authentication and any objections
+Defendant may have to specific exhibits prior to raising the issue with the Court. The Court's
+
+ruling on the motion is RESERVED.
+
+
+
+
+10
+  Mr. Ray's affidavit, which forms the basis of the Defendant's challenge, is replete with speculation and unfounded
+and, thus, highly improper accusations against the State. Further, not once in his affidavit does he address AT&T's
+seven-day retention period, which fully explains why the State was unable to obtain relevant TA Records for
+Defendant.
+
+
+                                                         9
+          L.      State's MIL re: Admissibility of Demonstrative Evidence
+          The State seeks permission to use a not-to-scale 3D model of the 1122 King Road
+residence as a demonstrative exhibit at trial, contingent on the State laying sufficient foundation
+
+to establish the basic accuracy of the model and a demonstration that it will be helpful to
+
+explaining the testimony of the presenting witness(es). The State contends the model will aid
+certain witnesses in describing their testimony. Defendant objects, arguing the State's drawing of
+
+the model and other related information'! was only recently disclosed in discovery in a file
+
+Defendant describes as "massive." Defendant claims the data and model cannot reasonably be
+
+evaluated by its expert in time.'* Defendant disputes that the model is relevant and, even if it
+
+was, Claims it should be excluded under IRE 403 due to the danger it might not be accurate.
+         The trial court has discretion in allowing the admission of demonstrative evidence. State
+v.   Weigle, 165 Idaho 482, 487, 447 P.3d 930, 935 (2019) (citing IRE 611). Here, the Court finds
+the demonstrative exhibit is relevant, assuming foundation can be laid, because it will
+
+"supplement[] the testimony of witnesses or assists the jury in obtaining a better understanding
+of facts in issue." Masters v. Dewey, 109 Idaho 576, 579, 709 P.2d 149, 152 (Ct. App. 1985)
+(citing 29 AM.JUR.2d, Evidence § 771 (1976)). The homicides occurred in two bedrooms within
+a three-story home with a complicated layout. The suspect's ability to enter the home, carrying
+
+out the stabbings and exit the home consistent with D.M.'s observations will be a central point of
+
+the trial, particularly given that Defendant is challenging whether it could be accomplished by
+
+one person within the time frame alleged. The model will aid the testimony of lay witnesses and
+
+experts alike in explaining the locations of victims, witnesses and other items of evidence as well
+as understanding the suspect's potential or likely path of travel.
+
+         Moreover, though it is not to scale, "accuracy is not the standard governing relevant of
+illustrative evidence; rather, the illustrative evidence must only be relevant to the witness's
+
+testimony." State v. Stevens, 146 Idaho 139, 144, 191 P.3d 217, 222 (2008), abrogated on other
+
+grounds by State v. Garcia, 166 Idaho 661, 462 P.3d 1125 (2020). So long as the exhibit is not
+
+
+  The other information was the identity and credentials of the person building the model and the data underlying
+the model.
+
+12
+   Defendant submits the declaration of its expert, Matthew Noedel, wherein he discusses the that it will take at least
+three days to assess the 3D scans recently disclosed by the State, and he will thereafter have to set aside at least two
+days to travel from Seattle to view the model to assess its accuracy. He states he is unavailable until at least April 7,
+2025. Decl. Noedel, 41 10-12. However, Defendant has ample time prior to trial to accomplish these tasks.
+
+
+                                                           10
+deceptive, it does not have to be shown to be precisely accurate or consistent with the testimony
+of other witnesses. State v. Raudebaugh, 124 Idaho 758, 864 P.2d 596 (1993) (diagram properly
+admitted where not to scale and admittedly inconsistent with another witness's testimony).!?
+
+While Defendant's expert, Mr. Noedel, contends there is a risk the State's model could be
+
+misleading if it mispresents the location of a wall or door or an actual line of sight, those are
+simply concerns at this point. The State intends to lay foundation to establish that the 3D model
+fairly depicts the residence and, if it fails to do so, the model will not be allowed. Further,
+Defendant is free to cross-examine the testifying witness and to put on his own evidence,
+
+including experts. He may also use his own demonstrative exhibits if proper foundation is laid.
+However, the State is not going to be held to a standard of precise accuracy in this regard; it will
+
+only need to demonstrate accuracy to the point of avoiding deception.
+         In addition, there is no basis under IRE 403 to exclude the model. Defendant contends
+
+that allowing the model is prejudicial because it is built from data that was untimely disclosed
+
+and which its expert has little time to analyze for accuracy.'* While this might be a more
+
+compelling issue if the State was seeking to introduce the model as substantive evidence or
+seeking to have the model accompany the jury during deliberations, it is not. It is simply going to
+be used as an educational device meant to aid in the presentation of evidence and will not go
+
+back with the jury during deliberations. See, Baugh ex rel. Baugh v. Cuprum A.B. de D.V., 730
+F.3d 701, 706-708 (7" Cir. 2013) (discussing the difference between a demonstrative exhibit and
+
+substantive evidence).
+
+         Moreover, as discussed, Mr. Noedel's concerns about his time-constraints are based on
+his impression that he will have to analyze the underlying data to ensure the model's proper
+
+scale, dimension and completeness. Decl. Noedel,J 10-12. Again, accuracy is not the standard;
+Mr. Noedel need only assure himself the model is not deceptive, and there is sufficient time to do
+
+this given the August trial date.'> To this end, the State is to make the model available to
+
+1
+  See also, State v. Ehrlick, 158 Idaho 900, 354 P.3d 462 (2015) (forensic artist's model of crime victim's head
+    3
+
+
+properly admitted despite discrepancies in size; discrepancies were small and jury was aware of them); State v, Hall,
+163 Idaho 744, 419 P.3d 1042 (2018) (images illustrating expert's opinion about how victim was tied after death
+admissible even if they did not "exactly depict the event.")
+
+ 4
+   Defendant also argues it is prejudicial to the extent it is not accurate, but the Court rejects that argument for the
+same reason it rejects Defendant's relevancy argument.
+
+I5
+  Assuming the State can lay sufficient foundation for the model, the Court will entertain a request to provide a
+limiting instruction to the jury that the model is not intended to be accurate and is not to be considered evidence.
+                                                            11
+Defendant as soon as it is completed, and no later than the pretrial conference. The motion is
+
+GRANTED.
+        M.         State's MIL re: Alibi
+        The State moves to preclude Defendant from offering any evidence in support of an alibi,
+other than from Defendant himself. The basis for the State's motion is Defendant's failure to
+
+comply with the notice requirements governing alibi evidence. Pursuant to I.C. § 19-519(1) and
+ICR 12.1, if requested by the State during discovery, a defendant intending to offer an alibi must
+file a notice listing "the specific place or places at which the defendant claims to have been at the
+time of the alleged offense and the names and addresses of the witnesses upon whom he intends
+
+to rely to establish such alibi." The Court has the discretion to exclude testimony of any
+
+undisclosed witness offered as to a defendant's absence from at the scene of the offense. I.C. §
+
+19-519(4).
+       An alibi is a "defense based on the physical impossibility of a defendant's guilt by placing
+the defendant in a location other than the scene of the crime at the relevant time." Black's Law
+
+Dictionary (12th ed. 2024). Hence, in setting forth the notice requirements for an alibi defense,
+I.C. § 19-519 and ICR 12.1 require a defendant to proffer evidence establishing where the
+defendant's was "at the time of the alleged offense[.]" "Evidence only counts as alibi evidence if
+
+it proves that the defendant could not have been present at the scene of the offense at the time
+
+that it was committed." 1 Lane, Fred J.D., Lane Goldstein Trial Technique § 4:45 (3d ed.) (Nov.
+
+2024 update) (collecting cases). If any alibi fails to account for a defendant's whereabouts for at
+
+least some period of time during which the crime was reasonably committed, it is not an alibi.
+
+Skakel v. Comm'r of Correction, 188 A.3d 1, 41 (Conn. 2018) (citing, Williams v. State, 185
+So.3d 1270, 1271 (Fla. App. 2016) ("'a partial alibi is no alibi at all'")); U.S.   White, 443 F.3d
+
+582, 69 Fed. R. Evid. Serv. 1005, 12 A.L.R. Fed. 2d 825 (7th Cir. 2006) (the defendant was not
+entitled to an alibi instruction when his witnesses did not account for his whereabouts at the time
+
+of the offense).
+        At this point, Defendant has only provided notice that he was out driving in the "early
+morning hours" of November 13, 2022 throughout the area south of Pullman, Washington and
+west of Moscow, Idaho. He intends to present testimony by his expert, Sy Ray, to "partially
+
+corroborate" his alibi using CSLI data from Defendant's cell phone. However, the alleged
+
+
+
+
+                                                   12
+offense occurred between approximately 4:07 a.m. and 4:20 a.m. At most, Mr. Ray can opine as
+
+to where Defendant's cell phone was up until 2:54 a.m., when it was apparently turned off, and
+
+approximately 4:48 a.m., when it began reporting to a network. Defendant has provided no
+evidence as to his location at the time of the crime. In other words, he has provided no alibi
+
+evidence as contemplated by the rules.!®
+
+              That said, the Court will not categorically preclude Defendant at this point from offering
+alibi evidence at trial. State v. Juarez, 169 Idaho 274, 277, 494 P.3d 822, 825 (Ct. App. 2021)
+
+(whether to exclude late disclosed alibi evidence requires weighing prejudice to the State against
+the defendant's right to a fair trial and considering whether less severe remedies are sufficient).
+
+Id. There are still four months until trial begins. If Defendant does unearth alibi evidence, it is his
+
+obligation to immediately make the State and the Court aware of it. At that point, the Court can
+apply the Juarez standard. Excluding it at this time is premature and, therefore, the motion is
+DENIED, subject to being re-raised if Defendant does disclose alibi evidence. However, at this
+point, Defendant has not provided an alibi, partial or otherwise.
+              N.       State's 404(b) Notice: Prior Traffic Stop
+              The State moves under IRE 404(b) for the admission of Defendant's August 21, 2022
+traffic stop in Moscow, Idaho during which he was stopped for speeding and issued a citation for
+
+failing to wear a seat belt. Specifically, the State seeks to admit the officer's OBV footage of the
+traffic stop as well as the citation, arguing it is relevant to proving Defendant's identity, vehicle,
+
+ownership and control, address and phone number.!"
+              Defendant objects, pointing to Idaho Supreme Court case law stating that "[e]vidence of
+
+prior misconduct is relevant on the issue of identity when the evidence demonstrates sufficiently
+similar, as well as distinctive, characteristics or patterns between the prior misconduct and the
+
+
+
+    6
+1
+  This does not preclude Defendant from presenting Mr. Ray's testimony at trial to rebut any contention by the State
+that Defendant's vehicle was seen on surveillance camera driving to Moscow around the same time Mr. Ray
+contends he was south of Pullman. However, Defendant may not refer to it as an alibi or partial alibi prior to closing.
+At that time, Defendant is instructed to address the issue outside the presence of the jury for guidance on what
+language related to alibi of any sort may be used.
+
+17
+        The judge previously presiding over this case analyzed the admissibility of the OBV footage under IRE 404(b) in
+the context of the grand jury proceeding and found it admissible. Specifically, the judge found it relevant to identity
+and was not otherwise barred by IRE 403. See, Sealed Order Denying Motion to Dismiss Indictment on Grounds of
+Biased Grand Jury, Inadmissible Evidence, Lack of Sufficient Evidence, and Prosecutorial Misconduct, pp. 43-44
+(Dec. 15, 2023).
+
+
+                                                             13
+charged crime." State v. Porter, 130 Idaho 772, 783, 948 P.2d 127, 138 (1997)). Confusingly,
+Defendant argues his prior traffic stop bears no resemblance to the charged crimes and, therefore,
+
+cannot be relevant to identity. He also argues it is unfairly prejudicial and may confuse the
+
+issues.
+
+          Evidence of other crimes, wrongs or acts may not be admitted pursuant to IRE 404(b)
+when its probative value is entirely dependent upon its tendency to demonstrate the defendant's
+
+propensity to engage in such behavior. State v. Salinas, 164 Idaho 42, 43-44, 423 P.3d 463, 464-
+65 (2018) (cites omitted). Such evidence may, however, be admissible for other purposes,
+
+including to prove identity. IRE 404(b)(2). To determine the admissibility of evidence under Rule
+404(b), the Court must find the evidence is sufficiently established as fact'* and relevant as a
+matter of law to a material and disputed issue other than the character or criminal propensity. /d.
+
+It must then conduct a Rule 403 analysis. /d.
+
+          The Court finds the evidence is relevant to establish Defendant's identity and link him to
+the charged crimes. Indeed, the citation and OBV footage up to the point that Defendant provides
+
+his phone number'? serve to identify Defendant by name, physical appearance, phone number
+
+and address. The evidence also establishes Defendant as the registered owner and driver of a
+
+vehicle, the make and model of which was thought to be used by the killer. Further, the evidence
+
+places Defendant in Moscow at night on one of the dates of interest alleged by the State to be
+relevant to planning the charged crime. All of these factors played a role in the investigation of
+
+the crime."°
+
+          While Defendant cites to case law discussing identity under IRE 404(b) as requiring
+
+strong similarities between the bad act and the charged crime, this is in the context of
+
+
+'8There is no dispute that the evidence is sufficiently established as fact; thus, the Court need not make a specific
+articulation on the matter. Cooke v. State, 149 Idaho 233, 240, 233 P.3d 164, 171 (Ct. App. 2010).
+
+    9
+1
+  Just prior to Defendant providing his phone number, he asked the officer why he needed it. This is after Defendant
+provides his phone number, he and the officer discuss ancillary matters that in no way bear on Defendant's identity.
+Thus, this portion of the OBV shall be redacted.
+
+2°Case law supports the use of identity evidence in this regard. In the recent case of State v. Gordon, Idaho Court of
+Appeals held that a prior interaction between the defendant and law enforcement during which the officers identified
+the defendant with his driver's license and verified his address was relevant to affirmatively establish his identity for
+the subsequently charged crime. 2025 WL 66399, *6 (Jan. 10, 2025). Likewise, in State v. Alger, the Court of
+Appeals held that evidence that witnesses spotted defendant in a car known to have been used while fleeing from
+scene of robbery was relevant and admissible as being probative of defendant's identity as one of the robbers. 115
+Idaho 42, 764 P.2d 119 (Ct. App. 1988).
+
+
+                                                           14
+establishing identity through a "signature quality" or modus operandi. Porter, 130 Idaho at 783,
+948 P.2d at 138 (discussing how evidence of a modus operandi can prove the identity of the
+
+defendant as the perpetrator of the crime charge)."! The State, however, is not seeking to
+
+introduce the prior traffic stop to establish a modus operandi. Therefore, Defendant's case law
+
+and argument is not well placed.
+
+        Upon weighing the IRE 403 factors, the only portion of the OBV footage the Court finds
+troubling is when Defendant inquires why the officer needs his phone number. This inquiry could
+be perceived by jurors to be insolent. Given its lack of relevance and potential for prejudice, the
+
+inquiry shall be redacted.
+        Other than this redaction, there is no basis for further exclusion. Defendant's claims of
+
+unfair prejudice and jury confusion lack merit. First, he argues there is no nexus between the
+
+traffic stop and the charged crimes; thus, the jury may consider it as propensity evidence or
+otherwise be confused. However, as discussed, a nexus is not required for the purpose advanced
+
+by the State. Moreover, unfair prejudice arises only when the evidence "has an undue tendency
+to suggest a decision on an improper basis and appeals to the jurors' sympathies, arouses their
+
+sense of horror, provokes their instinct to punish, or otherwise causes a jury to base its decision
+
+on something other than the established propositions in the case." State v. Russo, 157 Idaho 299,
+
+309, 336 P.3d 232, 242 (2014). A traffic stop-particularly one as minor as this                  is not the type
+
+of evidence that will compel a jury to conclude Defendant is guilty of murder because he
+violated traffic laws. Further, the Court will provide a limiting instruction.
+
+        Defendant also contends it is unfairly prejudicial because the OBV footage provides a
+
+"clear shot" of Defendant's vehicle, which may lead the jury to believe it is the suspect vehicle
+
+captured on surveillance videos at and near the crime scene on November 13, 2022. However,
+this is precisely what makes the evidence probative. It links Defendant to the crime scene. While
+
+this may be damaging to his defense, it is not unfairly prejudicial when balanced against its
+
+strong relevance." Thus, the motion is GRANTED, with the noted redactions.
+
+
+   Noting the demanding standard required to establish identity through modus operandi evidence, Wright & Miller
+21
+
+
+advises that judges to distinguish between the modus operandi exception for proving identity under IRE 404(b) and
+other methods of proving identity so "they don't impose the strict standards of proof of [the modus operandi
+exception] on other methods of proving identity." 22B Fed. Prac. & Proc. Evid. (Wright & Miller) § 5254 (2d ed.)
+(July 2024 update).
+22
+  Defendant also noted at the hearing that the traffic stop occurred on the same day that Agent Ballance determined
+through CSLI analysis that Defendant's cell phone was using resources consistent with being in the area of 1122
+
+                                                         15
+IT IS SO ORDERED.
+
+
+
+
+DATED this     /      day of April, 2025.
+
+
+
+
+                                                     Steven Hippler      ~
+                                                     District Judge
+
+
+
+
+King Road. Defendant did not, however, articulate how this correspondence was unfairly prejudicial, nor does the
+Court find it to be so.
+
+                                                        16
+                                    CERTIFICATE OF SERVICE
+
+ hereby certify that on   4/18/2025           served a true and correct copy of the
+ORDER MEMORIALIZING ORAL RULINGS ON MOTIONS IN LIMINE
+LATAH COUNTY PROSECUTING ATTORNEY'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+ASHLEY JENNINGS
+SENIOR DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.gov
+
+JOSHUA D. HURWIT
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: jeff.nye@aq.idaho.qov
+
+MADISON ALLEN
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Madison.allen@aq.idaho.qov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetaylorlaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+FIRST DISTRICT PUBLIC DEFENDER
+JAY W. LOGSDON
+VIA EMAIL: jay.loasdon@spd.idaho.gov
+
+BICKA BARLOW
+Pro Hac Vice
+VIA EMAIL: bickabarlow@sbcglobal.net
+
+
+
+
+                                                       TRENT TRIPPLE
+                                                       Clerk of the Court
+
+                                                 py:
+                                                       Deputy Clerk    48/2025 9:35:15 am
+
+
+
+
+CERTIFICATE OF SERVICE
+

@@ -1,0 +1,565 @@
+                                                                                           NO,
+                                                                                                            FILED
+                                                                                           AM                 PM
+
+
+                                                                                                     FEB 19 2025
+            IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICFQRr
+                                                                                                          TRIPPLE Clerk
+                                                                                                      By ANNA MEYER
+                                                                                                          DEPUTY
+                 THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+    STATE OF IDAHO,
+
+               Plaintiff,                                  Ada County Case No. CR01-24-31665
+    V
+                                                           ORDER ON DEFENDANT'S MOTIONS
+    BRYAN C. KOHBERGER,                                    TO SUPPRESS RE: ARREST
+                                                           WARRANTS, PENNSYLVANIA
+               Defendant.                                  WARRANTS, APARTMENT WARRANT
+                                                           AND IDAHO WARRANT TO SEARCH
+                                                           PERSON
+
+
+I.      INTRODUCTION
+        Defendant is charged with one count of Burglary and four counts of Murder in the First
+
+Degree in connection with the stabbing deaths of four University of Idaho students in the early
+morning hours of November 13, 2022. On December 30, 2022, he was arrested pursuant to a
+warrant at his parent's home in Pennsylvania. At the time as his arrest, Pennsylvania authorities
+
+executed search warrants for Defendant's person, his vehicle and his parents' home. Around the
+
+same time, a fifth warrant for a search of Defendant's Pullman, Washington apartment was
+
+issued by a Washington magistrate. After Defendant was transported back to Idaho, law
+
+enforcement obtained a sixth warrant for a search of Defendant's person.
+
+        Through six different motions,' Defendant seeks suppression of evidence gathered by law
+enforcement through these warrants on several grounds. His arguments for each motion have
+
+largely been disposed of through the Court's contemporaneously-filed orders." Still remaining,
+
+1
+ Motion to Suppress re: Pennsylvania Search Warrant for I 19 Lamsden Dr., Abrightsville, PA and Statements
+Made (Nov. 14, 2024); Motion to Suppress re: Arrest Warrant (Nov. 14, 2024); Motion to Suppress re: Pennsylvania
+Search Warrant for White Hyundai Elantra Bearing VIN: SNPDH4AE6FH579860 (Nov. 14, 2024); Motion to
+Suppress re: Pennsylvania Search Warrant for Mr. Kohberger's Person (Nov. 14, 2024); Motion to Suppress re:
+Search Warrant for Mr. Kohberger's Person (Nov. 14, 2024), and; Motion to Suppress re: Search Warrant for
+Defendant's Apartment (Nov. 14, 2024).
+
+2
+  Insofar as Defendant argues the six warrants at issue are invalid under Franks v. Delaware, 438 U.S. 154 (1978)
+due to claims of recklessly or intentionally false or omitted material information and/or because they were based on
+law enforcement's allegedly unconstitutional use of Investigative Genetic Genealogy (IGG), these arguments were
+addressed in the Court's Order on Defendant's Motion to Suppress re: Genetic Information and Order on
+Defendant's Motion for Franks Hearing, entered contemporaneously herewith. Defendant also argues the six
+warrants must be excised of any information obtained through prior illegal searches, referencing his other
+contemporaneously-filed suppression motiens. However, the Court did not find any prior searches to be illegal. See,
+however, is: 1) whether suppression is warranted due to law enforcement's failure to knock-and-
+announce in executing warrants at the Kohberger residence, and; 2) whether Defendant's post-
+
+arrest statements are suppressible as fruit of the poisonous tree and/or due to a Miranda'
+
+violation.
+           A suppression hearing on the portion of Defendant's motions at issue in this Order* was
+held on January 24, 2025, during which the Court received testimony from Detective Corporal
+
+Brett Payne and Detective Lawrence Mowery, both from the Moscow Police Department. The
+Court found both detectives to be credible and reliable. Following argument, the Court took the
+matter under advisement. The Court finds suppression is not warranted because: 1) exigent
+
+circumstances excused the abbreviated knock-and-announce, and; 2) Defendant has not
+
+established a Miranda violation.
+
+Il.        STANDARD
+           The standard of review of a motion to suppress is bifurcated. The power to assess the
+
+credibility of witnesses, resolve factual conflicts, weigh evidence, and draw factual inferences is
+vested in the trial court. State v. Valdez-Molina, 127 Idaho 102, 106, 897 P.2d 993, 997 (1995).
+
+A trial court's ruling on a motion to suppress evidence combines the issue of law and fact, and
+the trial court's factual findings will not be overturned unless they are clearly erroneous. State v.
+
+Conant, 143 Idaho 797, 799, 153 P.3d 477, 479 (2007). When a decision on a motion to suppress
+is challenged, the application of constitutional principles to the facts found will be freely
+
+reviewed. State v. Veneroso, 138 Idaho 925, 928, 71 P.3d 1072, 1075 (2003).
+
+
+
+
+Order on Defendant's Motions to Suppress re: AT&T, Google, USB, Apple and Amazon. The Court incorporates
+herein its rulings in the three referenced orders, which effectively disposes of all of Defendant's suppression motions
+at issue except for the a portion of the motion regarding "Pennsylvania Search Warrant for 1 19 Lamsden Dr.,
+Abrightsville, PA and Statements Made."
+5
+    Miranda v. Arizona, 384 U.S. 436 (1966).
+
+4
+ Evidence and argument on the Franks motion and IGG motion were heard on January 23, 2025. The balance of
+motions to suppress was taken up the following day.
+
+
+                                                          2
+        FINDINGS OF FACT®
+        On November 13, 2022, an officer from the Moscow Police Department responded to a
+residence located at 1122 King Road in Moscow, Idaho where he discovered the bodies of
+
+Madison Mogen, Kaylee Goncalves, Ethan Chapin, and Xana Kernodle. Each appeared to have
+been stabbed to death. The investigation that ensued was a multi-agency affair involving
+
+members of the Moscow Police Department, the Idaho State Police and the FBI, among others.
+
+Defendant, who was a Ph.D. student at Washington State University in Pullman, Washington,
+
+emerged as a suspect in the investigation.
+        On or around December 16, 2022, Defendant left his Pullman apartment and drove to his
+
+parents' home located at 119 Lamsden Drive in Albrightsville, Pennsylvania, where he
+remained. On or about December 28, 2022, the FBI and Moscow Police Department requested
+
+assistance from the Pennsylvania State Police ("PSP") in their investigation; specifically, in
+
+obtaining and executing warrants.® As part of this assistance, PSP reviewed reports and affidavits
+prepared by the Moscow Police Department, including a probable cause statement prepared by
+Detective Brett Payne outlining the circumstances of the crime and the investigation to date.
+        On December 29, 2022, a criminal complaint and probable cause order were filed in this
+action and the Latah County magistrate issued a warrant for Defendant's arrest. See, Def's Exh.
+B to Lamsden Motion. The same day, PSP applied for and obtained three search warrants from a
+
+Pennsylvania magistrate: 1) for 1 19 Lamsden Drive; 2) for Defendant's person, and; 3) for
+Defendant's vehicle, which was believed to be parked in the garage of 119 Lamsden Drive.
+These search warrants were supported by the Affidavit of Probable Cause of Trooper Justin Leri,
+to which was attached Detective Payne's probable cause statement. See, Def's Exh. A to
+
+Lamsden Motion. Later that day, PSP received the signed arrest warrant issued by the Latah
+
+County magistrate.
+        Late in the evening of December 29, 2022, PSP and its Special Emergency Response
+Team ("SERT'") prepared for the execution of the warrants. Detective Payne was present briefly
+
+
+5
+  The Court's findings are based on suppression hearing testimony provided by Detectives Payne and Mowery as
+weil as the following documentary evidence: Defendant's Exhibits A and B in support of his Motion to Suppress re:
+Pennsylvania Search Warrant for 119 Lamsden Dr., Abrightsville, PA and Statements Made (Nov. 14, 2024)
+("Lamsden Motion"); State's Exhibits S-1 through S-6 to Objection to Motion to Suppress re: Pennsylvania Search
+Warrant for 1 19 Lamsden Dr., Abrightsville, PA and Statements Made (Dec. 6, 2024) ("Lamsden Objection").
+
+6
+  Prior to this point, investigators had been surveilling 119 Lamsden and had observed Defendant walking near the
+residence in the early morning hours of December 27, 2024.
+
+                                                         3
+to observe the final preparations, but then departed to prepare for Defendant's arrival at the PSP
+
+police station. It was Detective Payne's understanding that PSP and SERT were preparing for a
+knock-and-announce entry.
+
+           During their final preparations, SERT snipers set an umbrella around the residence to
+monitor any activity therein while a helicopter monitored from overhead in the event Defendant
+
+exited the residence. See, State's Exh. S-5 to Lamsden Objection. At 12:33 a.m., snipers
+
+observed a kitchen light turn on and saw         a
+                                                     taller, young, white male wearing a black hoodie
+
+standing near the glass sliding door leading out to the deck. At 12:40 a.m., the same person was
+seen again. This time, officers were able to positively identify the person as Defendant. Jd; see
+
+also, State's Exh. S-4 to Lamsden Objection. At 12:55 a.m., the light turned on in the garage
+where Defendant's vehicle was believed to be parked. At 1:03 a.m., lights flashed in the garage
+
+as if the vehicle was being locked or unlocked by a key fob. At 1:09 a.m., Defendant was seen in
+
+the kitchen of the home, this time wearing rubber gloves and handling a plastic baggie. Jd.
+
+           Based on these observations, law enforcement believed Defendant was potentially
+
+destroying evidence from the vehicle that was related to the homicides.' Law enforcement was
+also aware that Defendant possessed a Glock handgun, prompting a concern over officer safety
+
+due to "[Defendant's] heightened mental state of awareness or threat level of police possibly
+
+tracking him." See, State's Exh. S-5 to Lamsden Objection. Thus, law enforcement made the
+decision to shorten the knock and announce when executing the warrants.
+           At approximately 1:14 a.m., SERT made announcements from a bearcat® parked in the
+driveway of the residence. Immediately following announcements, SERT effectuated a forced
+entry into the residence. Defendant was arrested without incident in a bedroom. His vehicle was
+located and secured in the garage.
+
+           Once apprehended, Defendant was handcuffed and placed in a police vehicle. See, State's
+Exh. S-6 to Lamsden Objection. He was notified that he was in a police vehicle and being audio
+
+
+
+
+7
+ As set forth in Detective Payne's probable cause statement accompanying the search warrant affidavit for the three
+Pennsylvania warrants, it was believed Defendant drove his vehicle to 1112 King Road, committed the homicides
+and then fled in his vehicle. See, Def's Exh. A to Lamsden Motion. Thus, when law enforcement was preparing to
+execute the Pennsylvania warrants, they were aware there was potentially evidence of the crime still inside the
+vehicle.
+
+8
+    A bearcat is an armored vehicle used in SWAT operations.
+                                                          4
+and video recorded, which he acknowledged. While awaiting transport, Defendant informed law
+
+enforcement that he had an unloaded Glock 22 handgun in the residence by his bed.
+
+        During transport, Defendant engaged in smail talk with the accompanying officers. When
+Defendant expressed at one point that he wanted to know what was going on with his arrest, law
+
+enforcement told him investigators were going to speak to him at the station about the situation.
+
+The details of the investigation were not discussed with Defendant. Once they arrived at the
+
+station, Defendant was escorted into the processing room to await interview with Detective
+
+Payne, which occurred ten minutes later. Defendant was then informed of his Miranda rights and
+an interview subsequently began.
+
+IV.     CONCLUSIONS OF LAW
+        There are two issues before the Court: 1) whether law enforcement failed to comply with
+the knock-and-announce rule in executing the warrants at 119 Lamsden, and; 2) whether
+
+Defendant's post-arrest statements are suppressible as fruit of the poisonous tree and/or due to a
+Miranda violation. The State contends law enforcement's abbreviated knock-and-announce was
+
+justified by exigent circumstances and, further, Defendant's statements are not suppressible since
+there is no poisonous tree and because he has not demonstrated any incriminating statements
+
+were made while under interrogation. The State is correct.
+
+        A.           Law Enforcement Did Not Violate Defendant's Rights in Executing the
+                     Pennsylvania Warrants.
+                     1.      Applicable law
+         Defendant contends that law enforcement's failure to fully comply with the knock-and-
+
+announce rule in executing the Pennsylvania warrants violated his rights under the Pennsylvania
+
+and/or Idaho Constitutions." While he contends Idaho law should be applied to law
+
+enforcement's actions under a conflicts of law analysis, he recognizes at the same time that
+"there is very little daylight" between Idaho and Pennsylvania law on the issue. Likewise, the
+
+State notes there are little substantive difference between the two on knock-and-announce and,
+
+therefore, does not take a position on what law should apply. The Court finds it unnecessary to
+choose what law should apply given their virtual identicality.
+
+
+
+
+° Defendant is not
+                     asserting his Fourth Amendment rights were violated. Though not cited by either party, this is
+likely because the United States Supreme Court has held that a violation of the FFourth Amendment's knock-and-
+announce requirement does not require suppression of evidence. Hudson v. Michigan, 547 U.S. 586 (2006).
+
+                                                            5
+        Idaho's knock-and-announce statutes require police to announce their presence, purpose
+and authority before entering someone's house. I.C. §§ 19-4409!° and 19-611.!! These
+
+requirements are also imposed by Article I, § 17 of the Idaho Constitution. State v. Rauch, 99
+Idaho 586, 593, 586 P.2d 671, 678 (1978). In Rauch, however, the Idaho Supreme Court adopted
+
+an exception to the rule for exigent circumstances. /d. at 590, 586 P.2d at 675. While the Court
+
+cautioned that such exigencies are to be determined on a "case by case" bases, it did set forth
+
+"general circumstances" under which exigent circumstances may be found, including: "(1) a
+reasonable belief that compliance with a 'knock and announce' statute would result in the
+
+destruction of evidence, or (2) a reasonable belief that compliance would place the officer in
+
+peril." Jd. In addition, the Court set forth six factors to consider when determining whether
+exigent circumstances exist:
+         (1) the gravity or violent nature of the offense with which the suspect is to be
+        charged; (2) whether the suspect is reasonably believed to be armed; (3) a clear
+        showing of probable cause; (4) a strong reason to believe the suspect is in the
+        premises to be entered; (5) the likelihood that the suspect will escape if not swiftly
+        apprehended; (6) the peaceful circumstances of the entry.
+
+Id. at 591, 586 P.2d at 676 (citing Dorman v. United States, 435 F.2d 385, 392 (D.C. Cir. 1970).
+
+        The Court further explained that "exigent circumstances" could include "those immediate
+circumstances where a defendant may be armed, where evidence may be easily and immediately
+
+destroyed, where a defendant may escape or where a defendant has engaged in furtive conduct."
+Id. Once it is determined a defendant's rights have been violated by police entry into a residence,
+
+suppression of evidence resulting from the entry is required under Idaho's exclusionary rule. /d.
+at 594, 586 P.2d at 679.
+
+         Pennsylvania's knock-and-announce rule is set forth in in its criminal rules'? and is
+imposed under Article I, § 8 of Pennsylvania's Constitution prohibiting unreasonable searches
+
+
+101.C. § 19-4409: "The officer may break open any outer or inner door or window of a house, or any part of a house,
+or anything therein, to execute the warrant, if, after notice of his authority and purpose, he is refused admittance."
+
+"T.C. § 19-611: "To make an arrest, if the offense is a felony, a private person, if any public offense, a peace officer,
+may break open the door or window of the house in which the person to be arrested is, or in which there is
+reasonable ground for believing him to be, after having demanded admittance and explained the purpose for which
+admittance is desired."
+
+ Rule 207, Pa.R.Crim.P.: "A) A law enforcement officer executing a search warrant shall, before entry, give, or
+make reasonable effort to give, notice of the officer's identity, authority, and purpose to any occupant of the
+premises specified in the warrant, unless exigent circumstances require the officer's immediate forcible entry. (B)
+
+                                                            6
+and seizures. Commonwealth. v. Carlton, 701 A.2d 143, 148 (Pa. 1997). Pennsylvania courts
+
+recognize four exigent circumstances justifying dispensing with the rule: "1. the occupants
+remain silent after repeated knocking and announcing; 2. the police are virtually certain that the
+
+occupants of the premises already know their purpose; 3. the police have reason to believe that
+an announcement prior to entry would imperil their safety; [or] 4. the police have reason to
+
+believe that evidence is about to be destroyed." Commonwealth v. Frederick, 124 A.3d 748, 755
+
+(Pa. Super. Ct. 2015). These circumstances are viewed under an objective standard, looking only
+to the facts and circumstances with which the officers are faced at the time they act on their
+
+decision to dispense with knock and announce. Commonwealth v. Walker, 874 A.2d 667, 673
+
+(Pa. Super. Ct. 2005). As in Idaho, violation of Pennsylvania's knock-and-announce
+requirements results in suppression. /d.
+         As applied to the facts here, there are no substantive differences between the knock-and-
+announce standards under Idaho law and Pennsylvania law. Consequently, the Court need not
+
+determine what choice of law applies.
+
+                  2.       Exigencies excused law enforcement's full compliance with knock and
+                           announce.
+
+         It is undisputed that law enforcement executed an abbreviated knock-and-announce prior
+
+to entry into 119 Lamdsen. According to the State, however, compliance was excused by exigent
+
+circumstances; namely, law enforcement's belief Defendant was destroying evidence of the
+crime and that compliance with knock and announce would have placed the officers' safety in
+
+jeopardy. Defendant argues these are not true exigencies. He notes that he was surveilled by law
+enforcement prior to the execution of the waran                and there is no evidence he was seen with
+
+weapons.
+
+
+
+Such officer shall await a response for a reasonable period of time after this announcement of identity, authority, and
+purpose, unless exigent circumstances require the officer's immediate forcible entry. (C) If the officer is not admitted
+after such reasonable period, the officer may forcibly enter the premises and may use as much physical force to
+effect entry therein as is necessary to execute the search."
+
+13
+   Defendant contends that in the days prior to the execution of the warrants, law enforcement had seen Defendant
+go for runs around his parents' neighborhood. Given these observations, Defendant posits that there was "no reason"
+to arrest him inside the house. Lamsden Motion, p. 10. However, Defendant cited to no evidence of law
+enforcement's observations in this regard. The only evidence this Court could locate is from the search warrant
+application for the Pennsylvania warrants, where PSP Trooper Leri states that "Investigators began physical
+surveillance of the property and area of 119 Lamsden Drive, Chestnuthill Township, and in the early morning hours
+of Tuesday, December 27, 2022, observed Bryan KOHBERGER walking near his residence." Exh. A, p. 9 to
+Lamsden Motion.
+
+                                                           7
+         In furtherance of his argument, Defendant cites to State v. Ramos, where the Idaho Court
+
+of Appeals held that the executing officers' belief that the home contained large amounts of
+marijuana was not alone sufficient to justify the officers' breaking down the door five seconds
+after knocking and announcing. 142 Idaho 628, 632-33, 130 P.3d 116, 1170-71 (Ct. App. 2005).
+
+Such a rule, the Court observed, would impermissibly create a blanket exception to the knock-
+and-announce rule, which Rausch sought to avoid. The Court further found that the officers'
+
+exposure in approaching the home did not justify the violation, observing that nearly all
+residential homes have exposed front aspects. Id.
+
+         Defendant also relies on Commonwealth v. Kitchener, where a Pennsylvania court found
+
+exigent circumstances where officers were executing an arrest warrant upon a fugitive with a
+history for violence, a propensity for fleeing from police and who was reputed to "like guns,
+machine guns, in particular." 506 A.2d 941, 944 (Pa. Super. Ct. 1986). The officers knocked and
+
+announced, heard running footsteps within the residence and, believing the man was trying to
+
+escape or arm himself, forcibly entered the home. /d. The court found that, given everything the
+officers knew prior to executing the warrant, the forcible entry was justified. Jd.
+         Defendant points out that, unlike in Kitchener, law enforcement had no knowledge that
+
+Defendant had a prior criminal history, a reputation for violence or was a gun aficionado. They
+did not see him with a weapon and, therefore, there was no reasonable basis to fear for their
+
+safety. At most, he argues, law enforcement had non-descript fears such as those presented in
+Ramos.
+         There are two infirmities in Defendant's argument, however. First, he entirely ignores the
+destruction of evidence exigency, which is what law enforcement relied upon greatly in
+
+dispensing with the knock-and-announce requirement here. The evidence demonstrates that
+while preparing to execute the warrants, law enforcement identified Defendant in the early
+
+morning hours as he turned on a light in the kitchen and then proceeded into the garage where his
+vehicle was believed to be parked. Law enforcement was aware that Defendant was suspected of
+
+having driven that vehicle during the commission of the homicides and knew it could contain
+evidence. Law enforcement then saw vehicle lights flash in the garage, as if a vehicle was being
+unlocked or locked. Immediately afterwards, they saw Defendant again in the kitchen wearing
+rubber gloves and handling a plastic baggie. Further, it was 1:09 a.m. in the morning, a time
+
+when most people would not be removing items from their car with rubber gloves. These
+
+
+                                                  8
+observations gave rise to the reasonable belief that, perhaps aware of law enforcement's
+
+surveillance, Defendant was destroying or secreting evidence of the crimes.
+       Second, compounding the concern of the potential destruction of evidence, there was an
+
+equally compelling concern that a knock-and-announce could pose a serious danger to law
+enforcement. Law enforcement had reviewed the investigation reports and probable cause
+
+statements provided by Idaho detectives. The executing officers knew Defendant-based on
+
+compelling evidence     was believed to have orchestrated an unprovoked and exceptionally brutal
+
+quadruple homicide with a knife. They had information he was in possession of a Glock
+
+handgun. They knew he was in the residence, awake, potentially aware of law enforcement's
+
+presence and potentially destroying evidence or perhaps retrieving his gun or a weapon from the
+vehicle. His vehicle was in the garage nearby, thus giving him a means of quick escape. While
+
+prior to allegedly killing four people   Defendant may not have had an extensive criminal history
+
+or general reputation for violence as did the defendant in Kitchener, it does not mean law
+
+enforcement's safety concerns were unreasonable given what they knew. When these
+circumstances are collectively considered, the Court finds law enforcement was well-justified in
+
+making an abbreviated announcement and forced entry. Thus, suppression is not warranted.
+       B.      Defendant Has Not Established He Was Interrogated When He Made
+               Unidentified Statements.
+        Defendant next argues any statements he made to law enforcement prior to being
+
+Mirandized must be suppressed, either as fruits of the poisonous tree or as a Miranda violation.
+
+Having determined the execution of the warrants at 1 19 Lamsden was valid, the question is
+whether there was a Miranda violation. The Court finds there was not.
+
+        Pursuant to Miranda and its progeny, to protect the Fifth Amendment privilege against
+
+compulsory self-incrimination, "police must inform individuals of their right to remain silent and
+their right to counsel, either retained or appointed, before undertaking a custodial interrogation."
+
+State v. Silver, 155 Idaho 29, 31, 304 P.3d 304, 306 (Ct. App. 2013) (citing Miranda, 384 U.S. at
+
+444). The term "interrogation" includes "not only express questioning but also its 'functional
+equivalent.'" State v. Salato, 137 Idaho 260, 267, 47 P.3d 763, 770 (Ct. App. 2001) (citing
+Rhode Island v. Innis, 446 U.S. 291, 300-01 (1980). "The functional equivalent of interrogation
+includes 'any words or actions on the part of the police (other than those normally attendant to
+arrest and custody) that the police should know are reasonably likely to elicit an incriminating
+
+
+
+                                                  9
+response."" /d. (quoting /nnis, 446 U.S. at 301). Custody is determined by "whether there is a
+formal arrest or restraint on freedom of movement of the degree associated with a formal arrest."
+
+State v. Huffaker, 160 Idaho 400, 374 P.3d 563, 567-68 (2016) (quoting California v. Beheler,
+463 U.S. 1121, 1125 (1983)).
+
+         The State does not dispute Defendant was in custody when first detained. However, there
+is no evidence before the Court that Defendant was interrogated at any point from his arrest to
+the time he was formally interviewed by Detective Payne, at which point he was Mirandized.
+
+The sole evidence is that Defendant engaged in small talk with officers, with the only exception
+
+being when he briefly asked about his arrest and was told that investigators were going to speak
+to him at the station about the situation. Voluntary or spontaneous statements (or questions)
+
+unprompted by interrogation fall outside the scope of Miranda. State v. Huffaker, 160 Idaho 400,
+407, 374 P.3d 563, 570 (2016). Consequently, there is no basis for suppression.
+V.       CONCLUSION
+         Based on the foregoing. the    Court   DENIES the following:
+     e   Defendant's Motion to Suppress re: Pennsylvania Search Warrant for 119 Lamsden Dr.,
+
+         Abrightsville, PA and Statements Made (Nov. 14, 2024);
+     e   Defendant's Motion to Suppress re: Arrest Warrant (Nov. 14, 2024); Motion to Suppress
+         re: Pennsylvania Search Warrant for White Hyundai Elantra Bearing VIN:
+
+         SNPDH4AE6FH579860 (Nov. 14, 2024);
+     e   Defendant's Motion to Suppress re: Pennsylvania Search Warrant for Mr. Kohberger's
+         Person (Nov. 14, 2024);
+
+     e   Defendant's Motion to Suppress re: Search Warrant for Mr. Kohberger's Person (Nov.
+
+         14, 2024), and;
+     e   Defendant's Motion to Suppress re: Search Warrant for Defendant's Apartment (Nov. 14,
+
+         2024).
+IT IS SO ORDERED.
+
+DATED this                 of February, 2025.
+
+
+                                                    e n Hipp
+                                                  District Judge
+
+
+                                                     10
+                           CERTIFICATE OF MAILING
+         HEREBY CERTIFY that on this            day of February, 2025, caused a
+                                                                        |
+
+
+
+
+true and correct copy of the above and foregoing instrument to be mailed, postage
+prepaid, or hand-delivered, to:
+
+
+William W. Thompson, Jr.
+Ashley Jennings
+LATAH COUNTY PROSECUTING ATTORNEY
+paservice@latahcountyid.qov
+
+Jeffery Nye
+DEPUTY ATTORNEY GENERAL
+Jeff.nye@aq.idaho.qov
+
+Anne Taylor
+ATTORNEY FOR DEFENDANT
+info@annetaylorlaw.com
+
+Elisa C. Massoth
+ATTORNEY FOR DEFENDANT
+emassoth@kmrs.net
+
+'Jay Logsdon
+KOOTENAI COUNTY PUBLIC DEFENDER
+jay.foqgsdon@snd.idaho.qov
+
+
+
+                                               TRENT
+                                               Clerk of thé. District
+
+
+                                               By:
+                                               Deputy Got rt Clerk
+                                                            €
+
+
+
+                                                        +       >
+
+
+
+
+ORDER
+

@@ -1,0 +1,37 @@
+07/08/25                      Moscow Police Department                       1272
+12:09                      Law Supplemental Narrative:               Page:      1
+  Details
+Incident Number     22-M09903           Name   Lawrence Mowery
+Sequence Number     295                 Date   08:30:06 08/08/24
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Devices to Evidence
+
+Case:   22-M09903
+Date:   8/8/2024
+
+On July 22, 2024, I transferred four items, previously secured in the Moscow
+Police Department digital forensic lab, to the MPD evidence room. I received
+these items from the FBI and they were placed into a secure storage area upon
+receipt.
+No further analysis or extractions were completed on the devices as the
+extractions were previously completed by the FBI and that data had been placed
+onto hard drives and provided separately.
+
+These four items were listed as:
+Samsung Phone belonging to Brian Kohberger
+Samsung Hard drive belonging to Brian Kohberger
+Samsung & Seagate Hard drives belonging to Brian Kohberger
+Acer Laptop belonging to Brian Kohberger.
+
+Det. Lawrence Mowery - 162
+Thu Aug 08 08:30:14 PDT 2024
+
+REVIEWED-Thu Aug 08 13:30:56 PDT 2024
+CPL Payne #157
+

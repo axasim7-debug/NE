@@ -1,0 +1,1746 @@
+                                                                    Filed: 01/09/2025
+                                                                    Fourth Judicial District, Ada County
+                                                                    Trent Tripple, Clerk of the Court
+                                                                    By: Deputy Clerk Waters, Renee
+Anne Taylor Law, PLLC
+                                                                                     -
+
+
+
+
+Anne C. Taylor, Attorney at Law
+Bar Number: 5836
+PO Box 2347
+Coeur d'Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Jay W. Logsdon, Interim Public Defender
+Kootenai County Public Defender's Office
+PO Box 9000
+Coeur d'Alene, Idaho 83816
+Phone: (208)446-1700
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208)642-3797; Fax: (208)642-3799
+
+
+Assigned Attorney:
+Anne C. Taylor, Public Defender, Bar Number: 5836
+Jay W. Logsdon, Chief Deputy Public Defender, Bar Number: 8759
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+
+
+    IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+            STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+STATE OF IDAHO                                    CASE NUMBER CR01-24-31665
+
+                      Plaintiff,
+                                                  DEFENDANT'S WITNESS AND
+                                                  EXHIBIT LIST FOR MOTION(S)
+                                                  HEARING ON 1/23/25
+BRYAN C. KOHBERGER,
+
+                      Defendant
+
+
+
+       COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, will call the
+following witness(es) and intends on offering the following as evidence at the Motion(s) hearing
+scheduled for January 23-24, 2025, although not necessarily in the same order as listed.
+
+
+
+
+DEFENDANT'S WITNESS AND EXHIBIT LIST
+FOR MOTION(S) HEARING ON 1/23/25                                                              PAGE 1
+Witnesses:
+
+   1. Captain Dustin Blaker
+           a. Captain Blaker’s anticipated testimony relates to items that he relied upon in his
+               Affidavit for Probable Cause for Arrest and Search Warrants as well as video
+               footage identified during the course of the investigation.
+   2. Detective Lawrence Mowery
+           a. Detective Mowery’s anticipated testimony relates to items to what he relied on to
+               prepare his Affidavits for Search Warrants, service of warrants, warrant
+               inventories, and warrant returns, as well as video footage identified during the
+               course of the investigation. Additionally, Detective is anticipated to testify about
+               what he relied up on in his CASTviz Process.
+   3. Detective Cpl. Brett Payne
+           a. Detective Brett Payne’s anticipated testimony relates to items that he relied upon
+               in his Affidavit for Probable Cause for Arrest and Search Warrants, service of
+               warrants, warrant inventories, and warrant returns as well as video footage
+               identified during the course of the investigation.
+   4. Matthew Gamette
+           a. Mr. Gamette’s anticipated testimony relates to the report and emails with the
+               Idaho State Police Forensics Lab and Othram. He will be asked about policy and
+               protocol.
+   5. Rylene Nowlin
+           a. Ms. Nowlin’s anticipated testimony relates to Idaho State Police Forensics Lab
+               and its protocol; testing performed in the lab and work with Othram and the FBI
+               as detailed in materials provided in discovery. She will testify about standards
+               and policy.
+   6. Mr. Kohberger has previously filed exhibits and Affidavits with his pleadings. He will
+      utilize those items in his hearing.
+
+
+Expert Witnesses:
+   1. Dr. Leah Larkin
+          a. Dr. Larkin is expected to testify about the IGG materials and in understanding
+             how the State identified Mr. Kohberger as a suspect in the case. Dr. Larkin will
+             testify about terms of use for various Genetic Genealogy databases as well as
+             Department of Justice (DOJ) policy. She is expected to discuss the FBI search
+             being outside of both database policy and DOJ policy.
+   2. Daniel Hellwig
+          a. Mr. Hellwig is expected to testify consistent with the attached summary below.
+
+
+Exhibit Disclosures:
+   -   Exhibit A: Powerpoint by Dr. Leah Larkin and her Curriculum Vitae.
+
+
+DEFENDANT’S WITNESS AND EXHIBIT LIST
+FOR MOTION(S) HEARING ON 1/23/25                                                           PAGE 2
+   -   Exhibit B: Daniel Hellwig Curriculum Vitae and summary of his anticipated testimony.
+       We can provide a copy of Intermountain Forensics’ Accreditation upon request.
+
+
+       DATED this ___9____ day of January, 2025.
+
+
+
+
+                                                     _________________________________
+                                                     ANNE C. TAYLOR
+                                                     ANNE TAYLOR LAW, PLLC
+
+
+                               CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___9____ day of January, 2025 addressed to:
+
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+DEFENDANT’S WITNESS AND EXHIBIT LIST
+FOR MOTION(S) HEARING ON 1/23/25                                                           PAGE 3
+Genetic Genealogy
+   An Overview
+
+                        DEFENDANT'S
+                    EXHIBIT NO. A
+                    IDENTIFEGATION / EVIDENCE
+                               CR01-24-31665
+                              CASE NO.
+                      DATE:      1/9/25
+How genetic genealogy works
+
+
+How forensic genetic genealogy differs
+
+
+Work products of GG/FGG
+How genetic genealogy works
+
+
+How forensic genetic genealogy differs
+
+
+Work products of GG/FGG
+       There are three main “types” of DNA
+   Mitochondrial DNA (mtDNA)                      Grandparents
+                                                      0 of 4
+                                                                      Great-Grandparents
+                                                                            Oofs
+                                                                                           2nd-Great-Grandparents
+                                                                                                   0 of 16
+
+
+
+
+   Y chromosome DNA (yDNA)
+                                                                                            2nd Great Grandfather
+                                                                       Great Grandfather
+                                                                                           2nd Great Grandmother
+                                               Paternal Grandfather
+
+   Autosomal DNA (atDNA)                                              Great Grandmother
+                                                                                            2nd Great Grandfather
+
+                                                                                           2nd Great Grandmother
+                                     Father
+                                                                                            2nd Great Grandfather
+                                                                       Great Grandfather
+                                                                                           2nd Great Grandmother
+                                               Paternal Grandmother
+                                                                                            2nd Great Grandfather
+                                                                      Great Grandmother
+                                                                                           2nd Great Grandmother
+                            YOU
+                                                                                            2nd Great Grandfather
+                                                                       Great Grandfather
+                                                                                           2nd Great Grandmother
+                                               Maternal Grandfather
+                                                                                            2nd Great Grandfather
+                                                                      Great Grandmother
+                                                                                           2nd Great Grandmother
+                                     Mother
+                                                                                            2nd Great Grandfather
+                                                                       Great Grandfather
+                                                                                           2nd Great Grandmother
+                                               Maternal Grandmother
+                                                                                            2nd Great Grandfather
+                                                                      Great Grandmother
+                                                                                           2nd Great Grandmother
+
+
+                                     Parents      Grandparents        Great-Grandparents   2nd-Great-Grandparents
+                                     Oof2             0 of 4                Oof8                   0 of 16
+
+Image: https://dnapainter.com/tree
+     Genetic genealogy begins with a DNA “kit”
+     • Saliva or cheek swab                                                        :
+
+
+
+
+     • Collects ±100 µg DNA
+
+     • Mailed back to lab for analysis
+
+
+
+
+Image: https://www.dnagenotek.com/US/products/collection-human/oragene-discover/600-series/OGR-600.html
+The scientific test is called a “microarray”
+• Designed for biomedical
+  research (unlike CODIS STRs)
+• Targets ≥600,000 DNA SNP
+  markers (single nucleotide
+  polymorphism)
+• ≈100–200 ng DNA is best
+
+
+
+             Image: https://www.illumina.com/techniques/popular-applications/genotyping.html
+Your person of interest has a family tree
+
+  Great     Great    Great      Great          Great          Great    Great      Great
+  Grand-    Grand-   Grand-     Grand-         Grand-        Grand-    Grand-    Grand-
+  father    mother   father     mother         father        mother    father    mother
+
+
+
+           Grand-     Grand-                                Grand- \    Grand
+           father     mother                                father      mother
+
+
+
+
+                               Father              Mother
+
+
+
+                                        Person
+                                           of
+                                        Interest
+Your person of interest has DNA matches
+
+         Great     Great     Great         Great          Great            Great    Great             Great
+        Grand-     Grand-    Grand-        Grand-         Grand-           Grand-   Grand-            Grand-
+        father     mother    father        mother         father           mother   father            mother
+
+
+
+                  Grand- \   f Grand- \                                f Grand-      Grand-
+                  father       mother                                    fath er     mother
+
+
+
+                                                                                                                  DNA
+                                          Father              Mother                                              Match
+
+
+
+                                                   Person                                                                 DNA
+DNA
+Match                                                 of                                                                  Match
+                                                   Interest
+
+
+
+          DNA                                                                                 DNA         DNA                     DNA
+          Match                                                                               Match       Match                   Match
+The database lists the DNA matches
+• Shared DNA is measured in
+                                      All (6023)          Paternal (0)        Maternal (0)    ® Both (0)   = Filter                              Ty Sort by       & Export csv
+
+
+                                       of                                                                                                                           27 H
+  “centimorgans” (cM)                  Ancestral Surnames
+                                       Not Provided
+                                                                                        Haplogroup
+                                                                                        mtDNA:       N/A
+                                                                                                             Relationship Range
+                                                                                                             2nd Cousin 4th Cousi
+                                                                                                                        -
+
+
+
+
+                                                                                                             Link on Family Tree
+                                                                                                                                    Shared DNA
+                                                                                                                                    72cM
+                                                                                                                                                   Longest Block
+                                                                                                                                                   50 cM
+                                                                                                                                                                      X Match
+                                                                                                                                                                      No Match
+                                                                                                                                                              Match date: July 20 2023
+
+
+
+                                              :                                                                                                                     2 7
+                                       Ancestral Surnames                                                                           Shared DNA     Longest Block      X Match
+
+
+
+• Match lists sorted by cM,
+                                                                                        Haplogroup           Relationship Range
+                                       Not Provided                                     Y-DNA:       N/A     2nd Cousin 4th Cousi
+                                                                                                                        -
+                                                                                                                                    56 cM          49 cM              No Match
+                                                                                        mtDNA:       N/A     Link on Family Tree                              Match date: July 20 2023
+
+
+
+
+  not by biological
+                                                                                                                                                                    a 01
+                                       Ancestral Surnames                               Haplogroup           Relationship Range     Shared DNA     Longest Block      X Match
+
+
+
+
+  relationship
+                                       Not Provided                                     mtDNA:       N/A     2nd Cousin 4th Cousi
+                                                                                                                        -
+                                                                                                                                    56 cM          37 cM              No Match
+                                                                                                             Link on Family Tree                              Match date: July 20 2023
+
+
+
+                                                                                                                                                                                 :
+
+                                                      (MTDNAPLUS.   Y-DNA67
+
+
+                                       Ancestral Surnames    View Details               Haplogroup           Relationship Range     Shared DNA     Longest Block      X Match
+                                                                                        Y-DNA:               2nd Cousin 4th Cousi
+                                                                                                                        -
+                                                                                                                                    54cM           47 cM              No Match
+                                                                                        mtDNA:               Link on Family Tree                              Match date: July 20 2023
+
+
+
+
+                                       O                                                                                                                            2 01         :
+
+
+
+
+                                       Ancestral Surnames                               Haplogroup           Relationship Range     Shared DNA     Longest BI ock     X Match
+                                       Not Provided                                     Y-DNA:       N/A     2nd Cousin 4th Cousi
+                                                                                                                        -
+                                                                                                                                    50cM           50 cM              No Match
+                                                                                        mtDNA:       N/A     Link on Family Tree                              M
+                                                                                                                                                                       English
+
+
+
+
+                   Image: https://www.familytreedna.com/my/familyfinder/matches/detail-view
+      Relationship is loosely correlated to cM total
+                                                                                                                            Most distant common ancestors
+                                                                                                                            Assuming no pedigree collapse or endogamy, and that you're related in just one way, the
+                    Half GG-Aunt /                                                                            Great-        furthest back you might need to go to find common ancestors for a match of 72cM is
+                         Uncie                                                                                Aunt/         8th-Great-Grandparent level or generation 11 on your pedigree chart.
+                          208                                                                                        186.
+                                                                                                                            The connection may be closer.
+                      103 284
+                          -
+                                                                                                               186-
+
+                                                                                                                            Relationship probabilities (based on stats from The DNA Geek)
+                                                                                                                            € Click on any relationship to view a histogram
+                                                                                                                            New: View these relationships in a tree
+Enter the total n      3111028
+                         125
+                                                                   Grandparent
+                                                                      1754
+                                                                                                                 1c
+                                                                                                                     2:
+                       16 269
+                         -
+                                                                   984 -2462                                    33    -
+
+
+
+
+                                                                                                                                     32% Half3C 3C1R Half2C2R 2C3R
+ 72
+                      Half 2C1R
+                         66
+                                     Half 1C1R
+                                        224
+                                                 Half Aunt /
+                                                   Uncle                                                         2c
+                                                                                                                     1
+                                                                                                                                     28% 3C Half2C1R 2C2R Half 1C3R
+                                                       871
+                         -190         62 469
+                                        -
+
+
+                                                 492        1315
+                                                                                                                14-
+                                                                                                                                     19%           Half2C 2CiR Half iC2R
+                                                       -
+
+
+
+                                                                                                                                                                                          1C3R
+
+                                                                                  Person
+                       Half 3C        Half 2C     Half 1C                                              2c             3              15%           4C Half3Ci1R 3C2R
+                         48
+                       0-168
+                                        120
+                                     10-325
+                                                    449
+                                                 156 979-
+                                                                                    of                229
+                                                                                                     41-592     o-
+                                                                                                                      7
+
+
+
+
+                                                                                 Interest                                               4% 4C3Rt 5C2Rf SC3Rt 6CT 6CIRT
+                                                                                                                                                   6C2Rt 7Cf 7CIRt 8CT 5C 4CIR
+                      Half 3C1R      Half 2C1R   Half 1C1R                                            2C1R       3c
+                         37             66             224                                            122             4                            5C1R Half3C2R 4C2R 3C3R
+                       0-139          0-190       62   -
+                                                         469                                         14-353     o-
+
+                                                                                                                                        2%         Half GG-Niece / Nephew t
+
+                      Half 3C2R      Half 2C2R   Half 1C2R                                   1C2R     2C2R       3c                                Half GG-Aunt / Uncle t 2C Half 1C1R                      1C2R
+                         27             48          125                                       221      71
+                        0-78          O~ 144      16 269
+                                                       -
+                                                                                            33 471
+                                                                                              -
+                                                                                                     0 -244     o-
+                                                                                                                                   t this relationship has a positive probability for 72cM in thednageek's table of
+                                                                                                                                probabilities, but falls outside the bounds of the recorded cM range (99th percentile)
+
+                                                 Half 1C3R                                   1C3R     2C3R
+                      Half 3C3R                        60                                     117      51
+                                                  0-120                                     25 238
+                                                                                              -
+                                                                                                     0-154
+
+
+
+
+                                                                                                                  Images: https://dnapainter.com/tools/sharedcmv4
+The database lists the DNA matches
+• Many matches do not post
+                                                                                                                                                                              =
+                                    All (6023)          Paternal (0)        @ Materal(0)     ® Both(o)     Filter                               Ty Sortby     % Export CSV
+
+
+                                     of
+  trees
+                                                                                                                                                                  03      7
+                                     Ancestral Surnames                                Haplogroup         Relationship Range       Shared DNA     Longest Block     X Match
+                                     Not Provided                                      mtDNA:       N/A   2nd Cousin 4th Cousin
+                                                                                                                     -
+                                                                                                                                   72M            50 cM             No Match
+                                                                                                          Link on Family Tree                               Match date: July 20 2023
+
+
+
+                                            :                                                                                                                     25:
+                                     Ancestral Surnames                                                                            Shared DNA     Longest Block     X Match
+
+
+
+• Some matches use aliases or
+                                                                                       Haplogroup         Relationship Range
+                                     Not Provided                                      Y-DNA:       N/A   2nd Cousin 4th Cousin
+                                                                                                                     -
+                                                                                                                                   56cM           49 cM             No Match
+                                                                                       mtDNA:       N/A   Link on Family Tree                               Match date: July 20 2023
+
+
+
+
+                              of
+  have common names
+                                                                                                                                                                                 :
+                                                                                                                                                                  83     01
+
+                                     Ancestral Surnames                                Haplogroup         Relationship Range       Shared DNA     Longest Block     X Match
+                                     Not Provided                                      mtDNA:       N/A   2nd Cousin 4th Cousin
+                                                                                                                     -
+                                                                                                                                   56cM           37 cM             No Match
+                                                                                                          Link on Family Tree                               Match date: July 20 2023
+
+
+
+
+                                     O .            (MTDNAPLUS.   Y-DNA67
+
+
+                                     Ancestral Surnames    View Details                Haplogroup         Relationship Range       Shared DNA     Longest Block     X Match
+                                                                                       Y-DNA:             2nd Cousin- 4th Cousin   54cM           47cM              No Match
+                                                                                       mtDNA:             Link on Family Tree                               Match date: July 20 2023
+
+
+                                            ao
+
+
+
+                                     Ancestral Surnames                                Haplogroup         Relationship Range       Shared DNA     Longest Block     X Match
+                                     Not Provided                                      Y-DNA:       N/A   2nd Cousin 4th Cousin
+                                                                                                                     -
+                                                                                                                                   50 cM          50 cM             No Match
+                                                                                       mtDNA:       N/A   Link on Family Tree                               Ma
+                                                                                                                                                                       English
+
+
+
+
+                 Image: https://www.familytreedna.com/my/familyfinder/matches/detail-view
+We build a research tree for the matches
+
+
+
+
+Match 1                 Match
+We are looking for common ancestors
+
+
+                                       John
+                                      Smith
+
+                                      Mary
+                                      Jones
+Match 1                Match ?
+                John
+               Smith
+
+              Mary
+              Jones
+We trace descendant lines to find candidates
+
+                         John             Mary
+                        Smith         1   Jones
+
+
+
+
+                        C)C)
+                                                  500
+                                                  cM
+
+
+
+              175   \/      225   \       275
+              cM    /   \   cM    !\      cM
+
+
+
+                                                        150
+                                                        cM
+We trace descendant lines to find candidates
+
+                            John   \     { Mary
+                        Smith          1 \ Jones
+
+
+
+
+                                                   120
+                                                   cM
+
+
+
+               50   \f        75          100
+              cM    /   \     cM          cM
+
+
+
+                                                         50
+                                                         cM
+        We analyze trees with “What Are the Odds”
+                                                                                          DNA match 3
+                                                                                             50cM
+                                                                        child
+                                                                                          DNA match 1
+                                                James
+                                                                                             75cM
+
+
+                                                                   Unknown half-sib       Unknown child                Unknown child       Hypothesis 1
+
+
+                                                                    DNA match 4
+                                                                       120cM
+                                                 Anna
+                        John Smith & Mary                                                 DNA match 2
+                                                                        child
+                              Jones                                                          100cM
+           Unknown
+                                                                                                                       DNA match 5
+                                                                        child                 child
+                                                                                                                          50cM
+
+
+                                                Matilda            Unknown sibling        Unknown child                Unknown child       Hypothesis 2
+
+
+
+                                                                   Unknown half-sib       Unknown child                Hypothesis 3        Hypothesis 4
+
+                                                                                                                                       STRONGEST           SCORE=50
+                                            Unknown sibling         Unknown child         Unknown child                Hypothesis 5        Hypothesis 6
+
+                                                                                      STRONGEST           SCORE = 50
+                         Unknown sibling    Unknown child
+                                                              am    Hypothesis 7          Hypothesis 8                 Hypothesis 9        Hypothesis 10
+
+
+
+
+Image: https://dnapainter.com/tools/probability
+        Strategic testing is often needed
+                                                                                              DNA match 3
+                                                                                                 175cM
+                                                                       child
+                                                                                              DNA match 1
+                                                                                                 225cM
+                                                   James
+
+                                                                  Unknown sibling            Unknown child                 Hypothesis 1
+
+
+
+                                                                  Unknown half-sib            Hypothesis 2                 Hypothesis 3
+
+
+                                                                    DNA match 4
+                                                                      500cM
+                                                                                             Unknown child
+                                                                                                                 tH        Unknown child
+                                                                                                                                            HH   Hypothesis 4
+
+
+                                                                                              DNA match 2
+                                                                                                 275cM
+                                                                       child
+                           John Smith & Mary
+                                 Jones
+                                                    Anna                                    Unknown half-sib
+                                                                                                                 tH        Unknown child
+                                                                                                                                            HH   Hypothesis 5
+
+
+
+                                                                  Unknown sibling
+                                                                                     tH      Unknown child
+                                                                                                                 HH        Hypothesis 6          Hypothesis 7
+
+
+
+                                                                  Unknown half-sib            Hypothesis 8                 Hypothesis 9
+
+
+                                                                                                                           DNA match 5
+                                                                       child                      child
+                                                                                                                              150cM
+
+
+                                                   Matilda        Unknown sibling            Unknown child                 Hypothesis 10
+
+
+
+
+                                                                                                                                                 =
+                                                                  Unknown half-sib           Hypothesis 11                 Hypothesis 12
+
+                                                                                          STRONGEST       SCORE = 19,472
+                                               Unknownn sibling    Hypothesis 13             Hypothesis 14                 Hypothesis 1 5
+
+
+
+
+Image: https://dnapainter.com/tools/probability
+How genetic genealogy works
+
+
+How forensic genetic genealogy differs
+
+
+Work products of GG/FGG
+How genetic genealogy works
+
+
+How forensic genetic genealogy differs
+
+
+Work products of GG/FGG
+Forensic DNA is usually lower quality
+• Less DNA available
+
+• DNA may be a mixture of more than one person
+
+• DNA may be degraded
+
+• Non-human DNA contamination may be present
+“Next generation” genome sequencing can help
+
+
+    Prep               Sequence                               Analyze
+
+    N
+
+                 Icons: https://www.illumina.com/systems/sequencing-platforms/novaseq.html
+Next generation sequencing “skims” the DNA
+NGS kits are modified via bioinformatics
+• Fill in missing SNPs using statistics (imputation)
+
+
+• Strip out SNPs not used by the genealogy databases to mimic
+  a microarray file
+
+
+• Once the kit is uploaded and processed, the genealogy steps
+  are the same as described earlier
+                     Fewer databases allow forensic kits
+                                               • Estimates as of August ’23
+                    25
+
+
+
+
+                    20
+
+
+
+
+                                               • AncestryDNA, 23andMe, &
+SU)] JO SUOTTTIWN
+
+
+
+
+                    15
+
+                                                 MyHeritage prohibit FGG
+                    10
+
+
+
+
+                     5                         • Grey bars indicate kits
+                                                 opted in to forensic
+                                                 genealogy matching
+How genetic genealogy works
+
+
+How forensic genetic genealogy differs
+
+
+Work products of GG/FGG
+How genetic genealogy works
+
+
+How forensic genetic genealogy differs
+
+
+Work products of GG/FGG
+      Match lists
+Kit    1:1   Name   Email   Largest Total Gen/Overlap   Date
+                              Seg    cM               Comparec
+       A                                                   N/A
+
+                                     All (6023)          Paternal (0)      Maternal (0)    ® Both (0)    Filter                              Ty Sortby     % Export CSV
+       A                     108.4
+
+                                      o                                                                                                                        03      7
+                              34.6
+                                      Ancestral Surnames                             Haplogroup         Relationship Range      Shared DNA     Longest Block     X Match
+                                      Not Provided                                   mtDNA:       N/A   2nd Cousin 4th Cousin
+                                                                                                                   -
+                                                                                                                                72cM           50 cM             No Match
+                                                                                                        Link on Family Tree                              Match date: July 20 2023
+                              39.8
+
+                                             :                                                                                                                 2 7
+                              23.7
+                                      Ancestral Surnames                             Haplogroup         Relationship Range      Shared DNA     Longest Block     X Match
+                                      Not Provided                                   Y-DNA:       N/A   2nd Cousin 4th Cousin
+                                                                                                                   -
+                                                                                                                                56M            49 cM             No Match
+                                                                                     mtDNA:       N/A   Link on Family Tree                              Match date: July 20 2023
+       A                      14.6
+
+
+       A                      37.8
+                                      oA                                                                                                                       a 7            :
+
+
+
+
+                                      Ancestral Surnames                             Haplogroup         Relationship Range      Shared DNA     Longest Block     X Match
+                                      Not Provided                                   mtDNA:       N/A   2nd Cousin 4th Cousin
+                                                                                                                   -
+                                                                                                                                56cM           37 cM             No Match
+                                                                                                        Link on Family Tree
+       A                        46                                                                                                                       Match date: July 20 2023
+
+
+
+                                                                                                                                                                              :
+
+                                                     (MTDNAPLUS.
+       A                      29.4
+                                      Ancestral Surnames    View Details             Haplogroup         Relationship Range      Shared DNA     Longest Block     X Match
+                                                                                     Y-DNA:             2nd Cousin 4th Cousin
+                                                                                                                   -
+                                                                                                                                54cM           47 cM             No Match
+       A                      4.7                                                    mtDNA:             Link on Family Tree                              Match date: July 20 2023
+
+
+
+                                                                                                                                                               2,7
+                                      Ancestral Surnames                             Haplogroup         Relationship Range      Shared DNA     Longest Block     X Match
+                                      Not Provided                                   Y-DNA:       N/A   2nd Cousin 4th Cousin
+                                                                                                                   -
+                                                                                                                                50cM           50 cM             No Match
+                                                                                     mtDNA:       N/A   Link on Family Tree
+                                                                                                                                                                    English
+    Research tree
+                                                                                          2nd G Grandfather
+                                                                  @   Great Grandfather
+                                                                                          2nd G Grandmother
+                                  @        Paternal Grandfather
+                                                                                          2nd G Grandfather
+                                                            O     @   Great Grandmother
+                                                                                          2nd G Grandmother
+                                  Father
+                                                                                          2nd G Grandfather
+                                                                  @   Great Grandfather
+                                                                                          2nd G Grandmother
+                                  @        Paternal Grandmother
+                                                                                          2nd G Grandfather
+                                                                  @   Great Grandmother
+                                                                                          2nd G Grandmother
+              9::
+                                                                  ©
+                                                                                          2nd G Grandfather
+                                                                      Great Grandfather
+              + Add relative                                                              2nd G Grandmother
+                                  @        Maternal Grandfather
+                                                                                          2nd G Grandfather
+                                                                  @   Great Grandmother
+                                                                                          2nd G Grandmother
+                                  Mother
+                                                                                          2nd G Grandfather
+                                                                  @   Great Grandfather
+                                                                                          2nd G Grandmother
+                                  @        Maternal Grandmother
+                                                                                          2nd G Grandfather
+                                                                  @ Great Grandmother
+                                                                                          2nd G Grandmother
+
+
+
+
+Image: https://www.ancestry.com
+Descendant diagrams
+                                John          Mary
+                               Smith          Jones
+
+
+
+
+                                                      500
+                                                      cM
+
+
+         Person
+             of
+                     175   \/      225   \    275
+         Interest?   cM    /   \   cM    !\   cM
+
+
+
+                                                            150
+                                                            cM
+“What Are the Odds” analysis
+                                                                        DNA match 3
+                                                                           175cM
+                                                      child
+                                                                        DNA match 1
+                                                                           225cM
+                               James
+
+                                                 Unknown sibling       Unknown child
+                                                                                           tH        Hypothesis 1
+
+
+
+                                                 Unknown half-sib       Hypothesis 2                 Hypothesis 3
+
+
+                                                   DNA match 4
+                                                     500cM
+                                                                       Unknown child                 Unknown child
+                                                                                                                     HH   Hypothesis 4
+
+
+                                                                        DNA match 2
+                                                                           275cM
+                                                      child
+       John Smith & Mary
+             Jones
+                                Anna                                  Unknown half-sib
+                                                                                           tH        Unknown child        Hypothesis 5
+
+
+
+                                                 Unknown sibling       Unknown child                 Hypothesis 6         Hypothesis 7
+
+
+
+                                             £   Unknown half-sib       Hypothesis 8                 Hypothesis 9
+
+
+                                                                                                     DNA match 5
+                                                      child                 child
+                                                                                                        150cM
+
+
+                               Matilda           Unknown sibling       Unknown child                 Hypothesis 10
+
+
+
+                                                 Unknown half-sib      Hypothesis 11                 Hypothesis 12
+
+                                                                    STRONGEST       SCORE = 19,472
+                           Unknown sibling        Hypothesis 13        Hypothesis 14                 Hypothesis 15
+Written report
+        Description
+        @             6   o            cay      Gas @ o4       Gad© o
+                                                       ©          Ce         @
+                Gu Gude       &        ©                                         e
+                                             ©© @                 @
+                              ese o                        6 Ge
+
+                                                           ©            Se
+                                             gap ©
+        NamwUs ID:
+
+        Date Body Found: Guam @
+        Race:
+        Gender)
+        Estimated Age:
+        Estimated PMI:
+        Location:
+
+        Agency of Jurisdiction
+        Gn Quayle                4a»
+Forensic cases should also produce:
+• Original microarray data or NGS FASTQ file
+• Results of deconvolution (if needed)
+• Results of enrichment (if needed)
+• Results of bioinformatics (if needed)
+• Processed file for upload to genealogy database(s)
+• Contract with the database(s) & upload history
+• Logins or kit numbers for database(s)
+                     Fewer databases allow forensic kits
+                                               • Estimates as of August ’23
+                    25
+
+
+
+
+                    20
+
+
+
+
+                                               • AncestryDNA, 23andMe, &
+SU)] JO SUOTTTIWN
+
+
+
+
+                    15
+
+                                                 MyHeritage prohibit FGG
+                    10
+
+
+
+
+                     5                         • Grey bars indicate kits
+                                                 opted in to forensic
+                                                 genealogy matching
+                    Leah LaPerle Larkin, Ph.D.
+                          Genetic Genealogy Expert
+                    theDNAgeek@gmail.com — (925) 980-2460
+                           www.theDNAgeek.com
+
+
+OVERVIEW
+Professional genetic genealogist, educator, and innovator
+
+
+EDUCATION
+Ph.D. in Botany, 2002            University of Texas at Austin          Austin, TX
+B.A. in Biology, 1991            Swarthmore College                Swarthmore, PA
+
+
+PROFESSIONAL EXPERIENCE
+Genetic Genealogy
+2016–     Founder and Lead Genealogist at The DNA Geek                Livermore, CA
+          Consulting services for unknown parentage searches, genealogy speaker
+          and educator
+2016–     Author of The DNA Geek Blog (253 posts as of 24 July 2023)
+          Highlighting the science, methods, and ethics of genetic genealogy
+2023      Co-developer of BanyanDNA, an online tool for advanced genetic
+          genealogy analyses
+2018      Co-developer of the What Are the Odds? tool (WATO), a revolutionary
+          tool for statistical analyses of autosomal DNA matches
+2018      Genealogist for the TLC television show Taken at Birth
+2017      Genealogy consultant for the TLC television show I Should Have Known
+2016–2018 Editor, Journal of Genetic Genealogy
+          Solicited manuscripts, coordinated peer reviews, edited papers for
+          publication
+
+Scientific Editing and Grant Writing
+2011–2015 Scientific Editor, Edanz Group                                   Hong Kong
+            Provided English-language scientific editing and publication-related
+            services to clients globally
+2011–2015 Scientific Editor, ISIS Group                                Cambridge, MA
+            Revise and refine grant proposals to US funding agencies for primarily
+            biomedical research scientists
+Teaching and Assessment
+2014       Freelance Pedagogy Writer (HS Biology), Pearson           White Plains, NY
+           Wrote instructional materials for 10-day professional development
+           workshop for teachers
+2013–2015 Freelance Content Specialist (K–12 Math), Symmetry            Barrington, IL
+           Wrote and edited standardized test items, workbooks, and digital
+           interactive learning materials
+2014       Freelance Assessment Writer (G5 and G7 Biology), Questar Assessment
+                                                                         Brewster, NY
+2014       Freelance Course Evaluator (HS Health Course), CompassLearning
+                                                                           Austin, TX
+2013       Freelance Lesson Writer (G8 Life Science), SureScore            Austin, TX
+2013       Adjunct Lecturer, San Francisco State University (Evolution)
+                                                                   San Francisco, CA
+2008–2010 Assistant Professor of Biological Sciences, University of the Pacific
+                                                                         Stockton, CA
+           Courses: Principles of Biology I & II, Evolution, Biology of Insects,
+           Evolutionary Medicine, Undergraduate Research
+2006–2008 Adjunct , University of New Mexico                        Albuquerque, NM
+           Courses: Plant–Insect Interactions, Biology for Non-Majors, Systematics
+           Seminar
+2003, Fall Instructor, TVI (now CNM) Community College              Albuquerque, NM
+           Courses: Introductory Biology for Majors, Biology for Non-Majors
+1992–2000 Teaching Assistant, The University of Texas                      Austin, TX
+           Courses: General Botany, Native Plants, Field Biology, Ecology and
+           Evolution, Laboratory in Cell & Molecular Biology, Laboratory in
+           Structure & Function of Organisms.
+
+Scientific Research
+2004–2008 Research Assistant Professor of Biology, University of New Mexico
+                                                                         Albuquerque, NM
+            Conducted independent research on insect taxonomy; supervised
+            undergraduate research students
+2007–2009 National Science Foundation grant-review panel member, ad hoc grant
+            reviewer for the NSF, the National Geographic Society, and the
+            University of New Mexico Department of Biology
+2005–2010 Ad hoc manuscript reviewer for scientific journals
+2000–2001 Assistant editor, Lundellia: Journal of the Plant Resources Center of UT-Austin
+1998–1999 Botany Research Assistant, The University of Texas at Austin Austin, TX
+1991–1992 McHenry Research Fellow, Academy of Natural Sciences Philadelphia, PA
+1989–1990 Biochemistry Research Technician, Swarthmore College Swarthmore, PA
+GENETIC GENEALOGY PRESENTATIONS
+2023 Applied Genetic Genealogy (4-week course)           Applied Genealogy Institute
+     Autosomal and X-DNA Analysis                   Salt Lake Institute of Genealogy
+     From Madness to Method: Making Sense of Your DNA Results              Eventbrite
+     LucidChart for Genetic Genealogy                                      DNAngels
+                                                                           Eventbrite
+     No One Told Me There Would Be Math! DNA Numbers Made Easy
+                                                                           Eventbrite
+     Relationship Predictors                                               Eventbrite
+     SOLVED! Case Studies in Genetic Genealogy                             Eventbrite
+     Third Party Tools                              Salt Lake Institute of Genealogy
+     What’s Next? Your Future in Genetic Genealogy
+                                                    Salt Lake Institute of Genealogy
+     When Your Tree Is a Banyan: Untangling Endogamy                       Eventbrite
+     Working With WATO (What Are the Odds?)                                Eventbrite
+                                             Pima County (AZ) Genealogical Society
+                                            Texas Institute of Genealogical Research
+2022 Applied Genetic Genealogy (4-week course)           Applied Genealogy Institute
+     DNA Directions (3-part workshop)                       Family History Academy
+     From Madness to Method: Making Sense of Your DNA Results              Eventbrite
+     The Hicks Babies: Research Strategies for Adoptees                    Eventbrite
+                                                Connecticut Society of Genealogists
+                                     South King County (WA) Genealogical Society
+     Panel on Human Chimerism: Developmental Biology
+                Association of Professional Genealogists Forensic Genealogy Group
+     SOLVED! Case Studies in Genetic Genealogy                             Eventbrite
+     What Are the Odds? Workshop (2-part workshop)          Family History Academy
+     When Your Tree Is a Banyan: Untangling Endogamy                       Eventbrite
+     Working With WATO (What Are the Odds?)                                Eventbrite
+                                         Ventura County (CA) Genealogical Society
+2021 Evaluating Shared Autosomal and X-DNA          Salt Lake Institute of Genealogy
+     From Madness to Method: A Step by Step Guide to DNA             SCGS Jamboree
+     From Madness to Method: Making Sense of Your DNA Results              Eventbrite
+     Introduction to WATO (What Are the Odds?)
+                    Auckland & Christchurch (New Zealand) Family History Expos
+     What’s Next? Your Future in Genetic Genealogy
+                                                    Salt Lake Institute of Genealogy
+     When Your Tree Is a Banyan: Untangling Endogamy                      RootsTech
+                    Auckland & Christchurch (New Zealand) Family History Expos
+                                         Ventura County (CA) Genealogical Society
+     Working With WATO (What Are the Odds?)                          SCGS Jamboree
+2020 The Hicks Babies: Research Strategies for Adoptees
+                                                 Austin (TX) Genealogical Society
+     Introduction to What Are the Odds? (WATO) RootsTech, Salt Lake City, UT
+     What Are the Odds? (WATO)                                     Right to Know
+     What Are the Odds? (WATO) Workshop             RootsTech, Salt Lake City, UT
+2019 The Hicks Babies: Research Strategies for Adoptees
+                                                    SCGS Jamboree, Burbank, CA
+     The Uses and Misuses of Segment Data           SCGS Jamboree, Burbank, CA
+     What Are the Odds? (WATO): A Workshop          SCGS Jamboree, Burbank, CA
+     What Are the Odds? Getting the Most Out of AutoClusters, Theory of Family
+     Relativity™, and DNA Matches       MyHeritage Live, Amsterdam, Netherlands
+     When Your Tree Is a Banyan: Untangling Endogamy in your Family History
+                                                          Family History Fanatics
+2018 Beyond Centimorgans: Segment Size and Number Can Distinguish
+     Relationships                                  SCGS Jamboree, Burbank, CA
+     Genome Mate Pro workshop                       SCGS Jamboree, Burbank, CA
+     When Your Tree Is a Banyan: Untangling Endogamy in your Family History
+                                                    SCGS Jamboree, Burbank, CA
+2017 Science the Heck Out of Your DNA: Using Hypotheses and Probability to
+     Solve Genealogical Problems                 i4GG conference, San Diego, CA
+2016 When Your Tree Is a Banyan: Coping with Endogamy in Genetic Genealogy
+                                                 i4GG conference, San Diego, CA
+
+
+SCIENTIFIC PUBLICATIONS
+Geurts, P., L. Zhao, Y. Hsia, E. Gnesa, S. Tang, F. Jeffery, C. La Mattina, A. Franz, L.
+   Larkin, and C. Vierra. 2010. Synthetic spider silk fibers spun from pyriform
+   spidroin 2, A glue silk protein discovered in orb-weaving spider attachment discs.
+   Biomacromolecules 11: 3495–3503.
+Marshall, D. L., A. P. Tyler, M. G. Shaner, N. J. Abrahamson, J. J. Avritt, M. G.
+   Barnes, L. L. Larkin, J. S. Medeiros, J. Reynolds, H. L. Simpson, and S. Maliakal-
+   Witt. 2010. Pollen performance of Raphanus sativus (Brassicaceae) declines over
+   time in response to elevated [CO2] Plant Sexual Reproduction 23: 325–336.
+Blasingame, E., T. Tuton-Blasingame, L. Larkin, A. M. Falick, P. Geurts, X. Hu, V.
+   Vaidyanathan, A. Visperas, C. La Mattina, and C. Vierra. 2009. Pyriform spidroin
+   1, a novel member of the silk gene family that anchors dragline silk fibers in
+   attachment discs of the black widow spider, Latrodectus hesperus. Journal of Biological
+   Chemistry 284 (42): 29097–29108.
+Brady, S. G., L. L. Larkin, and B. N. Danforth. 2009. The timeline of aculeate
+   evolution. Invited chapter to The TimeTree of Life, ed. Blair Hedges & Sudhir
+   Kumar, Oxford University Press.
+Larkin, L. L., J. L. Neff & B. B. Simpson. 2008. The evolution of a pollen diet:
+   Host choice and diet breadth of Andrena bees (Hymenoptera: Andrenidae).
+   Apidologie 39: 133–145.
+Larkin, L. L., S. Droege, R. Andrus and T. Griswold. 2006. An interactive web-
+   based key to the Andrena species of the eastern United States. Online at:
+   http://pick5.pick.uga.edu/mp/20q?guide=Andrena_female and
+   guide=Andrena_male.
+Simpson, B. B., L. L. Larkin, A. Weeks, & J. McDill. 2006. Phylogeny and
+   biogeography of Pomaria (Caesalpinioideae: Leguminosae). Systematic Botany 31(4):
+   792–804.
+Pohl, T. & L. L. Larkin. 2006. A new species of Andrena (Hymenoptera:
+   Andrenidae) from Mexico. Journal of the Kansas Entomological Society 79(1): 104–109.
+Larkin, L. L., J. L. Neff & B. B. Simpson. 2006. Phylogeny of the Callandrena
+   subgenus of Andrena (Hymenoptera: Andrenidae) based on mitochondrial and
+   nuclear DNA data: Polyphyly and convergent evolution. Molecular Phylogenetics and
+   Evolution 38(2): 330–343.
+Larkin, L. L. 2004. Four new species of fall Andrena from the southwestern United
+   States. Journal of the Kansas Entomological Society 77(3): 254–268.
+Simpson, B. B., A. Weeks, D. M. Helfgott & L. L. Larkin. 2004. Species
+   relationships in Krameria (Krameriaceae) based on ITS sequences and morphology:
+   Implications for character evolution and biogeography. Systematic Botany 29(1): 97–
+   108 + cover photo.
+Simpson, B. B., L. L. Larkin, & A. Weeks. 2003. Progress towards resolving the
+   relationships of the Caesalpinia group (Caesalpinieae: Caesalpinioideae: Fabaceae).
+   pp. 123–148 In B. Klitgaard & A. Bruneau (editors). Advances in Legume Systematics
+   X. Higher-Level Systematics and Biogeography. Royal Botanic Gardens, Kew,
+   Richmond.
+Neff, J. L. & L. L. Larkin. 2002. Andrena chaparralensis new species, a new vernal bee
+   associated with Asteraceae on the South Texas Plains (Hymenoptera, Apoidea,
+   Andrenidae). Journal of the Kansas Entomological Society 75(4): 268–273.
+                              DANIEL S. HELLWIG
+                               INTERMOUNTAIN FORENSICS
+          505-577-1459 (CELL) • DANNY@INTERMOUNTAINFORENSICS.COM
+
+EDUCATION
+
+Bachelor of Science Degree, Viterbo University, La Crosse, Wisconsin, 1997
+Major: Biology/Chemistry
+
+Masters of Science Degree, Marshall University, Huntington, West Virginia, 2003
+Major: Forensic Science
+
+WORK EXPERIENCE
+July 2024-Present
+Forensic Director, Intermountain Forensics, Salt Lake City, UT
+ Strategic planning of laboratory executive management, communications, social media presence and donations to
+     allow for successful funding of forensic investigative genetic genealogy cold cases
+ Establishing and maintaining business development relationships with potential partners, vendors, and collaborators
+     as needed with the forensic, law enforcement and genetic genealogy community.
+
+July 2024-Dec 2024
+Director of Research and Innovation, DNA Labs International, Salt Lake City, UT
+ Research, direct acquisition and propose testing plans for potential new forensic technologies to enhance the
+     production and capabilities of the laboratory.
+ Assist with preparation of validation plans, testing and summaries for novel technologies
+ Coordinate and present publication and distribution of the results, findings and conclusions of novel technology
+     testing and implementation.
+ Attend and present at forensic symposiums, meetings and conferences
+ Assist in transition after laboratory was purchased
+
+June 2022–July 2024
+Director of Laboratory Development, Intermountain Forensics/Keepsake DNA, Salt Lake City, UT
+ Strategic planning of laboratory executive management, purchases, forensic validations, technology upgrades, process
+    modification and lean/six sigma quality and efficiency projects
+ Establishing and maintaining business development relationships with potential partners, vendors, and collaborators
+    within the forensic community
+ Consulted with law enforcement, criminal justice personnel, direct to consumer clients and other forensic laboratory
+    staff on evidence/item submission, testing and DNA results, conclusions and statistics
+ Provide off site technical training to inform, update and enhance knowledge to the criminal justice community
+ Perform forensic DNA examinations on evidentiary items and write reports regarding the result of that testing
+ Maintain competency and proficiency in relevant forensic DNA examinations
+ Responsible for testifying as an expert witness in court
+
+October 2019 – June 2022
+Laboratory Director
+Forensic DNA Technical Leader, Intermountain Forensics/Cold Case Coalition, Salt Lake City, UT
+ Was responsible for the laboratory operation and technical oversight of DNA casework operations and personnel
+ Established initial successful assessment of ISO 17025 and Federal Bureau of Investigation Quality Assurance
+    Standards
+ Maintained adherence to regulatory and accreditation requirements
+ Developed and evaluated all laboratory methods and protocols for forensic DNA casework
+ Planned, provided oversight and implementation of forensic validations, technology upgrades, process modification
+    and lean/six sigma quality and efficiency projects
+ Ensured all technical staff are properly trained on existing and new technical procedures
+ Performed forensic DNA examinations on evidentiary items and write reports regarding the result of that testing
+ Maintained competency and proficiency in relevant forensic DNA examinations
+ Was responsible for testifying as an expert witness in court
+ Established and maintained business development relationships with potential partners, vendors and collaborators
+
+                                                                                                                              B
+                                                                                                                         CR01-24-31665
+                                                                                                                           1/9/25
+    within the forensic community
+   Direct supervision of laboratory staff members
+   Managed the evaluation, interview and hiring of potential employees
+   Consulted with law enforcement, criminal justice personnel and other forensic laboratory staff on evidence
+    submission, testing and DNA results, conclusions and statistics
+   Provided off site technical training to inform, update and enhance knowledge to the criminal justice community
+
+June 2019 – October 2019
+Principal Professional Services Consultant, Sunquest Information Systems, Salt Lake City, UT
+ Collaborate with and mentor other Professional Services Consultants to expand own and others depth & breadth of
+    product knowledge
+ Act as voice of the client to review product requirements, development progress and testing protocols for new
+    software versions
+ Assist sales team in review of RFPs, custom quotes, and technical workflow discussions
+ Facilitate the development of client training materials and implementation staff training on new functionality during
+    software development cycles
+ Possess master level competency of the application and act as the escalation point for issues identified during
+    implementation
+ Responsible for the coordination of initial client(s) for new version/release implementation
+
+December 2017 – June 2019
+Senior Professional Services Consultant
+Senior Forensic Specialist, Sunquest Information Systems, Brisbane, Queensland, Australia
+ Act as a process consultant for forensic science, public health scientific services and pathology laboratory specialized
+    testing workflows
+ Implement electronic laboratory information management systems across eighteen departments in thirty-one hospital,
+    public health and forensic science site locations
+ Conduct onsite analysis of client workflows and recommend modifications to improve quality, productivity and
+    efficiency
+ Participate in design, development and implementation of laboratory information management software to
+    effectively facilitate the laboratory processes
+ Recommend, organize and facilitate project planning
+ Train hospital staff in concepts, use and management of laboratory information management software
+
+July 2013 – December 2017
+Lab Director, Sorenson Forensics, Salt Lake City, UT
+ Direct supervision of senior DNA staff members
+ Manage the evaluation, interview and hiring of potential employees
+ Responsible for the operation and oversight of DNA casework operations and personnel
+ Budget management and oversight for DNA casework operations
+ Provide both in-house and offsite technical training
+ Assist with laboratory development consulting projects (Lagos, Nigeria; Dakar, Senegal)
+ Consult with law enforcement, prosecutors and other forensic laboratory staff on evidence submission, testing and
+     DNA results, conclusions and statistics
+ Planning and implementation of technology upgrades, process modification and lean/six sigma quality and efficiency
+     projects
+ Establishing and maintaining business development relationships with potential partners, vendors and collaborators
+     within the forensic community
+ Provide and report forensic DNA case reviews for the defense law community
+
+January 2012 – July 2013
+Associate Lab Director – Operations, Sorenson Forensics, Salt Lake City, UT
+ Direct supervision of senior DNA staff members
+ Manage the evaluation, interview and hiring of potential employees
+ Responsible for the operation and oversight of DNA casework operations and personnel
+ Provide both in-house and offsite technical training
+ Assist with laboratory development consulting projects (Lagos, Nigeria; Dakar, Senegal)
+ Consult with law enforcement, prosecutors and other forensic laboratory staff on evidence submission, testing and
+    DNA results, conclusions and statistics
+ Planning and implementation of technology upgrades, process modification and lean/six sigma quality and efficiency
+    projects
+   Establishing and maintaining business development relationships with potential partners, vendors and collaborators
+    within the forensic community
+   Provide and report forensic DNA case reviews for the defense law community
+
+June 2009 – January 2012
+Forensic DNA Technical Leader, Sorenson Forensics, Salt Lake City, UT
+ Responsible for the technical operation and oversight of DNA analytical operations
+ Developed and evaluated all laboratory methods and protocols for forensic DNA casework
+ Ensured all technical staff is properly trained on existing and new technical procedures
+ Oversaw, participated in and evaluated all in-house forensic validations
+ Performed forensic DNA examinations on a variety of evidentiary items and write reports regarding the result of that
+    testing
+ Responsible for testifying as an expert witness in court
+ Provided and reported forensic DNA case review for the defense law community
+ Consulted with law enforcement, prosecutors and other forensic laboratory staff on evidence submission, testing and
+    DNA results, conclusions and statistics
+ Provide both in-house and offsite technical training
+
+December 2008 – June 2009
+Professor, New Mexico Highlands University, Las Vegas, New Mexico
+ Instructed forensic science related coursework in the Chemistry department of the university
+ Developed class curriculum for several forensic science classes
+ Assisted the department in their pursuit of a Forensic Science Education Programs Accreditation Commission
+    (FEPAC) accredited B.S. Forensic Science degree offering
+ Provided forensic DNA case review for the New Mexico defense attorney community
+
+July 2003 - November 2006; October 2007 - September 2008
+Forensic Scientist - Advanced, New Mexico Department of Public Safety, Santa Fe, New Mexico
+ Performed forensic serology and DNA examinations on a variety of evidentiary items and wrote reports regarding
+     the results of that testing
+ Responsible for testifying as an expert witness in court
+ Assisted with validation, development of standard operating procedures and performance checks on various new
+     technologies
+ Quality assurance and quality control laboratory duties, including FBI DNA quality assurance internal auditing
+ Instructed various law enforcement personnel on forensic science and crime scene investigation techniques
+ Acted as safety officer of the DNA section
+
+November 2006 - October 2007
+Forensic Scientist/Crime Scene Investigator, Minnesota Bureau of Criminal Apprehension, Bemidji, Minnesota
+ Performed forensic serology and DNA examinations on a variety of evidentiary items and wrote reports regarding
+    the results of that testing
+ Responsible for testifying as an expert witness in court
+ Responded to and processed homicide crime scenes as a member of the Bemidji regional Crime Scene Team.
+ Quality assurance and quality control laboratory duties
+ Acted as the safety officer for the Bemidji regional laboratory
+
+January 2004-November 2006
+Part-time Faculty, Santa Fe Community College
+ Instructed coursework for Forensic Science I and II
+ Responsible for developing and instructing the forensic science curriculum in the Criminal Justice program of the
+    college
+
+May 2002 - August 2002
+Intern, Armed Forces DNA Identification Laboratory, Rockville Maryland
+ Assisted with validation and development of several Mitochondrial DNA extraction techniques
+ Assisted AFDIL staff in the compilation and reporting of findings for future publication
+
+COURT TESTIMONY
+•   Qualified as an expert in Forensic Serology/DNA Analysis on multiple occasions in several different jurisdictions
+    throughout the state of New Mexico (2004-2008)
+
+•   Qualified as an expert in Forensic DNA Analysis in the state of Texas (2010, 2014)
+
+•   Qualified as an expert in Forensic DNA Analysis in the state of Utah (2010-2011, 2014-2015)
+
+
+
+PROFESSIONAL ASSOCIATIONS
+NDIS Panel Member, National DNA Identification System (FBI), 2008
+Member, American Academy of Forensic Sciences, 2001-2019
+Member, International Association for Identification, 2001-2003
+Regular Member, American Society of Crime Laboratory Directors 2015-2019
+
+
+CERTIFICATES
+FBI DNA Quality Assurance Auditor                                        March 3, 2006
+ASCLD/LAB-International Assessor                                         March 17, 2006
+Lean Six Sigma Green Belt Certification                                  November 27, 2009
+Six Sigma Black Belt Certification                                       July 29, 2013
+US Synthetic Corp.                                                       Orem, UT
+
+TRAINING
+American Academy of Forensic Sciences Annual Meeting
+Chicago, Illinois                                                        February, 2003
+New Orleans, Louisiana                                                   February, 2005
+Seattle Washington                                                       February, 2006
+Seattle Washington                                                       February, 2010
+Chicago, Illinois                                                        February, 2011
+Washington, DC                                                           February, 2013
+
+Reflective Ultra Violet Imaging System (R.U.V.I.S)                       January 26, 2004
+Sirchie Finger Print Laboratories                                        Santa Fe, NM
+
+Basic Forensic Serology                                                  February 9-13, 2004
+Serological Research Institute                                           Richmond, CA
+
+ABI Prism 310 Genetic Analyzer/AmpFLSTR training                         June 1-4, 2004
+Applied Biosystems Inc.                                                  Foster City, CA
+
+Instructor Development                                                   July 12-16, 2004
+Law Enforcement Academy                                                  Santa Fe, NM
+
+ABI 3100 Capillary Electrophoresis, GeneMapper ID
+Data Analysis and Real Time PCR Training Module                          June 12-17, 2005
+Marshall University                                                      Huntington, WV
+
+DNA Auditor Training                                                     February 20-21, 2006
+Federal Bureau of Investigation                                          Seattle, WA
+
+Decoding DNA: Train the Trainer                                          March 8-10, 2006
+Texas Regional Community Policing Institute                              Salt Lake City, UT
+
+ASCLD/LAB Introduction to ISO/IEC 17025:2005                             March 13, 2006
+Federal Bureau of Investigation                                          Stafford, VA
+
+ASCLD/LAB-International Assessor                                         March 13-17, 2006
+Federal Bureau of Investigation                                          Stafford, VA
+Court Room Testimony                                                September 27-30, 2007
+Minnesota Bureau of Criminal Apprehension                           St. Paul, MN
+
+Bode Technologies Technical Workshop - East                         May 19-22, 2008
+                                                                    Captiva Island, FL
+
+Lean Six Sigma Laboratory Efficiency Improvement                    August 2009-November 2009
+Sorenson Forensics                                                  Salt Lake City, UT
+Presenter: Dirk Hooiman (Lean Six Sigma Master Black Belt)
+
+SWGDAM Mixture Interpretation Guidelines                            August 5, 2010
+Utah State Bureau of Forensic Science                               Salt Lake City, UT
+Presenter: Bruce Heidebrecht (SWGDAM)
+
+Microsoft Excel: Beyond the Basics/Advanced Excel                   August 11-12, 2010
+Fred Pryor Seminar                                                  Salt Lake City, UT
+
+Genemapper ID-X User Training                                       November 3-4, 2010
+Sorenson Forensics                                                  Salt Lake City, UT
+Presenter: Catherine Caballero (Forensic Training Network)
+
+National CODIS Conference                                           November 15, 2010
+                                                                    Salt Lake City, UT
+
+California Association of Criminalists Spring Meeting               May 18, 2011
+DNA Workshop                                                        Long Beach, CA
+
+Promega Powerplex 18D System Workshop                               June 1-2, 2011
+Promega Campus                                                      Madison, WI
+
+International Society for Applied Biological Sciences Meeting       June 20-24, 2011
+                                                                    Bol, Croatia
+
+Green Mountain DNA Conference                                       July 25-27, 2011
+                                                                    Burlington, VT
+
+Power to Solve Workshop                                             August 8-9, 2011
+Sorenson Forensics                                                  Salt Lake City, UT
+Promega DNA IQ/Plexor HY/PP16HS/PP18D
+
+Cold Case Conference                                                September 26-30, 2011
+Vidocq Society/Unified Police Department                            Salt Lake City, UT
+
+Bullet Proof Manager
+Crestcom Management Training                                        Salt Lake City, UT
+Time Management - The 70 Minute Hour                                November 18, 2010
+Plan Management - Effective Planning: A 7 Step Formula              December 16, 2010
+Customer Loyalty - How to Exceed Customer Expectations              January 20, 2011
+Stress Management - How to Survive and Thrive Under Stress          February 17, 2011
+Negotiation - Negotiating to Win                                    March 17, 2011
+Creativity - Tap the Creativity of Your Team                        April 21, 2011
+Motivation - Increasing Productivity through Motivated People       June 16, 2011
+Employee Recognition - Recognition: The Key to Higher Performance   July 21, 2011
+
+Louisiana Association of Forensic Sciences Annual Meeting           April 18, 2012
+Louisiana State Crime Laboratory                                    Baton Rouge, LA
+
+International Symposium on Human Identification
+Nashville, TN                                                       October 15-17, 2012
+Grapevine, TX                                                       October 12-15, 2015
+Orlando, FL                                                         September 12-16, 2021
+Washington, DC                                                      October 31-Nov 6, 2022
+Denver. CO                                                          September 18-21, 2023
+San Antonio, TX                                                     September 23-26, 2024
+
+Mid-Atlantic Association of Forensic Scientists Annual Meeting      May 6-7, 2013
+                                                                    Roanoke, VA
+
+Forensic DNA 101/Trends in Forensic DNA                             May 13, 2014
+2014 Cold Case Summit, Unified Police Department                    Salt Lake City, Utah
+
+American Society of Crime Laboratory Directors Symposium
+Washington, DC                                                      April 27-30, 2015
+Bellevue, WA                                                        April 24-28, 2016
+Austin, TX                                                          April 23-24, 2023
+
+2015 Sexual Assault Kit Summit for Cities                           October 19-20, 2015
+                                                                    Memphis, TN
+
+The Five Languages of Appreciation in the Workplace                 April 25, 2016
+2016 ASCLD Symposium Workshop                                       Bellevue, WA
+
+Bridging the Generational Gap in Forensic Organizations             April 25, 2016
+2016 ASCLD Symposium Workshop                                       Bellevue, WA
+
+
+2016 Forensic DNA Science Forum                                     April 13-14, 2016
+                                                                    Nantong, China
+
+2021 Qiagen Virtual Investigator Forum                              Jun 30-Jul 2, 2021
+                                                                    Virtual Conference
+
+2021 Midwest Academy of Forensic Sciences Annual Meeting            November 2, 2021
+                                                                    Chicago, IL
+
+2023 Southern Association of Forensic Scientists Annual Meeting     April 24-28, 2023
+                                                                    Gulf Shores, AL
+
+2024 Ontario Forensic Investigators Association Conference          April 30 – May 3, 2024
+
+
+
+PRESENTATIONS/POSTERS/PUBLICATIONS
+Overview of Forensic DNA Techniques (presenter)                     February 27, 2010
+King County Prosecuting Attorney’s Office                           Seattle, WA
+
+Y-STR Interpretation and Statistics Workshop (presenter)            April 27-28, 2010
+Onondaga County Crime Laboratory                                    Syracuse, NY
+
+Lean 6 Sigma Efficiency Improvement Project (team lead)             August 17-18, September 14-15, 2010
+Monroe County Crime Laboratory – Forensic DNA Section               Rochester New York
+
+Y-Screening: An alternative to Microscopic Examination (presenter)
+Michigan State Police Laboratory Conference, Traverse City, MI     August 20, 2010
+California Association of Criminalists Conference, Long Beach, CA  May 18, 2011
+Green Mountain DNA Conference, Burlington VT                       July 27, 2011
+Genetic Identity Webinar – Promega @cademy                         August 25, 2011
+Louisiana Association of Forensic Sciences, Baton Rouge, LA        April 18, 2012
+2016 Forensic DNA Science Forum, Nantong, China                    April 13-14, 2016
+STR Wars: A comparison of Powerplex 16HS and Identifiler Plus       October 12, 2010
+International Symposium on Human Identification (poster)            San Antonio, TX
+
+Forensic Investigative Law Enforcement Ancestry Test (ILEAD) (presenter)
+Cold Case Summit, Unified Police Department, Salt Lake City, UT     April 25, 2011
+International Society for Applied Biological Sciences, Bol, Croatia June 24, 2011
+Green Mountain DNA Conference, Burlington VT                        July 27, 2011
+Louisiana Association of Forensic Sciences, Baton Rouge, LA         April 18, 2012
+
+Lean 6 Sigma: Efficiency and Quality Improvement (presenter)        June 1, 2011
+Promega Powerplex 18D Workshop                                      Madison, WI
+
+Basic Y-STR Interpretation and Statistics Workshop (presenter)
+New York State Police Crime Laboratory, Albany, NY                  September 20-22, 2011
+Monroe & Erie County Crime Laboratories, Syracuse, NY               May 4, 2012
+
+SWGDAM Mixture Guidelines/Y-STR Interpretation (presenter)          December 13-14, 2011
+Massachusetts State Police Crime Laboratory                         Maynard, MA
+
+Advanced Y-STR Interpretation Workshop (presenter)
+New York State Police Crime Laboratory, Albany NY                   April 30, 2012
+Massachusetts State Police Crime Laboratory, Maynard MA             June 25-28, 2012 (2 days, 2 classes)
+Oregon State Police Forensic Lab, Clackamas OR                      January 15, 2013
+West Palm Beach County Sheriff’s office, West Palm Beach FL         July 22-23, 2013
+Massachusetts State Police Crime Laboratory, Maynard MA             May 20-21, 2015
+Monroe County Crime Laboratory, Rochester NY                        January 11-13, 2016
+Office of the Chief Medical Examiner, New York NY                   January 21, 2016
+
+Y-STR Interpretation and Statistics Workshop (presenter)            May 2, 2012
+OCME, Westchester, Suffolk County, Nassau County Laboratories       Westchester, NY
+
+Bringing Y-STRs into Your Laboratory (workshop chair/speaker)       October 15, 2012
+International Symposium on Human Identification                     Nashville, TN
+
+Estimating Genetic Ancestry Using SNP Analysis (presenter)          February 8, 2013
+American Academy of Forensic Sciences Annual Meeting                Washington, DC
+
+Y-STR Workshop (presenter)                                          May 7, 2013
+Mid-Atlantic Association of Forensic Scientists Annual Meeting      Roanoke, VA
+
+Forensic DNA 101/Trends in Forensic DNA (presenter)                 May 13, 2014
+2014 Cold Case Summit, Unified Police Department                    Salt Lake City, Utah
+
+Y-STR Workshop/SWGDAM Mixture Guidelines/Statistics                 Nov 4-6, 2014
+(presenter)
+Metropolitan Nashville Police Department                            Nashville, TN
+
+PowerQuant vs. Quantifiler Trio Results & Discussion (presenter) March 24, 2015
+Promega Technical Tour 2015                                      Walnut Creek, CA
+
+Y-STR Workshop (presenter)                                          September 15, 2015
+Northwestern Association of Forensics Scientists Annual Meeting     Spokane, WA
+
+State of Forensic DNA: Present and Future Trends                    October 19, 2005
+2015 Sexual Assault Kit Summit for Cities                           Memphis, TN
+
+YSTR 101: An introduction for investigators and prosecutors         January 14, 2016
+Public Safety Training Facility                                     Rochester, NY
+
+NicheVision Forensic Workshop: Combating Inconclusive               May 5, 2021
+Bode Virtual Conference                                             Virtual Conference
+Workshop: Operationalizing NGS                                    June 30, 2021
+2021 Qiagen Virtual Investigator Forum                            Virtual Conference
+
+Bonecrusher: Using the Tissuelyser II for easier and more         Jul 2, 2021
+effective bone pre-processing                                     Virtual Conference
+2021 Qiagen Virtual Investigator Forum
+
+Workshop: Technological Considerations for Responsibly            September 16, 2021
+Implementing Forensic Genetic Genealogy Workflow with NGS         Orlando, FL
+2021 International Symposium on Human Identification
+
+Workshop: Next Generation Sequencing in the Laboratory Setting November 2, 2021
+2021 Midwest Academy of Forensic Sciences Annual Meeting       Chicago, IL
+
+Part 3: Decoding the Laboratory Options for Genetic Genealogy     May 25, 2022
+Forensic Genetic Genealogy Webinar Series (ISHInews)              Webinar
+
+Forensic Investigative Genetic Genealogy: Decoding the
+Laboratory Options for Law Enforcement                            September 14, 2022
+Violent Crimes Conference                                         Salt Lake City, UT
+
+Cold Cases and Sex Crimes DNA Strategies                          September 25, 2022
+Utah Association of Criminal Defense Lawyers                      Salt Lake City, UT
+
+How to Build a Passion and Purpose Driven Career                  October 28, 2022
+2022 Utah Business Women’s Forum                                  Salt Lake City, UT
+
+Workshop: Investigative Genetic Genealogy :
+A Comprehensive Review                                            October 31, 2022
+International Symposium on Human Identification                   Washington, DC
+
+The Road So Far:
+Forensic DNA Update in the 1921 Graves Investigation              November 1, 2022
+International Symposium on Human Identification                   Washington, DC
+
+Forensic Investigative Genetic Genealogy Webinar
+Part 1: Introduction to Forensic Genetic Genealogy                November 7, 2022
+Part 2: FGG: Forensic Laboratory Perspective                      November 9, 2022
+National Association of Attorney’s General                        Webinar
+
+Workshop: Investigative Genetic Genealogy :
+A Comprehensive Laboratory Review                                 April 26, 2023
+2023 Southern Association of Forensic Scientists Annual Meeting   Gulf Shores, AL
+
+Tulsa Race Massacre / Tulsa Race Massacre DNA Identification
+Project: Update and Lessons Learned                               April 27, 2023
+2023 Southern Association of Forensic Scientists Annual Meeting   Gulf Shores, AL
+
+Workshop: Turning Next Generation Sequencing
+Into “Now” Generation Sequencing                                  April 30, 2023
+American Society of Crime Laboratory Directors Symposium          Austin, TX
+
+Fully Accredited for Forensic Genetic Genealogy – What
+Does that Actually Mean for Laboratories                          June 10, 2024
+2nd Annual BJA Forensics Program Grantees Meeting                 Webinar
+
+1921 Tulsa Race Massacre Graves Project:
+A New Model for Mass Grave DNA Investigation Using FIGG           September 11, 2024
+International Homicide Investigators Association Summit           Ottawa, Ontario, Canada
+Summary of testimony of Daniel Hellwig
+
+Mr. Hellwig is the Forensic Director at Intermountain Forensics, a non proﬁt based in Salt Lake
+City, Utah, since 2024. Mr. Hellwig has been involved in forensic DNA testing since 2002 and
+recently has moved into the area of IGG testing (see attached CV). In particular, Mr. Hellwig has
+focused on the implementation and validation of SNP and WGS testing methods in the context
+of forensic case work. Intermountain Forensics was accredited for Forensic SNPs using
+Massively Parallel sequencing in February 2023. Intermountain was one of the ﬁrst laboratory
+in the country that was accredited for whole genome sequencing and forensic SNP’s as they
+apply to forensic investigative genetic genealogy
+
+Mr. Hellwig will testify to the following:
+
+The eﬀorts of the forensic community to implement standards in for IGG consistent with
+forensic laboratories and why such standards are necessary to ensure that testing is conducted
+in a reliable, reproducible manner. This testimony will encompass
+
+       the requirement to create and retain technical records
+
+       the requirement to provide written or electronic reports
+
+       the validation of methods used, including computer programs
+
+       the development of protocols that lay out methods used as well as quality
+       control/quality assurance standards
+
+       the need for documentation of quality standards such as contamination logs, corrective
+       actions and root cause analysis of laboratory errors
+
+       the technical review of case documentation and reports
+
+       proﬁciency testing of individuals involved in case work
+
+       the retention of documentation including methods used and digital data ﬁles
+
+How SNP testing is conducted by commercial labs such as Othram, what types of material and
+documentation is typically generated by a lab conducting such testing, including digital data
+ﬁles.
+
+The type of information that can be obtained from a SNP or WGS data set, in particular personal
+medical information and how the test results diﬀer from standard STR testing.
+How bioinformatic programs operate in general on the raw data generated by the SNP testing
+process and how these programs are used to generate data that can be uploaded to commercial
+databases.
+
+The need to maintain laboratory documentation including protocols and data ﬁles and the
+reason for such documentation and retention.
+
+The importance of external review of forensic testing in general and IGG speciﬁcally
+
+The use of commercial databases in building out family trees used to identify an unknown
+individual from a crime scene sample. This testimony will encompass:
+
+       The types of databases available and how they are used in an IGG investigation
+
+       The limits on the use of these databases and the privacy concerns that form the basis of
+       these limits and the development of the opt in/opt out functions for law enforcement
+       access and how they work
+
+       The history of the abuse of these databases leading to the restriction of law
+       enforcement use of various databases
+

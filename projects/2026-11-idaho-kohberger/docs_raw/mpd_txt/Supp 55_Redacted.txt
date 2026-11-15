@@ -1,0 +1,39 @@
+07/08/25                    Moscow Police Department                         1272
+10:24                    Law Supplemental Narrative:                 Page:      1
+  Details
+Incident Number   22-M09903          Name   Lawrence Mowery
+Sequence Number    55                Date   11:50:10 12/05/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Department of Labor Warrant
+
+Case# 22-M09903
+Date: 12/5/2022
+
+On December 4, 2022, I found I had received an email forwarded to me from K
+W      of the Idaho Department of Labor. The email was from Michael Douglass of
+the Federal Bureau of Investigation. SA Douglass assisted in the service of the
+warrant to the Department of Labor.
+The email contained a single file with the data requested pursuant to the
+warrant served on the IDoL. The file was downloaded and saved onto a computer
+located in the secure computer forensic lab located at the Moscow Police
+Department.
+In examining the file, it showed the requested parties name, DOB and SSN with a
+corresponding screen shot of their reported income.
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also
+emailed a copy of the receipt to W      (            @labor.idaho.gov), as this
+was the originating email address associated with the documents.
+
+Det. Lawrence Mowery - 162
+Mon Dec 05 11:50:24 PST 2022
+
+Reviewed:
+Sgt. J. W. Lawrence
+Mon Dec 05 13:52:30 PST 2022
+

@@ -1,0 +1,469 @@
+rn65f/
+https://www.reddit.com/r/Felons/comments/v7z9kf/research_participation_needed_re
+post/ibnvh3b/
+https://www.reddit.com/r/Felons/comments/v1yajl/research_participation_needed/ia
+t28zs/
+https://www.reddit.com/r/Felons/comments/v8peo9/what_were_your_struggles_as_a_fe
+lon_right_after/ibsw3g4/
+https://www.reddit.com/r/Felons/comments/v1yajl/research_participation_needed/ia
+s4uew/
+https://www.reddit.com/r/TrueOffMyChest/comments/v7i0rf/i_make_my_husband_want_t
+o_kill_himself/iblw6bi/
+
+In the post_votes.csv data file, the following permalinks were located:
+https://www.reddit.com/r/ExCons/comments/v7zatc/research_participation_needed_re
+post/
+https://www.reddit.com/r/Prison/comments/v8aslf/i_think_prisons_should_be_segreg
+ated_by_race/
+https://www.reddit.com/r/Unexpected/comments/v8g4zq/deleted_by_user/
+https://www.reddit.com/r/Felons/comments/v8peo9/what_were_your_struggles_as_a_fe
+lon_right_after/
+https://www.reddit.com/r/Prison/comments/v7zbkc/research_participation_needed_re
+post/
+https://www.reddit.com/r/Prison/comments/v3vnn9/research_participation_needed/
+https://www.reddit.com/r/PrisonTalk/comments/v7z9yj/research_participation_neede
+d_repost/
+https://www.reddit.com/r/Felons/comments/v7z9kf/research_participation_needed_re
+post/
+https://www.reddit.com/r/Felons/comments/v85835/stopping_studiesresearchpollques
+tions_for_felons/
+https://www.reddit.com/r/prisons/comments/v7zaic/research_participation_needed_r
+epost/
+https://www.reddit.com/r/KidsAreFuckingStupid/comments/v832d3/theres_accidents_t
+hen_theres_these/
+I sent an email to Reddit to ask for clarification on what these data file
+directly relate to, but have not received clarification at the time of this
+report.
+In reviewing the contents associated with the       @desales.edu email, I found
+two accounts associated with the email. The first account name was
+               and the registration date was December 30, 2022 at 2158 UTC. The
+registration IP was              , which showed a location near Tampa, Florida
+with Frontier Communications. This account also showed additional IP logins from
+Florida on January 2, 2023, January 4, 2023, January 4, 2023 and January 11,
+2023. The email address showed it was not verified. During these dates,
+Kohberger was incarcerated and was not in Florida. With this information, I
+believe this account was a fake account.
+
+The second account name was                     and the registration date was
+April 1, 2022 at 2039 UTC. The registration IP was              , which showed a
+location near Albrightsville, Pennsylvania with PenTeleData. A second login IP
+was registered as                on November 21, 2022 at 2210 UTC, which showed
+a location near Kansas City, MO with Level 3 Communications. This IP address
+also showed a high probability of being a VPN exit point. The email address
+showed it was verified.
+In reviewing these files, I located a file labelled comment_votes.csv. This file
+contained the following permalinks in the data:
+https://www.reddit.com/r/Felons/comments/v1yajl/research_participation_needed/ia
+s4uew/
+https://www.reddit.com/r/Felons/comments/v1yajl/research_participation_needed/ia
+t28zs/
+https://www.reddit.com/r/Felons/comments/v7z9kf/research_participation_needed_re
+post/ibo3maq/
+https://www.reddit.com/r/Felons/comments/v1yajl/research_participation_needed/ia
+rn65f/
+https://www.reddit.com/r/Felons/comments/v7z9kf/research_participation_needed_re
+post/ibnvh3b/
+In the messages.csv data file, the following were located:
+2022-06-03 09:45:02 UTC
+From:
+To:/r/Prison
+Subject: Research Survey
+"Hello,
+I attempted to post a survey to the r/Prison sub-reddit, but my post was
+automatically removed. I imagine that this may be due to the lack of activity on
+my account. As I have seen others post research recruitment posts on this
+sub-reddit within the past few months, would it be possible to obtain approval
+to submit a recruitment post to r/Prison? The recruitment post has my
+information in it, and the survey itself has an informed consent form that
+confirms my affiliation. I have been able to post my survey to other sub-reddits
+such as r/ExCons and r/Felons. You can look at the specifics of my recruitment
+post by looking at these posts.
+Thanks in advance,
+Bryan"
+2022-06-03 18:09:52 UTC
+From: Prison
+To: /u/
+Subject: re: Research Survey
+"I just approved the most recent one you posted. I have the automod filter
+comments of new accounts or super low karma. You should be fine now."
+2022-06-04 02:36:09 UTC
+From: AutoModerator
+To: /u/
+Subject: Thank you for posting to /r/Prison!
+"https://www.reddit.com/r/Prison/comments/v3vnn9/research_participation_needed/
+We want to remind you to flair your submission with an appropriate link flair to
+better serve any questions/discussion you may have. You can find the flair
+option at the bottom of your post on the same line where you would click to edit
+your post. A failure to flair your post may result in a removal of your thread.
+We also want to remind you that if your post doesn't show up, please contact the
+moderation team to have your post reviewed and approved. Thank you for your
+cooperation in advance.
+*I am a bot, and this action was performed automatically. Please [contact the
+moderators of this subreddit](/message/compose/?to=/r/Prison) if you have any
+questions or concerns.*"
+2022-06-08 20:36:44 UTC
+From:
+To: /r/Prison
+Subject: Repost of Research Survey
+"Hello,
+Would it be possible to have a repost of my recruitment post approved for
+submission? I think it would be beneficial for the recruitment effort.
+Thanks,
+Bryan"
+
+2022-06-09 01:18:34 UTC
+From: Felons
+To: /u/
+Subject: You've been temporarily banned from participating in r/Felons
+"You have been temporarily banned from participating in r/Felons. This ban will
+last for 1 days. You can still view and subscribe to r/Felons, but you won't be
+able to post or comment.
+Note from the moderators:
+> We do not approve of these post, please stop posting this
+If you have a question regarding your ban, you can contact the moderator team
+for r/Felons by replying to this message.
+**Reminder from the Reddit staff**: If you use another account to circumvent
+this subreddit ban, that will be considered a violation of [the Content
+Policy](https://reddit.com/help/contentpolicy#section_prohibited_behavior) and
+can result in your account being
+[suspended](https://www.reddithelp.com/en/categories/reddit-101/rules-reporting/
+account-and-community-restrictions/suspensions) from the site as a whole."
+
+2022-06-09 02:55:01 UTC
+From: Prison
+To:/u/
+Subject: re: Repost of Research Survey
+"Done"
+
+2022-06-11 09:00:27 UTC
+From: reddit
+To: /u/
+Subject: We Have Reviewed Your Report
+"Thanks for submitting a report to Reddit. Your report and the related content
+have already been processed through our anti-abuse systems for review. It has
+been determined that the reported content does not violate [Redditâ€™s Content
+Policy](https://www.redditinc.com/policies/content-policy).
+If youâ€™d like to restrict contact from the account(s) you reported, you can
+block them in your [Safety and Privacy](https://www.reddit.com/settings/privacy)
+settings. You can also hide any posts or comments you donâ€™t want to see by
+selecting Hide from the â€œâ€¦â€ menu.
+If you see any other site policy violations or continue to have problems,
+[submit a new report](https://www.reddit.com/report) to let us know and weâ€™ll
+take further action, as appropriate.
+Thanks again for your report, and for looking out for yourself and your fellow
+redditors. Your reporting helps make Reddit a better, safer, and more welcoming
+place for everyone.
+If you think this decision may have been a mistake, you can send us a message
+from [this
+link](https://www.reddit.com/message/compose?to=%2Fr%2Freddit.com&subject=Reques
+t%202nd%20review%20of%20report:%20ID%2042260684) to request your report be
+re-reviewed.
+For your reference, here are additional details about your report:
+**Report Details**
+Report Reason: it's targeted harassment at me
+Submitted on: 2022-06-10 20:47:13 UTC
+Reported account(s):
+Link to reported content:
+https://www.reddit.com/r/felons/comments/v7z9kf/comment/ibo3maq
+*This is an automated message; responses will not be received by Reddit
+admins.*"
+In the post_votes.csv data file, the following permalinks were located:
+https://www.reddit.com/r/ExCons/comments/v7zatc/research_participation_needed_re
+post/
+https://www.reddit.com/r/Prison/comments/v7zbkc/research_participation_needed_re
+post/
+https://www.reddit.com/r/Prison/comments/v3vln0/deleted_by_user/
+https://www.reddit.com/r/Prison/comments/v3vlfz/survey_participants_needed/
+https://www.reddit.com/r/PrisonTalk/comments/vhx7cd/deleted_by_user/
+https://www.reddit.com/r/Prison/comments/v3vjkp/research_participation_needed/
+https://www.reddit.com/r/PrisonTalk/comments/v7z9yj/research_participation_neede
+d_repost/
+https://www.reddit.com/r/prisons/comments/vhx73g/research_participation_needed/
+https://www.reddit.com/r/Felons/comments/v7z9kf/research_participation_needed_re
+post/
+https://www.reddit.com/r/Felons/comments/v85835/stopping_studiesresearchpollques
+tions_for_felons/
+https://www.reddit.com/r/prisons/comments/v7zaic/research_participation_needed_r
+epost/
+https://www.reddit.com/r/ExCons/comments/vhx6rh/research_participation_needed_re
+post/
+https://www.reddit.com/r/Prison/comments/v3vnn9/research_participation_needed/
+In the posts.csv data file, several posts containing the similar data in the
+body field was located. They all showed the same IP address of
+with dates between June 3, 2022 and June 22, 2022. The subject line showed
+variations of "Research Participation Needed" and was posted to subreddit pages
+of Prison, Felons, PrisonTalk , prisons, and ExCons. The following urls were
+located:
+/r/Prison/comments/v3vjkp/research_participation_needed/
+/r/Prison/comments/v3vlfz/survey_participants_needed/
+/r/Prison/comments/v3vnn9/research_participation_needed/
+/r/Felons/comments/v7z9kf/research_participation_needed_repost/
+/r/PrisonTalk/comments/v7z9yj/research_participation_needed_repost/
+/r/prisons/comments/v7zaic/research_participation_needed_repost/
+/r/ExCons/comments/v7zatc/research_participation_needed_repost/
+/r/Prison/comments/v7zbkc/research_participation_needed_repost/
+/r/ExCons/comments/vhx6rh/research_participation_needed_repost/
+/r/prisons/comments/vhx73g/research_participation_needed/
+The text associated with these posts was:
+"Hello,
+My name is Bryan, and I am inviting you to participate in a research project
+that seeks to understand how emotions and psychological traits influence
+decision-making when committing a crime. In particular, this study seeks to
+understand the story behind your most recent criminal offense, with an emphasis
+on your thoughts and feelings throughout your experience. In the event that your
+records related to the                     @gmail.com and       @desales.edu
+emails.
+
+In reviewing the contents associated with the                      @gmail.com
+email, I found the account name was           and the registration date was
+September 24, 2021 at 1054 UTC. The registration IP was               , which
+showed a location near Albrightsville, Pennsylvania with PenTeleData. The email
+address for this account showed as verified.
+
+In reviewing these files, I located a file labelled comment_votes.csv. This file
+contained the following permalinks in the data:
+https://www.reddit.com/r/Felons/comments/v7z9kf/research_participation_needed_re
+post/ibo3maq/
+https://www.reddit.com/r/Felons/comments/v1yajl/research_participation_needed/ia
+rn65f/
+https://www.reddit.com/r/Felons/comments/v7z9kf/research_participation_needed_re
+post/ibnvh3b/
+https://www.reddit.com/r/Felons/comments/v1yajl/research_participation_needed/ia
+t28zs/
+https://www.reddit.com/r/Felons/comments/v8peo9/what_were_your_struggles_as_a_fe
+lon_right_after/ibsw3g4/
+https://www.reddit.com/r/Felons/comments/v1yajl/research_participation_needed/ia
+s4uew/
+https://www.reddit.com/r/TrueOffMyChest/comments/v7i0rf/i_make_my_husband_want_t
+o_kill_himself/iblw6bi/
+In the post_votes.csv data file, the following permalinks were located:
+https://www.reddit.com/r/ExCons/comments/v7zatc/research_participation_needed_re
+post/
+https://www.reddit.com/r/Prison/comments/v8aslf/i_think_prisons_should_be_segreg
+ated_by_race/
+https://www.reddit.com/r/Unexpected/comments/v8g4zq/deleted_by_user/
+https://www.reddit.com/r/Felons/comments/v8peo9/what_were_your_struggles_as_a_fe
+lon_right_after/
+https://www.reddit.com/r/Prison/comments/v7zbkc/research_participation_needed_re
+post/
+https://www.reddit.com/r/Prison/comments/v3vnn9/research_participation_needed/
+https://www.reddit.com/r/PrisonTalk/comments/v7z9yj/research_participation_neede
+d_repost/
+https://www.reddit.com/r/Felons/comments/v7z9kf/research_participation_needed_re
+post/
+https://www.reddit.com/r/Felons/comments/v85835/stopping_studiesresearchpollques
+tions_for_felons/
+https://www.reddit.com/r/prisons/comments/v7zaic/research_participation_needed_r
+epost/
+https://www.reddit.com/r/KidsAreFuckingStupid/comments/v832d3/theres_accidents_t
+hen_theres_these/
+
+I sent an email to Reddit to ask for clarification on what these data file
+directly relate to, but have not received clarification at the time of this
+report.
+In reviewing the contents associated with the       @desales.edu email, I found
+two accounts associated with the email. The first account name was
+               and the registration date was December 30, 2022 at 2158 UTC. The
+registration IP was              , which showed a location near Tampa, Florida
+with Frontier Communications. This account also showed additional IP logins from
+Florida on January 2, 2023, January 4, 2023, January 4, 2023 and January 11,
+2023. The email address showed it was not verified. During these dates,
+Kohberger was incarcerated and was not in Florida. With this information, I
+believe this account was a fake account.
+
+The second account name was                     and the registration date was
+April 1, 2022 at 2039 UTC. The registration IP was              , which showed a
+location near Albrightsville, Pennsylvania with PenTeleData. A second login IP
+was registered as                on November 21, 2022 at 2210 UTC, which showed
+a location near Kansas City, MO with Level 3 Communications. This IP address
+also showed a high probability of being a VPN exit point. The email address
+showed it was verified.
+In reviewing these files, I located a file labelled comment_votes.csv. This file
+contained the following permalinks in the data:
+https://www.reddit.com/r/Felons/comments/v1yajl/research_participation_needed/ia
+s4uew/
+https://www.reddit.com/r/Felons/comments/v1yajl/research_participation_needed/ia
+t28zs/
+https://www.reddit.com/r/Felons/comments/v7z9kf/research_participation_needed_re
+post/ibo3maq/
+https://www.reddit.com/r/Felons/comments/v1yajl/research_participation_needed/ia
+rn65f/
+https://www.reddit.com/r/Felons/comments/v7z9kf/research_participation_needed_re
+post/ibnvh3b/
+
+In the messages.csv data file, the following were located:
+2022-06-03 09:45:02 UTC
+From:
+To:/r/Prison
+Subject: Research Survey
+"Hello,
+I attempted to post a survey to the r/Prison sub-reddit, but my post was
+automatically removed. I imagine that this may be due to the lack of activity on
+my account. As I have seen others post research recruitment posts on this
+sub-reddit within the past few months, would it be possible to obtain approval
+to submit a recruitment post to r/Prison? The recruitment post has my
+information in it, and the survey itself has an informed consent form that
+confirms my affiliation. I have been able to post my survey to other sub-reddits
+such as r/ExCons and r/Felons. You can look at the specifics of my recruitment
+post by looking at these posts.
+Thanks in advance,
+Bryan"
+
+2022-06-03 18:09:52 UTC
+From: Prison
+To: /u/
+Subject: re: Research Survey
+"I just approved the most recent one you posted. I have the automod filter
+comments of new accounts or super low karma. You should be fine now."
+2022-06-04 02:36:09 UTC
+From: AutoModerator
+To: /u/
+Subject: Thank you for posting to /r/Prison!
+"https://www.reddit.com/r/Prison/comments/v3vnn9/research_participation_needed/
+We want to remind you to flair your submission with an appropriate link flair to
+better serve any questions/discussion you may have. You can find the flair
+option at the bottom of your post on the same line where you would click to edit
+your post. A failure to flair your post may result in a removal of your thread.
+We also want to remind you that if your post doesn't show up, please contact the
+moderation team to have your post reviewed and approved. Thank you for your
+cooperation in advance.
+*I am a bot, and this action was performed automatically. Please [contact the
+moderators of this subreddit](/message/compose/?to=/r/Prison) if you have any
+questions or concerns.*"
+2022-06-08 20:36:44 UTC
+From:
+To: /r/Prison
+Subject: Repost of Research Survey
+"Hello,
+Would it be possible to have a repost of my recruitment post approved for
+submission? I think it would be beneficial for the recruitment effort.
+Thanks,
+Bryan"
+2022-06-09 01:18:34 UTC
+From: Felons
+To: /u/
+Subject: You've been temporarily banned from participating in r/Felons
+"You have been temporarily banned from participating in r/Felons. This ban will
+last for 1 days. You can still view and subscribe to r/Felons, but you won't be
+able to post or comment.
+Note from the moderators:
+> We do not approve of these post, please stop posting this
+If you have a question regarding your ban, you can contact the moderator team
+for r/Felons by replying to this message.
+**Reminder from the Reddit staff**: If you use another account to circumvent
+this subreddit ban, that will be considered a violation of [the Content
+Policy](https://reddit.com/help/contentpolicy#section_prohibited_behavior) and
+can result in your account being
+[suspended](https://www.reddithelp.com/en/categories/reddit-101/rules-reporting/
+account-and-community-restrictions/suspensions) from the site as a whole."
+2022-06-09 02:55:01 UTC
+From: Prison
+To:/u/
+Subject: re: Repost of Research Survey
+"Done"
+2022-06-11 09:00:27 UTC
+From: reddit
+To: /u/
+Subject: We Have Reviewed Your Report
+"Thanks for submitting a report to Reddit. Your report and the related content
+have already been processed through our anti-abuse systems for review. It has
+been determined that the reported content does not violate [Redditâ€™s Content
+Policy](https://www.redditinc.com/policies/content-policy).
+If youâ€™d like to restrict contact from the account(s) you reported, you can
+block them in your [Safety and Privacy](https://www.reddit.com/settings/privacy)
+settings. You can also hide any posts or comments you donâ€™t want to see by
+selecting Hide from the â€œâ€¦â€ menu.
+If you see any other site policy violations or continue to have problems,
+[submit a new report](https://www.reddit.com/report) to let us know and weâ€™ll
+take further action, as appropriate.
+Thanks again for your report, and for looking out for yourself and your fellow
+redditors. Your reporting helps make Reddit a better, safer, and more welcoming
+place for everyone.
+If you think this decision may have been a mistake, you can send us a message
+from [this
+link](https://www.reddit.com/message/compose?to=%2Fr%2Freddit.com&subject=Reques
+t%202nd%20review%20of%20report:%20ID%2042260684) to request your report be
+re-reviewed.
+For your reference, here are additional details about your report:
+**Report Details**
+Report Reason: it's targeted harassment at me
+Submitted on: 2022-06-10 20:47:13 UTC
+Reported account(s):
+Link to reported content:
+https://www.reddit.com/r/felons/comments/v7z9kf/comment/ibo3maq
+*This is an automated message; responses will not be received by Reddit
+admins.*"
+
+In the post_votes.csv data file, the following permalinks were located:
+https://www.reddit.com/r/ExCons/comments/v7zatc/research_participation_needed_re
+post/
+https://www.reddit.com/r/Prison/comments/v7zbkc/research_participation_needed_re
+post/
+https://www.reddit.com/r/Prison/comments/v3vln0/deleted_by_user/
+https://www.reddit.com/r/Prison/comments/v3vlfz/survey_participants_needed/
+https://www.reddit.com/r/PrisonTalk/comments/vhx7cd/deleted_by_user/
+https://www.reddit.com/r/Prison/comments/v3vjkp/research_participation_needed/
+https://www.reddit.com/r/PrisonTalk/comments/v7z9yj/research_participation_neede
+d_repost/
+https://www.reddit.com/r/prisons/comments/vhx73g/research_participation_needed/
+https://www.reddit.com/r/Felons/comments/v7z9kf/research_participation_needed_re
+post/
+https://www.reddit.com/r/Felons/comments/v85835/stopping_studiesresearchpollques
+tions_for_felons/
+https://www.reddit.com/r/prisons/comments/v7zaic/research_participation_needed_r
+epost/
+https://www.reddit.com/r/ExCons/comments/vhx6rh/research_participation_needed_re
+post/
+https://www.reddit.com/r/Prison/comments/v3vnn9/research_participation_needed/
+In the posts.csv data file, several posts containing the similar data in the
+body field was located. They all showed the same IP address of
+with dates between June 3, 2022 and June 22, 2022. The subject line showed
+variations of "Research Participation Needed" and was posted to subreddit pages
+of Prison, Felons, PrisonTalk , prisons, and ExCons. The following urls were
+located:
+/r/Prison/comments/v3vjkp/research_participation_needed/
+/r/Prison/comments/v3vlfz/survey_participants_needed/
+/r/Prison/comments/v3vnn9/research_participation_needed/
+/r/Felons/comments/v7z9kf/research_participation_needed_repost/
+/r/PrisonTalk/comments/v7z9yj/research_participation_needed_repost/
+/r/prisons/comments/v7zaic/research_participation_needed_repost/
+/r/ExCons/comments/v7zatc/research_participation_needed_repost/
+/r/Prison/comments/v7zbkc/research_participation_needed_repost/
+/r/ExCons/comments/vhx6rh/research_participation_needed_repost/
+/r/prisons/comments/vhx73g/research_participation_needed/
+The text associated with these posts was:
+"Hello,
+My name is Bryan, and I am inviting you to participate in a research project
+that seeks to understand how emotions and psychological traits influence
+decision-making when committing a crime. In particular, this study seeks to
+understand the story behind your most recent criminal offense, with an emphasis
+on your thoughts and feelings throughout your experience. In the event that your
+most recent offense was not one that led to a conviction, you may still
+participate. Additional surveys are included after the open-ended section as to
+best understand your unique traits. The study should take about 30 minutes to
+complete fully.
+**Your identity and all answers provided are completely confidential, and the
+link to the survey is also an anonymous link. This research has been approved by
+the DeSales University IRB.**
+**Participants must be 18 years of age and older.**
+**If you opt to participate, you may terminate participation at any time and for
+any reason.**
+If you have any questions about this research, you may contact the research team
+via email:
+Student Investigator: Bryan Kohberger at
+        @desales.edu](mailto      @desales.edu).
+**Anonymous link to the study:**
+[https://desales.iad1.qualtrics.com/jfe/form/SV\_ex3bk7xDldepWgC](https://desale
+s.iad1.qualtrics.com/jfe/form/SV_ex3bk7xDldepWgC)
+Thank you for your time!"
+
+A warrant return receipt and affidavit were completed and these documents were
+sent to the Latah County Prosecutor's Office to be returned to the court. A copy
+of the receipt was sent to               @reddit.com, as this was the
+originating email address associated with the documents.
+Det. Lawrence Mowery - 162
+Thu Mar 23 14:34:21 PDT 2023
+REVIEWED-Thu Mar 23 15:45:26 PDT 2023
+CPL Payne #157
+--></body></html>
+

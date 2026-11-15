@@ -1,0 +1,446 @@
+                                                                             Electronically Filed
+                                                                             9/5/2024 2:48 PM
+                                                                             Second Judicial District, Latah County
+                                                                             Julie Fry, Clerk of the Court
+                                                                             By: Tamzen Reeves, Deputy Clerk
+
+
+Anne Taylor Law, PLLC
+Anne C. Taylor, Attorney at Law
+Bar Number: 5836
+PO Box 2347
+Coeur d’Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Jay W. Logsdon, Interim Public Defender
+Kootenai County Public Defender’s Office
+PO Box 9000
+Coeur d’Alene, Idaho 83816
+Phone: (208)446-1700
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208)642-3797; Fax: (208)642-3799
+
+Assigned Attorney:
+Anne C. Taylor, Public Defender, Bar Number: 5836
+Jay W. Logsdon, Chief Deputy Public Defender, Bar Number: 8759
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+
+
+      IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+             STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+
+ STATE OF IDAHO                                    CASE NUMBER CR29-22-2805
+
+                      Plaintiff,
+
+ V.                                                MOTION TO STRIKE UTTER
+                                                   DISREGARD AGGRAVATOR
+ BRYAN C. KOHBERGER,
+
+                      Defendant.
+
+
+       COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, hereby moves
+
+this honorable Court for an Order striking from the state’s Notice Pursuant to Idaho Code § 18-
+
+4004A the allegation that the murder itself or by its circumstances showed an utter disregard for
+
+
+
+MOTION TO STRIKE UTTER DISREGARD AGGRAVATOR                                                  Page 1
+human life. This Motion is made on the grounds that this aggravator is unconstitutionally vague
+
+and fails to narrow the class of eligible candidates for death.
+
+                                    EIGHTH AMENDMENT
+
+       The United States Supreme Court has stated that the Eighth Amendment's prohibition
+
+against cruel and unusual punishment, made applicable to the states through the Fourteenth
+
+Amendment, prohibits a state from imposing the death penalty in an arbitrary and capricious
+
+manner. Instead, the sentencing body must be provided with standards which will genuinely
+
+narrow the class of crimes and the persons against whom the death penalty is imposed. Zant v.
+
+Stephens, 462 U.S. 862, 877, 103 S.Ct. 2733, 2742 (1983). See also Gregg v. Georgia, 428 U.S.
+
+153, 206–07, 96 S.Ct. 2909, 2940–41, 49 L.Ed.2d 859, reh. denied 429 U.S. 875, 97 S.Ct. 197, 50
+
+L.Ed.2d 158 (1976); Furman v. Georgia, 408 U.S. 238, 294, 92 S.Ct. 2726, 2754–55, 33 L.Ed.2d
+
+346 (Brennan, J., concurring), reh. denied 409 U.S. 902, 93 S.Ct. 89, 34 L.Ed.2d 164 (1972).
+
+       “To pass constitutional muster, a capital-sentencing scheme must ‘genuinely narrow the
+
+class of persons eligible for the death penalty and must reasonably justify the imposition of a more
+
+severe sentence on the defendant compared to others found guilty of murder.’” Lowenfield v.
+
+Phelps, 484 U.S. 231, 244, 108 S.Ct. 546, 554 (1988) citing Zant, 462 U.S. at 877, 103 S.Ct. at
+
+2742; Gregg, 428 U.S. 153, 96 S.Ct. 2909. The Court stated:“[T]he narrowing function required
+
+for a regime of capital punishment may be provided in either of these two ways: The legislature
+
+may itself narrow the definition of capital offenses, as Texas and Louisiana have done, so that the
+
+jury finding of guilt responds to this concern, or the legislature may more broadly define capital
+
+offenses and provide for narrowing by jury findings of aggravating circumstances at the penalty
+
+phase.” Id. The Supreme Court of Idaho has found that our statutory scheme does both. State v.
+
+Wood, 132 Idaho 88, 103 (1998). However, in Mr. Kohberger’s case, the charges are premeditated
+
+murder, not a murder with any sort of special circumstances. Thus, in this matter, the aggravating
+
+
+
+MOTION TO STRIKE UTTER DISREGARD AGGRAVATOR                                                 Page 2
+circumstances preform the narrowing function.
+
+       Although the Supreme Court held in State v. Hall, 163 Idaho 744, 799 (2018), that Wood
+
+held the “narrowing function is provided in the definition of first-degree murder in Idaho, not
+
+necessarily in capital sentencing procedures”, that holding does not change this case. The Court
+
+in Hall was merely recognizing that in some cases the narrowing function is performed by the
+
+charge. Again, the charges in this particular case do not perform that function.
+
+       That all having been said, the aggravating circumstances in this case must meet two
+
+requirements: the circumstance may not apply to every defendant convicted of murder; and it must
+
+apply only to a subclass of defendants convicted of murder (genuine narrowing), and the
+
+circumstance must not be unconstitutionally vague. Id., 114 S.Ct. at 2635.
+
+       “Claims of vagueness directed at aggravating circumstances defined in capital punishment
+
+statutes are analyzed under the Eighth Amendment and characteristically assert that the challenged
+
+provision fails adequately to inform jurors what they must find to impose the death penalty and as
+
+a result leaves them and appellate courts with the kind of open-ended discretion held invalid in
+
+Furman v. Georgia.” Maynard, 486 U.S. at 361–62, 108 S.Ct. at 1858. A statutory aggravating
+
+factor is unconstitutionally vague if it fails to furnish principled guidance for the choice between
+
+death and a lesser penalty. See, e.g., Maynard v. Cartwright, 486 U.S. 356, 361-364, 108 S.Ct.
+
+1853, 1857-59, 100 L.Ed.2d 372 (1988); Godfrey v. Georgia, 446 U.S. 420, 427-433, 100 S.Ct.
+
+1759, 1764-1767, 64 L.Ed.2d 398 (1980).
+
+                                  LEGISLATIVE HISTORY
+
+       The Utter Disregard for Human Life as an aggravator appears to be an Idaho invention,
+
+though the phrase first appeared in 1888 in Missouri in a manslaughter case. State v. Davidson, 95
+
+Mo. 155, 8 S.W. 413 (Mo.1888). It appears thereafter in various states as a formulation of gross
+
+negligence amounting to wantonness, the mens rea for murder as opposed to manslaughter, and
+
+
+
+MOTION TO STRIKE UTTER DISREGARD AGGRAVATOR                                                 Page 3
+the mens rea for Second Degree Murder where the intent to kill is lacking. 1 See e.g. Cook v. State,
+
+46 Fla. 20, 37 35 So. 665, 670 (Fl. 1903); Muscoe v. Commonwealth, 87 Va. 460, 12 S.E. 790, 792
+
+(Va. 1891); Atchinson, T. & S.F.R. Co. v. Lindley, 42 Kan. 714, 22 P. 703 (Kan.1889). In Idaho,
+
+the language “utter disregard for the safety of others” began being used regularly in tort cases
+
+involving car accidents. See In re Burns, 55 Idaho 190, 40 P.2d 105 (1935); McClain v. Lewiston
+
+Interstate Fair & Racing Assoc., 17 Idaho 63, 104 P. 1015 (1909). It then appeared as a description
+
+of the mens rea for manslaughter, quoting a decision from the Illinois Supreme Court. See State v.
+
+McMahon, 57 Idaho 240, 65 P.2d 156, 162 (1937). After that, the phrase “utter disregard for the
+
+safety of others” became a formulation of criminal negligence used in jury instructions. State v.
+
+Patterson, 60 Idaho 67, 88 P.2d 493, 495-96 (1939).               However, the phrase still appeared
+
+infrequently at best.
+
+                                          JUDICIAL GLOSS
+
+        Idaho’s highest court has placed a judicial gloss on this statute such that the state must
+
+show:
+
+        acts or circumstances surrounding the crime that exhibit the highest, the utmost,
+        callous disregard for human life, i.e., the cold-blooded, pitiless slayer. “Cold-
+        blooded” means marked by absence of warm feeling: without consideration,
+
+
+
+1 A very similar formulation, “reckless disregard for human life” appears to have been slightly more
+popular. See, e.g. McDonald v. Interational & G.N.R. Co., 21 S.W. 774 (Tx.Ct.Civ.App. 1893). The first
+time this language appears in a criminal case are in Hamilton v. State, 129 Ga. 747, 59 S.E. 803 (1907).
+There, the language was used in a jury instruction, explaining to the jury the concept of the abandoned
+or malignant heart. Id., cf. I.C. § 18-4002. The language appeared again in 1915 in Oklahoma describing
+the intent necessary for a manslaughter conviction. Daggs v. State, 12 Okla.Crim. 289, 155 P. 489, 491
+(Okla.Crim.Ct.App.1915). In 1919, like utter disregard, it is used to describe the mens rea for vehicular
+manslaughter. Williams v. State, 17 Ala. App. 285, 84 So. 424 (Ala.Ct.App. 1919). From there, the
+language seems to spread across the nation, variously used for manslaughter, murder in the second
+degree, and civil matters. See, e.g., Warden v. Hines, 87 W.Va. 756, 106 S.E. 130 (W.V. 1921); State v.
+Green, 118 S.C. 279, 110 S.E. 145 (S.C. 1921); McCree v. Davis, 280 F. 959 (6th Cir. 1922); People v. Klein,
+305 Ill. 141, 137 N.E. 145 (Ill.1922). It was eventually to be adopted by the United States Supreme
+Court as the mens rea required for the death penalty in felony murder cases. See Tison v. Arizona, 481
+U.S. 137, 107 S.Ct. 1676, 95 L.Ed.2d 127 (1987). Prior to that ruling, the language never appeared in
+Idaho.
+
+MOTION TO STRIKE UTTER DISREGARD AGGRAVATOR                                                        Page 4
+       compunction, or clemency, matter of fact, or emotionless. “Pitiless” means devoid
+       of or unmoved by mercy or compassion. A “cold-blooded, pitiless slayer” refers to
+       a slayer who kills without feeling or sympathy. The utter disregard factor refers to
+       the defendant’s lack of conscience regarding killing another human being.
+
+ICJI 1714.
+
+                                   OTHER JURISDICTIONS
+
+       The Utter Disregard aggravator exists in no other state. However, the basic concept can be
+
+found elsewhere. Problematically for this Court, it turns up largely as a way of defining the almost
+
+ubiquitous “heinous, atrocious or cruel” aggravator (hereinafter, the HAC). Missouri, for example,
+
+defines its HAC aggravator as a killing that shows “callous disregard for human life.” Harris, 184
+
+F.3d, 749 quoting Ramsey v. Bowersox, 139 F.3d 749, 454 (8th Cir.1998). Similarly, Oklahoma
+
+has used the language when discussing whether a defendant will be a future danger. See Jones v.
+
+State, 2006 OK CR 5, 128 P.3d 521 (Okla.Ct.Crim.App.2006).
+
+                                          ARGUMENT
+
+       This Court should strike the Utter Disregard aggravator in this matter. First, this Court
+
+should find that the gloss placed on the aggravator by the Idaho Supreme Court was in violation
+
+of Art II Sec. 2 of the Idaho Constitution. Without this gloss, the wording of the aggravator has
+
+already been deemed unconstitutional by the Idaho and United States Supreme Courts. See State
+
+v. Osborn, 102 Idaho 405, 417-19 (1981). Additionally, the saving construction does not actually
+
+appear in the ICJI for the aggravator.
+
+                                 SEPARATION OF POWERS
+
+       The Court in State v. Osborn, 102 Idaho 405, 418, 631 P.2d 187, 200 (1981) citing Godfrey
+
+v. Georgia, 446 Idaho 420, 428, 100 S.Ct. 1759, 64 L.Ed.2d 398 (1980); Gregg v. Georgia, 428
+
+U.S. 153, 201, 96 S.Ct. 2909, 2938, 49 L.Ed.2d 859 (1976), found that the United States Supreme
+
+Court had held that a statutory aggravator in a capital case can be given a limiting construction
+
+
+
+
+MOTION TO STRIKE UTTER DISREGARD AGGRAVATOR                                                 Page 5
+that gives sufficient guidance to the sentencing authority. 2 The Court has continued to rely on this
+
+precedent to uphold this aggravator. See, e.g., State v. Hall, 163 Idaho 744, 419 P.3d 1042, 1084
+
+(2018).
+
+          However, in Verska v. St. Alphonsus Regional Medical Center, 151 Idaho 889, 896, 265
+
+P.3d 502, 509 (2011), the Idaho Supreme Court reversed course on its ability to put a judicial gloss
+
+on statutes. The Court held:
+
+          If this Court were to conclude that an unambiguous statute was palpably absurd,
+          how could we construe it to mean something that it did not say? Doing so would
+          simply constitute revising the statute, but we do not have the authority to do that.
+          The legislative power is vested in the senate and house of representatives, Idaho
+          Const. art. III, § 1, not in this Court. As we said in Berry v. Koehler, 84 Idaho 170,
+          177, 369 P.2d 1010, 1013 (1962), “The wisdom, justice, policy, or expediency of a
+          statute are questions for the legislature alone.”
+
+          …
+
+          Thus, we have never revised or voided an unambiguous statute on the ground that
+          it is patently absurd or would produce absurd results when construed as written,
+          and we do not have the authority to do so. “The public policy of legislative
+          enactments cannot be questioned by the courts and avoided simply because the
+          courts might not agree with the public policy so announced.” State v. Village of
+          Garden City, 74 Idaho 513, 525, 265 P.2d 328, 334 (1953). Indeed, the contention
+          that we could revise an unambiguous statute because we believed it was absurd or
+          would produce absurd results is itself illogical. “A statute is ambiguous where the
+          language is capable of more than one reasonable construction.” Porter v. Board of
+          Trustees, Preston School Dist. No. 201, 141 Idaho 11, 14, 105 P.3d 671, 674 (2004).
+          An unambiguous statute would have only one reasonable interpretation. An
+          alternative interpretation that is unreasonable would not make it ambiguous. In re
+          Application for Permit No. 36–7200, 121 Idaho 819, 823–24, 828 P.2d 848, 852–
+          53 (1992). If the only reasonable interpretation were determined to have an absurd
+          result, what other interpretation would be adopted? It would have to be an
+          unreasonable one. We therefore disavow the wording in the Willys Jeep case and
+          similar wording in other cases and decline to address Plaintiffs' argument that Idaho
+          Code section 39–1392b is patently absurd when construed as written.
+
+
+
+
+2 Note that the Supreme Court, like most jurisdictions, has held that a court can give a statute a limiting, or saving
+construction. See, e.g., Aptheker, Secretary of State, 378 U.S. 500, 515-16, 84 S.Ct. 1659, 1669 (1964). This doctrine has its
+roots in either making the assumption that Congress did not intend to write a statute at odds with the Constitution, or that
+courts should avoid interpreting statutes in a way that violates the Constitution. See Antonin Scalia & Bryan Garner, READING
+LAW, p. 240-51 (2012).
+
+MOTION TO STRIKE UTTER DISREGARD AGGRAVATOR                                                                         Page 6
+Id. The Idaho Supreme Court has therefore found that it does not have, as the federal courts and
+
+other states have, the ability to change the wording of a statute so as to save it from absurdity. See,
+
+e.g., Scalia & Garner, at 234-39.
+
+       Given the Court’s inability to revise statutes, the holding in State v. Osborn, 102 Idaho 405,
+
+418-19, 631 P.2d 187, 200-01 (1981), providing a rewording of the Utter Disregard aggravator
+
+was unconstitutional. The Court has also held that “terms in a statute are given their commonly
+
+understood, everyday meanings, unless the legislature has provided a definition.” State v.
+
+Richards, 127 Idaho 31, 38, 896 P.2d 357, 364 (Ct.App.1995), citing Ada County Assessor v.
+
+Roman Catholic Diocese, 123 Idaho 425, 849 P.2d 98 (1993). Thus, rather than the Court’s
+
+Osborn revision, the statute must remain as it is, with definitions as provided in the dictionary.
+
+Instead of:
+
+       We conclude instead that the phrase is meant to be reflective of acts or
+       circumstances surrounding the crime which exhibit the highest, the utmost, callous
+       disregard for human life, i. e., the cold-blooded, pitiless slayer.
+
+Osborn, 102 Idaho at 419, 631 P.2d at 201, the instruction should read:
+
+       Utter means complete, absolute. Disregard means the action or state of ignoring
+       something.
+
+THE NEW OXFORD AMERICAN DICTIONARY, (Third Ed. 2010). The Court added language stating
+
+that in addition to murder, the state had to prove the murder was “callous” and that the killer was
+
+“cold-blooded” and “pitiless.” Osborn, 102 Idaho at 418, 631 P.2d at 2000. But the state of
+
+ignoring human life would be more akin to a self-driving car killing a pedestrian. It would be a
+
+person who did an action with no thought to the lives it would affect but knowing it would affect
+
+lives. The Supreme Court’s interpretation is someone else entirely. Disregarding human life and
+
+being without pity are two separate concepts. Callous means “showing or having an insensitive
+
+and cruel disregard for others.” THE NEW OXFORD AMERICAN DICTIONARY, (Third Ed. 2010).
+
+Cruel means “willfully causing pain or suffering to others, or feeling no concern about it.” Id.
+
+MOTION TO STRIKE UTTER DISREGARD AGGRAVATOR                                                    Page 7
+Cold-blooded means “without emotion or pity; deliberately cruel or callous.” Id. Pity means “the
+
+feeling of sorrow and compassion caused by the suffering and misfortunes of others.” Id. In
+
+essence, the Osborn gloss is a soup of synonyms masquerading as a definition. But more
+
+importantly, it interjects concepts like cruelty, i.e. the enjoyment of pain, and the lack of pity into
+
+a statute that does not have anything to do with either. The killer the legislature describes is
+
+ignoring human life completely, they take no joy from its extinguishment. And to say they lack
+
+pity is to miss the point. The killer is devoid of interest in the life he takes.
+
+        The ICJI only makes matters worse, stating that the aggravator has to do with the
+
+conscience. First of all, the Supreme Court in Osborn was trying to avoid having it mean
+
+something already covered by another aggravator. See 102 Idaho at 418-19, 631 P.2d 200-01.
+
+The HAC is the aggravator dealing with the conscience, as detailed in the other motions. Utter
+
+Disregard cannot be about the same thing that the HAC is about. See, See Allen v. Woodford, 395
+
+F.3d 979, 1012-13 (9th Cir. 2005) (quoting United States v. McCullah, 76 F.3d 1087, 1111–12
+
+(10th Cir.1996)). Second, the ICJI completely ignores the legislature’s intent and rewrites the
+
+statute. The legislature describes a person taking a killing action recklessly. The ICJI describes
+
+an assassin intentionally killing people without pity.
+
+        Because the Idaho Supreme Court cannot change the meaning of the aggravator, and
+
+because the aggravator as written is unconstitutional, this Court must strike Utter Disregard from
+
+the Notice Pursuant to Idaho Code § 18-4004A.
+
+                                       CONCLUSION
+
+        Based upon the foregoing and argument to be presented at the hearing hereon, this Court
+
+is respectfully requested to grant this Motion that:
+
+        (a) the Utter Disregard aggravator in the State’s Notice Pursuant to Idaho Code § 18-4004A
+
+        be struck;
+
+
+
+MOTION TO STRIKE UTTER DISREGARD AGGRAVATOR                                                    Page 8
+       (b) the Court not instruct the jury on Utter Disregard.
+
+
+
+       Counsel requests that this motion be set for hearing in order to present oral argument,
+
+evidence and/or testimony in support thereof. Requested time is 25 minutes.
+
+       DATED this 4       day of September, 2024.
+
+
+
+
+                                             BY:
+                                                     JAY WESTON LOGSDON
+                                                     INTERIM CHIEF PUBLIC DEFENDER
+
+
+
+                               CERTIFICATE OF DELIVERY
+
+       I hereby certify that a true and correct copy of the foregoing was personally served by
+placing a copy of the same as indicated below on the ___5___ day of September, 2024, addressed
+to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+
+
+
+
+MOTION TO STRIKE UTTER DISREGARD AGGRAVATOR                                           Page 9
+

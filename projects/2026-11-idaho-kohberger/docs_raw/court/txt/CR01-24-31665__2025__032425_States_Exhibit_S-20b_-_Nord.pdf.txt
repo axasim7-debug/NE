@@ -1,0 +1,883 @@
+                               IDAHO STATE POLICE FORENSIC SERVICES
+                                          615 W. Wilbur Ste B
+                                      Coeur D'Alene, ID 83815-7785
+                                         Phone: (208) 209-8700
+                                          Fax: (208) 209-8612
+                           FORENSIC CONTROLLED SUBSTANCE ANALYSIS REPORT
+
+ Case Agency(s):                                       Agency Case No(s).:         Laboratory Case No.:
+ MOSCOW POLICE DEPARTMENT                              22-M09903                   M2022-4843
+ Date(s) of Offense:                                   Investigating Officer(s):   Report No.:
+ 11/13/2022                                            Dustin Blaker               18
+ Date Evidence Accepted:                               Analyst:
+ 12/23/2022                                            Anne Nord
+ Case Name(s):
+ Victim - MADISON M MOGEN
+ Victim - XANA A KERNODLE
+ Victim - ETHAN J CHAPIN
+ Victim - KAYLEE J GONCALVES
+
+
+
+
+ Lab Item #        Agency Exhibit   Description                       Conclusions and Interpretations
+ 71                22M-1855         ziplock bag with trace of         Amphetamine (CII)
+                                    blue powder
+
+
+Additional Information:
+
+Lab Item 71 Extracts returned with evidence.
+
+DISPOSITION OF EVIDENCE:
+
+All items will be returned to the submitting agency.
+
+REMARKS:
+The descriptions, conclusions and interpretations stated above apply to the sample(s) as received.
+
+I declare under penalty of perjury pursuant to the law of the State of Idaho that the foregoing is true
+and correct.
+
+
+
+ Anne Nord / Forensic Laboratory Manager
+ Issue Date: 12/29/2022
+
+
+
+                                                                                                  STATE'S EXHIBIT
+                                               Page 1 of 1
+                                               000524                                                   S-20(b)
+                                                                                                    Case No. CR01-24-31665
+22-M09903 # 18                                                                    M2022-4843
+MOSCOW POLICE DEPARTMENT                                                          Page 1 of 10
+
+
+
+
+                                                   CONTROLLED SUBSTANCE ANALYSIS NOTES
+      Case: M2022-4843             Examiner: Anne Nord                                              Dates of analysis:      12/28/2022    to 12/29/2022
+
+
+       Packaging Information
+            Item 71-Blu powder found on desk in bedroom unmeasured
+               Task/Test                              Value
+               Sealed                                 yes
+               Initialed                              yes
+               External Packaging Type                evidence envelope
+       Controlled Substance Analysis
+            Item 71-Blu powder found on desk in bedroom unmeasured
+               Task/Test                              Value
+               Date opened/started                    12/28/2022
+               Item Designation                       71
+               Agency Exhibit                         22M-1855
+               Exhibit Description                    ziplock bag with trace of blue powder
+               Reserve                                < 1/2
+               GC/MS                                  MeOH extraction x2
+               Sample Contains                        Amphetamine (CII)
+               Additional Comments                    Extracts returned with evidence.
+               Additional Observations and Notes      cut bottom off ziplock bag when accessing evidence envelope
+                                                      12/29/22 ran extracts on a different GCMS that has better chromatography and response for
+                                                      phenethylamines.
+
+
+
+
+       C:\inetpub\wwwroot\ILIMS\Reports\MSSQL\CS_MATRIX.rpt                                                              Page 1 of 1
+                                                                          000525
+22-M09903 # 18                                                                      M2022-4843
+MOSCOW POLICE DEPARTMENT                                                            Page 2 of 10
+
+
+
+  File    :G:\CHEM\CDA\Instrument 066368\2022\DEC282022\05101019.D
+  Operator : 066368
+  Acquired : 28 Dec 2022 04:57 pm using AcqMethod Drug.M
+  Instrument : ISP CdA Instrument 066368
+  Sample Name: Blank m2022-4843-71
+  Misc Info : MeOH amn
+  Vial Number: 51
+
+     Abundance                                                             TIC: 05101019.D\DATA.MS
+
+        220000
+
+
+        200000
+
+
+        180000
+
+
+        160000
+
+
+        140000
+
+
+        120000
+
+
+        100000
+
+
+         80000
+
+
+         60000
+
+
+         40000
+
+
+         20000
+
+
+             0
+     Time-->         3.00 3.50 4.00 4.50 5.00 5.50 6.00 6.50 7.00 7.50 8.00 8.50 9.00 9.50 10.00 10.50 11.00 11.50 12.00 12.50 13.00 13.50 14.00
+     Abundance                                               Scan 640 (4.406 min): 05101019.D\DATA.MS
+                                                                                                      206.8
+          1000
+
+                        44.0
+              900
+
+
+              800
+
+
+              700
+
+
+              600
+
+
+              500                             77.9
+
+
+              400                                    91.0
+
+
+              300                                                                                                                            281.1
+
+
+              200
+
+
+              100
+
+
+               0
+     m/z-->     30    40       50   60   70    80    90     100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280
+
+                                                                             000526
+22-M09903 # 18                                                                              M2022-4843
+MOSCOW POLICE DEPARTMENT                                                                    Page 3 of 10
+
+
+
+  File    :G:\CHEM\CDA\Instrument 066368\2022\DEC282022\05201020.D
+  Operator : 066368
+  Acquired : 28 Dec 2022 05:16 pm using AcqMethod Drug.M
+  Instrument : ISP CdA Instrument 066368
+  Sample Name: M2022-4843-71
+  Misc Info : amn
+  Vial Number: 52
+
+     Abundance                                                                 TIC: 05201020.D\DATA.MS
+
+
+        220000
+
+
+        200000
+
+
+        180000
+
+
+        160000
+
+
+        140000
+
+
+        120000
+
+
+        100000
+
+
+         80000
+
+
+         60000
+
+
+         40000
+
+
+         20000
+
+
+             0
+     Time-->        3.00 3.50 4.00 4.50 5.00 5.50 6.00 6.50 7.00 7.50 8.00 8.50 9.00 9.50 10.00 10.50 11.00 11.50 12.00 12.50 13.00 13.50 14.00
+     Abundance                                              Scan 626 (4.366 min): 05201020.D\DATA.MS
+                          44.1
+
+         20000
+
+
+         18000
+
+
+         16000               amphetamine indicated
+
+         14000
+
+
+         12000
+
+
+         10000
+
+
+          8000
+
+
+          6000
+
+                                                                  91.0
+          4000
+
+                                              65.1
+          2000
+                                                          77.0                      115.0
+                                                                                                  134.0                                               207.0
+                                      55.9                                102.9                                 147.0
+              0
+     m/z-->    30       40       50      60          70      80   90     100      110   120     130       140     150   160   170   180   190   200     210
+
+                                                                                  000527
+22-M09903 # 18                                                                   M2022-4843
+MOSCOW POLICE DEPARTMENT                                                         Page 4 of 10
+
+
+
+  File    :G:\CHEM\CDA\Instrument 066368\2022\DEC282022\05101021.D
+  Operator : 066368
+  Acquired : 28 Dec 2022 05:35 pm using AcqMethod Drug.M
+  Instrument : ISP CdA Instrument 066368
+  Sample Name: Blank m2022-4843-71 2nd
+  Misc Info : MeOH amn
+  Vial Number: 51
+
+     Abundance                                                        TIC: 05101021.D\DATA.MS
+        220000
+
+
+        200000
+
+
+        180000
+
+
+        160000
+
+
+        140000
+
+
+        120000
+
+
+        100000
+
+
+         80000
+
+
+         60000
+
+
+         40000
+
+
+         20000
+
+
+             0
+     Time-->        3.00 3.50 4.00 4.50 5.00 5.50 6.00 6.50 7.00 7.50 8.00 8.50 9.00 9.50 10.00 10.50 11.00 11.50 12.00 12.50 13.00 13.50 14.00
+     Abundance                                              Scan 448 (3.860 min): 05101021.D\DATA.MS
+                     39.9
+              800
+
+
+
+              700
+
+
+
+              600
+
+
+
+              500                                                                                      207.1
+
+                                         77.8
+              400
+
+
+
+              300                                                                                              220.8                        281.0
+
+
+
+              200
+
+
+
+              100
+
+
+
+               0
+     m/z-->    30    40   50   60   70     80   90   100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280
+
+                                                                        000528
+22-M09903 # 18                                                                     M2022-4843
+MOSCOW POLICE DEPARTMENT                                                           Page 5 of 10
+
+
+
+  File    :G:\CHEM\CDA\Instrument 066368\2022\DEC282022\05301022.D
+  Operator : 066368
+  Acquired : 28 Dec 2022 05:55 pm using AcqMethod Drug.M
+  Instrument : ISP CdA Instrument 066368
+  Sample Name: M2022-4843-71 2nd
+  Misc Info : amn
+  Vial Number: 53
+
+     Abundance                                                          TIC: 05301022.D\DATA.MS
+        220000
+
+
+        200000
+
+
+        180000
+
+
+        160000
+
+
+        140000
+
+
+        120000
+
+
+        100000
+
+
+         80000
+
+
+         60000
+
+
+         40000
+
+
+         20000
+
+
+             0
+     Time-->        3.00 3.50 4.00 4.50 5.00 5.50 6.00 6.50 7.00 7.50 8.00 8.50 9.00 9.50 10.00 10.50 11.00 11.50 12.00 12.50 13.00 13.50 14.00
+     Abundance                                              Scan 634 (4.389 min): 05301022.D\DATA.MS
+          9000
+                       44.1
+
+
+          8000
+
+
+
+          7000
+
+                          amphetamine indicated
+          6000
+
+
+
+          5000
+
+
+
+          4000
+
+
+
+          3000
+
+
+
+          2000                                    90.9
+
+
+
+          1000
+                                   64.9    78.0
+                                                               116.8                                   206.8
+                                                                           146.8                                                            280.8
+
+              0
+     m/z-->    30    40     50   60   70    80    90     100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280
+
+                                                                          000529
+22-M09903 # 18                                                                                      M2022-4843
+MOSCOW POLICE DEPARTMENT                                                                            Page 6 of 10
+
+
+
+   File          :D: \MassHunter\GCMS\1\data\2022\DEC292022\83101003 .D
+  Operator       :
+
+  Acquired       :          09: 25
+                      29 Dec 2022     using AcqMethod DRUG.M
+  Instrument     :Blue Falcon             12/29/22
+  Sample Name: BLANK M2022-4843-44 71
+  Misc Info : MEOH AMN
+  Vial Number: 31
+     Abundance
+                                                                                          TIC: 03101003.D\data.ms
+
+
+                110000
+
+
+                100000
+
+
+                90000
+
+
+                80000
+
+
+                70000
+
+
+                60000
+
+
+                50000
+
+
+                40000
+
+
+                30000
+
+
+                20000
+
+
+                 10000                                         A
+
+
+
+
+                           3.00    3.50   4.00   4.50   5.00       5.50    6.00     650     7.00    7.50    8.00   850   9.00   9.50   10.00 10.50 11.00 11.50 12.00
+     Time-->
+     Abundance
+                                                                              Scan 546 04.270 min): 03101003.D\data.ms
+                            44.0
+                 6000
+
+
+
+
+                  5000
+
+
+                 4500
+
+                 4000
+
+
+                  3500
+
+
+                  3000
+
+
+                 2500
+
+
+                 2000
+
+
+                  1500
+
+
+                  1000
+
+                                                                                                                                                                  206.9
+                     500
+
+
+                       0
+                           40      50      60     70      80          90      100         110      120     130     140   150    160     170    180    190   200      210
+      Im/z-->
+
+                                                                                      000530
+22-M09903 # 18                                                                                  M2022-4843
+MOSCOW POLICE DEPARTMENT                                                                        Page 7 of 10
+
+
+
+  File       :D:\MassHunter\GCMS\1\data\2022\DEC292022\03201004.D
+  Operator   :
+  Acquired   : 29 Dec 2022 09:41      using AcqMethod DRUG.M
+  Instrument :    Blue Falcon
+  Sample Name: M2022-4843-71
+  Misc Info : AMN
+  Vial Number: 32
+
+     Abundance
+                                                                                        TIC: 03201004.D\data.ms
+                                          4.273
+
+              800000
+
+
+
+              700000
+
+
+
+              600000
+
+
+
+              500000
+
+
+
+              400000
+
+
+
+              300000
+
+
+                                                                                                                                                   NCS
+              200000
+
+
+
+              100000
+
+
+
+
+                       3.00   3.50    4.00        4.50    5.00    5.50   6.00    6.50    7.00    7.50        8.00    8.50    9.00    9.50 10.00 10.50 11.00 11.50 12.00
+     Time-->
+     Abundance
+                                                                              Scan 547 (4.273 min): 03201004.D\data.ms
+                                   44.1
+              450000
+
+
+              400000
+
+
+              350000                 AMPHETAMINE
+
+
+              300000
+
+
+              250000
+
+
+              200000
+
+
+              150000
+
+
+              100000
+                                                                                                        91.0
+
+
+               50000                                              65.0
+                                                                                                                                                   120.1
+                                             51.0          59.7                   77.0                                      103.0          115.0
+                                                                                                86.0                                                                   134.0
+                   0
+                       35     40     45      50      55     60     65    70      75      80     85      90      95    100      105   110   115     120     125   130    135    140
+     m/z-->
+
+                                                                                      000531
+22-M09903 # 18                                                                                    M2022-4843
+MOSCOW POLICE DEPARTMENT                                                                          Page 8 of 10
+
+
+
+  File       :D:\MassHunter\GCMS\1\data\2022\DEC292022\03101008.D
+  Operator   :
+  Acquired   : 29 Dec 2022 10:45      using AcqMethod DRUG.M
+  Instrument :    Blue Falcon
+  Sample Name: BLANK M2022-4843-71 2ND SAMPLE
+  Misc Info : MEOH AMN
+  Vial Number: 31
+
+     Abundance
+                                                                                         TIC: 03101008.D\data.ms
+            160000
+                                                            5.250
+              150000
+
+              140000
+                                                                         NCS
+              130000
+                                                                          6.045
+              120000
+
+              110000
+                                                            NCS
+              100000
+                                                             5.290
+               90000
+                               NCS
+               80000                              NCS
+
+               70000            3.333
+                                               4.325
+               60000                                                                NCS
+
+               50000                 NCS
+                                                                                     6.738
+               40000                       NCS NCS                                               NCS
+                         NCS                                                                              NCS
+                                                            5.203
+               30000     2.966
+
+               20000
+
+                         3.00     3.50     4.00    4.50   5.00    5.50    6.00    6.50    7.00     7.50    8.00   8.50   9.00   9.50 10.00 10.50 11.00 11.50 12.00
+     Time-->
+     Abundance
+                                                                               Scan 547 (4.273 min): 03101008.D\data.ms
+                        44.0                                                                        207.0
+
+                 4500
+
+
+                 4000
+
+
+                 3500
+
+
+                 3000
+
+
+                 2500
+
+
+                                                                                                                                         281.0
+                 2000
+
+
+                 1500                   73.0
+
+
+                                                                                                                                 267.0
+                 1000
+                                                                                                 190.9                                                           355.0
+                                                                  132.9
+                  500                              95.9
+
+
+
+                    0
+                        40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310 320 330 340 350 360
+     m/z-->
+
+                                                                                     000532
+22-M09903 # 18                                                                                M2022-4843
+MOSCOW POLICE DEPARTMENT                                                                      Page 9 of 10
+
+
+
+  File       :D:\MassHunter\GCMS\1\data\2022\DEC292022\03301009.D
+  Operator   :
+  Acquired   : 29 Dec 2022 11:01      using AcqMethod DRUG.M
+  Instrument :    Blue Falcon
+  Sample Name: M2022-4843-71 2ND SAMPLE
+  Misc Info : AMN
+  Vial Number: 33
+
+     Abundance
+                                                                                      TIC: 03301009.D\data.ms
+                                         4.274
+
+              450000
+
+
+              400000
+
+
+              350000
+
+
+              300000
+
+
+              250000
+
+
+              200000
+
+
+              150000
+
+
+              100000
+
+
+               50000
+
+
+
+                       3.00   3.50    4.00    4.50    5.00     5.50     6.00   6.50    7.00   7.50    8.00   8.50   9.00   9.50 10.00 10.50 11.00 11.50 12.00
+     Time-->
+     Abundance
+                                                                            Scan 547 (4.273 min): 03301009.D\data.ms
+                       44.1
+              260000
+
+              240000
+
+              220000
+
+              200000
+
+              180000
+
+              160000
+
+              140000
+
+              120000
+
+              100000
+
+               80000
+
+               60000
+                                             91.0
+               40000
+                               65.0
+               20000
+                                                            120.1
+                                                    104.9           134.1                            206.9                  266.9                           355.1
+                   0
+                       40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310 320 330 340 350 360
+     m/z-->
+
+                                                                                  000533
+22-M09903 # 18                                                                                            M2022-4843
+MOSCOW POLICE DEPARTMENT                                                                                  Page 10 of 10
+
+
+
+  File       :D:\MassHunter\GCMS\1\data\2022\DEC292022\14201001.D
+  Operator   :
+  Acquired   : 29 Dec 2022 11:40      using AcqMethod DRUG.M
+  Instrument :     Blue Falcon
+  Sample Name: AMPHETAMINE
+  Misc Info : 32f-0027
+  Vial Number: 142
+
+     Abundance
+                                                                                                TIC: 14201001.D\data.ms
+                                                       4.276
+
+
+
+              3000000
+
+
+
+
+              2500000
+
+
+
+
+              2000000
+
+
+
+
+              1500000
+
+
+
+
+              1000000
+
+
+
+
+              500000
+
+                        2.849
+
+
+                             3.00     3.50       4.00     4.50    5.00   5.50   6.00     6.50     7.00    7.50     8.00   8.50   9.00    9.50 10.00 10.50 11.00 11.50 12.00
+     Time-->
+     Abundance
+                                                                                      Scan 547 (4.273 min): 14201001.D\data.ms
+                                    44.1
+              1800000
+
+
+              1600000
+
+
+              1400000
+
+
+              1200000
+
+
+              1000000
+
+
+              800000
+
+
+              600000
+
+
+              400000
+                                                                         91.1
+
+
+              200000
+                                                       65.0
+                                                                                                120.1
+                                                                 77.0           103.0
+                                                56.0                                                      134.1                                          206.9
+                   0
+                        30     40          50      60      70      80    90     100     110     120      130     140   150   160   170     180   190   200   210   220   230   240
+     m/z-->
+
+                                                                                              000534
+

@@ -1,0 +1,46 @@
+07/08/25                     Moscow Police Department                       1272
+11:47                     Law Supplemental Narrative:               Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number    221                Date   10:09:36 07/25/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Kohberger Paypal OneDrive
+
+Case # 22-M09903
+Date: 7/25/2023
+
+In an attempt to locate further online accounts or online service providers
+utilized by Bryan Kohberger, I began previewing the data forensically acquired
+from the desktop computer seized from the residence of Bryan Kohberger, located
+at                                   , Pullman, Washington.
+On this device I located references to both Paypal and OneDrive.
+Paypal is a commonly used financial service and Paypal reports its services as a
+"financial technology company operating an online payments system in the
+majority of countries that support online money transfers, and serves as an
+electronic alternative to traditional paper methods such as checks and money
+orders." This service could be linked to additional accounts or show potential
+transactions important to the case.
+Internet artifacts were located on the computer with the following URLs
+referring to Paypal:
+https://www.paypal.com/signin/authorize?ssoKey=
+https://paypalcredit.syf.com/ESecuritySSOPayPal/PayPal/login.action
+https://www.paypal.com/myaccount/money/flow-transfer/addBank/banks/new
+OneDrive is owned by Microsoft and is reported by Microsoft to be "a file
+hosting service operated by Microsoft. First launched in August 2007, it enables
+registered users to share and synchronize their files. OneDrive also works as
+the storage backend of the web version of Microsoft Office." This service could
+be linked to additional accounts or show potential transactions important to the
+case.
+
+The OneDrive app appeared to be installed and set to autorun on the computer.
+The program appeared to be installed at the following location on the computer:
+C:\Program Files\Microsoft OneDrive\
+And appeared to be listed in the Startup Items folder:
+C:\Program Files\Microsoft OneDrive\OneDrive.exe
+

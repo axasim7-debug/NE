@@ -1,0 +1,40 @@
+07/08/25                     Moscow Police Department                        1272
+10:48                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number     95                Date   14:34:25 01/04/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+UPS Warrant Service
+
+Case # 22-M09903
+Date: 1/4/2023
+
+On December 2, 2022, Cpl Brett Payne was granted a warrant for video obtained by
+United Parcel Service (UPS) via their carrier vehicles.
+
+On December 5, 2022, at approximately 0834 hours, the warrant was served via
+email to         @ups.com.
+
+On December 5, 2022, I received an email from UPS stating the data requested
+pursuant to the warrant was available. I provided a download link and the files
+were downloaded to the forensic computers located in the secure forensic
+computer lab at the Moscow Police Department.
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also
+emailed a copy of the receipt to Google (        @ups.com), as this was the
+originating email address associated with the documents.
+This data will be examined at my earliest convenience.
+
+Det. Lawrence Mowery - 162
+Wed Jan 04 14:34:29 PST 2023
+
+Reviewed By:
+Sgt. Dustin Blaker #108
+Mon Jan 09 14:25:36 PST 2023
+

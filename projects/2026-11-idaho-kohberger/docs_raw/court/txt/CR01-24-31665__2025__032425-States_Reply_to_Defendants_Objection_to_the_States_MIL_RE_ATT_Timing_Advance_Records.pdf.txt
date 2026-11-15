@@ -1,0 +1,758 @@
+                                                                                 Electronically Filed
+                                                                                 3/24/2025 2:32 PM
+                                                                                 Fourth Judicial District, Ada County
+                                                                                 Trent Tripple, Clerk of the Court
+                                                                                 By: Jennifer Keyes, Deputy Clerk
+
+
+LATAH COUNTY PROSECUTOR’S OFFICE
+WILLIAM W. THOMPSON, JR., ISB No. 2613
+PROSECUTING ATTORNEY
+ASHLEY S. JENNINGS, ISB No. 8491
+SENIOR DEPUTY PROSECUTOR
+Latah County Courthouse
+522 S. Adams Street, Ste. 211
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+        IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                   STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+
+
+ STATE OF IDAHO,                                        Case No. CR01-24-31665
+            Plaintiff,
+
+                                                        STATE’S REPLY TO
+                                                        OBJECTION TO THE STATE’S
+                                                        MOTION IN LIMINE
+ V.
+                                                        RE: AT&T TIMING ADVANCE
+ BRYAN C. KOHBERGER,                                    RECORDS
+            Defendant.
+
+
+
+        COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney,
+
+and respectfully replies to the Defendant’s “Objection to the State’s Motion in Limine RE: AT&T
+
+Timing Advance Records” filed on March 17, 2025.
+
+        Timing Advance Records refer to data that is used by providers to estimate the location of a
+
+mobile device. The collection of this data is necessary for a cellular network to work properly.
+
+Carriers do not retain this data indefinitely.
+
+
+
+
+STATE’S REPLY TO OBJECTION TO THE STATE’S MOTION IN LIMINE RE: AT&T TIMING ADVANCE
+RECORDS                                                                                                    1
+       Regarding AT&T, before June 2023, AT&T retained timing advance records for seven (7)
+
+days. These records were not routinely provided in response to legal demand prior to June 2023.
+
+After June 2023, AT&T started providing these records pursuant to legal demand and began
+
+retaining timing advance records for thirteen (13) months.
+
+       In this case, the homicides occurred on November 13, 2022. Bryan Kohberger was
+
+identified as a suspect December 19, 2022. Search warrants for his AT&T records were executed on
+
+December 23, 2022. At this point, timing advance records were not available for Bryan Kohberger’s
+
+phone to cover the relevant time period - November 13, 2022. Despite Defendant’s repeated
+
+assertions, the fact of the matter is that AT&T did not provide Timing Advance Records to law
+
+enforcement for Bryan Kohberger’s phone. The State is attaching Affidavits from AT&T verifying
+
+that the State did not receive timing advance records for Bryan Kohberger’s phone. See State’s
+
+Exhibit S-1 and Exhibit S-2.
+
+       Based on the above, statements or inferences by defense counsel or their witnesses that there
+
+is additional evidence that could have been provided, or was not provided, is simply not correct and
+
+should not be allowed. Under I.R.E. 403 any probative value of such evidence is outweighed by the
+
+danger of misleading the jury, undue delay, and waste of time. For these reasons, the State requests
+
+the Court issue an order in limine prohibiting the defense from making any reference to the absence
+
+of AT&T Timing Advance Records for Bryan Kohberger.
+
+       RESPECTFULLY SUBMITTED this 24th day of March 2025.
+
+
+
+                                                      Ashley S. Jennings
+                                                      Senior Deputy Prosecuting Attorney
+
+
+
+
+STATE’S REPLY TO OBJECTION TO THE STATE’S MOTION IN LIMINE RE: AT&T TIMING ADVANCE
+RECORDS                                                                                           2
+                               CERTIFICATE OF DELIVERY
+
+       I hereby certify that true and correct copies of the STATE’S REPLY TO OBJECTION TO
+
+THE STATE’S MOTION IN LIMINE RE: AT&T TIMING ADVANCE RECORDS were served
+
+on the following in the manner indicated below:
+
+Anne Taylor                                     ☐ Mailed
+Attorney at Law                                 ☒ E-filed & Served / E-mailed
+PO Box 2347                                     ☐ Faxed
+Coeur D Alene, ID 83816
+                                                ☐ Hand Delivered
+
+       Dated this 24th day of February 2025.
+
+
+                                               __________________________________________
+
+
+
+
+STATE’S REPLY TO OBJECTION TO THE STATE’S MOTION IN LIMINE RE: AT&T TIMING ADVANCE
+RECORDS                                                                                 3
+AT&T
+11760 US HWY 1, SUITE 30
+NORTH PALM BEACH FL 33408
+
+(800) 635-6840
+(888) 938-4715 (Fax)
+
+CERTIFICATE OF AUTHENTICITY OF DOMESTIC RECORDS PURSUANT TO FEDERAL
+RULES OF EVIDENCE 902(11) AND 902(13, AND 803(7)
+
+GLDC FILE NUMBER 3586162
+
+I, Stedhen      Gordon attest, under penalties of perjury by the laws of the United States of
+America pursuant to 28 U.S.C. § 1746, that the information contained in this certification is true
+and correct. I am employed by AT&T, and my title is Director Compliance. I am qualified to
+authenticate records responsive to the attached Search Warrant dated 12/22/22 because I am
+familiar with how the records were created, managed, stored, and retrieved. I further state that:
+
+        a.   AT&T maintains records made at or near the time of the occurrence of the referenced
+             matter set forth by, or from information transmitted by, a person with knowledge of
+             those matters, and the records were kept in the ordinary course of the regularly
+             conducted business activity of AT&T, and made by AT&T as a regular practice; and
+
+        b.   AT&T provided records for the phone number 509-592-8458 responsive to the
+             referenced Search Warrant dated December 23, 2023, for records between November
+             12, 2022, at 12:00 a.m. PST to November 14, 2022 at 12:00 a.m. PST, related to the
+             November 13, 2022, homicides; and
+
+        c.   AT&T did not provide Timing Advance Records for phone number 509-592-8458.
+             Timing Advance Records were only available if requested within seven (7) days of
+             the specified time frame. Timing Advance Records were not included in AT&T
+             records responsive to the referenced Search Warrant because more than seven (7)
+             days elapsed between November 13, 2022, and the date of the Search Warrant
+             December 23, 2022.
+
+I further state that this certification is intended to satisfy Rules 902(11), 902(13) and 803(7) of
+the Federal Rules of Evidence.
+
+
+   3/24
+Dated                                                  Signature
+
+
+                                                                                              STATE'S EXHIBIT
+
+                                                                                                         S-1
+                                                                                                      CR01-24-31665
+       IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+                 STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+                                                        )
+In the Matter of the Application                               Case No. CR29-
+For a Search Warrant for:
+
+AT&T
+11760 U.S. Highway 1, Suite 300                         )      SEARCH WARRANT
+North Palm Beach, FL 33408-3029
+                                                        )
+MPD Case No. 22-M09903
+
+
+TO:        ANY PEACE OFFICER AUTHORIZED TO ENFORCE OR ASSIST IN
+           ENFORCING ANY LAW OF THE STATE OF IDAHO.
+
+           Brett Payne, having given me proof, upon oath, this day showing probable cause
+
+establishing grounds for issuing a search warrant and probable cause to believe property
+
+consists of certain evidence regarding the investigation into the crime(s) of homicide at
+
+1122 King Road in Moscow, Idaho is on the AT&T account associated with the phone
+
+number 509-592-8458 between November 12, 2022 at 12:00 a.m. PST to November 14,
+
+2022 at 12:00 a.m. PST. Information should include user account information, location data,
+
+and stored communications held by AT&T, described in further detail as follows:
+
+
+
+      1.   All customer/subscriber information, including any listed addresses, other listed
+           telephone number(s), social security number(s), dates of birth, name(s),
+                                                                                    or
+           address(es), any other customer identifying information, mobile handset
+           device identifiers/serial numbers (MEID, ESN, IMSI, IME], SUPI), activation
+           date and deactivation date, and point of purchase or location device was
+           purchased if applicable;
+
+
+
+
+SEARCH WARRANT                                   1
+   2.   Device Purchase Information. This is specifically to include the Date, Time and
+        Location of where the device or any pre-paid refill cards were purchased as well
+        as any information maintained about the purchase to include store name, store
+        number, terminal number, and amount of purchase;
+
+   3.   Any email addresses associated with the account or with the device that is
+        currently on file and stored in the normal course of business of the Service
+        Provider;
+
+   4. Call detail records, including detailed information in reference to all known
+      outgoing and incoming calls associated with the account, dates and times calls
+      were made, and duration of all calls made or received. This is to include any other
+      pertinent call detail records including special features codes, or any other codes
+      that are maintained in the normal course of business for the Service Provider, of
+      any cellular numbers identified in the course of the investigation. In addition to
+      voice calls, this would also include any detail records showing text messages,
+      MMS messages, or data activity;
+
+            a.   In the event the requested Call Detail Records contain other Service
+                 Provider customer numbers, identified as either incoming or outgoing
+                 calls, the Service Provider will provide subscriber information to the
+                 specific numbers identified, if requested.
+
+   5.   Cell site information, to include all known cell towers associated with outgoing
+        and incoming calls (Call Detail Records). This information is to include any
+        sector information, azimuth for each identified sector, cell site location, handoff
+        tower and sector, time on tower information, and any other related material that
+        would be necessary to identify the location and sector in reference to the cell site
+        information associated with the call detail records. In the event text messages,
+        MMS messages, Data activity, including IP sessions and destination addresses
+        that were produced, these records are also included in this request;
+
+   6.   Cell site locations for all Service Provider Cell Sites, sector information,
+        including azimuth headings, in the regional market associated with the requested
+        cell site information;
+
+   7.   Location information, to include any estimated or known longitude and latitude
+        of the cellular device's current location, or approximate location, information
+        received by cell tower(s) in reference to direction and distance from the tower a
+        device may be located (timing and triangulation information). Radio Frequency
+        signal strengths, direction, and transmission information. The geographical
+        constraints of location information will be limited to the United States;
+
+  8. Location information can be in the form of historical records. This would include
+
+
+
+SEARCH WARRANT                                 2
+                                                                             latitude and
+        any reports of device activity that would include the approximate
+        longitude of the device  at the time of the activity, estimated margin of error,
+        direction and distance from the tower,   and other  location related  information
+        commonly referred to as Real Time Tool (RTT), Timing Advance Information,
+        Location Database of Record (LocDBoR). This further includes any other report
+        similar in nature that would provide an estimate of the cellular phone on the
+        Service Provider's network;
+
+   9.   All text message and/or MMS messages, including message content, currently
+        stored in the normal course of business for the Service Provider, to include any
+        cloud services which allow for the long-term storage of both voicemails and
+        SMS/MMS messages;
+
+    10. Cloud Data, any content that may have been backed up to Cloud Storage for the
+        listed dates/times. If said Cloud Storage has been provided by a third-party
+        provider, please provide relevant contact information for that provider;
+
+located within the following described premises:
+
+         AT&T
+        Attn: Global Legal Demands Center
+        11760 US Highway 1, Suite 600
+        North Palm Beach, FFL 33408
+        gidc@att.com
+
+
+        Please provide this information to Brett Payne at b                             digital
+
+format on a compact disk in Excel, PDF or TXT format. You are therefore commanded to
+
+search the above-described premises for the property described above, to seize it if found and
+
+                                                                        executed within 14
+bring it promptly before the court above named. This warrant shall be
+
+                                                               service (pursuant to Idaho
+days of issuance, and is authorized for daytime or nighttime
+
+Criminal Rule 41, "daytime" means the hours between 6:00 a.m. and 10:00 p.m. PST), and
+
+under the following special directions:
+
+        **THIS SEARCH WARRANT IS ISSUED FOR A LAW
+        ENFORCEMENT PURPOSE, THE SERVICE PROVIDER (AT&T) IS
+        ORDERED NOT TO DISCLOSE THE EXISTENCE OR CONTENTS OF
+        THIS SEARCH WARRANT OR THE INFORMATION FURNISHED IN
+        RESPONSE TO THE SEARCH WARRANT FOR A PERIOD OF 90
+
+
+SEARCH WARRANT                                 3
+      DAYS OR UNTIL FURTHER ORDER OF THE COURT.
+
+      THE SERVICE PROVIDER SHALL DISCLOSE THE DESCRIBED
+      PROPERTY AND INFORMATION WITHIN 14 DAYS OF
+      ISSUANCE.**
+
+
+GIVEN UNDER MY HAND and DATED this   23rd       day of December, 2022, at
+         10:03         m.
+
+                                                  C
+                                     Magistrate Judge
+
+
+
+
+SEARCH WARRANT                  4
+AT&T
+11760 US HWY 1, SUITE 30
+NORTH PALM BEACH FL 33408
+
+(800) 635-6840
+(888) 938-4715 (Fax)
+
+CERTIFICATE OF AUTHENTICITY OF DOMESTIC RECORDS PURSUANT TO FEDERAL
+RULES OF EVIDENCE 902(11) AND 902(13, AND 803(7)
+
+GLDC FILE NUMBER 3586353
+
+1, Stephen             attest, under penalties of perjury by the laws of the United States of
+America pursuant to 28 U.S.C. § 1746, that the information contained in this certification is true
+and correct. I am employed by AT&T, and my title is Director Compliance. I am qualified to
+authenticate records responsive to the attached Search Warrant dated 12/22/22 because I am
+familiar with how the records were created, managed, stored, and retrieved. J further state that:
+
+        a.   AT&T maintains records made at or near the time of the occurrence of the referenced
+             matter set forth by, or from information transmitted by, a person with knowledge of
+             those matters, and the records were kept in the ordinary course of the regularly
+             conducted business activity of AT&T, and made by AT&T as a regular practice; and
+
+        b    AT&T provided records for the phone number 509-592-8458 responsive to the
+             referenced Search Warrant dated December 23, 2023, for records between June 23,
+             2022, to December 23, 2022, related to the November 13, 2022, homicides; and
+
+             AT&T did not provide Timing Advance Records for phone number 509-592-8458.
+             Timing Advance Records were only available if requested within seven (7) days of
+             the specified time frame. Timing Advance Records were not included in AT&T
+             records responsive to the referenced Search Warrant because more than seven (7)
+             days elapsed between November 13, 2022, and the date of the Search Warrant
+             December 23, 2022.
+
+I further state that this certification is intended to satisfy Rules 902(11), 902(13) and 803(7) of
+the Federal Rules of Evidence
+
+
+03/2
+Dated                                                  Signature
+
+
+                                                                                            STATE'S EXHIBIT
+
+                                                                                                      S-2
+                                                                                                 CR01-24-31665
+      IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+
+                                                      )
+In the Matter of the Application                      )       Case No. CR29-
+For a Search Warrant for:                             )
+                                                      )       SEARCH WARRANT AND
+AT&T                                                  )       ORDER AUTHORIZING
+11760 U.S. Highway 1, Suite 300                       )       INSTALLATION AND/OR
+North Palm Beach, FL 33408-3029                       )       USE OF A PEN REGISTER,
+                                                      )       TRAP AND TRACE DEVICE
+
+                                                      )       AND
+                                                      )       NON-DISCLOSURE ORDER
+                                                      )       PURSUANT TO IC. 18-6722
+MPD Case No. 22-M09903
+
+TO:     ANY PEACE OFFICER AUTHORIZED TO ENFORCE OR ASSIST IN
+        ENFORCING ANY LAW OF THE STATE OF IDAHO.
+
+Brett Payne, having given me proof, upon oath, this day showing probable cause establishing
+
+grounds for issuing a search warrant and probable cause to believe there are records related to
+
+the crime(s) of homicide at 1122 King Road, Moscow, Idaho and are currently under the
+
+control of AT&T for historic call detail records for the telephone number 509-592-8458
+
+with cell sites for all voice, sms, and data connections between June 23, 2022, to present,
+
+to include:
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                        1
+              Subscriber or Registration Account Information, including subscriber or
+              registered user name or identity, address, billing/payment information;
+              account initiation date; type of account; custom account features; additional
+              phone numbers; addresses (both physical and electronic) and/or other
+              contact information; additional persons having authority on the account; any
+              additional accounts linked to the subject account; account changes for the
+              target address and any linked accounts; and
+
+              Device Identifying Information for the device using the target address, such
+              as phone number, MAC address, IP address, and other unique hardware and
+              software identifiers; and
+
+              Usage and Location Information, including stored and transactional records
+              for all voice, sms and data connections such as inbound and outbound call,
+              message, radio or other communication detail data, together with date and
+              time of each communication; including positioning information such as
+              GPS longitude/latitude or multilateration or precision location, historical
+              and prospective cell site location information (CSLI), or other information
+              tending to reveal the proximate or precise location of the device associated
+              with the above-identified target address; E911 data for the target address;
+              and, for internet communications, detail such as IP address, Port, Socket
+              Address, VoIP address, routing information; the address(es) from which the
+              communication is made, conducted, and terminated; non-content text or
+              email, header, IP address; and other non-content information; and
+
+              such as cell site positioning information, GPS longitude/latitude or
+              multilateration or precision location (including RTT and LocDBoR reports
+              or similarly generated location information), Timing Advance and/or True
+              Call or other information tending to reveal the proximate or precise location
+              of the device associated with the target address; E911 data for the target
+              address; and
+
+              Physical address of cellular antenna towers used by the customer's device,
+              together with RF coverage map(s) and/or satellites contacted or used by the
+              above-identified customer/number/account(s)/device(s), and periods of
+              telephone activation, session times, duration, and the identity of any
+              temporarily assigned network addresses; and
+
+               subscriber identity information for customers who contact or are contacted
+               by the device using the target address;
+
+located at the following premises:
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                      2
+AT&T
+11760 U.S. Highway 1, Suite 300
+North Palm Beach, FL 33408-3029
+
+
+        You are therefore commanded to search the above-described premises for the property
+
+described above, to seize it if found and bring it promptly before the court above named. This
+
+warrant shall be executed within   14    days of issuance, and is authorized for daytime and
+
+nighttime service (pursuant to Idaho Criminal Rule 41, "daytime" means the hours between
+
+6:00 a.m. and 10:00 p.m. PST).
+
+
+
+        FURTHER, there is probable cause to believe that use of a pen register and/or trap
+and trace device will lead to law enforcement acquisition of real time pen register and/or
+                                                                                             trap
+
+and trace information, and that this information would be evidence related to the
+                                                                                    crime(s) of
+
+homicide which are currently under the control of AT&T. The court finds that Brett Payne,
+
+investigating officer, and Ashley Jennings, Senior Deputy Prosecutor, has certified to the
+
+court that the information likely to be obtained by such installation and use is relevant to
+
+an ongoing criminal investigation.
+
+
+       Pursuant to ILC. 18-6722(2) the Court finds that the identity of the person to whom
+
+the phone is leased or in whose name is listed to the telephone line to which the
+                                                                                    pen
+
+register or trap and trace device is to be attached is Bryan Kohberger; the identity of the
+
+person who is subject of the criminal investigation is Bryan Kohberger who resides at
+
+                                     Pullman, WA; the phone number is 509-592-8458 and
+
+the physical location of the phone is currently Albrightsville, Pennsylvania: the phone's
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO IC. 18-6722                        3
+service provider is:
+
+
+AT&T
+11760 U.S. Highway 1, Suite 300
+North Palm Beach, FL 33408-3029
+
+
+        The geographic limits of the trap and trace order are the United States and U.S.
+
+Territories.
+
+        IT IS HEREBY ORDERED pursuant to ILC. 18-6722 that the above-identified
+
+investigators and investigative agency/agencies are authorized to install and use a pen register
+
+to register, filter, record and decode electronic or other impulses, including, but not limited to
+
+
+dialing, routing, addressing, signs and signaling information, or other impulses that together
+
+with date time and duration identify the numbers dialed, electronic mail addressing or routing
+
+information, email address, IP address and/or other non-content information otherwise
+
+transmitted from the target address; and information tending to identify the device using the
+
+target address including any other unique identifiers for the device, including the information
+
+referenced above; and
+
+
+        IT IS FURTHER ORDERED pursuant to I.C. 18-6722 that the above-identified
+
+investigators and investigative agency/agencies are authorized to install and use a trap and
+
+trace device to trace, identify, register, filter, record and decode electronic or other impulses,
+
+
+including, but not limited to dialing, routing, addressing, signs and signaling information, or
+
+other impulses that, together with date time and duration, identify the numbers dialed,
+
+electronic mail addressing or routing information, email address, IP address and/or other non-
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                          4
+content information otherwise transmitted to the target address, or other impulses that identify
+
+the originating numbers or digital addresses from which a wire or electronic communication
+
+is transmitted; and, if known, the customer or user name or identity associated with the
+
+
+device, number or address sending communications, signals, messages, or other electronic
+
+impulses to the above-identified target address, from any location within the United States;
+
+and
+
+
+        IT IS FURTHER ORDERED based upon probable cause, that the above-identified
+
+service provider, investigators and investigative agencies are authorized to use a cell site
+
+simulator in connection with the target address; and that any cell site simulator device may be
+
+used in any geographic area necessary to locate the device using the target address in real
+
+time; and that the above-listed service provider and any other person served with this order
+
+shall, upon request by law enforcement, assist by providing, on a 24-hour basis the listed
+
+investigative agency with all information tending to reveal or to lead to learning the location
+
+of the device using the target address, including positioning information such as GPS
+
+longitude/latitude or multilateration or precision location, prospective cell site location
+
+information (CSLI), or other information tending to reveal the proximate or precise location
+
+of the device associated with the target address, including positioning information such as
+
+GPS longitude/latitude or multilateration or precision location, prospective cell site location
+
+information (CSLI), or other information tending to reveal the proximate or precise location
+
+of the device associated with the target address; and
+
+
+       IT IS FURTHER ORDERED that, for purposes of this order, the terms "cell site
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                         5
+simulator" and "cell site simulator data" include pen register and trap and trace, and data
+
+derived from pen register and/or trap and trace for the target device, as those terms are defined
+
+by LC. 18-6719 and also includes real time location information collected by a law
+
+enforcement operated cell site simulator device and/or by a service provider when, at law
+
+enforcement request, the provider deliberately seeks to locate the target device, to the extent
+
+the terms or technology overlap.
+
+
+        IT IS FURTHER ORDERED that the above listed service provider and any other
+
+person served with this order shall furnish agents of the above-identified investigative
+
+agency/agencies forthwith all information, facilities, and technical assistance necessary to
+
+accomplish the installation and/or operation of the pen register, trap and trace, and cell site
+
+simulator, and search of their facilities and records unobtrusively and with minimum
+
+interference to the services accorded persons with respect to whom the installation and/or use
+
+is to take place; and upon request from law enforcement and for the duration of this warrant;
+
+AT&T will provide all RTT reports.
+
+        IT IS FURTHER ORDERED that this Order shall apply to, and the definition of
+
+target address shall include, any other account, target address, network, hardware or software
+
+identity or other unique device identifier, to which the target address has changed for the two
+
+months preceding the signing of this order through the end date of the authority granted
+
+
+pursuant to this order; and
+
+
+        IT IS FURTHER ORDERED, that investigators and service providers are authorized
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                         6
+    to continue using the tools and techniques authorized by this order during any time that the
+
+    devices being monitored enter private property; and
+
+
+            IT IS FURTHER ORDERED that the investigators and investigative agencies using a
+
+    cell site simulator shall take all steps necessary to limit collection of any information or
+
+    metadata to the target address; take all steps necessary to permanently delete any information
+
+    or metadata collected from any party not specified in this order immediately
+                                                                                    following its
+
+    collection; and must not transmit, use, or retain such information or metadata for any purpose
+
+    whatsoever; and must delete any information or metadata collected from the device using the
+
+    target address within thirty days if there is no longer any probable cause to support the believe
+
+    that such information or metadata is evidence of a crime.
+
+
+           IT IS FURTHER ORDERED that the listed service provider and any other person or
+
+    entity providing assistance be compensated by the above-identified investigative
+
+    agency/agencies for reasonable expenses incurred in complying with this Order; and records
+
+    and information provided pursuant to this order should be provided in a commercially-
+
+    reasonable electronic format and delivered forthwith via electronic mail as specified by the
+
+    law enforcement officer serving this Order.
+
+
+           IT IS FURTHER ORDERED that this Order is effective on December 23, 2022 at
+
+4:53 pm PST     to be completed no later than     February23,2023             at the same time of
+
+    day.
+
+
+           IT IS FURTHER ORDERED pursuant to I.-C. 18-6722(4)(a) this order will be sealed
+   SEARCH WARRANT
+   AND ORDER FOR A
+   PEN REGISTER ORA
+   TRAP AND TRACE DEVICE
+   AND NON-DISCLOSURE ORDER
+   PURSUANT TO LC. 18-6722                          7
+until otherwise ordered by the court; and
+
+
+        IT IS FURTHER ORDERED pursuant to I.C. 18-6722(4)(b) that the service provider
+
+to whom this order is addressed, or any other person served with this order, are prohibited
+
+from giving notice of the existence of this order to any person, including the subscriber or
+
+customer to whom the target address relates, except that the service provider may disclose the
+
+order to its legal counsel for purpose of receiving legal advice.
+
+
+GIVEN UNDER MY HAND and DATED this 23rd                             day of December, 2022, at
+        :                         .m.
+
+
+
+                                                        Magistrate Judge
+
+
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO I.C. 18-6722                        8
+

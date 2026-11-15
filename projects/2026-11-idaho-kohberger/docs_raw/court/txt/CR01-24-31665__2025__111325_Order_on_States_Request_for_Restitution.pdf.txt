@@ -1,0 +1,295 @@
+                                                                                       Filed: 11/13/2025 13:19:07
+                                                                                       Fourth Judicial District, Ada County
+                                                                                       Trent Tripple, Clerk of the Court
+                                                                                       By: Deputy Clerk Waters, Renee
+                                                                                                         -
+
+
+
+
+            IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+
+                 THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+
+
+    STATE OF IDAHO,
+                                                           Case No. CR01-24-31665
+               Plaintiff,
+                                                           ORDER ON STATE'S REQUEST FOR
+                                                           RESTITUTION
+    BRYAN C. KOHBERGER,
+
+               Defendant.
+
+
+
+
+I.        INTRODUCTION
+          Before the Court is the State's request for restitution for funeral expenses incurred by the
+
+parents of Kaylee Goncalves and Madison Mogen.! The State requests $1420 in favor of the
+Steve and Kristi Goncalves and $1587.79 in favor of Karen Laramie for expenditures made for
+urns. An itemized statement with receipts was provided with the State's request. Although
+
+Defendant agrees that the plea agreement allows for these expenses to be sought as restitution, he
+
+argues the request should nevertheless be denied under I.C. § 19-5304(7) based on his inability
+to pay.
+
+          Oral argument on the State's request was held on November 5, 2025 after which the
+Court took the matter under advisement. The Court will order the restitution in the amount
+
+requested by the State.
+II.       STANDARD
+          A district court's order of restitution is discretionary; the court can determine whether to
+order restitution and in what amount. State v. Johnson, 167 Idaho 454, 460, 470 P.3d 1263, 1269
+
+(Ct. App. 2020)
+
+
+
+'
+ The State originally requested restitution for expenses incurred by these parents for travel and accommodations to
+attend hearings and trial. However, the State conceded at oral argument that those expenses were not contemplated
+under the plea agreement and withdrew its request. Thus, only the funeral expenses will be addressed.
+       ANALYSIS
+
+       A.      The Plea Agreement Requires Defendant to Pay for Funeral Expenses As
+               Requested by the State.
+
+       While awards of restitution are typically governed by I.C. § 19-5304, restitution
+
+obligations under the statute can be altered through plea agreements. State v. Acuna, 154 Idaho
+139, 142, 294 P.3d 1151, 1154 (Ct. App. 2013) (finding the plea agreement precluded the
+
+prosecutor from requesting additional restitution). Plea agreements are contractual in nature and
+
+generally are examined by courts in accordance with contract law standards. State v. Jafek 141
+Idaho 71, 73, 106 P.3d 397, 399 (2005). A plea agreement is ambiguous if it is reasonably subject
+
+to conflicting interpretations. Acuna, 154 Idaho at 141, 294 P.3d at 1153. The determination that
+
+a plea agreement is ambiguous is a question of law; interpretation of an ambiguous term is a
+
+question of fact. State v. Allen, 143 Idaho 267, 272, 141 P.3d 1136, 1141 (Ct. App. 2006).
+
+Ambiguous plea agreements are to be construed in favor of the defendant. State v. Nienburg, 153
+Idaho 491, 496, 283 P.3d 808, 813 (Ct. App. 2012) (citations omitted).
+
+       The plea agreement at issue provides that "[t]he State may seek restitution orders
+
+regarding funeral expenses and Crime Victims Compensation reimbursement in an amount to be
+determined." There are no other provisions governing restitution.
+       There is no dispute that the expenses incurred for the urns are funeral expenses as
+
+contemplated by the plea agreement. The dispute is whether Defendant agreed to pay restitution
+for the funeral expenses as requested by the State or only after the Court considers the factors set
+
+forth in I.C. § 19-5304(7). Defendant argues it is the latter.
+
+       The Court finds the former to be the only reasonable interpretation of the plea agreement.
+If the parties intended that restitution only be ordered in amounts to be determined by the Court
+under I.C. § 19-5304(7), there would be no reason to include the restitution provision in the plea
+
+agreement given that the State-on behalf of crime victims        is already permitted to seek
+restitution for economic losses under I.C. § 19-5304. By specifically including the restitution
+
+provision in the plea agreement, it is clear the parties intended to bypass this step with regard to
+two specific categories of expenses: 1) funeral expenses, and; 2) Crime Victims Compensation
+
+
+
+
+                                                   2
+reimbursement." Thus, because Defendant agrees the expenses incurred for urns are funeral
+
+expenses, he may not object to the State's request for a restitution order under the unambiguous
+terms of the plea agreement.
+
+                    B.       Alternatively, the Factors Set Forth in I.C. § 19-5304(7) Favor
+                             Restitution in Amount Requested.
+
+           Even if the Court were to find that the language of the plea agreement requires the Court
+to consider the factors set forth in I.C. § 19-5304(7) before ordering restitution, those factors
+
+favor ordering the amount requested by the State.
+           Pursuant to I.C. § 19-5304(7), in determining the amount of restitution to order, the Court
+
+must consider "the amount of economic loss sustained by the victim as a result of the offense, the
+
+financial resources, needs and earning ability of the defendant, and such other factors as the court
+deems appropriate." The statute further provides that "[t]he immediate inability to pay restitution
+
+by a defendant shall not be, in and of itself, a reason to not order restitution." /d. Rather, a court
+
+may order restitution "based on a foreseeable ability to repay the award." State v. Garcia, 166
+Idaho 661, 682, 462 P.3d 1125, 1146 (2020) (emphasis in original, citation omitted). Indeed,
+
+even if a defendant is unlikely to ever meet the full amount of restitution, an order of restitution
+
+may be upheld if it does not require installment payments or deadlines but simply gives the
+victims the present ability to obtain a judgment. State v. Garcia, 170 Idaho 708, 713, 516 P.3d
+
+578, 583 (2022).
+           Defendant argues that restitution for funeral expenses should not be ordered given his
+other financial obligations associated with the case and his inability to earn money. He argues his
+
+consecutive life sentences preclude him from earning though employment and I.C. § 19-5301
+
+prevents him from profiting from the crime by way of book, movie or entertainment. The State
+
+responds that although Defendant may not be able to earn money during his sentence, it is not a
+basis to deny restitution particularly here, where Defendant has received significant financial
+
+
+
+
+?
+    Notably, Defendant stipulated to restitution in the amount of$14,563.75 incurred by the families of Ethan Chapin
+and Xana Kernodle.
+
+3
+  Defendant also noted the State's request for restitution was untimely under the Judgment of Conviction and
+Commitment (July 23, 2025) which directed the State "to notice restitution for hearing if the parties cannot stipulate
+to an amount within sixty (60) days." Sixty days fell on September 21, 2025, a Sunday. The State filed its request on
+Monday, September 22. Thus, it was not untimely.
+
+
+                                                           3
+contributions while incarcerated.* The State further argues that, by operation of I.C. § 19-5301,
+
+any money that would otherwise be paid to Defendant for future media contracts can be collected
+
+by the state treasurer to be placed in an escrow account to pay restitution orders recovered as
+civil judgments.°
+           The economic losses sought by the Goncalves and Ms. Laramie for funeral expenses total
+$3007.79. This is in addition to the criminal fines and fees of $251,227.50, civil judgment of
+
+$20,000 for each family and $31,964.67 in restitution orders Defendant stipulated to in favor of
+Crime Victims' Compensation and the families of Xana Kernodle and Ethan Chapin.® The
+amount at issue represents a minimal additional burden on Defendant's financial obligations in
+
+connection with this case. Further, he has received nearly enough through donations to cover the
+amount of restitution already ordered. While these funds may no longer be available to
+
+Defendant, it is foreseeable he will continue to receive donations in the future, particularly given
+that much of the donated amounts came from his family. In addition, there is no reason
+
+Defendant cannot secure prison employment for remuneration. Given his limited needs in prison
+
+and his youth, it is foreseeable that through employment and donations, Defendant may receive
+
+sufficient amounts over his life to at least come close to meeting his financial restitution
+
+obligations.'
+           In sum, although the Court finds the language of the plea agreement obligates Defendant
+
+to the restitution in the amount requested by the State for funeral expenses, even if it did not, the
+
+
+
+
+' State's Exhibit 3, filed with its reply brief, demonstrates that Defendant received several hundred donations totaling
+$28,360.96 while incarcerated at the Latah County and Ada County jails. According to defense counsel, many of
+these donations came from Defendant's family members.
+
+5
+    Although the State is correct that restitution orders can be recovered as civil judgments, they are not payable from
+an escrow account established under I.C. § 19-5301 because they are not money judgments recovered from a civil
+action, which is a requirement under I.C. § 19-5301(1). Thus, any media contracts Defendant enters into would not
+be a source of "earning potential" for restitution purposes.
+
+6
+ The priority of payments is such that monies paid by a criminal defendant are applied in a way that restitution is
+ordered and honored before most other items.
+
+
+Tin addition, Defendant is not entirely correct that he will be unable to profit from media contracts by operation of
+LC. § 19-5301. Pursuant to subsection three (3) of that statute, any leftover funds in the escrow account must be paid
+over to a defendant upon a showing that five years have elapsed from the establishment of the escrow account and
+that no actions are pending against him. I.C. § 19-5301(3). Thus, the statute leaves open the potential for Defendant
+to receive money from media contracts in the future.
+
+
+
+                                                            4
+Court finds the requested amount is warranted under I.C. § 19-5304(7). Separate orders awarding
+
+$1420 to the Goncalves family and $1587.79 to Ms. Laramie for funeral expenses will be issued.
+
+
+IT IS SO ORDERED.
+
+
+DATED this        Gay    November, 2025.
+
+
+
+
+                                           Stéven Hippl
+                                           District  ge
+
+
+
+
+                                               5
+                                    CERTIFICATE OF SERVICE
+
+                       11/13/2025             served a true and correct copy of the ORDER
+ hereby certify thaton
+ON STATE'S REQUEST FOR RESTITUTION to:
+
+
+
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+ASHLEY JENNINGS
+SENIOR DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid gov
+
+JOSHUA D. HURWIT
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.gov
+
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: jeff.nye@ag.idaho.gov
+
+MADISON ALLEN
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Madison.allen@aq.idaho.gov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetaylorlaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+FIRST DISTRICT PUBLIC DEFENDER
+JAY W. LOGSDON
+VIA EMAIL: jay logsdon@spd.idaho gov
+
+BICKA BARLOW
+Pro Hac Vice
+VIA EMAIL: bickabarlow@sbcqlobal.net
+
+
+
+                                                       TRENT TRIPPLE
+                                                       Clerk of the Court
+
+                                                 By:
+                                                       Deputy Clerk    11/13/2025 1:21:59 PM
+
+
+
+
+CERTIFICATE OF SERVICE
+

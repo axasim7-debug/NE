@@ -1,0 +1,34 @@
+07/08/25                     Moscow Police Department                        1272
+11:02                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903            Name   Lawrence Mowery
+Sequence Number    126                  Date   08:10:49 01/24/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+UofI Video
+
+Case # 22-M09903
+Date: 1/24/2023
+
+On January 11, 2023, I met with K    N     , General Counsel for the University
+of Idaho to facilitate the download of video footage from the campus security
+cameras. I previously spoke with D    L   , Director of Infrastructure Services,
+who had preserved videos to be reviewed for any evidence related to the
+quadruple homicides at 1122 King Road on November 13, 2022. I provided the
+university with a storage device capable of storing large amounts of video.
+On January 18, 2023 I received a message stating the transfer of the videos was
+complete and the storage device could be picked up. On January 23, 2023, I
+retrieved the storage device from N      and returned it to the Moscow Police
+Station where a copy of the data was transferred to the server in the secure
+computer forensic lab. The files were verified by hash value to ensure bit for
+bit copying was completed.
+Det. Lawrence Mowery - 162
+Tue Jan 24 08:10:56 PST 2023
+REVIEWED-Tue Jan 24 08:21:13 PST 2023
+CPL Payne #157
+

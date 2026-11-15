@@ -1,0 +1,38 @@
+07/08/25                        Moscow Police Department                     1272
+12:03                        Law Supplemental Narrative:             Page:      1
+  Details
+Incident Number       22-M09903           Name   B Stirk
+Sequence Number       267                 Date   19:15:11 03/23/24
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Entry control - #176
+
+1.        WatchGuard Event: V300
+          Additional Responding Officers: N/A.
+          Case number added to WG: Yes.
+
+2.        Evidence
+N/A.
+3.        Narrative
+
+On 11/13/2022, at about 1741 hours I arrived on scene at 1122 King Road and
+stood at the front door performing entry control. During this time I kept a log
+book of everyone coming and going from the scene. No unauthorized personnel had
+entered the scene. I passed off entry control to Ofc. Waters at about 2046 hours
+and I cleared the scene.
+
+4.        Other
+N/A.
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+Sat Mar 23 19:28:45 PDT 2024
+
+Stirk #176
+REVIEWED-Mon Mar 25 16:18:44 PDT 2024
+CPL Payne #157
+

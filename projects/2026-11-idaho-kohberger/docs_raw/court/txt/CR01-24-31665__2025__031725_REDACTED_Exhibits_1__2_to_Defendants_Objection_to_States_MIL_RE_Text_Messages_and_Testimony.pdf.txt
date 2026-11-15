@@ -1,0 +1,3959 @@
+Anne Taylor Law, PLLC
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d’Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Bicka Barlow
+Pro Hac Vice
+2358 Market Street
+San Francisco, CA 94114
+Phone: (415) 553-4110
+
+Assigned Attorney:
+Anne C. Taylor, Attorney at Law, Bar Number: 5836
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+
+
+      IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+ STATE OF IDAHO                                    CASE NUMBER: CR01-24-31665
+
+                      Plaintiff,                   FILED UNDER SEAL
+
+ V.                                                EXHIBITS 1 & 2 IN SUPPORT OF
+                                                   OBJECTION TO STATE’S MOTION IN
+ BRYAN C. KOHBERGER,                               LIMINE
+                                                   RE: TEXT MESSAGES AND
+                      Defendant.                   TESTIMONY
+
+
+
+      COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and hereby
+
+files under seal Exhibits 1 & 2 in Support of their Objection to the State’s Motion in Limine RE:
+
+Text Messages and Testimony:
+
+
+FILED UNDER SEAL – EXHIBITS 1 & 2 IN SUPPORT OF OBJECTION TO
+STATE’S MOTION IN LIMINE RE: TEXT MESSAGES AND TESTIMONY                                 Page 1
+   •   Exhibit 1 – D.M. phone records
+
+   •   Exhibit 2 – B.F. phone records
+
+       DATED this ___17____ day of March, 2025.
+
+
+
+
+                                                   _____________________________
+                                                   ANNE C. TAYLOR
+                                                   ANNE TAYLOR LAW, PLLC
+
+
+
+                              CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___17____ day of March, 2025 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+FILED UNDER SEAL – EXHIBITS 1 & 2 IN SUPPORT OF OBJECTION TO
+STATE’S MOTION IN LIMINE RE: TEXT MESSAGES AND TESTIMONY                               Page 2
+                                                        DM PHONE ACTIVITY
+                                                                     11/13/22
+
+
+
+
+  Fro.                782 Dylan (owner)
+  To:              G059 Eric Uber
+                                                                                           :::::
+  To:                 icloud.com Dylan (owner)
+                                                                                           :::::
+  R u driving tonight by chance                                                            :::::
+
+
+
+
+                                                                                           :::::
+     Participant                     Delivered          Read        Played
+                 6059 Eric uber 11/13/2022
+                                                                                           :::::
+                                2:10:30
+                                    AM(UTC-8)
+                                                                                           :::::
+                      icloud.com                                                           :::::
+
+     Dy an
+
+  Status: Sent
+                                                                                           nat
+                                                 11/13/2022 2:10:29 AM(UTC-8)
+
+
+Source Info:
+iPhone/mobilefLibrary/SMS/sms db : 0x373D65 (Table: message, chat, handle; Size: 5046272
+bytes)
+
+
+
+
+                                                       11/13/2022                                  Brittany Femande
+                                                       3:51.03 AM(UTC-                                      Inte
+                                                       8) [Created]                                Source
+                                                                                                           mobileibrary/CoreDuet/P     intera
+                                                                                                   ctionC.db : Ox3COEO (Table: ZCONTACTS:
+                                                                                                   Size: §537702 bytes)
+
+
+                                                                                                                                         DEFENDANT'S
+                                                                                                                                   EXHIBIT NO. 1
+                                                                                                                                   IDENTIFICATION / EVIDENCE
+                                                                                                                                   CASE NO. CR01-24-31665
+                                                                                                                                   DATE: 3
+                                       DM PHONE ACTIVITY
+                                                   11/13/22
+
+
+
+
+                                                                                  11/13/2022        00:00:23
+                                                                           3185   4:19:07 AM(UTC-
+                                                              Bethany*            8)
+                                                              Direction:
+                                                              Incoming
+
+
+
+
+To:                  11/13/2022        00:00:00
+             12 78   4:20:00 AM(UTC-
+Adlid                8)
+Direction:
+Outgoing
+
+
+
+
+Tn                   11/13/2022        00:00:00
+                     4:20:20 AM(UTC-
+Kayiee*              8)
+Direction:
+Outgoing
+
+
+
+
+                     11/13/2022         00:00:41
+             3185    4:20:28 AM(UTC-
+Bethany*             8)
+Direction:
+Outgoing
+
+
+
+
+To                   11/13/2022        00:00:00    t
+             1224    4:21:50 AM(UTC-
+Maddie               8)
+Direction:
+Outgoing
+                                                       DM PHONE ACTIVITY
+                                                                     11/13/22
+
+
+
+
+  From:                   2 Dytan (owner)
+  To:               3185 Bethany                                                                     :
+  To:                  icloud.com Dyian (owner)
+
+  No one is answering
+
+
+      Participant                    Delivered          Read        Played
+                 3185 Bethany        11/13/2022
+                                    408
+                                    AM(UTC-8)
+
+          jan
+
+
+
+  Status: Sent                                                                                       :
+
+
+
+                                                 11/13/2022 4:22:08 AM(UTC-8)                    ::
+                                                                                                 :
+
+
+
+
+Source into:
+#Phone/mobile/Library/SMS/sms.db : 0x37362B (Table: message, chat, handle; Size: 5046272
+bytes)
+
+
+
+
+                                                                                           :::::::::
+  From                     Dyian (owner)
+  To:               3185 Bethany                                                           :::::::::
+                                                                                           :::::::::
+  To:                             Dylan (owner)                                            :::::::::
+
+                                                                                           :::::::::
+  I'm rily confused m                                                                      :::::::::
+
+
+
+
+                                                                                           :::::::::
+      Participant                    Deivered           Read        Played                 :::::::::
+
+
+                 3185 Bethany        11/13/2022
+                                     4:22:11
+                                     AM(UTC-8)
+                      Icloud.com                                                           :::::::::
+                                                                                           :::::::::
+      Dylan
+
+
+  Status: Sent
+
+                                                 11/13/2022 212141 AM(UTC-8)
+
+
+
+Source Info:
+iPhone/mobile/Library/SMS/sms.db : 0x3733FB (Table: message, chat, handle; Size: 5046272
+bytes)
+                                                           DM PHONE ACTIVITY
+                                                                         11/13/22
+
+
+
+    From:                4782 Dylan (owner)
+    To:
+    To:
+           48               Kaylee
+                         @icloud.com Dylan (owner)
+
+     Kaylee
+
+          Participant                     Delivered           Read       Played
+                         18 Kaylee        11/13/2022
+                                          4.22.42
+                                          AM(UTC-8)
+                        @icioud.com
+          Dylan
+
+    Status: Sent
+
+                                                      11/13/2022 2:0121:941219 AM(UTC-8)
+
+
+  Source Info:
+  iPhone/mobile/Library/SMS/sms.db : 0x3731C5 (Table: message, chat, handle; Size: 5046272
+  bytes)
+
+
+
+
+  From:           2 Dylan (owner)
+  To:
+  To:
+         E4918 icloud.com
+                  Kaylee
+                                       Dylan (owner)                                          :::::::
+
+                                                                                              :::::::
+  What's going on
+
+                                                                                              :::::::
+         Participant                    Delivered          Read        Played
+                   48:18 Kayice         11/13/2022
+                                        4:22:43
+                                        AM(UTC-8)
+                                                                                              :::::::
+                       @icloud.com                                                            :::::::
+
+         Dyian
+
+
+  Satus: Sent                                                                                 :::::::
+
+
+
+                                                    11/13/2022 422:43 AM(UTC-8)
+
+
+Source info:
+                                  :   0x374F8D (Table: message, chat, handle; Size: 5046272
+bytes)
+DM PHONE ACTIVITY
+        11/13/22
+
+
+
+          Fro                          185 Bethany
+         To:                    478:    Dylan (owner)
+         To:                                     Dylan (owner)
+         Ya dude wtf
+
+                  Participant                      Delivered          Read        Piayed
+                                782 Dylan                             11/13/20
+                                                                      22
+                                                                      4:23:25
+                                                                      AM(UTC
+                                                                      -8)
+                                   icloud.com
+                  Dytan
+
+
+         Status: Read
+
+                                                               11/13/2022 4:23:15 AM(UTC-8)
+
+
+      Source Info:
+                                            do : 0x374DS7 (Table: message, handle, chat, Size: 5046272
+      byt es. )
+
+
+
+
+     From:                        Bethany
+     To:                   4782 Dylan (owner)
+     To:                    @icloud.com Dylan (owner)
+     Xana was wearing all black
+
+          Participant                           Delivered           Read        Played
+                           782 Dylan                                11/13/20
+
+                                                                    4:23:28
+                                                                    AM(UTC
+                                                                    8)
+                           eicioud.com
+          Dylan
+
+     Status: Read
+
+                                                            11/13/2022 4:23:28 AM(UTC-8)
+
+
+   Source Info:
+   iPhone/mobae/Library/SMS/ams.db : 0x374B5E (Table: message, handle, chat; Size: 5046272
+   bytes)
+                                                        DM PHONE ACTIVITY
+                                                                     11/13/22
+
+
+                                                                                           :
+
+
+
+  From: MNNS8.4782 Dyian (owner)                                                           :
+
+                                                                                               ::::::
+  To:       3185 Bethany                                                                       ::::::
+
+  To:             ud.com Dyian (owner)                                                         ::::::
+
+                                                                                               ::::::
+  I'm freaking out m                                                                           ::::::
+
+
+
+
+     Participant                     Delivered          Read        Played
+                 3185 Bethany        11/13/2022
+                                     4:23:33                                                        :
+
+
+
+
+                                     AM(UTC-8)
+                                                                                                    :
+
+
+
+                                                                                               ::::::
+                    @)icloud.com                                                               ::::::
+
+     Dylan
+
+  Status: Sent
+
+                                                 11/13/2022 4:23:33 AM(UTC-8)                  :
+
+
+
+
+Source info:
+iPhone/mobile/Library/SMS/sms.db : 0x374951 (Table: message, chat, handle; Size: 5046272
+bytes)
+
+
+
+
+  From:              4782 Dylan (owner)
+  To:              3185 Bethany
+  To:               @icloud.com Dylan (owner)
+  No it's like ski mask almost
+
+
+     Participant                     Delivered          Read        Plaved
+                 3185 Bethany        11/13/2022
+                                     4:23 42
+                                     AM(UTC-8)
+                    @1cloud.com
+     Dylan
+
+
+  Status: Sent
+
+                                                 11/13/2022 4 23 42 AM(UTC-8)
+
+
+Source into:
+iPhone/mobile/Library/SMS/sms.db : 0x37471D (Table: message, chat, handle; Size: 5046272
+bytes)
+DM PHONE ACTIVITY
+           11/13/22
+
+
+                                185 Bethany
+           T                    2 Dylan (owner)
+           T                    icloud.com Dytan (owner)
+
+           Stfu
+
+
+               Participant                    Delivered          Read        Played
+               4782              Dyian                           41/13/20
+                                                                 22
+                                                                 4:23:48
+                                                                 AM(UTC
+                                                                 -8)
+                             @icloud.com
+               Dy an
+
+           Status: Read
+
+                                                          11/13/2022 4:23:48 AM(UTC-8)
+
+
+                Info:
+      iPhonefmobile/ibrary/SMS/sms.db : 0x3744CD (Table: message, handle, chat; Size:
+      5046272 bytes)
+
+
+
+
+ Fa
+
+
+           From    MEE         211345 Bethany
+           To:               4782 Dylan (owner)
+           To:                  icloud.com Dylan (owner)
+
+           Actually
+
+               Participant                    Delivered          Read        Played
+                              82 Dylan                           11/13/20
+                                                                 22
+                                                                 4:23:52
+                                                                 AM(UTC
+                                                                 -8)
+                               icloud.com
+               Dylan
+
+           Status: Read
+
+                                                          11/13/2022 4:23:51 AM(UTC-8)
+
+
+
+      Source Info:
+      il                ibrary/SMS/sms.db : 0x3742E2 (Table: message, handle, chat; Size: 5046272
+      bytes)
+                                                                    DM PHONE ACTIVITY
+                                                                                    11/13/22
+
+
+  From :
+  To
+           E4782                Dylan (owner)
+                     51115 Bethany
+  To                  @icloud com Dylan (owner)
+                                                                                                   ::::::
+                                                                                                   ::::::
+
+                                                                                                   ::::::
+  Like he had soemtbinf over is for head a little nd mouth                                         ::::::
+
+
+
+
+       Participant                           Delrvered               Read          Played
+                 3.185 Bethany               11/13/2022
+                                             2 225 52 AM(UTC-
+                                             8)
+                                     Dyan
+
+                                                                                                   ::::::
+  Status: Sent
+
+                                                                   11/13/2022 4 23:52 AM(UTC-8)
+
+
+
+Source Info:
+                      fSMS/ams.db : 0x375F8D (Table: message, chat, handle; Size: 5046272 bytes)
+
+
+
+
+   From:                  21483 Dylan (owner)                                                      :::::::
+   To:                2611345Bethany                                                               :::::::
+
+   To:                  }@icloud.com Dylan (owner)
+                                                                                                   :::::::
+                                                                                                   :::::::
+
+                                                                                                   :::::::
+   Bethant I'm not kidding o am so freaked out                                                     :::::::
+
+
+
+
+        Participant                           Delivered              Read          Played
+                      3185 Bethany            11/13/202                                            :::::::
+
+                                             4:24:0                                                :::::::
+
+                                             AM(UTC-8)
+                                                                                                   :::::::
+                       @icloud.com                                                                 :::::::
+
+        Dy an
+
+                                                                                                   :::::::
+  Status: Sent
+
+                                                              11/13/2022 4:24:00 AM(UTC-8)
+
+
+Source info
+iPhone/mobile/Library/SMS/sms.db : 0x375013 (Table: message, chat, handle; Size: 5046272
+bytes)
+                                                        DM PHONE ACTIVITY
+                                                                      11/13/22
+
+
+
+                                                                       From:                 3185 Bethany
+                                                                       To:            :::
+                                                                                            /82 Dylan (owner)
+                                                                       To:                  @icloud.com Dylan (owner)
+                                                                       So am      |
+
+
+
+
+                                                                          Participant                     Delivered         Read        Played
+                                                                                             2 Dyian                        11/13/20
+                                                                                                                            2
+                                                                                                                            4:24:07
+                                                                                                                            AM(UTC
+                                                                                                                            8)
+                                                                                             icloud.com
+                                                                          Dy an
+
+                                                                      Status: Read
+
+                                                                                                                      11/13/2022 2124817 AM(UTC-8)
+
+
+                                                                    Souceinfo.
+                                                                    iPhone/mobiie/Librarv/SMS/sms.db : 0x37SAAS (Table: messaae. handle. chat: Size: 5046272
+
+
+
+
+                                                                                               ::::::
+  From                  4312Dylan (owner)                                                      ::::::
+  To                  315Bethany
+  To                   icloud.com Dytan (owner)                                                ::::::
+                                                                                               ::::::
+
+
+
+  My phone is going to die fuck
+                                                                                               ::::::
+                                                                                               ::::::
+
+
+
+
+       Participant                   Delrered            Read        Played                    ita
+
+                 3185 Bethany        11/13/202
+                                     4:24    15
+
+
+
+                                     AM(UTC-8)
+                                                                                               ::::::
+                                                                                               ::::::
+
+       Dy an
+
+  Satus: Sent                                                                                  ::::::
+                                                                                               ::::::
+
+
+                                                  11/13/2022 2 24 11 AM(UTC-8)
+
+
+Source info:
+iPhone/mobile/Library/SMS/sms.db : 0x37S58BE (Table: message, chat, handle; Size: 5046272
+bytes)
+DM PHONE ACTIVITY
+     11/13/22
+
+
+      From:               3185 Bethany
+      To:              '4782 Dylan (owner)
+      To:                @icloug.com Dylan (owner)
+      Come to my room
+
+
+         Participant                      Delivered         Read        Played
+                     4782 Dylan                             11/13/20
+                                                            22
+                                                            4:24:14
+                                                            AM(UTC
+                                                            -8)
+                       @icloud.com
+         Dylan
+
+
+      Status: Read
+
+                                                      11/13/2022 4:24:14 AM(UTC-8)
+
+
+    Source info:
+    iPhone/mobile/Library/SMS/sms.db : 0x375670 (Table: message, handle, chat; Size: 5046272
+    bytes)
+
+
+
+
+      From                      85 Bethany
+      To:              417633 Dylan (owner)
+      To                       icloud.com Dylan (owner)
+
+      Run
+
+
+         Participant                      Delivered          Read       Played
+                     2176874   Dylan                         11/13/20
+                                                             22
+                                                            4:24:56
+                                                            AM(UTC
+                                                             8)
+                       eicioud.com
+         Dylan
+
+
+      Status: Read
+
+                                                      11/13/2022 4:24:22 AM(UTC-8)
+
+
+
+    Source Info:
+    iPhone/mobile/Library/SMS/sms.db : 0x37546D (Table: message, handle, chat, Sie. 5046272
+    bytes)
+                                                       DM PHONE ACTIVITY
+                                                                     11/13/22
+
+
+                                                                      From:                         Bethany
+                                                                                               651115
+                                                                      To:                  2 7637
+                                                                                                 Dylan (owner)
+                                                                      To:                     @icloud.com Dylan (owner)
+
+                                                                      Down here
+
+
+                                                                             Participant                       Delivered          Read        Played
+                                                                                                 Dylan                            11/13/20
+                                                                                                                                  22
+                                                                                                                                  4:24:56
+                                                                                                                                  AM(UTC
+                                                                                                                                  8)
+                                                                                           @icloud.com
+                                                                             Dy an
+
+                                                                      Status: Read
+
+                                                                                                                           11/13/2022 4:24:27 AM(UTC-8)
+
+
+                                                                    courte into:
+                                                                                                         1   0x375284 (Table: message, handle, chat, Size: 5046272
+                                                                    bytes)
+
+
+
+
+  To:                       11/13/2022            00:00:12
+  273409¢1-5051-5fic-       4:24:39 AM(UTC-
+  bc09-1ffa6cf067fa         8)
+  Ethan Chapin
+  Direction:
+  Outgoing
+
+
+
+
+                        782 Dylan (owner)
+                        5 Bethany
+                        icloud.com Dylan (owner)
+
+  I'm scRwd tho
+
+
+        Participant                 Delivered           Read        Ptayed
+                  3185 Bethany       11/13/202
+                                    4:24:59
+                                    AM(UTC-8)
+                      @ictoud.com
+        Dylan
+
+
+  Status: Sent
+
+                                                11/13/2022 4:24:58 AM(UTC-8)
+
+
+Source Info:
+iPhone/mobile/Library/SMS/sms.db : 0x376F8D (Table: message, chat, handle; Size: 5046272
+bytes)
+                                                DM PHONE ACTIVITY
+                                                            11/13/22
+
+
+
+                                                                                    15 Bethany
+                                                             T                      2 Dylan (owner)
+                                                             T                      icloud.com Dylan (owner)
+
+                                                             Ya Ik but it's better than being alone
+
+                                                                 Participant                      Delivered           Read       Played
+                                                                 +32                 Dyian                            11/13/20
+                                                                                                                      212
+                                                                                                                     4:26:21
+                                                                                                                     AM(UTG
+                                                                                                                     8)
+                                                                                @icloud.com
+                                                                 Dylan
+
+
+                                                             Status: Read
+
+                                                                                                              11/13/2022 4:25:16 AM(UTC-8)
+
+
+                                                           Source info:
+                                                                            ibrary/SMS/sms.db : 0x376D5B6 (Table: message, handle, chat; Sze:
+                                                           5046272 bytes)
+
+
+
+
+11/13/2022                                com.apple.inCallService: outgoing call
+ 27:11 AM(UTC-                            Source: InteractionC
+ )                                        Source file:
+                                                          ibrary/CoreDuet/People/intera
+                                                                 a
+                                          ctionC,db : 0x21EDC4 OTable:
+                                          ZINTERACTIONS; Size. 5537792 bytes)
+
+
+
+
+ 11/13/2022                                com.toyopagroup.picaboo: outgoing message
+4:27:30 AM(UTC-                            Source: InteractionC
+8)                                         Source file:
+                                           iPhone/mobile/Library/CoreDuet/People/intera
+                                           ctionC,db : 0x21D301      (Tal
+
+
+                                           ZINTERACTIONS; Size: 5537792 bytes)
+
+
+
+
+ 11/13/2022                                com.toyopagroup.picaboo: outgoing message
+ 4:27:40 AM(UTC=                                  : InteractionC
+     )                                     Source file:
+                                           iPhone/mobie/Libra 'CoreDuet/People/intera
+                                           ctionC.db : 0x21D15 (Table:
+                                           ZINTERACTIONS; Size: 5537792 bytes)
+
+
+
+
+                   11/13/2022        00:00:06
+             18    4:27:47 AM(UTC-
+Kaylee*            8)
+Direction:
+Outgoing
+                                                                   DM PHONE ACTIVITY
+                                                                                 11/13/22
+
+
+
+
+To:                           11/13/2022              00:00:03
+
+-1278                         4:28:44 AM(UTC-
+                              8)
+Direction:
+Outgoing
+
+
+
+
+        From:
+        To:
+                M4782 Dytan (owner)
+               Fe4818  Kaylee                                                                        ::::::
+                                                                                                     ::::::
+        To:          icloud.com Dylan (owner)
+
+        Pls answer
+
+               Participant                     Delivered           Read       Played
+                              8 Kaylee         11/13/2022
+                                               4:32:58
+                                               AM(UTC-8)
+                                                                                                     ::::::
+                             @icloud.com                                                             ::::::
+
+               Dytan
+
+
+        Status: Sent
+
+                                                           11/13/2022 4:32:57 AM(UTC-8)
+
+
+
+      Source info:
+                                         :   0x376B30 (Table: message, chat, handle; Size: 5046272
+      bvtes)
+
+           on                                                                                                 com.buron. nstagram
+s Usage                                                          8:05:43 AM(UTC-                              Source: Instagram
+Log                                                              8) [Start time]                              Source file:
+                                                                                                              iPhone/mobile/Containers/Data/Application/co
+                                                                                                              m.burbn.instagram/Documents/time_in_app_1
+                                                                                                              651601918.db : Ox98ED (Table: intervals:
+                                                                                                              Size: 40960 bytes)
+Application                                                      11/13/2022                                   com.burbn.instagram
+s Usage                                                          8:06:17 AM(UTC-                              Source: Instagram
+Log                                                              8) [End time]                                Source file:
+                                                                                                              iPhone/mobile/Containers/Data/Application/co
+                                                                                                              m,burbn,instagram/Documents/time_in_app_1
+                                                                                                              651601918.db : Ox98ED (Table: intervals;
+                                                                                                              Size: 40960 bytes)
+
+
+
+
+ ppacat on                                                          / 3/2022                                  com.burbn. nstagram
+s Usage                                                          8:10:54 AM(UTC-                              Source: Instagram
+Log                                                              8) [Start time]                              Source file:
+                                                                                                              iPhone/mobile/Containers/Data/Applcation/co
+                                                                                                              m,burbn,instagram/Documents/time_in_app_1
+                                                                                                              651601918.db : 0x98D3 (Table: intervals;
+                                                                                                              Size: 40960 bytes)
+                DM PHONE ACTIVITY
+                     11/13/22
+
+App ication   11/13/2022            com,burbn.instagram
+s Usage       8:11:16AM(UTC-        Source: Instagram
+Log           8) (End time]         Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m.burbn.instagram/Documents/time_in_app_1
+                                    651601918.db : 0x98D3 (Table: intervals;
+                                    Size: 40960 bytes
+
+
+
+
+Application   11/13/2022            com,burbn.instagram
+s Usage       8:13:33 AM(UTC-       Source: Instagram
+Log           8) [Start time]       Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m,burbn,instagram/Documents/time_in_app_1
+                                    651601918.db : Ox98B9 (Table: intervals
+                                    Size: 40960 bytes)
+Application   11/13/2022            com,burbn.instagram
+s Usage       8:14:05 AM(UTC-       Source: Instagram
+Log           8) [End time]         Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m,burbn,instagram/Documents/time_in_app_1
+                                    651601918.db : 0x98B9 (Table: intervals;
+                                    Size: 40960 bytes)
+Application   11/13/2022            com.burbn.instagram
+s Usage       8:14:13 AM(UTC-       Source: Instagram
+Log           8) [Start time]       Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m.burbn,instagran/Documents/time_in_app_1
+                                    651601918.db ; Ox989F (Table: intervals;
+                                    Size: 40960 bytes)
+              11/13/2022            com.burbn.instagram
+Application
+   Usage      8:14:20 AM(UTC=       Source: Instagram
+Log           8) [End time]         Source file:
+                                    iPhone/mobije/Containers/Data/Appiication/co
+                                    m.burbn.instagram/Documents/time_in_app_1
+                                    651601918.db : Ox989F (Table: intervals:
+                                    Size: 40960 bytes)
+
+
+Application   11/13/2022            com.burbn.instagram
+    Usage     10:00:43 AM(UTC=      Source: Instagram
+Log           8) [Start time]       Source file:
+                                    iPhone/mobife/Containers/Data/Application/co
+                                    m.burbn.instagram/Documents/time_inapp_1
+                                    651601918.db : 0x9885 (Table: intervals;
+                                    Size: 40960 bytes)
+Application   11/13/2022            com.burbn.instagram
+s Usage       10:00:44 AM(UTC=      Source: Instagram
+Log           8) [Start time]       Source file:
+                                    iPhone/mobile/Containers/Data/Appiication/co
+                                    m.burbn.instagram/Documents/time_in_app_1
+                                    651601918.db : 0x986B (Table: intervals;
+                                    Size: 40960 bytes)
+                DM PHONE ACTIVITY
+                     11/13/22
+
+Application   11/13/2022            com,burbn.instagram
+s Usage       10:00:45 AM(UTC-      Source: Instagram
+Log           8) [End time]         Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m.burbn.instagram/Documents/time In app 1
+                                    651601918.db : 0x986B (Table: int erva s
+                                    Size: 40960 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: outgoing message
+              10:00:56 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC,db : 0x21E166 (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com,toyopagroup, picaboo: outgoing message
+              10:01:09 AM(UTC=      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobife/Library/CoreDuet/People/intera
+                                    ctionC.db 0x21FE8D (Table:
+                                             :
+
+
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   41/13/2022            com.toyopagroup.picaboo: outgoing message
+              10:01:17 AM(UTC=      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x21FCE9 (Table:
+                                    ZINTERACTIONS; Size 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: outgoing message
+              10:01:24 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x21FB45 (Table:
+                                    ZINTERACTIONS; Size. 5537792 bytes)
+Log Entries   11/13/2022            com,toyopagroup, picaboo: incoming message
+               0:01:25 AM(UTC-      Sou rea: InteractionC
+              8)                    Source file:
+                                    iPhone/mobife/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x21FA5D (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: incoming message
+              10:01:25 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db 0x21F974 (Table:
+                                             :
+
+
+                                    ZINTERACTIONS; Size 5537792 bytes)
+Log Entries   41/13/2022            com.toyopagroup.picaboo: outgoing message
+              10:01:31 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC,db : 0x21F7CF (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com,toyopagroup. picaboo: outgoing message
+              10:01:35 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x21F62B (Table:
+                                    ZINTERACTIONS: Size: 5537792 bytes)
+                  DM PHONE ACTIVITY
+                       11/13/22
+
+Log Entries   11/13/2022              com.toyopagroup.picaboo: outgoing message
+               0:01 :40 AM(UTC-       Source: InteractionC
+              8                       Source file:
+                                      iPhone/mobife/Library/CoreDuet/People/intera
+                                      ctionC.db : 0x21 487 (Table:
+                                      ZINTERACTIONS; Size: 5537792 bytes)
+Application   11/13/2022              com.burbn.instagram
+s Usage       10:01:53 AM(UTC-        Source: Instagram
+Log           8) [Start timej         Source file:
+                                      iPhone/mobile/Containers/Data/Application/co
+                                      m.burbn.instagram/Documents/time_in_app_1
+                                      651601918.db : 0x9851 (Table: intervals;
+                                      Size: 40960 bytes)
+Application   11/13/2022              com.burbn.instagram
+s Usage        0:02:08 AM(UTC=        Source: nstagram
+Log           8) [End time]           Sou rce f le:
+                                      iPhone/mobile/Containers/Data/Application/co
+                                      m,.burbn.instagram/Documents/time_in_app_1
+                                      651601918.db : 0x9851 (Table: intervals;
+                                      Size: 40960 bytes)
+Application   11/13/2022              com.burbn.instagram
+s Usage       10:03:04 AM(UTC-        Source: Instagram
+Log           8) [Start time]         Source file:
+                                      iPhone/mobile/Containers/Data/Application/co
+                                      m.burbn instagram/Documents/time
+                                      651601918.db : 0x9837 (Table: interv s;
+                                      Size: 40960 bytes)
+Application   11/13/2022              com.burbn.instagram
+s Usage       10:03:05 AM(UTC-        Source: Instagram
+Log           8) [End time]           Source file:
+                                      iPhone/mobile/Containers/Data/Application/co
+                                      m.burbn.instagram/Documents/time_in_app_1
+                                      651601918.db : 0x9837 (Table: intervals;
+                                      Size: 40960 bytes)
+Cokies        11/13/2022              .indeed,com
+              10:03:30 AM(UTC-        Source: Indeed Jobs
+              8) [Accessed]           Source file:
+                                      iPhone/mobile/Containers/Data/Appiication/co
+                                      m.indeed.JobSearch/Library/Cookies/Cookies.
+                                      binarycookies : 0x1470 (Size: 6364 bytes)
+            DM PHONE ACTIVITY
+                 11/13/22
+
+Cookies   11/13/2022            www.indeed.com
+          10:03:31 AM(UTC-      Source: Indeed Jobs
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Appliication/co
+                                m.indeed.JobSearch/Library/Cookies/Cookies.
+                                binarycookies 0x129 (Size: 6364 bytes)
+                                              :
+
+
+
+Cookies   41/13/2022            -apis.indeed.com
+           0:03:32 AM(UTC-      Source: Indeed Jobs
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.indeed.JobSearch/Library/Cookies/Cookies.
+                                binarycookies 0x17E9 (Size: 6364 bytes)
+                                              :
+
+
+
+Cookies   11/13/2022            .indeed.com
+          10:03:49              Source: Indeed Jobs
+          8)                    Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m,indeed.JobSearch/Library/Cookies/Cookies,
+                                binarycookies 0x10CD (Size: 6364 bytes)
+                                              :
+
+
+
+Cookies   41/13/2022            myjobs,indeed,com
+          10:03:55 AM(UTC-      Source: Indeed Jobs
+          8)                    Source file:
+                                iPhone/mobile/Containers/Data/Apptication/co
+                                m.indeed.JobSearch/Library/Cookies/Cookies.
+                                binarycookies OxBA (Size: 6364 bytes)
+                                              :
+
+
+
+Cookies   11/13/2022            .indeed.com
+          10:03:55 AM(UTC-      Source: Indeed Jobs
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.indeed.JobSearch/Library/Cookies/Cookies,
+                                binarycookies OxA1C (Size: 6364 bytes)
+                                              :
+
+
+
+Cookies   41/13/2022            indeed com
+          10:03:55 AM(UTC-      Source: Indeed Jobs
+          8) Accessed]          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.indeed,JobSearch/Library/Cookies/Cookies,
+                                binarycookies OxE7D (Size: 6364 bytes)
+                                              :
+
+
+
+Cookies   11/13/2022            www.indeed.com
+          10:03:56 AM(UTC-      Source: Indeed Jobs
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.indeed.JobSearch/Library/Cookies/Cookies.
+                                binarycookies Ox1AF (Size: 6364 bytes)
+Cookies   11/13/2022            www.indeed.com
+          10:03:56 AM(UTC-      Source: Indeed Jobs
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.indeed.JobSearch/Library/Cookies/Cookies.
+                                binarycookies Ox6AD (Size: 6364 bytes)
+                                              :
+
+
+
+Cookies   11/13/2022            -indeed.com
+          10:03:57 AM(UTC-      Source: Indeed Jobs
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.indeed.JoobSearch/Library/Cookies/Cookies.
+                                binarycookies Ox9C1 (Size: 6364 bytes
+                                              :
+                DM PHONE ACTIVITY
+                     11/13/22
+
+Cokies        11/13/2022            -apply.indeed,com
+              10;03: 57 AM( UTC-    Source: Indeed Jobs
+              8) Accessed]          Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m.indeed.JobSearch/Library/Cookies/Cookies.
+                                    binarycookies : 0x170C (Size: 6364 bytes)
+Cookies       11/13/2022            -apply.indeed.com
+              10:03:57 AM(UTC=      Source: Indeed Jobs
+              8) [Accessed]         Source file:
+                                    iPhone/mobife/Containers/Data/Application/co
+                                    m.indeed.JobSearch/Library/Cookies/Cookies.
+                                    binarycookies : 0x1773 (Size: 6364 bytes)
+Cookies       11/13/2022            .indeed.com
+               0:04:02 AM(UTC=      Source: ndeed Jobs
+              8) [Accessed]         Sou roe f le:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                       JobSearch/Library/Cookies/Cookies,
+                                    binarycookies 0x116E (Size: 6364 bytes)
+                                                  :
+
+
+
+Log Entries   11/13/2022            com,toyopagroup.picaboo: incoming message
+              10:04:54 AM(UTC-      Source: Interactionc
+              8)                    Source file:
+                                    iPhone/mobie/Library/CoreOuet/People/intera
+                                    ctionC.db : 0x220D2A (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: incoming message
+               0:04:55 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobife/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x220C41 (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: incoming message
+              10:05:02 AM(UTC       Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x220B58 (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes
+
+
+Log Entries   11/13/2022            com,toyopagroup, picaboo: outgoing message
+              10:05:08 AM(UTC-      Sou ree: InteractionC
+              8)                    Source file:
+                                    iPhone/mobife/Library/CoreDuet/People/intera
+                                              :
+                                    ctionC.db 0x2209B3 0Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+                   DM PHONE ACTIVITY
+                        11/13/22
+
+    Entries   11/13/2022               com.toyopagroup.picaboo:: outgoing message
+              10:05:25 AM(UTC=         Source: InteractionC
+              8)                       Source file:
+                                       iPhone/mobie/Libra /CoreDuet/People/intera
+                                                 :
+                                       ctionC.db 0x22080          :
+
+                                       ZINTERACTIONS: Size: 5537792 bytes)
+Log Entries   11/13/2022               com.toyopagroup.picaboo: outgoing message
+              10:05:32 AM(UTC-         Source: InteractionC
+              8)                       Source file:
+                                       iPhone/mobile/Libra
+                                       ctionC,db : 0x22066 /CoreDuet/People/intera
+                                       ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022               com,toyopagroup,picaboo: incoming message
+               0:19:57 AM(UTC-         Source: InteractionC
+              8)                       Source file:
+                                       iPhone/mobife/Library/CoreDuet/People/intera
+                                       ctionC.db : 0x220583 (Table
+                                       ZINTERACTIONS;                   bytes)
+Log Entries   11/13/2022               com.toyopagroup.picaboo:: incoming message
+              10:19:58 AM(UTC-         Sou ree: InteractionC
+              8)                       Source le:
+                                       iPhone/mobie/Library/CoreDuet/People/intera
+                                       ctionC.db : 0x22049A   Tab   :
+
+
+                                       ZINTERACTIONS; Size:: 5537792 bytes)
+Log Entries   11/13/2022               com.toyopagroup.picaboo:: incoming message
+              10:20:03 AM(UTC=         Sou     |nteractionC
+              8)                       Source f le:
+                                       iPhone/mobile/Library/CoreDuet/People/intera
+                                       ctionC.db : 0x2203B1 ( Table:
+                                       ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022               com.toyopagroup.picaboo: outgoing message
+               0:20:08 AM(UTC-         Source: InteractionC
+              8)                       Source
+                                       iPhone/mobile/Library/CoreDuet/People/intera
+                                       ctionC.db : 0x220123 (Table:
+                                       ZINTERACTIONS; Size:: 5537792 bytes)
+Log Entries   11/13/2022               com.toyopagroup.picaboo:: incoming message
+              10:20:08 AM(UTC-         Source: InteractionC
+              8)                       Source file:
+                                       iPhone/mobile/ Library/CoreDuet/People/intera
+                                       ctionC.db : 0x2202C8 ( Ta
+                                       ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022               com.toyopagroup.picaboo:: outgoing message
+              10:20:12 AM(UTC=         Source: InteractionC
+              8)                       Source file:
+                                       iPhone/mobile/Libra /CoreDuet/People/intera
+                                                              -
+                                       ctionC.db : 0x221E8 (Table:
+                                       ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022               com,toyopagroup,picaboo: incoming message
+              10:20:15 AM(UTC-         Sou ree: Interaction
+              8)                       Sou     file:
+                                       iPhone/mobile/Library/CoreDuet/People/i ntera
+                                       ctionC.db : 0x221DA5 (Table:
+                                       ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022               com,toyopagroup,picaboo: incoming message
+              10:20:19 AM(UTC-         Source: InteractionC
+              8)                       Source file:
+                                       iPhone/mobile/Library/CoreDuet/People/intera
+                                       ctionC.db 0x221CBC 0Table:
+                                                  :
+
+
+                                       ZINTERACTIONS. Size:: 5537792 bytes)
+
+
+Log Entries   11/13/2022               com.toyopagroup.picaboo: incoming message
+              10:20:20 AM(UTC          Source: InteractionC
+              8)                       Source file:
+                                       iPhone/mobile/Library/CoreDuet/People/intera
+                                       ctionC.db : 0x221BD3 (Table:
+                                       ZINTERACTIONS: Size: 5537792 bytes)
+Log Entries   11/13/2022               com.toyopagroup.picaboo: outgoing message
+              10:20:23 AM(UTC-         Source: InteractionC
+              8)                       Source file:
+                                       iPhone/mobile/Library/CoreDuet/People/intera
+                                       ctionC,db : 0x221A2E (Table:
+                                       ZINTERACTIONS; Size: 5537792 bytes)
+                DM PHONE ACTIVITY
+                     11/13/22
+
+Log Entries   11/13/2022            com,toyopagroup,picaboo: incoming message
+              10:20:27 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobife/Library/CoreDuet/People/intera
+                                    ctionC.db 0x221946 (Table:
+                                             :
+
+
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   4113/2022             com.toyopagroup.picaboo: incoming message
+              10:20:29 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x22185D (Table.
+                                    ZINTERACTIONS: Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: incoming message
+              10:20:30 AM(UTC=      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x221774 (Table:
+                                    ZINTERACTIONS: Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: incoming message
+              10:20:34 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x22168B (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: outgoing message
+              10:20:38 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobie/Library/CoreDuet/People/intera
+                                    ctionC.db 0x2214E6 (Table:
+                                             :
+
+
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   41/13/2022            com.toyopagroup.picaboo: incoming message
+              10:20:43 AM(UTC=      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x2213FE (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: incoming message
+              10:20:45 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x221315 (Table:
+                                    ZINTERACTIONS; Size 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: incoming message
+              10:20:48 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db 0x22122C (Table
+                                             :
+
+
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   41/13/2022            com.toyopagroup.picaboo: outgoing message
+              10:20:49 AM(UTC=      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobée/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x221087 (Table:
+                                    ZINTERACTIONS: Size: 5537792 bytes)
+Log Entries   41/13/2022            com,toyopagroup.picaboo: incoming message
+              10:20:55 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x222F49 (Table:
+                                    ZINTERACTIONS: Size 5537792 bytes)
+               DM PHONE ACTIVITY
+                    11/13/22
+
+Log Entries   11/13/2022           com,toyopagroup, picaboo: incoming message
+              10:20:56 AM(UTC-     Source: InteractionC
+              8)                   Source file:
+                                   iPhone/mobile/Library/CoreDuet/People/intera
+                                   ctionC.db : 0x222E60 (Table:
+                                   ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022           com.toyopagroup.picaboo: incoming message
+              10:20:57 AM(UTC=     Source: InteractionC
+              8)                   Source file:
+                                   iPhone/mobile/Library/CoreDuet/People/intera
+                                   ctionC.db : 0x222D77 (Table:
+                                   ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022           com.toyopagroup.picaboo: incoming message
+              10:20:59 AM(UTC=     Source: InteractionC
+              8)                   Source file:
+                                   iPhone/mobile/Library/CoreDuet/People/intera
+                                   ctionC,db : 0x222C8EE (Table:
+                                   ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022           com,toyopagroup.picaboo: outgoing message
+              10:21:01 AM(UTC-     Source: InteractionC
+              8)                   Source file:
+                                   iPhone/mobile/Library/CoreDuet/People/intera
+                                   ctionC.db : 0x222AE9 (Table:
+                                   ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022           com.toyopagroup.picaboo: outgoing message
+              10:21:06 AM(UTC-     Source: Interactionc
+              8)                   Source file:
+                                   iPhone/mobile/Library/CoreDuet/People/intera
+                                   ctionC.db 0x222945 (Table:
+                                             :
+
+
+                                   ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022           com.toyopagroup.picaboo: outgoing message
+              10:21:18 AM(UTC      Source: InteractionC
+              8)                   Source file:
+                                   iPhone/mobile/Library/CoreDuet/People/intera
+                                   ctionC.db : 0x2227A1 (Table:
+                                   ZINTERACTIONS: Size: 5537792 bytes)
+                                                             DM PHONE ACTIVITY
+                                                                         11/13/22
+
+Log Entries                                             11/13/2022                                        com.toyopagroup. picaboo: outgoing message
+                                                        1021 :37 AM(UTC-                                  Source: Interactionc
+                                                        8)                                                Source file:
+                                                                                                          iPhone/mobile/LibraB /CoreDuet/People/intera
+                                                                                                          ctionC.db 0x2225F
+                                                                                                                    :
+
+
+                                                                                                          ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries                                             11/13/2022                                        com.toyopagroup.picaboo: outgoing message
+                                                        10:21:59 AM(UTC-                                  Source: InteractionC
+                                                        8)                                                Source file:
+                                                                                                          iPhone/mobile/L ibrary/CoreDuet/Peoplesiintera
+                                                                                                          ctionC.db : 0x222459 (Table:
+                                                                                                          ZINTERACTIONS; Size: §§37792 bytes)
+Log Entries                                             11/13/2022                                        com.toyopagroup.picaboo: outgoing message
+                                                        10:22:22 AM(UTC-                                  Source: InteractionC
+                                                        8)                                                Source file:
+                                                                                                          iPhone/mobile/Library/CoreDuet/People/intera
+                                                                                                          ctionC,db : 0x2222B5 (Table:
+                                                                                                          ZINTERACTIONS: Size: 5537792 bytes)
+Log Entries                                             11/13/2022                                        com,toyopagroup,picaboo: outgoing message
+                                                        10:22:24 AM(UTC-                                  Source: InteractionC
+                                                        8)                                                Source file:
+                                                                                                          iPhone/mobile/Library/CoreDuet/People/intera
+                                                                                                          ctionC.db : 0x222111 (Table:
+                                                                                                          ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries                                             11/13/2022                                        com.toyopagroup.picaboo: outgoing message
+                                                            0:22:34 AM(UTC-                               Source: InteractionC
+                                                        1                                                 Source file:
+                                                                                                          iPhone/mobile/lLibrary/CoreDuet/Peoplesiintera
+                                                                                                          ctionC.db : 0x223E8D (Table:
+                                                                                                          ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries                                             11/13/2022                                        com.toyopagroup.picaboo: outgoing mesage
+                                                        10:22:51 AM(UTC=                                  Source: Interactionc
+                                                        8)                                                Source f le:
+                                                                                                          iPhone/mobile/Library/CoreDuet/People/intera
+                                                                                                          ctionC.db : 0x223CE9 (Table:
+                                                                                                          ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries                                             11/13/2022                                        com.toyopagroup. picaboo: outgoing message
+                                                        10:23:02 AM(UTC-                                  Source: InteractionC
+                                                        8)
+                                                                                                          iPhone/mebtelLibrary/CoreDuet/Peoplevintera
+                                                                                                          ctionC.db : 0x223B45 (Table:
+                                                                                                          ZINTERACTIONS: Size: 5537792 bytes)
+
+
+
+
+                                                                                                :::::::
+       From:                     Dylan (owner)                                                  :::::::
+       To:                  4 Maddie
+                                                                                                :::::::
+       To                 @icloud com Dyian (owner)
+       Ruup
+
+            Participant                   Delivered           Read       Played
+
+            a             22 Maddie       11/13/202
+                                          10:23:24                                              :::::::
+
+
+                                          AM(UTC-8)
+                                                                                                :::::::
+                                                                                                :::::::
+               an
+
+
+       Status: Sent
+
+                                                     11/13/2022 10:23:23 AM(UTC-8)
+
+
+     Source Info:
+     iPhone/mobile/Library/SMS/sms.db : 0x376331 (Table: message, chat, handle; Size: 5046272
+     bytes)
+                DM PHONE ACTIVITY
+                     11/13/22
+
+App cat on    41/13/2022            com.buron.instagram
+s Usage       10:24:01 AM(UTC-      Source: Instagram
+Log           8) [Start time]       Source file:
+                                    iPhone/mobife/Containers/Data/Application/co
+                                    m.burbn.instagram/Documents/time_in_app_1
+                                    651601918,db : 0x981D (Table: intervals;
+                                    Size: 40960 bytes)
+Application   11/13/2022            com,buron,instagram
+s Usage       10:25:04 AM(UTC-      Source: Instagram
+Log           8) [End time]         Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m.burbn.instagram/Documents/time_in_app_1
+                                    651601918.db : 0x981D (Table: intervals;
+                                    Size: 40960 bytes)
+
+
+                                    com,toyopagroup, picaboo: ncom ng message
+              10:30:18 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db 0x223A5D (Table:
+                                              :
+
+
+                                    ZINTERACTIONS: Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: incoming message
+               0:30:23 AM(UTC       Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x223974 (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com,toyopagroup.picaboo: incoming message
+              10:30:28 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC,db : 0x22388B (Table:
+                                    ZINTERACTIONS:; Size: 5537792 bytes
+
+
+Log Entries   11/13/2022            com,toyopagroup.picaboo: incoming message
+              10:30:34 AM(UTC-      Source : InteractionC
+              8)                    Soure file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db 0x2237A2 wv(Table:
+                                                  :
+
+
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: outgoing message
+              10:30:40 AM(UTC-      Sou ree: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x2235FD fa0Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: outgoing message
+              10:30:46 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x223459 (T(Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup,picaboo: outgoing message
+              10:31:03 AM(UTC-      Souree: Interaction
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x2232B5 ra(Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: outgoing message
+              10:31:08 AM(UTC-      Sou ree: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x223111 0Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+lan Entriac   441421NnNN                   alan Ant              URE    na
+               DM PHONE ACTIVITY
+                    11/13/22
+
+Log Entries   11/13/2022           com.toyopagroup.picaboo: incoming message
+              10:45:29 AM(UTC=     Source: InteractionC
+              8)                   Source file:
+                                   iPhone/mobile/Library/CoreDuet/People/intera
+                                   ctionC,db : 0x224F49 (Table:
+                                   ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022           com.toyopagroup. picaboo: incoming message
+              10:45:30 AM(UTC-     Source: InteractionC
+              8)                   Source file:
+                                   iPhone/mobile/Library/CoreDuet/People/intera
+                                   ctionC,db : 0x224E60 (Table:
+                                   ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022           com,toyopagroup,picaboo: outgoing message
+              10:45:43 AM(UTC-     Source: InteractionC
+              8)                   Source file:
+                                   iPhone/mobile/Library/CoreDuet/People/intera
+                                   ctionC.db : 0x224CBBB (Table:
+                                   ZINTERACTIONS: Size: 5537792 bytes)
+              11/13/2022           com.burbn.instagram
+Application
+   Usage      10:56:49 AM(UTC=     Source: Instagram
+Log           8) [Start time]      Source file:
+                                   iPhone/mobile/Containers/Data/Application/co
+                                   m.burbn.instagram/Documents/time_in_app_1
+                                   651601918.db 0x9802 (Table: intervals;
+                                                 :
+
+
+                                   Size: 40960 bytes)
+                DM PHONE ACTIVITY
+                     11/13/22
+
+Log Entries   11/13/2022            com,.toyopagroup.picaboo: incoming message
+               1:02:02 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db 0x224BD3 (Table:
+                                             :
+
+
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: incoming message
+               1:02:03 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobife/Library/CoreDuet/People/intera
+                                    ctionC.db : Ox224AEA (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Ap lication   11/13/2022            com.burbn.instagram
+5 Usa ge      11:04:51 AM(UTC       Source: Instagram
+Log           8) [End time]         Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m.burbn,instagram/Documents/time_in_app_1
+                                    651601918.db 0x9802 (Table: intervals;
+                                                  :
+
+
+                                    Size: 40960 bytes)
+Log Entries   41/13/2022            com.toyopagroup.picaboo: outgoing message
+              11:04:58 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobée/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x224945 (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Application   11/13/2022
+s Usage       1107:26 AM(UTC-       Source: Instagram
+Log           8) [Start time]       Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m,.ourbn,instagram/Documents/time in app_1
+                                    651601918.db 0x97E8 (Table: ntervals
+                                    Size: 40960 bytes)
+Ap cation     11/13/2022            com.burbn.instagram
+               1:07:28 AM(UTC-      Source: Instagram
+Log           8) [End time]         Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m,ourbn,instagram/Documents/time_in_app_1
+                                    651601918,db 0x97E8 (Table: ntervals:
+                                    Size: 40960 bytes)
+Application   11/13/2022            com.burbn.instagram
+s Usage       11:09:40 AM(UTC=      Source: Instagram
+Log           8) [Start time)       Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m.burbn.instagram/Documents/time_in_app_1
+                                    651601918.db 0x97CE (Table: ntervals;
+                                                  :
+
+
+                                    Size: 40960 bytes)
+Application   11/13/2022            com.burbn.instagram
+s Usage        1:10:14 AM(UTC=      Source: Instagram
+Log           8) [End time]         Source file:
+                                    iPhone/mobie/Containers/Data/Application/co
+                                    m.burbn.instagram/Documents/time n_app_1
+                                    651601918.db : Ox97CE (Table: ntervals:
+                                    Size: 40960 bytes)
+                DM PHONE ACTIVITY
+                     11/13/22
+
+Application   11/13/202             com.burbn.instagram
+s Usage       11:11:13 AM(UTC-      Source: Instagram
+Log           8) [Start time]       Source file:
+                                    iPhone/mobie/Containers/Data/Apptication/co
+                                                                                PP.1
+                                                   :0x97B4 (Table: inte (va s
+                                    Size: 40960 bytes)
+Application   11/13/202             com.burbn.instagram
+s Usage       11:11:22 AM(UTC-      Source: Instagram
+Log           8) (End time]         Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m.burbn.instagran'Documents/time_in_app_1
+                                    651601918,db : 0x97B4 (Table: intervals;
+                                    Size: 40960 bytes)
+Application   11/13/2022            com,burbn.instagram
+s Usage        1:14:58 AM(UTC-      Source: Instagram
+Log           8) (Start time]       Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m.burbn.instagram/Documents/time in app 1
+                                    651601918,db : 0x979A (Table: intervals
+                                    Size: 40960 bytes)
+Application   11/13/2022            com.burbn.instagram
+s Usage        1:15:00 AM(UTC-      Source: Instagram
+Log           8) (End time]         Source file:
+                                    iPhone/mobile/Containers/Data/Appiication/co
+                                    m.burbn.instagram/Documents/time_in app 1
+                                    651601918.db : 0x979A (Table: int erva
+                                    Size: 40960 bytes)
+Log Entries   11/13/2022            com.toyopagroup. picaboo: incoming message
+               1:15:03 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhoneimobile/       /CoreDuevPeople/intera
+                                    ctionC,db : Ox2brary (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com,toyopagroup, picaboo: incoming message
+              11:15:04 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                              :
+                                    ctionC.db 0x224774 (Table:
+                                    ZINTERACTIONS: Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: outgoing message
+              11:15:15 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db 0x2245CF (Table:
+                                              :
+
+
+                                    ZINTERACTIONS; Size:: 5537792 bytes)
+                                                            DM PHONE ACTIVITY
+                                                                        11/13/22
+
+Log Entries                                            11/13/2022                            com,toyopagroup,picaboo: outgoing message
+                                                       11:15:20 AM(UTC-                      Source: InteractionC
+                                                       8)                                    Source file:
+                                                                                             iPhone/mobie/Libra                   intera
+                                                                                                      :
+                                                                                             ctionC.db 0x22442 (Tab
+                                                                                             ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries                                            11/13/2022                            com.toyopagroup.picaboo: incoming message
+                                                       11:15:36 AM(UTC-                      Source: InteractionC
+                                                       8)                                    Source file:
+                                                                                             iPhone/mobie/Library/CoreDuet/People/intera
+                                                                                             ctionC.db : 0x224343 (Table:
+                                                                                             ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries                                            11/13/2022                            com.toyopagroup. picaboo: incoming message
+                                                       41:15:37 AM(UTC=                      Source: InteractionC
+                                                       8)                                    Source file:
+                                                                                             iPhone/mobile/Library.'CoreDuet/People/intera
+                                                                                             ctionC.db : 0x22425A (Table:
+                                                                                             ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries                                            11/13/2022                            com,toyopagroup, picaboo: outgoing message
+                                                       11:15:39 AM(UTC-                      Source: InteractionC
+                                                       8)                                    Source file:
+                                                                                             iPhone/mobile/Library/CoreDuet/People/intera
+                                                                                             ctionC.db : 0x2240B5 (Table:
+                                                                                             ZINTERACTIONS: Siz: 5537792 bytes)
+Log Entries                                            11/13/2022                                                       incoming message
+                                                       11:17:43 AM(UTC-                      com.toyopagroup.picaboo:
+                                                       8)                                    Source file:
+                                                                                             iPhone/mobile/Library./CoreDuet/People/intera
+                                                                                             ctionC.db ; 0x225F49 (Table:
+                                                                                             ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries                                            11/13/2022                            com.toyopagroup.picaboo: incoming message
+                                                       11:17:43 AM(UTC-                      Source: InteractionC
+                                                       8)                                    Source file:
+                                                                                             iPhone/mobile/Library/CoreDuet/People/iintera
+                                                                                                      :
+                                                                                             ctionC.db 0x225E60 (Table:
+                                                                                             ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries                                            11/13/2022                            com,toyopagroup, picaboo: outgoing mesage
+                                                         :29: 08 AM(UTC-                     Source: InteractionC
+                                                       1i                                    Source file:
+                                                                                             iPhone/mobile/Library/CoreDuet/People/intera
+                                                                                             ctionC.db : 0x225CBB (Table:
+                                                                                             ZINTERACTIONS: Size: 5537792 bytes)
+                                                                                                               ;
+
+
+
+
+    From                 4782 Dylan (owner)
+    To                 4818 Kaylee
+    To                  W@icloud.com Dylan (owner)
+
+    Ruup??
+
+         Participant                   Delivered            Read      Played
+                   4818 Kaylee         11/13/2022
+                                       11:29:28
+                                       AM(UTC-8)
+                       '@icloud.com
+         Dyian
+
+
+    Status: Sent
+
+                                                 11/13/2022 11:29:27 AM(UTC-8)
+
+
+  Source info:
+  iPhone/mobile/Library/SMS/sms.db : 0x377585, (Table: message, chat, handle; Size 5046272
+  bytes)
+                DM PHONE ACTIVITY
+                     11/13/22
+
+Application   11/13/2022            com.burbn.instagram
+s Usage       11:29:41 AM(UTC=      Source: Instagram
+Log           8) [Start time]       Source file:
+                                    iPhone/mobile/Containers/Data/Appiication/co
+                                    m.buron.instagram/Documents/time_in_app_1
+                                    651601918.db : 0x977F (Table: intervals:
+                                    Size: 40960 bytes)
+Log Entries   11/13/2022            com,toyopagroup,picaboo: incoming message
+              11:29:56 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 0x225BD3 (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: incoming message
+               1:29:58 AM(UTC=      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC.db : 00x225AEA (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+Application   11/13/2022            com, burbn.instagram
+s Usage       11:30:07 AM(UTC-      Sourca: Instagram
+Log           8) (End time]         Source file:
+                                    iPhone/mobile/Containers/Data/Application/co
+                                    m.burbn,instagram/Documents/time_in_app_1
+                                    651601918.db : 0x977F (Table: intervals:
+                                    Size: 40960 bytes)
+Log Entries   11/13/2022            com.toyopagroup.picaboo: outgoing message
+               1:30:37 AM(UTC-      Source: InteractionC
+              8)                    Source file:
+                                    iPhone/mobile/Library/CoreDuet/People/intera
+                                    ctionC,db : 0x225945 (Table:
+                                    ZINTERACTIONS; Size: 5537792 bytes)
+                 DM PHONE ACTIVITY
+                      11/13/22
+
+Log Entries   11/13/2022             com,toyopagroup.picaboo: outgoing message
+              11:30:41 AM(UTC-       Source: InteractionC
+              8)                     Source file:
+                                     iPhone/mobife/Library/CoreDuet/People/intera
+                                     ctionC.db 0x2257A1 (Table:
+                                                 :
+
+
+                                     ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022             com.toyopagroup.picaboo: outgoing message
+               1:30:45 AM(UTC-       Source: InteractionC
+              8)                     Source file:
+                                     iPhone/mobile/Library/CoreDuet/People/intera
+                                     ctionC.db : 0x2255FD (Table:
+                                     ZINTERACTIONS: Size: 5537792 bytes)
+Log Entries   11/13/2022             com.toyopagroup.picaboo: incoming message
+              11:32:20 AM(UTC-       Source: InteractionC
+              8)                     Sou rce file:
+                                     iPhone/mobile/Library/CoreDuet/People/intera
+                                     ctionC.db : 0x225515 (Table:
+                                     ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022             com.toyopagroup.picaboo: incoming message
+              11:32:20 AM(UTC-       Source: InteractionC
+              8)                     Source file:
+                                     iPhone/mobile/Library/CoreDuet/People/intera
+                                     ctionC.db : 0x22542C (Table:
+                                     ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022             com.toyopagroup.picaboo: outgoing message
+              11:32:30 AM(UTC-       Source: InteractionC
+              8)                     Source file:
+                                     iPhone/mobile/Library/CoreDuet/People/intera
+                                     ctionC.db 0x225287 (Table:
+                                                 :
+
+
+                                     ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries   11/13/2022             com.toyopagroup.picaboo: outgoing message
+              11:32:33 AM(UTC        Source: InteractionC
+              8)                     Source file:
+                                     iPhone/mobile/Library/CoreDuet/People/intera
+                                     ctionC.db : 0x2250E3 (Table:
+                                     ZINTERACTIONS: Size: 5537792 bytes)
+Log Entries   11/13/2022             com.toyopagroup.picaboo: outgoing message
+              11:32:45 AM(UTC-       Source: InteractionC
+              8)                     Source file:
+                                     iPhone/mobile/Library/CoreDuet/People/intera
+                                     ctionC.db : Ox226E8D (Table:
+                                     ZINTERACTIONS; Size: 5537792 bytes)
+Cookies       11/13/2022             api.yikyak.com
+              11:35:26 AM( UTC       Source: Yik Yak
+              8) Accessed]           Source file:
+                                     iPhone/mobife/Containers/Data/Application/co
+                                     m.yikyak.2/Library/Cookies/Cookies.binarycoo
+                                     kies 0x11D (Size: 417 bytes)
+                                         :
+
+
+
+Cookies       41/13/2022              musical.ly
+               1:36:07 AM(UTC-       Source: TikTok
+              8) [Accessed]          Source file:
+                                     iPhone/mobile/Containers/Data/Application/co
+                                     m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                     s.binarycookies 0x258 (Size: 64296 bytes)
+                                                     :
+
+
+              4 4 14 GIAAHH                  :
+            DM PHONE ACTIVITY
+                 11/13/22
+
+Cookies   41/13/2022            «musical.ly
+          11:36:07
+                  coy
+          8) [Accessed
+                                Source: TikTok
+                                Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m,zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies Ox2BD (Size: 64296 bytes)
+                                                   :
+
+
+
+Cokies    11/13/2022            liteshopads,com
+          11:36:07 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies 0x1481 (Size: 64296 bytes)
+                                                   :
+
+
+
+Cookies   11/13/2022            liteshopads.com
+          11:36:07 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobife/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies 0x14EB (Size: 64296 bytes)
+                                                   :
+
+
+
+Cokies    11/13/2022            .tiktok-apis.com
+          11:36:07 AM(UTC=      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m,zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0x4033 (Size: 64296 bytes)
+                                                   :
+
+
+
+Cokies    1113/2022             .tiktokeapis.com
+          11:36:07 AM(UTC-      Source: TikTok
+          8) Acces: sed         Source file:
+                                iPhone/mobile/Containers/Data/Appiication/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0x409D (Size: 64296 bytes)
+                                                   :
+
+
+
+Cokies    11/13/2022            .ttapis.com
+          11:36:07 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobie/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies 0x5C18 (Size: 64296 bytes)
+                                                   :
+
+
+
+Cookies   11/13/2022            .ttapis.com
+          11:36:07 AM(          Source: TikTok
+          8) Accessed]          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0x5C7D (Size: 64296 bytes)
+                                                   :
+            DM PHONE ACTIVITY
+                 11/13/22
+
+Cookies   11/13/2022            .afyfitoi.com
+          11:36:07 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Appiication/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies Ox6AD1 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            -afyfitoi.com
+           1:36:07 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies 0x6B38 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   1113/2022             -byteoversea.com
+          11:36:07 AM(UTC-      Source: TikTok
+          8) [Accessed          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies Ox7F5F (Size: 64296 bytes)
+                                                 :
+
+
+
+Cokies    11/13/2022            .byteoversea,com
+           1:36:07 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies Ox7FC9 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            .tiktok.com
+          11:36:07 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies 0x935C (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   41/13/2022            .tiktok.com
+          11:36:07 AM(UTC=      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0x93C1 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   41/13/2022            »XzcS3zlph.com
+          11:36:07 AM   TC-     Source: TikTok
+          8) Accessed           Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0xA57F (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            -XzcS3zlph.com
+          11:36:07 AM( UTC      Source: TikTok
+          8) Accessed]          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies OxA5E7 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            -mzfvoz qyb f"com
+           1:36:07 AM(UTC-      Source: TikT ok
+          8) [Accessed]         Source file:
+                                iPhone/mobée/Containers/Data/Appfication/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0xB7E7 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   41/13/2022            Mzfvoz qybf"com
+          11:36:07 AM(UTC-      Source: TikT ok
+          8)                    Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0xB850 (Size: 64296 bytes)
+            DM PHONE ACTIVITY
+                 11/13/22
+
+Cokies    11/13/2022            .tiktokv.com
+           1:36:07 AM(UTc-      Source: TikTok
+          8) Accessed]          Source file:
+                                iPhone/mobile/Containers/Data/Appfication/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies OxCF2E (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            .tiktokv.com
+            +            UTC=   Source: TikTok
+          8) Accessed]          Sou rce file:
+                                iPhone/mobie/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies OxCF94 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cokies    11/13/2022            .tik-tokapi.com
+          11:36:07 AM(UTC       Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m,zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies OxE889 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cokies    11/13/2022            .tik-tokapi.com
+           1:36:07 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies OxE8F2 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cokies    41/13/2022            -musical.ly
+          11:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies 0x1A4 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            -musical ly
+          11:36:08 AM( UTC.             : TilkTok
+
+          8) Accessed]          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies Ox1FC Size: 64296 bytes
+                                                 :
+            DM PHONE ACTIVITY
+                 11/13/22
+
+Cookies   11/13/2022            musical. ly
+          11:36:08 AM(UTC-
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies OxBFA (Size: 64296 bytes)
+                                                   :
+
+
+
+Cookies   11/13/2022             musical.ly
+           1:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies OxF8B (Size: 64296 bytes)
+                                                   :
+
+
+
+Cookies   41/13/2022            liteshopads.com
+          11:36:08AM UTC.       Source: TikTok
+          8) Accesse            Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0x13C3 (Size: 64296 bytes)
+                                                   :
+
+
+
+Cokies    11/13/2022            .liteshopads,com
+           1:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0x1420 (Size: 64296 bytes)
+                                                   :
+
+
+
+Cookies   11/13/2022            liteshopads.com
+          11:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobie/Containers/Data/Application/co
+                                m.zhiliaoapp.musicall26a               Cookie
+                                   binarycookies 0x1
+                                                   :            64296 bytes)
+Cookies   11/13/2022            liteshopads.com
+          11:36:08 AM(UTC       Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0x2213 (Size: 64296 bytes)
+                                                   :
+
+
+
+Cookies   11/13/2022            .tiktokeapis.com
+          11:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0x3F75 (Size: 64296 bytes)
+                                                   :
+
+
+
+Cookies   11/13/2022            .tiktokeapis.com
+          11:36:08 AM(UTC       Source: TikTok
+          8) Accessed]          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies 0x3FD2 (Size: 64296 bytes)
+                                                   :
+
+
+
+Cookies   11/13/2022            .tiktok-apis.com
+          11:36:08 AM( UTC=     Source: TikTok
+          8) Accessed]          Source file:
+                                iPhone/mobie/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0x4A16 (Size: 64296 bytes)
+                                                   :
+
+
+
+Cookies   11/13/2022            .tiktok-apis.com
+          11:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies Ox4DC5 (Size 64296 bytes)
+            DM PHONE ACTIVITY
+                 11/13/22
+
+Cookies   11/13/2022            .Qfyfitoicom
+          11:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0x748D (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            -afyfitoi.com
+          11:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies 0x782A (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   41/13/2022            .byteoversea.com
+          11:36:08 AM(UTCe      Source: TikTok
+          8)                    Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies Ox7EA1 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            .byteoversea,com
+           1:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies Ox7EFE (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            -byteoversea.com
+          11:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies 0x8942 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            -byteoversea.com
+          11:36:08 AM(U TC.     Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m,zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies Ox8CF1 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            .tiktok.com
+          11:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0x92A8 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            -tiktok.com
+          11:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobie/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies 0x9300 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            -tiktok.com
+          11:36:08 AM(UTC-      Source: TikTok
+          8) Accessed]          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies Ox9CFE (Size: 64296 bytes)
+                                                 :
+            DM PHONE ACTIVITY
+                 11/13/22
+
+Cookies   11/13/2022            .tiktok.com
+          11:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed          Source file:
+
+                                m,zhiliaoapp.musically/Library/Cookies/Cookie
+                                 binarycookies OxA08F (Size: 64296 bytes)
+                                                 :
+
+
+
+Cokies    11/13/2022            Xzcs3zlph,com
+          11:36:08 AM(UTC-      Source: TikTok
+          8) (Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies OxA4C5 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   11/13/2022            -XZ¢S3zlph.com
+          11:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies 0xA520 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cokies    11/13/2022            XzZc$3zIph.com
+          11:36:08 AM(UTC=      Source: TikTok
+          8) (Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m,zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies OxAF48 (Size: 64296 bytes)
+                                                 :
+
+
+
+Cokies    11/13/2022            .X2¢s3zIph.com
+           1:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Appiication/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies OxB2EB (Size: 64296 bytes)
+                                                 :
+
+
+
+Cokies    11/13/2022            -mzfvozqybf.com
+           1:36:08 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies 0xB72B (Size: 64296 bytes)
+                                                 :
+
+
+
+Cookies   44/13/2022            -Mzfvozqybf.com
+          11:36:08 AM( UTC.     Source: TikTok
+          8) Accessed]          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies 0xB787 (Size: 64296 bytes)
+                                                 :
+               DM PHONE ACTIVITY
+                    11/13/22
+
+Cookies   11/13/2022                mzfvozqybf.com
+          11:36:08 AM(UTC-         Source: TikTok
+          8) [Accessed]            Source file:
+                                   iPhone/mobile/Containers/Data/Application/co
+                                   m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                   s.binarycookies 0xC1BD (Size: 64296 bytes)
+                                                     :
+
+
+
+Cookies   11/13/2022               -Mzfvozqybf.com
+          11:36:08 AM(UTC-         Source: TikTok
+          8) [Accessed]            Source file:
+                                   iPhone/mobie/Containers/Data/Application/co
+                                   m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                   s,binarycookies OxC566 (Size: 64296 bytes)
+                                                     :
+
+
+
+Cookies   41413/2022               .tiktokv.com
+          11:36:08 AM(UTC«         Source: TikTok
+          8)                       Source file:
+                                   iPhone/mobile/Containers/Data/Application/co
+                                   m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                   s.binarycookies OxCB42 (Size: 64296 bytes)
+                                                     :
+
+
+
+Cookies   11/13/2022               ,tiktokv.com
+          11:36:08 AM(UTC-         Source: TikTok
+          8)                       Source file:
+                                   iPhone/mobile/Containers/Data/Appiication/co
+                                   m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                   s.binarycookies OxCB9B (Size: 64296 bytes)
+                                                     :
+
+
+
+Cookies   11/13/2022               .tiktokv.com
+          11:36:08 AM(UTC-         Source: TikTok
+          8) [Accessed]            Source file:
+                                   iPhone/mobile/Containers/Data/Application/co
+                                   m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                   s,binarycookies OxCBF8 (Size: 64296 bytes)
+                                                     :
+
+
+
+Cookies   11/13/2022               .tiktokv.com
+          11:36:08 AM(UTC=         Source: TikTok
+          8) [Accessed]            Source file:
+                                   iPhone/mobile/Containers/Data/Application/co
+                                   m,zhiliaoapp.musically/Library/Cookies/Cookie
+                                   s.binarycookies OxCC5A (Size: 64296 bytes)
+                                                     :
+
+
+
+Cookies   41/13/2022               atikstokapi.com
+          11:36:08 on    Tc-       Source: TikTok
+          8) [Accessed             Source file:
+                                   iPhone/mobile/Containers/Data/Application/co
+                                   m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                   s.binarycookies OxE7CD (Size: 64296 bytes)
+                                                     :
+
+
+
+Cookies   11/13/2022               -tiketokapi.com
+          11:36:08 AM(UTC-         Source: TikTok
+          8) [Accessed]            Source file:
+                                   iPhone/mobife/Containers/Data/Application/co
+                                   m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                   s,binarycookies OxE829 (Size: 64296 bytes)
+                                                     :
+
+
+
+Cookies   11/13/2022               .tik-tokapi.com
+          11:36:08 AM(UTC-         Source: TikTok
+          8) [Accessed]            Source file:
+                                   iPhone/mobile/Containers/Data/Apphication/co
+                                   m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                   s.binarycookies OxF25F (Size: 64296 bytes)
+                                                     :
+
+
+
+Cookies   11/13/2022               tik-tokapi.com
+          11:36:08AM UTC-          Source: TikTok
+          8)                       Source file:
+                                   iPhone/mobile/Containers/Data/Application/co
+                                   m,zhiliaoapp,musically/Library/Cookies/Cookie
+                                   s.binarycookies OxF608 (Size: 64296 bytes)
+                                                     :
+            DM PHONE ACTIVITY
+                 11/13/22
+
+Cokies    11/13/2022            smusical.ly
+          11:36:16 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies : OxB3F (Size: 64296 bytes)
+Cookies   11/13/2022            .liteshopads.com
+          11:36:16AM(UTC=       Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies : 0x1DA4 (Size: 64296 bytes)
+Cookies   11/13/2022            -tiktok-apis.com
+          11:36:16 AM(UTC=      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m,zhiliaoapp,musically/Library/Cookies/Cookie
+                                s.binarycookies : 0x4956 (Size: 64296 bytes)
+Cokies    11/13/2022            ,ttapis.com
+          11:36:16 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhilizoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies : Ox5E04 (Size: 64296 bytes)
+Cokies    11/13/2022            -afyfitoi.com
+          11:36:16 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Appiication/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,.binarycookies : 0x73D0 (Size: 64296 bytes)
+Cookies   11/13/2022            -byteoversea.com
+          11:36:16 AM(UTC=      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycook es 0x8882 Size: 64296 bytes
+                                                 :
+            DM PHONE ACTIVITY
+                 11/13/22
+
+Cokies    11/13/2022            stiktok.com
+          11:36:16 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Appliication/co
+                                m.zhiliaoapp           Library/Cookies/Cookie
+                                             musically
+                                s.binarycookies : 0x9C43 (Size: 64296 bytes)
+
+
+Cookies   11/13/2022            -XZCS3zIph.com
+          11:36:16 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies : OxAE8A (Size: 64296 bytes)
+Cookies   11/13/2022             mzfvozqybf com
+          11:36:16 AM(UTC-      Source: TikT ok
+          8) [Accessed          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp,musically/Library/Cookies/Cookie
+                                s.binarycookies : OxCOFE (Size: 64296 bytes)
+Cokies    11/13/2022            stiktokv,com
+          11:36:16 AM(UTC-      Source: TikTok
+          8) [Accessed          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies : OxC996 (Size: 64296 bytes)
+Cokies    11/13/2022            -tik-tokapi.com
+          11:36:16 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Appiication/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies : OxF1A0 (Size: 64296 bytes)
+Cookies   11/13/2022            -musical
+          11:36:25 AM(UTC               ly
+                                Source: ikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies : OxC56 (Size: 64296 bytes)
+Cookies   11/13/2022            .liteshopads,com
+          11:36:25 AM(UTC-      Source: TikTok
+          8) [Accessed          Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhilizoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies Ox1ECS (Size: 64296 bytes)
+Cookies   11/13/2022            .tiktok-apis.com
+          11:36:25 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobije/Containers/Data/Appiication/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies : 0x4A77 (Size: 64296 bytes)
+            DM PHONE ACTIVITY
+                 11/13/22
+
+Cookies   11/13/2022            .ttapis.com
+          11:36:25 AM(UTC       Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobie/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies : OxSEBF (Size: 64296 bytes)
+Cokies    11/13/2022            .gfyfitoicom
+          11:36:25 AM(UTC-      Source: TikTok
+          8) [Accessed          Source file:
+                                iPhone/mobile/Containers/Data/Appliication/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies : 0x74EB (Size: 64296 bytes)
+Cokies    11/13/2022            .byteoversea.com
+          11:36:25 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies : 0x89A3 (Size: 64296 bytes)
+Cokies    11/13/2022            .tiktok.com
+          11:36:25 AM(UTC=      Source: TikTok
+          8) [Accessed]         Sou re le:
+                                iPhone/mobile/Containers/Data/Appiication/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies : Ox9D5A (Size: 64296 bytes)
+Cookies   11/13/2022            xzcs3ziph.com
+          11:36:25 AM(UTC=      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m,zhiliaoapp,musically/Library/Cookies/Cookie
+                                s.binarycookies : OxAFA7 (Size: 64296 bytes)
+Cokies    11/13/2022                  zqybf.com
+          11:36:25 AM(UTC-      Source: TikTok
+          8) [Accessed ]        Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies : 0xC21D (Size: 64296 bytes)
+Cokies    11/13/2022            -tiktokv.com
+           1:36:25 AM(UTC-      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Appiication/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s,binarycookies : OxCA52 (Size: 64296 bytes)
+Cokies    11/13/2022            .tik-tokapi.com
+          11:36:25 AM(UTC=      Source: TikTok
+          8) [Accessed]         Source file:
+                                iPhone/mobile/Containers/Data/Application/co
+                                m.zhiliaoapp.musically/Library/Cookies/Cookie
+                                s.binarycookies : OxF2BF (Size: 64296 bytes)
+                          DM PHONE ACTIVITY
+                               11/13/22
+
+Log Entries              11/13/2022                         com,toyopagroup,picaboo: incoming message
+                          1:37:36 AM(UTC-                   Source: InteractionC
+                         8)                                 Source file:
+                                                            iPhone/mobile/L ibrary/CoreDuet/People/intera
+                                                            ctionC.db Ox226DA5 (Table:
+                                                                      :
+
+
+                                                            ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries              11/13/2022                         com.toyopagroup.picaboo: incoming message
+                         11:37:37 AM(UTC-                   Source: InteractionC
+                         8)                                 Source file:
+                                                            iPhone/mobife/Library/CoreDuet/People/intera
+                                                            ctionC.db : 0x226CBC (Table:
+                                                            ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries              11/13/2022                         com.toyopagroup.picaboo: outgoing message
+                          1:37:56 AM(UTC=                   Source: InteractionC
+                         8)                                 Source file:
+                                                            iPhone/mobile/Library/CoreDuet/People/intera
+                                                            ctionC,db : 0x226B17 (Table:
+                                                            ZINTERACTIONS: Size: 5537792 bytes)
+Log Entries              11/13/2022                         com,toyopagroup, picaboo: incoming message
+                         11:38:04 AM(UTC-                   Source: InteractionC
+                         8)                                 Source file:
+                                                            iPhone/mobile/Library/CoreDuet/People/intera
+                                                            ctionC.db : 0x226A2F (Table:
+                                                            ZINTERACTIONS:; Size: 5537792 bytes)
+Log Entries              11/13/2022                         com.toyopagroup.picaboo: incoming message
+                         11:38:08 AM(UTC-                   Source: InteractionC
+                         8)                                 Source file:
+                                                            iPhone/mobile/Library/CoreDuet/People/intera
+                                                            ctionC.db : 0x226946 (Table:
+                                                            ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries              11/13/2022                         com.toyopagroup.picaboo: incoming message
+                         11:38:18 AM(UTC=                   Source: InteractionC
+                         8)                                 Source file:
+                                                            iPhone/mobile/Library/CoreDuet/People/intera
+                                                            ctionC,db : 0x22685DD (Table:
+                                                            ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries              11/13/2022                         com,toyopagroup,picabco: outgoing message
+                         11:38:41 AM(UTC-                   Source: InteractionC
+                         8)                                 Source file:
+                                                            iPhone/mobile/Library/CoreDuet/People/intera
+                                                            ctionC.db : 0x2266B8 (Table:
+                                                            ZINTERACTIONS; Size: 5537792 bytes)
+Log Entries              11/13/2022                         com.toyopagroup.picaboo: outgoing message
+                         11:38:47 AM(UTC-                   Sourcs: InteractionC
+                         8)                                 Source file:
+                                                            iPhone/mobife/Library/CoreDuet/People/intera
+                                                            ctionC.db 0x226514 (Table:
+                                                                      :
+
+
+                                                            ZINTERACTIONS; Size: 5537792 bytes)
+Inctant       Incamina                      rtAANOATACANT
+                                                             DM PHONE ACTIVITY
+                                                                               11/13/22
+
+
+
+
+                                                                                                   Dad
+                                                                         To                      Dylan (owner)
+                                                                         To:                   cloud com Dytan (owner)
+
+                                                                         Hey DMM, when can I call you today and just chat Does 1 00 work? Or ts 2 00
+                                                                         better?
+
+
+                                                                              Participant                                Delivered                  Read              Played
+                                                                                            782 Dylan                                                11/13/2022
+                                                                                                                                                      5512141
+                                                                                                                                                    AM(UTC-8)
+                                                                                            @icloud com Dylan
+
+                                                                         Status: Read
+
+                                                                                                                                                       11/13/2022 11 39 09 AM(UTC-8)
+
+
+                                                                       Source Info.
+                                                                       Phone/mohden brary/SM Some cb     fh378FA (Table meseage, handle, chat, Size: 5046272 bytes)
+
+
+
+
+  From:                   2 Dylan (owner)
+  To:                    Dad
+  TO:                  cloud.com Dyian (owner)
+
+  2 works better
+
+
+     Participant                     Delivered           Read       Played
+                        Daa          11/13/2022
+                                     11:39:42
+                                     AM(UTC-8)
+                   @clou0.com
+     Dy an
+
+  Status: Sent
+
+                                               11/13/2022 11:39:41 AM(UTC-8)
+
+
+Source Info:
+iPhone/mobile/Library/SMS/sms.db : 0x3783CE (Table: message, chat, handle; Size:
+5046272 bytes)
+
+
+
+
+                                                                        From:                 6007 Dad
+                                                                        To                    82 Dylan (owner)
+                                                                        To:                  @icioud.com Dylan (owner)
+
+                                                                        Okay I'll call you at 2 00 Just 5-521 minutes Want to catch up
+
+                                                                             Participant                                Delivered                  Read               Played
+                                                                                             82 Dylan                                               11/13/2022
+                                                                                                                                                      524:121
+                                                                                                                                                   PM(UTC-8)
+                                                                                                        com Dyian
+
+
+                                                                        Status: Read
+
+                                                                                                                                                  11/13/2022 11 40:14 AM(UTC-8)
+
+
+                                                                      Source Info:
+                                                                      iPhone/mobie/Library/SMS/ams.db- : 0x379F63 (Table message, handle, chat; Size: 5046272 bytes)
+DM PHONE ACTIVITY
+     11/13/22
+
+
+
+
+      From :                09 Jenna
+      To:              4782 Dyian (owner)
+      To:               Cicloud.com Dylan (owner)
+      bro
+
+
+         Participant                    Delivered           Read       Played
+                        82 Dylan                            11/13/20
+                                                            22
+                                                            2:12:23
+                                                            PM(UTC
+                                                            8)
+               an
+
+
+      Status: Read
+
+                                                  11/13/2022 1:150:55 AM(UTC-8)
+
+
+    Source Info:
+    iPhone/mobée/Library/SMS/sms.db : 0x3799A0 (Tabie: message, handle, chat: Size: 5046272
+                                                       DM PHONE ACTIVITY
+                                                            11/13/22
+
+Application                                          11/13/2022            com,burbn.instagram
+s Usage                                              11:44:06 AM(UTC-      Source: Instagram
+Log                                                  8) [Start time]       Source file:
+                                                                           iPhone/mobile/Containers/Data/Application/co
+                                                                           m.burbn.instagram/Documents/time_in_app_1
+                                                                           651601918.db : 0x9764 (Table: intervals;
+                                                                           Size: 40960 bytes)
+Application                                          11/13/2022            com.burbn.instagram
+s Usage                                              11:45:45 AM(UTC-      Source: Instagram
+Log                                                  8) (End time]         Source file:
+                                                                           iPhone/mobile/Containers/Data/Application/co
+                                                                           m,burbn,instagram/Documents/time_in_app_1
+                                                                           651601918.db : 0x9764 (Table: intervals;
+                                                                           Size: 40960 bytes)
+Application                                          11/13/2022            com,burbn.instagram
+s Usage                                               1:47:20 AM(UTC-      Source: Instagram
+Log                                                  8) [Start time]       Source file:
+                                                                           iPhone/mobile/Containers/Data/Application/co
+                                                                           m,burbn,instagram/Documents/time_in_app_1
+                                                                           651601918.db : 0x974A (Table: intervals;
+                                                                           Size: 40960 bytes)
+Cookies                                              11/13/2022            .facebook.com
+                                                     11:47:33 AM(UTC-      Source: Instagram
+                                                     8) [Accessed }        Sou rce file:
+                                                                           iPhone/mobile/Containers/Data/Application/co
+
+                                                                           narycookies 0x41A6 (Size: 17860 bytes)
+                                                                                       :
+
+
+
+Application                                          11/13/2022            com, burbn,instagram
+s Usage                                              11:48:08 AM(UTC-      Source: Instagram
+Log                                                  8) [End time]         Source file:
+                                                                           iPhone/mobile/Containers/Data/Application/co
+                                                                           m,burbn.instagram/Documents/time_in_app_1
+                                                                           651601918.db : 0x974A (Table: intervals;
+                                                                           Size: 40960 bytes)
+Application                                          11/13/2022            com.burbn.instagram
+s Usage                                              11:49:26 AM(UTC-      Source: Instagram
+Log                                                  8) [Start timej       Source file:
+                                                                           iPhone/mobile/Containers/Data/Application/co
+                                                                           m.burbn.instagram/Documents/time_in_app_1
+                                                                           651601918.db : 0x9730 (Table: intervals;
+                                                                           Size: 40960 bytes)
+Application                                          11/13/2022            com.burbn.instagram
+s Usage                                              11:49:29 AM(UTC-      Source: Instagram
+Log                                                  8) (End time]         Source file:
+                                                                           iPhone/mobile/Containers/Data/Appiication/co
+                                                                           m,burbn.instagran/Documents/time_in_app_1
+                                                                           651601918.db ; 0x9730 (Table: intervals;
+                                                                           Size: 40960 bytes)
+Application                                          11/13/2022            com.burbn-instagram
+                                                     11:49:51 AM(UTC-            :
+Log                                                  8) [Start time}       Source Instagram
+                                                                           iPhone/mobile/Containers/Data/Application/co
+                                                                           m.burbn.instagram/Documents/time_inapp_1
+                                                                           651601918.db : 0x9716 (Table: intervals;
+                                                                           Size: 40960 bytes)
+Ap lication                                          11/13/2022            com.burbn.instagram
+                                                     11:50:38 AM(UTC-      Source: Instagram
+Log                                                  8) [End time]         Source file:
+                                                                           iPhone/mobile/Containers/Data/Application/co
+                                                                           m.burdn.instagram/Documents/time_in_app_1
+                                                                           651601918.db 0x9716 (Table: intervals;
+                                                                                           :
+
+
+                                                                           Size: 40960 bytes)
+          :
+
+
+
+
+To:                    11/13/2022         00:01:48
+4b0599eha-7fb2-5e09-   11:50:58 AM(UTC-
+8a3c-8c752b132ec2      8)
+emily alandt
+Direction:
+Outgoing
+DM PHONE ACTIVITY
+      11/13/22
+
+
+
+
+      From:                109 Jenna
+      To:              34782 Dylan (owner)
+      To:                @icloud.com Dylan (owner)
+      do u guys need me to come get u
+
+
+         Participant                    Delivered           Read         Played
+                       782 Dylan                            1113/20
+                                                            22
+                                                            5:474:7346
+                                                            PM(UTC
+                                                            8)
+                          icloud.com
+              jan
+
+
+
+      Status: Read
+
+                                                  11/13/2022 11 51 01 AM(UTC-8)
+
+
+    Source Info:
+    iPhonefmobie/Library/SMS/sms.db : 0x3797B5 (Table: message, handle, chat, Size: 5046272
+    bytes
+                   DM PHONE ACTIVITY
+                        11/13/22
+
+Application   11/13/2022               com,burbn,instagram
+s Usage       11:54:39 AM(UTC-         Source: Instagram
+Log           8) (Start time]          Source file:
+                                       iPhone/mobile/Containers/Data/Apptication/co
+                                                                      int:
+                                       m.burbn.instagram/Documents/time_in_app_1
+                                       651601918.db : Ox96E2 (Table: ervals
+                                       Size: 40960 bytes)
+Application   41/13/2022               com,burbn,instagram
+s Usage       11:54:49 AM(UTC-         Source: Instagram
+Log           8) (End time]            Source file:
+                                       iPhone/mobile/Containers/Data/Application/co
+                                       m.burbn,instagram/Documents/time_in_app_1
+                                       651601918,db : Ox96E2 (Table: intervals;
+                                       Size: 40960 bytes)
+Application   11/13/2022               com.burbn.instagram
+s Usage       11:54:50 AM(UTC-         Source: Instagram
+Log           8) (Start time]          Source file:
+                                       iPhone/mobile/Containers/Data/Application/co
+                                       m,burbn,instagram/Documents/time_in_app_1
+                                       651601918.db : 0x96C8 (Table: intervals
+                                       Size: 40960 bytes)
+Ap lication   11/13/2022               com.burbn.instagram
+      ge       1:54:57 AM(UTC-         Source:
+Log           8) (End time]            Source Iistagram
+                                       iPhone/mobile/Containers/Data/Application/co
+                                       m.burbn,instagram/Documents/time_in_app_1
+                                       651601918.db : Ox96C8 (Table: intervals;
+                                       Size: 40960 bytes)
+Application   11/13/2022               com.burbn.instagram
+s Usage        1:55:20 AM(UTC=         Source: Instagram
+Log           8) (Start time]          Source file:
+                                       iPhone/mobile/Containers/Data/Application/co
+                                       m.burbdn,instagram/Documents/time_in_app_1
+                                       651601918.db : Ox96AE (Table: intervals:
+                                       Size: 40960 bytes)
+Cookies       11/13/2022               -doubleclick.net
+               1:57:01 AM(UTC-         Source:
+              8) [Accessed]            Source WidgetSmith
+                                       iPhone/mobile/Containers/Data/Application/co
+                                       m.crossforward,WidgetSmith/Library/Cookies/
+                                       Cookies.binarycookies : 0x6D (Size: 524
+                                       bytes)
+                                  BF PHONE ACTIVITY
+                                               11/13/22
+
+
+
+From:              11/13/2022         00:00:00
+         1224      02:53(UTC-8)
+Maddie Mogen*
+Direction:
+Incoming
+
+
+
+
+                   11/13/2022         00:00:23
+             782   04:19(UTC-8)
+Dylan M*
+Direction:
+Outgoing
+
+
+
+
+                                                             From:                         11/13/2022                00:00:41
+                                                                          782              04:20(UTC-8)
+                                                             Dy an M*
+                                                             Direction:
+                                                             Incoming
+
+
+
+
+                                         From:              4782 Dylan M
+                                         To:                 yahoo.com _$!<Other>!$ (owner)
+                                         No one is answering
+
+
+                                            Participant                    Delivered          Read       Played
+                                                          @yahoo.co        11/13/2022         11/13/20
+                                            m $!<Other>!$
+                                                 _            _
+                                                                           4:23:09            22
+                                                                           AM(UTC-8)          4:23:09
+                                                                                              AM(UTC
+                                                                                              8)
+
+                                         Status: Read
+                                  1                                                    11/13/2022 422:08 AM(UTC-8)
+
+
+
+                                       Source Extraction:
+                                       Logical, Advanced Logical
+                                       Source Info:
+                                       Bethanys iPad/mobile/ibrarySMS/sms.db : Ox1E5D799 (Table: message, handie, chat; Size:
+                                       43204608 bytes)
+
+
+
+
+                                                                                                                      DEFENDANT'S
+                                                                                                                EXHIBIT NO. 2
+                                                                                                                IDENTIFICATION / EVIDENCE
+                                                                                                                CASE NO. CR01-24-31665
+                                                                                                                DATE: 3/1 7/25
+                                    BF PHONE ACTIVITY
+                                            11/13/22
+
+
+
+                                        From:              017637 Dyian M
+                                        To:                  yahoo.com $!<Other>!$ (owner)
+                                                                           _              _
+
+
+
+
+                                        I'm rlly confused rm
+
+
+                                           Participant                    Delivered           Read       Played
+                                                                          11/13/2022          11/13/20
+                                           m $!<Other>!                   4:23:09             22
+                                                                          AM(UTC-8)           4: 23.09
+                                                                                              AM(UTC
+                                                                                              8)
+
+                                        Status: Read
+
+                                                                                      11/13/2022 4:2211 AM(UTC-8)
+
+
+
+                                      Source Extraction:
+                                      Logical, Advanced Logical
+                                      Source Info:
+                                      Bethany's iPad/mobile/Library/SMS/sms.db Ox1E5D582 (Table: message, handle, chat, Size:
+                                                                               1
+
+
+                                      43204608 bytes)
+
+
+
+
+a        278
+Xana Kemodie *
+                      11/13/2022
+                      04:21(UTC-8)
+                                            00:00:02
+
+
+Direction:
+Outgoing
+
+
+
+
+                       11/13/2022             00:00:01
+           1224       04:22(UTC-8)
+Maddie Mogen*
+Direction:
+Outgoing
+
+
+
+
+To:                   11/13/2022             00:00:19
+7952e984-1927-5a22-   04: 22(UTC-8)
+a5f7-d580f340 2ff
+               1
+
+Ethan Chapin
+Direction:
+Outgoing
+                                                                BF PHONE ACTIVITY
+                                                                             11/13/22
+
+        11/13/2022                                               com.toyopagroup.picaboo: outgoing message
+        04:23(UTC-8)                                             Source: InteractionC
+
+
+
+
+                                                                                          :::::
+  F                        ahoo.com $!<Other>!$ (owner)
+                                       _               _                                  :::::
+  To:                782 Dylan M
+
+  Ya dude wtf
+
+                                                                                          :::::
+       Participant                  Deltvered           Read        Played                :::::
+
+
+                     782 Dylan
+
+                                                                                          :::::
+  Status: Sent
+
+                                                 11/13/2022 4:23:15 AM(UTC-8)
+
+
+
+                 :
+Logical, Advanced Logical
+Source Info:
+Bethany's iPad/mobde/Library/SMS/ams.db : 0x1E5D399 (Table: mesage, chat, handle; Size
+42 2N4RNR whee)
+
+
+
+
+                                                                                                  :::::::
+      From:                @yahoo.com $!<Other>!$ (owner)
+                                           _                _
+                                                                                                  :::::::
+
+      To:                82 Dylan M                                                               :::::::
+                                                                                                  :::::::
+
+                                                                                                  :::::::
+      Xana was wearing all black                                                                  :::::::
+
+
+
+
+        Participant                     Delivered            Read       Played
+                      782 Dylan M
+
+
+   Satus: Sent                                                                                    :::::::
+                                                                                                  :::::::
+
+
+                                                     11/13/2022 4:23:28 AM(UTC-8)
+
+
+
+ Source Extraction:
+ Logical, Advanced Logical
+ Source info:
+ Bethany's                                     0x1E5D1C8 (Table: message, chat, handle;
+ Size 432046018 hvtes)
+BF PHONE ACTIVITY
+         11/13/22
+
+
+
+   Frog.                782 Dylan M
+   To:                  yahoo.com $!<Other>!$ (owner)
+                                      _              _
+
+
+
+
+   I'm freaking out rn
+
+
+      Participant                     Delivered          Read        Played
+                     @yahoo.co
+      m $!<Other>!$
+         _               _
+
+
+
+
+                                                  11/13/2022 4:23:33 AM(UTC-8)
+
+
+ Source Extraction:
+ Logical, Advanced Logical
+ Source Info:
+ Bethanys iPad/mobile/Library/SMS/sms.db : Ox1ESEFS8B (Table: message, handle, chat,
+ Size: 43204608 bytes)
+
+
+
+
+   From:                782 Dylan M
+   To:                yahoo.com $!<Other>!$ (owner)
+                                      _              _
+
+
+
+
+   No it's like ski mask almost
+
+
+      Participant                     Delivered          Read        Played
+
+
+
+
+   Status: Read
+
+                                                  11/13/2022 4:23:42 AM(UTC-8)
+
+
+ Source           :
+ Logical, Advanced Logical
+ Source info:
+ Bethanys iPad/mobile/Library/SMS/sms.db : 0x1E5ED80 (Table: message, handle, chat,
+ Size: 43204608 bytes)
+                                                   BF PHONE ACTIVITY
+                                                                11/13/22
+
+
+
+                                                                                      :::::::
+  From:                      yahoo.com $!<Other>!$ (owner)
+       4782
+                                                                                      :::::::
+                                                        _
+
+
+  To:                       Dylan M
+                                                                                      :::::::
+                                                                                      :::::::
+
+
+  Stfu
+
+
+     Participant                     Delivered          Read        Played
+                    1413 Dylan M
+
+
+                                                                                      :::::::
+  Status: Sent                                                                        :::::::
+
+
+                                                 11/13/2022 4:23:48 AM(UTC-8)
+
+
+
+Source Extraction:
+Logical, Advanced Logical
+Source Info:
+Bethany's iPad/mobile/Library/SMS/sms.db : Ox1E5EB87 (Table: message, chat, handie;
+Size: 43204608 bytes)
+
+
+
+
+  From:
+  To:
+            EEE. @yahoo.com
+                    44782
+                  Dylan
+                            $!<Other>!$ (owner)
+                                 M
+                                        _               _
+                                                                                      :::::::
+                                                                                      :::::::
+
+
+
+
+  Actually
+
+                                                                                      :::::::
+      Participant                    Delivered          Read        Played            :::::::
+
+
+                      87 Dylan M
+
+
+  Status: Sent
+
+                                                 11/13/2022 2 23 51 AM(UTC 8)
+
+
+
+Logical, Advanced Logical
+
+Bethany's iPad/mobie/ibrarySMS/sms. db : 0x1E5E9C4 (Table: message, chat, handle;
+Size: 43204608 bytes)
+            BF PHONE ACTIVITY
+                            11/13/22
+
+
+
+  From:
+  To:
+            E4782  Dylan             M
+                yahoo.com $!<Other>!$ (owner)
+                                      _               _
+
+
+
+
+  Like he had soemtbinf over is for head a little nd mouth
+
+
+      Participant                             Delivered             Read          Played
+                     @yahoo.com
+      _   $!<Other>!$   _
+
+
+
+
+  Status: Read
+
+                                                                  11/13/2022 4:23:52 AM(UTC-8)
+
+
+Source Extraction :
+
+Source Info:
+Bethany's iPad/mobile/Library/SMS/sms.db : Ox1E5E7D3 (Table: message, handle, chat; Size: 43204608 bytes)
+
+
+
+
+  From:                     144 Dylan M
+  To:                       yahoo.com $!<Other>!$ (owner)
+                                      _               _
+
+
+
+
+  Bethant I'm not kidding o am so freaked out
+
+
+      Participant                         Delivered        Read         Played
+                      @yahoo.com
+      _   $ <Other> $   _
+
+
+
+
+  Status: Read
+
+                                                      11/13/2022 4:24:00 AM(UTC-8)
+
+
+
+Source Extraction:
+Logical, Advanced Logical
+Source info:
+Bethany's Pad/mobile/Library/SMS/sms.db : 0x1E5E582 (Table: message, handle, chat; Size:
+AIMARNAR
+                                                      BF PHONE ACTIVITY
+                                                                   11/13/22
+
+
+
+
+  From: HEE.@yahoo.com $!<Other>!$ (owner)
+  To: 4782     Dylan M
+                                        _               _
+
+
+
+
+  So am I
+
+     Participant                     Delivered          Read        Played
+     M4782              Dytan M
+
+
+  Status: Sent
+
+                                                 11/13/2022 4:24:07 AM(UTC-8)
+
+
+
+Source Extraction:
+Logical, Advanced Logical
+Source Info:
+Bethany's iPad/mobile/Library/SMS/sms.db : 0x1E5E36B (Table: message, chat, handle;
+Size: 43204608 bytes)
+
+
+
+
+                                                            From:
+                                                            To:
+                                                                    M4782 Dylan             M
+                                                                              @yahoo.com $!<Other>!$_ (owner)
+
+                                                            My phone is going to die fuck
+
+
+                                                  é            Participant                   Delivered          Read        Played
+                                                                             @yahoo.co
+                                                               m     <Other>!$
+
+
+                                                            Status: Read
+
+                                                                                                         11/13/2022 4:24:11 AM(UTC-8)
+
+
+                                                        Source Extracton:
+                                                        Logical, Advanced Logical
+                                                        Source Info:
+                                                        Bethany's iPad/mobile/Library/SMS/sms.db : 0x1E60F8B (Table: mesage, handle, chat: Size:
+                                                        43204608 bytes)
+                                                     BF PHONE ACTIVITY
+                                                                  11/13/22
+
+
+
+                                                                                            :::::
+   From:                 @yahoo.com $!<Other>!$_ (owner)                                    :::::
+
+   To:              4782 Dylan M
+   Come to my room
+
+                                                                                            :::::
+      Participant                     Delivered          Read        Played
+                         Dylan M
+
+
+  Status: Sent
+
+                                                  11/13/2022 4:24:14 AM(UTC-8)
+
+
+Source Extraction :
+Logical, Advanced Logical
+Source info:
+Bethany's iPad/mobile/Library/SMS/sms.db : 0x1E60D94 (Table: message, chat, handle; Size:
+43204608 bytes)
+
+
+
+
+                                                                                            :::::
+   From:               $!<Other>!$ (owner)
+   To: M4782@yahoo.com
+             Dylan               M
+                                         _               _
+
+
+                                                                                            :::::
+
+
+   Run
+
+      Participant                     Delivered          Read        Played
+                    782 Dylan
+
+                                                                                            :::::
+  Status: Sent                                                                              :::::
+
+
+                                                  11/13/2022 4:24:22 AM(UTC-8)              :::::
+                                                                                            :::::
+
+
+
+
+Source Extraction:
+Logical, Advanced Logical
+Source Info:
+Bethany's iPad/mobile/Library/SMS/sms.db : 0x1E60BB9 (Table: message, chat, handle;
+Size: 43204608 bytes)
+
+
+
+
+  From:                   yahoo.com $!<Other>!$ (owner)
+      E4782
+                                         _              _
+
+
+
+
+  To:                    Dyian M
+  Down here
+
+
+     Participant                     Delivered           Read        Played
+                 \4782 Dyian M
+
+
+  Status: Sent
+
+                                                  11/13/2022 4:24:27 AM(UTC-8)
+
+
+
+        Extraction:
+Logical, Advanced Logical
+Source Info:
+Bethany's iPad/mobile/Library/SMS/sms.db : Ox1E609F8 (Table: message, chat, handle; Size:
+                                                         BF PHONE ACTIVITY
+                                                                      11/13/22
+
+
+                                                     i
+                                                              From:               782 Dyian M
+                                                              To:                yahoo.com _$!<Other>!$ (owner)_
+
+
+
+
+                                                              I'm scRwd tho
+
+
+                                                                 Participant                    Delivered          Read        Played
+                                                                           @yahoo.co             11/13/2022        11/13/20
+                                                                 m $!<Other>!$
+                                                                    _             _
+                                                                                                4:24:59            22
+                                                                                                AM(UTC-8)          4:24:59
+                                                                                                                   AM(UTC
+                                                                                                                   8)
+
+                                                              Status: Read
+
+                                                                                                            11/13/2022 4:24:58 AM(UTC-8)
+
+
+
+                                                          Source Extraction:
+                                                          Logical, Advanced Logical
+                                                          Source Info:
+                                                          Bethany's iPad/mobile/Library/SMS/sms.db : 0x1E607F7 (Table: message, handle, chat; Size:
+                                                          43204608 bytes)
+
+
+
+
+                                                                                               ::::::
+      From:                  ahoo.com $!<Other>!$ (owner)
+                                         _                _                                    ::::::
+      To:             21657 Dylan M
+                                                                                               ::::::
+      Ya Ik but it's better than being alone                                                   ::::::
+
+
+
+
+                                                                                               ::::::
+        Participant                   Deltvered           Read          Played                 ::::::
+
+
+
+        4782 Dyan                M
+
+
+   Status: Sent
+
+                                                  11/13/2022 4:25:16 AM(UTC-8)                 ::::::
+                                                                                               ::::::
+
+
+
+
+ Source Extraction:
+ Logical, Advanced Logical
+ Source Info:
+ Bethany's iPad/mobile/Library/SMS/sms.db : 0x1E6061C (Table: message, chat, handle; Size:
+
+
+
+
+To:                            11/13/2022                 00:00:02
+              1224             04:29(UTC-8)
+               gen*
+Direction:
+Outgoing
+                                          BF PHONE ACTIVITY
+                                                      11/13/22
+
+
+ To:                 11/13/2022              00:00:02
+            1224     04:30(UTC-8)
+ Madd e Mogen*
+ Direction:
+ Outgoing
+
+
+
+
+To:                  11/13/2022             00:00:00
+         4818        04:30(UTC-8)
+Kaylee Goncalves*
+Direction:
+Outgoing
+
+
+
+
+                     11/13/2022             00:00: 04
+              4818   04:31(UTC-8)
+ ay ee Goncalves*
+Direction:
+Outgoing
+
+
+
+
+Cookies                              11/13/2022                   Snapchat.com
+                                     04:34(UTC-8)                Source: Snapchat
+                                     [Accessed]
+Cookies                              1113/2022                   Shapchat.com
+                                     04:34(UTC-8)                Source: Snapchat
+                                     [Accessed]
+
+
+
+
+Cookies                                           11/13/2022                        facebook.com
+                                                  04:37(UTC-8)                      Source: Instagram
+                                                  Accessed
+
+
+
+
+ To:                 11/13/2022              00:00:00
+              1430   07:3Q({UTC-8)
+ Dadio*
+ Direction:
+ Outgoing
+
+
+
+
+ To:                 11/13/2022              00:00:00
+                30   08:00(UTC-8)
+ Dad o*
+ Direction:
+ Outgoing
+                                     BF PHONE ACTIVITY
+                                                 11/13/22
+
+
+
+                      11/13/2022      00:00:00
+          1   671     08:00(UTC-8)
+Direction:
+Outgoing
+
+
+
+
+                      11/13/2022      00:00:06
+              671     08:01(UTC-8)
+Home*
+Direction:
+Outgoing
+
+
+
+
+To:                   11/13/2022      00:01:11
+               9589   08:02(UTC-8)
+  a fe*
+Direction:
+Outgoing
+
+
+
+
+From :                11/13/2022      00:02:41
+                430   08:09(UTC-8)
+Dadio*
+Direction:
+Incoming
+
+
+
+
+Images                                  11/13/2022          IMG_2390.jpeg
+                                        08:41 [Capture
+                                        Time]
+Images                                  11/13/2022          IMG 2391.jpeg
+                                        08:41 [Capture
+                                        Time]
+Images                                  11/13/2022          IMG 2392.jpeg
+                                        08:42 [Capture
+                                        Time
+BF PHONE ACTIVITY
+     11/13/22
+
+
+
+
+       From:             9589 Madre
+       To;                yahoo.com $!<Other>!$ (owner)
+                                       _              _
+
+
+
+
+       Attachments:
+
+
+
+
+        Title IMG2390 jpeg
+        Swe: 380082
+        File name.
+        52FOGA288B0EAMG2390 peg
+        ~/Library/SMS/Attachments/99/09/4985DDC7-8AB6-4565-8D52-
+        52F06A288B0E/IMG_2390.1peq
+
+
+
+
+        Tite. MG_2391 jpeg
+        Size: 504566
+        File name
+        E195F5C5AD73/IMG2391 jpeg
+        ~/Library/SMS/Attachments/e9/09/9D507D0D-CFE9-4F4C-AF83-
+        E195F5C5AD73/IMG2391 jpeg
+
+
+
+
+        Tite. IMG2392 jpeg
+        Size. 468473
+        File name:
+        144EF 16C5598/IMG rs2392 peg
+        ~/Library/SMS/Attachments/00/00/B2E93646-525C-4FC5-896B-
+        144EF16C5598/IMG2392 jpeq
+
+
+          Participant                  Delivered          Read       Played
+                             aho.co    11/13/2022         11/13/20
+          m _$ <Other>!                9:04:36            22
+                                       AM(UTC-8)          904.36
+                                                          AM(UTC
+                                                          8)
+
+       Status: Read
+
+                                                   11/13/2022 8 44 19 AM(UTC-8)
+                                            BF PHONE ACTIVITY
+                                                      11/13/22
+
+
+
+                             11/3/2022       00:01:10
+          109                11:49(UTC-8)
+Jenna mcclure *
+Direction:
+Outgoing
+
+
+
+
+     Source Extraction   :
+
+
+
+
+                                                From:               109 Jenna mcclure
+
+                                                do u guys need me to come get u
+                                                Status: Read
+
+                                                                                         11/13/2022 11:51:33 AM(UTC-8)
+
+
+                                              Source Extraction:
+                                              Logical
+
+
+
+
+                                                 From:              8109 Jenna mcclure
+
+                                                 that's terrifying
+                                                 Status: Read
+
+                                                                                         11/13/2022 11:51:36 AM(UTC-8)
+
+
+                                               Source Extraction:
+                                               Logical
+                                                 BF PHONE ACTIVITY
+                                                              11/13/22
+
+
+
+    From:                   @yahoo.com _$!<Other>!$
+    To:                 8109 Jenna mcclure
+
+    Lowkey yes
+
+        Participant                   Delivered            Read      Played
+                       8109 Jenna
+        mcc ure
+
+
+   Status: Sent
+
+                                                 11/13/2022 11:51:40 AM(UTC-8)
+
+
+
+ Source Extraction :
+ Logical
+
+
+
+
+                                                       From:              18109 Jenna mcclure
+
+                                                       i   will
+                                                       Status: Read
+
+                                                                                                11/13/2022 11:51:47 AM(UTC-8)
+
+
+                                                     Source Extraction:
+                                                     Logical
+
+
+
+
+  From:                    @yahoo.com $!<Other>!$
+                                        _              _
+
+
+
+  To:                  18109 Jenna mcclure
+
+  Pis
+
+      Participant                    Delivered         Read         Played
+                      8.109 Jenna
+      mceclure
+
+
+  Status: Sent
+
+                                             11/13/2022 11:51:52 AM(UTC-8)
+
+
+Source Extraction :
+Logical
+                                             BF PHONE ACTIVITY
+                                                            11/13/22
+
+
+
+  From:                     @yahoo.com $!<Other>!$
+                                       _              _
+
+
+  To:                18109 Jenna meclure
+
+  Emily is coming over w hunter too to check it
+
+      Participant                     Delivered            Read      Played
+                      09 Jenna
+      mcclure
+
+
+  Status: Sent
+
+                                                   11/13/2022 11:53:53 AM(UTC-8)
+
+
+Source Extraction:
+
+
+
+
+   From :                @yahoo.com $!<Other>!$
+                                       _               _
+
+
+
+
+   To:               8109 Jenna meclure
+   Out
+
+
+       Participant                   Delivered            Read     Played
+                      1   09 Jenna
+
+
+
+   Status: Sent
+
+                                             11/13/2022 11:53:55 AM(UTC-8)
+
+
+Source Extracton:
+Loaical
+
+
+
+
+                                                  From:             8109 Jenna mcclure
+
+                                                  ok i'm j gone come too cus im scared for all
+                                                  Status: Unread
+
+                                                                                         11/13/2022 11:54:57 AM(UTC-8)
+
+
+                                             Source Extraction:
+                                             Logical
+                             BF PHONE ACTIVITY
+                                         11/13/22
+
+
+
+                                   From:             8109 Jenna mcclure
+
+                                   hall
+                                  Status: Unread
+
+                                                                          11/13/2022 11:55:00 AM(UTC-8)
+
+
+                                                 :
+
+                                Logical
+
+
+
+
+                                   From:             8109 Jenna mcclure
+
+                                  y'all
+                                  Status: Unread
+
+                                                                          11/13/2022 11:55:01 AM(UTC-8)
+
+
+                                Source Extraction:
+                                Logical
+
+
+
+
+To:          11/13/2022       00:04:11
+911          11: 56(UTC-8)
+911*
+Direction:
+Outgoing
+

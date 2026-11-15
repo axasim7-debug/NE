@@ -1,0 +1,987 @@
+                                                                                             Filed: 06/26/2025 13:58:53
+                                                                                             Fourth Judicial District, Ada County
+                                                                                             Trent Tripple, Clerk of the Court
+                                                                                             By: Deputy Clerk Waters, Renee
+                                                                                                               -
+
+
+
+
+             IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+
+
+                  THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO,
+
+               Plaintiff,                                      Ada County Case No. CR01-24-31665
+
+                                                               REDACTED MEMORANDUM
+ BRYAN C. KOHBERGER,                                           DECISION AND ORDER ON
+                                                               DEFENDANT'S MOTION TO
+               Defendant.                                      CONTINUE
+
+
+
+
+I.       INTRODUCTION
+         Before the Court is Defendant's motion to continue the trial in this matter. The basis for
+
+the motion is three-fold. First, he asserts that the volume of discovery continues to pose a
+
+challenge to his counsel's ability to timely and meaningfully review all of it. Second, he asserts
+that there is penalty-phase investigation and preparation that still needs to be done. Third, he
+
+asserts that recent and forthcoming publicity on the case is highly prejudicial. Maintaining the
+
+current trial setting under these circumstances, he argues, will render any conviction and
+
+sentence unconstitutional. The State responds that Defendant's motion is untimely and he has
+
+failed to show either good cause for continuing the trial or prejudice that would result from
+
+maintaining the current trial setting.
+         Oral argument on the motion was held on June 18, 2025, after which the Court took the
+
+matter under advisement. The Court finds a continuance is not warranted as Defendant has not
+
+made a showing that there is good cause to continue the trial or that his substantial rights will be
+
+prejudiced by proceeding to trial as scheduled.!
+Il.      STANDARD
+         A motion for.a continuance of trial is addressed to the sound discretion of the trial court.
+State v. Ochoa, 169 Idaho 903, 912, 505 P.3d 689, 698 (2022). On discretionary matters, the trial
+
+
+!
+  Defendant filed some of his supporting materials ex-parte. While the Court is not convinced that much of his filing
+is necessary or appropriate to be treated as ex parte, the Court will nevertheless, in an abundance of caution, issue a
+redacted and unredacted version of this Order, with the State only receiving the redacted version, given that the
+Court is denying Defendant's motion.
+
+                                                           1
+court must: 1) correctly perceive the issue as one of discretion; 2) act within the outer boundaries
+
+of its discretion; 3) act consistently with the legal standards applicable to the specific choice
+available to it, and; 4) reach its decision by the exercise of reason." Lunneborg v. My Fun Life,
+163 Idaho 856, 867, 421 P.3d 187, 198 (2018).
+
+        ANALYSIS
+        Under Idaho law, a criminal defendant seeking a continuance of trial must demonstrate
+that his or her "substantial rights" will be prejudiced absent a continuance. State v. Cagle, 126
+
+Idaho 794, 797, 891 P.2d 1054, 1057 (Ct.App.1995) ("Unless an appellant shows that his or her
+
+substantial rights have been prejudiced by reason of a denial of his or her motion for
+
+continuance, appellate courts can only conclude that there was no abuse of discretion.") "Trial
+
+judges necessarily require a great deal of latitude in scheduling trials." Jd. The burden of
+assembling the witnesses, lawyers, and jurors at the place and time for trial "counsels against
+continuances except for compelling reasons." Jd. "There are no mechanical tests for deciding
+when a denial of a continuance is so arbitrary as to violate due process. The answer must be
+
+found in the circumstances present in every case, particularly in the reasons presented to the trial
+
+judge at the time the request is denied." Matter of Doe I, 170 Idaho 581, 588, 514 P.3d 991, 998
+(2022) (quoting Ungar v. Sarafite, 376 U.S. 575, 589 (1964)).
+        Where a continuance is sought based on the late disclosure or discovery of evidence, the
+
+alleged tardiness of the discovery must be "shown to so prejudice the defendant's case
+preparation that a fair trial [will be] denied." State v. Tapia, 127 Idaho 249, 255, 899 P.2d 959,
+965 (1995). "[T]he bare claim that additional investigation could have been conducted is not
+
+sufficient to demonstrate unfair prejudice so as to support a motion for a continuance." Jd.
+
+Additionally, where a continuance is sought for the "potential receipt of evidence" from further
+investigation, the motion is properly denied if based on speculation. Rowe v. Katavich, 2014 WL
+4244336, at *2 (C.D. Cal. Aug. 26, 2014) (citations omitted).
+        Defendant argues a continuance is necessary for him to sufficiently review relevant
+
+discovery, conduct a full and complete investigation of mitigation evidence       particularly
+claimed newly revealed evidence that allegedly raises "red flags"      and remedy the prejudice
+
+caused by recent and upcoming inflammatory publicity and the alleged leak of information to the
+
+media. Moving forward with trial, he warns, will violate his rights under the United States and
+
+
+
+
+                                                  2
+Idaho Constitutions? to due process, to be free from cruel and unusual punishment, to a fair trial,
+
+to effective assistance of counsel, to present a defense and confront witnesses and to a fair and
+
+reliable sentencing determination. Absent from Defendant's materials, however, is any good
+cause for the continuance or legitimate showing of prejudice should the trial proceed as
+
+scheduled.
+
+          A.       Defendant Has Not Demonstrated a Continuance is Warranted to Review
+                   Discovery.
+          Defendant first contends that the vast amount of discovery in this case renders it
+
+impossible for the defense team to review the necessary and relevant discovery in a manner that
+allows for it to be comprehensively integrated into his defense. He further argues, without any
+
+support or explanation, that there are a "myriad of issues" that continue to arise from the State
+
+failing to comply with discovery and expert disclosure deadlines.* A continuance, he argues, is
+necessary for counsel to mount an effective defense.
+          The Court, however, rejected this same argument two months ago when Defendant
+
+sought to strike the death penalty and impose discovery obligations upon the State.* In its Order,
+the Court observed the utter lack of any proof supporting Defendant's accusations of discovery
+
+violations by the State. More importantly, the Court found Defendant's complaints of being
+unable to meaningfully review discovery entirely unconvincing, pointing out that counsel
+
+struggled to articulate in any meaningful way what evidence-let alone relevant evidence
+counsel had been unable to review over the past two-plus years and why efforts to facilitate
+
+discovery review were not made long ago through this Court and/or the resource judge.°
+
+
+2
+ Defendant specifically cites to the Fifth, Sixth, Eighth and Fourteenth Amendments to the U.S. Constitution and
+Article I, §§ 6, 7, 8 and 13 of the Idaho Constitution. Notably, Defendant does not argue that the Idaho Constitution
+provides any heightened protection than the U.S. Constitution with regard to the rights cited. Thus, the Court
+                                                                                                               will
+not engage in a separate analysis under the Idaho Constitution.
+3
+  Defendant continues to complain of the State's "discovery violations" but to be clear, this Court has found no such
+violations by the State.
+
+    See, Order on Defendant's Motion to Strike Death Penalty and Adopt Other Necessary Procedures (April 29,
+4
+
+
+2025).
+5
+  Defendant's continual reference to the number of terabytes of discovery produced in this case is not helpful
+without providing a meaningful explanation of what that data primarily consists of and its particular relevance and
+importance. Indeed, as was discussed at the April 9, 2025, hearing in this case, it appears that most of those
+terabytes consists of extensive video surveillance from local businesses and residences that show nothing of
+significance. In fact, the State indicated at that hearing that much of that discovery is "completely irrelevant" and
+stipulated that it is unaware of any Brady material in the video surveillance footage other than that specifically
+identified in motion practice. Given that the State has identified all its trial exhibits, the Defense cannot be unaware
+
+                                                            3
+         Defendant's second round of this argument fares no better. He again fails to identify any
+relevant discovery that his counsel has yet to review.® He also fails to identify any steps his
+counsel has taken, particularly since the Court's prior order, to aid in processing the yet-
+
+unreviewed discovery.' Moreover, he does not explain why he waited to seek a continuance until
+after discovery closed, expert disclosure deadlines passed and the pretrial conference occurred.
+
+         If defense counsel was truly struggling with discovery review, this motion should have
+been made when the claimed problem became apparent, and certainly should have been brought
+
+prior to the expiration of discovery, all expert deadlines and the final pretrial conference. Instead,
+defense counsel has robustly litigated this case, retaining approximately two dozen experts and a
+
+full mitigation team; engaging in extensive motion practice and disclosing witness and exhibits
+lists with nary a whisper that a continuance would be sought. These actions belie his counsel's
+
+ongoing-and ultimately empty-discovery complaints.® Without more, the Court can only
+conclude that defense counsel is using the volume of discovery measured in terabytes as a tactic
+to delay the proceeding at the eleventh hour simply for the sake of delay rather than a legitimate
+
+threat of prejudice to Defendant's substantial rights.
+
+         Perhaps even more problematic, and more telling, is the utter failure of defense counsel
+
+now, or at any time, to specify not only what needs to be reviewed but, importantly, when that
+review would be complete and Defendant ready for trial. Instead, Defendant seeks an unbounded
+
+
+
+
+of all the incriminating evidence in the discovery. Finally, it should be noted that it was Defendant who, early on,
+demanded that the State provide all investigative materials, no matter how irrelevant or unhelpful.
+
+6
+  The only discovery counsel claims that have not fully been reviewed are all of the thousands of tips provided to
+law enforcement. She argues these tips may lead to the discovery of evidence of an alternate perpetrator. The
+deadline for presenting alternate perpetrator evidence has come and gone, with no motion by the defense to extend
+it. Further, to offer alternate perpetrator evidence, Defendant needs far more than an unsubstantiated hearsay tip that
+another person could have committed the crime. State v. Meister, 148 Idaho 236, 220 P.3d 1055 (2009).
+
+7
+ At the hearing on Defendant's motion to strike the death penalty based on his counsel's alleged inability to process
+discovery, the Court suggested several options counsel had to obtain assistance in discovery review. There is no
+evidence that defense counsel has exercised any of these options, nor has there been any good explanation of why
+counsel had not sought additional resources to process and review discovery, such as the tips and security videos.
+The failure to do so suggests a recognition that this discovery was extremely unlikely to bear fruit.
+
+8
+ Relevant here, too, is the fact that defense counsel did not argue for a continuance as an alternate remedy to
+Defendant's attempt to strike the death penalty because of counsel's alleged inability to get through the discovery.
+This highlights that his claims regarding the volume of discovery were used as a tactical sword, untethered to a
+seriously legitimate concern about the ability to be prepared.
+
+
+                                                           4
+continuance with no apparent plan to complete the review of unspecified evidence that counsel
+claims it has yet to review. This is not sufficient to warrant a continuance.
+       B.      Defendant Has Not Established a Continuance is Necessary to Conduct A
+               More Thorough "Life History" Investigation and Identify Necessary Experts.
+
+       Defendant next argues he needs additional time to investigate and prepare mitigation
+
+evidence, which he contends is necessary to uphold his constitutional rights, particularly those
+under the Eighth and Sixth Amendments. Specifically, the defense team claims that, to be
+
+effective, counsel must conduct an "exhaustive" and "comprehensive" dive into Defendant's
+"life history" for additional mitigation evidence, analyze the information into a cohesive
+narrative for the jury-and identify any additional behavioral, cultural, scientific and/or mental
+
+health experts that may be necessary to develop the mitigation presentation. Despite having hired
+
+a mitigation team two years ago, defense counsel contends that recently discovered
+
+        have raised "red flags" that Defendant may have
+
+
+
+                   According to Defendant's primary mitigation investigator, attorney
+        hc team of four have been diligent in their investigation into Defendant's life history,
+but there have been
+
+
+
+                                                             She believes that with time, she will be
+
+able to overcome these barriers by
+                        Ex-Parte Decl.   QB.          3 (May 20, 2025).
+
+       Defendant has not demonstrated a continuance to accommodate further investigation is
+
+constitutionally required. The Eighth Amendment requires that a capital defendant be allowed to
+
+present all relevant evidence in mitigation. State v. Payne, 146 Idaho 548, 570, 199 P.3d 123,
+145 (2008); see also, Eddings v. Oklahoma, 455 U.S. 104 (1982) (jury must be allowed to
+
+consider all of a capital defendant's mitigating character evidence). In addition, a capital
+defendant has a Sixth Amendment right to a fair trial and effective assistance of counsel in both
+
+the guilt and penalty phases of a capital case. Strickland v. Washington, 466 U.S. 668, 691-92
+
+(1984). As Defendant points out, defense counsel is constitutionally required to "to conduct a
+thorough investigation in preparation for the penalty phase of a capital case." State v. Dunlap,
+155 Idaho 345, 388, 313 P.3d 1, 44 (2013) (citing Porter v. McCollum, 558 U.S. 30, 38-41
+
+
+                                                  5
+(2009)). "Presentation of some mitigating evidence, even if strong, is insufficient if other
+mitigating evidence is available upon reasonable investigation." Jd. (citing Rompilla v. Beard,
+545 U.S, 374, 387-93 (2005)).
+
+         The assertion that counsel needs the continuance to conduct an "exhaustive" and
+
+"comprehensive" dive into Defendant's "life history" for additional mitigation evidence
+overstates the extent of his counsel's constitutional obligations. Counsel's investigation into
+
+mitigation evidence must be "reasonable." Jd. The Idaho Supreme Court and the United States
+Supreme Court hold that defense counsel is "not required to investigate a defendant's entire life
+in order to present constitutionally sufficient mitigation evidence." State v. Row, 131 Idaho 303,
+
+313, 955 P.2d 1082,-1092-4998);? Wiggins v. Smith, 539 U.S. 510, 533 (2003) ("[W]e
+
+emphasize that Strickland does not require counsel to investigate every conceivable line of
+
+mitigating evidence no matter how unlikely the effort would be to assist the defendant at
+sentencing.") While Defendant notes that the ABA Guidelines for Mitigation Function of
+Defense Teams in Death Penalty Cases urge counsel in death penalty cases to conduct an
+
+"ongoing, exhaustive and independent investigation of every aspect of the client's character,
+history, records and any circumstances of the offense" to meet their constitutional obligations,
+courts look not to what is "prudent or appropriate, but only what is constitutionally compelled."
+
+State v. Dunlap, 155 Idaho 345, 388, 313 P.3d 1, 44 (2013) (quoting Burger v. Kemp, 483 U.S.
+
+776, 794 (1987)); Hall v. State, 151 Idaho 42, 53, 253 P.3d 716, 727 (2011) (rejecting argument
+that "heightened procedural safeguards should be employed at discovery in capital cases.").!°
+
+        Row, a capital case, is instructive here. On post-conviction, Row argued her counsel was
+deficient because they failed to perform an adequate investigation into Row's background in
+search of mitigating evidence. 131 Idaho at 313, 955 P.2d at 1092. Specifically, Row argued
+
+
+
+9
+ The Idaho Supreme Court reiterated this principle in State v. Dunlap, 155 Idaho 345, 388, 313 P.3d 1, 44 (2013)
+and State v. Hall, 163 Idaho 744, 823, 419 P.3d 1042, 1121 (2018).
+
+10
+   Although, as the State points out, the Idaho Supreme Court has declined the "invitation to adopt these
+guidelines," State v. Porter, 130 Idaho 772, 782, 948 P.2d 127, 137 (1997), the Idaho Public Defender Statutes,
+adopted in 2023, requires the State Public Defender to implement to ABA Guidelines for defendant attorneys
+delivering indigent defense services. I.C. § 19-6005(4). Further, the U.S. Supreme Court has recognized that ABA
+Guidelines for defending attorneys are "guides to determining what is reasonable." Wiggins v. Smith, 539 U.S. 510,
+522 (2003); see also, Cullen v. Pinholster, 563 U.S. 170, 195 (2011) ("Beyond the general requirement of
+reasonableness, 'specific guidelines are not appropriate."""). In other words, the ABA Guidelines are not dogmatic
+code; they are simply roadmaps to aid counsel in complying with their obligations of representation.
+
+
+                                                         6
+counsel "should have investigated her life from birth to the sentencing hearing, that counsel were
+deficient in presenting her mental health workup[.]" /d. The Court rejected this claim, holding
+that counsel "was not required to investigate Row's entire life in order to objectively and
+
+reasonably present Row's mitigation evidence." Jd. The Court further noted the "great lengths"
+counsel underwent to investigate and present mitigating evidence from several of Row's friends,
+Health and Welfare records, letters from friends and family, and Veteran's Administration
+records concerning Row's husband's previous injuries and the couple's relationship. /d.
+
+         The investigation Defendant's experts have undertaken over the past two-plus years far
+exceeds that in Row and, in fact, readily appears to satisfy the relevant ABA Guidelines cited by
+
+Defendant It-ncludés,-but is not limited to:
+             1
+
+
+
+
+    e    Defendant's K-PhD education records, including coursework, interviews and
+         correspondence;
+    e    Defendant's mental health and medical records, including
+
+    e    Records related to a childhood car accident;
+    e    Defendant's employment records;
+    e    Mental health, education and employment records of Defendant's sisters;
+    e    Mental health records of Defendant's parents,
+    e    Father's military records and social security records;
+    e    Court records from multiple generations of Kohberger family (paternal side)
+    e    VA records and death certificates from maternal and paternal uncles,
+    e    Multiple interviews with Defendant and each immediate family member;
+    e    Interviews of two of Defendant's fourth grade teachers, former boxing coach, and
+         psychologist who evaluated Defendant in 2005;
+    e    Interviews with multiple members of Defendant's extended family on maternal and
+         paternal side;
+    e    Interviews-with Defendant's professor and advisor at DeSales University;
+    e    Interviews of Defendant's former co-worker;
+    e    Interviews of at least one family friend, and;
+    e    Letters and jail calls between Defendant and his family.'?
+
+         It is evident from the reports of Defendant's mitigation experts, Dr. Orr, Dr. Ryan and Dr.
+
+Brams, that they have developed an expansive understanding of Defendant's family
+
+
+  In its Opposition to Defendant's current motion, the State appended two tables that cross-reference the list of tasks
+Defendant has identified from the ABA Guidelines with the actual record in this case. These tables demonstrate that
+the guidelines have been amply satisfied.
+
+'2These topics of investigation were obtained from Defendant's disclosed penalty-phase expert reports.
+
+
+                                                           7
+environment, social development history, family history (both nuclear and extended over
+
+multiple generations), educational history and mental health and medical history. From this
+evidence, these experts have rendered several current diagnoses and identified other diagnoses
+for which Defendant "met criteria" at some point in his life.
+
+           Despite such an extensive investigation, Defendant claims additional investigation is
+warranted to identify: 1)
+
+                                 and; 2)
+
+                          However, Defendant has not established that such investigation is
+
+constitutionally compelled, particularly given the extensive work already completed. Rather, the
+claimed need is-based on unqualified speculation by
+                                                                                        Defendant has 2ot
+
+offered any declaration by any of his disclosed mitigation experts opining the same, nor has he
+
+pointed to anything in their expert reports that would support                             speculation. As
+
+noted, a continuance of trial is not warranted to chase down mere speculation that potential
+evidence exists. Rowe, 2014 WL 4244336, at *2. Further, Defendant has not set forth a plan for
+continued investigation, how much time it will take, what his team expects the investigation will
+
+reveal, why it is necessary to uphold his constitutional rights and why these matters are only now
+
+being raised with the Court. Additionally, assuming guilt is found, the penalty phase of the case
+will not begin until late October or early November. Thus, there remains significant time                fog
+wa         and her team to continue their investigation and to supplement expert disclosures if
+
+warranted.
+                    1.
+
+
+                            speculation that Defer
+                                                   is simply that   -
+                                                                        speculation built on circumstantial
+videree,
+
+
+
+
+ S
+     In a second declaration submitted June 16. 21)25,
+
+
+
+                                                           8
+conditions   which are currently attributed by his own mitigation experts to his ASD, OCD
+and/or ADHD        are consistent with childhood trauma, and; 5) there is evidence of poverty, both
+
+generational and familial.
+
+       According to
+
+
+              14
+
+
+
+
+       Notably missing from ,§BERPdeclaration is any indication as to how she intends to
+confirm her suspicions or how long she expects it to take, be that months, years or even
+
+decades.'> Defendant has been subjected to multiple lengthy interviews by several different
+
+experts over the past two years. Based on the expert reports reviewed by this Court,
+
+
+                     16
+                          Defendant's family has likewise been extensively interviewed and there has
+
+
+
+
+14
+
+
+
+
+15
+
+
+
+
+16
+
+
+
+
+                                                    9
+been no report that                                                                            None of
+Defendant's                                  ave raised the alarm tha
+
+                               despite having the same information                        clies upon.
+
+
+
+
+                                                                                                    17
+
+
+
+
+                                I stead, it is an invitation for a perpetual continuance.
+
+            More importantly, aside from the
+                      all of this information has been available and documented in the record for
+months.!® Yet again, that Defendant is only now moving for a continuance for further
+
+investigation into                      vosupported suspicions smacks of tactical gamesmanship and
+
+delay. Absent more compelling evidence that
+
+                                                                                                         plan for
+
+17
+
+
+
+
+                                                        t is unreasonable for the Court to continue the trial
+ndefinitely for
+                                                                   plan that is temporally unbounded, substantively
+undef ned    and un    e y to) re     any re evant m1t gat on evidence in the foreseeable future.
+
+
+
+
+                                                           10
+uncovering it, and a reasonable timeline to do so, there is no constitutional basis for further
+investigation, particularly on an open-ended basis with no plan to bring the matter home.
+                2.
+
+        Counsel's argument that more time is needed to investigate whether
+                                                                     {ice ise squarely unsupported.
+
+
+
+
+                                                               ()<efendant has never moved for an
+
+extension to his disclosure deadline for penalty-phase experts so as to allow further opinions in
+
+this regard.
+
+        Nevertheless,                  who, again, is not even marginally qualified to opine
+                                        believes lich here is evidence tha
+                        8110 seeks additional time to unearth it. Her support    which she has not
+
+provided to the Cour
+
+
+
+
+        Again, not one of Defendant's                   experts   who have had the same
+
+information                has identified   has submitted a declaration stating that they may change
+
+their diagnoses based on further investi gation                                 Rather, it is based on
+
+               speculation that further investigation might   change                    Such
+
+speculation is not grounds for a continuance
+
+
+
+
+                                                   11
+                             30
+
+
+
+
+       Not only is there a lack of support in the record for                anticipation that more
+
+investigation into                                                             to change their minds,
+
+            and her team and defense counsel have known since November of 2024 that
+
+
+
+                                                           Neither the defense tear nor
+
+have articulated what efforts they have made, if any, since that time to understand the basis of
+
+                     Further, they have not indicated what plan they have to obtain this information
+if a continuance is granted or how long it will take.
+
+
+
+        In sum, Defendant has not demonstrated that a continuance for further investigation into
+
+potential mitigation evidence is necessary to uphold his constitutional rights. The right to present
+
+mitigation evidence and the right to effective assistance of counsel do not necessitate an
+investigation of his entire history; they simply require that the investigation be reasonable. While
+"easily available mitigation evidence cannot be ignored," Defendant's briefing demonstrates that
+the evidence they are attempted to obtain is far from "easily available" and, in fact, may not even
+
+exist. Dunlap, 155 Idaho at 388, 313 P.3d at 44. Further, the evidence prompting the need for
+further investigation has,                              been available for months yet it is only now
+
+that Defendant seeks a continuance. This tactic seems geared toward achieving delay rather than
+
+a good faith effort to obtain meaningful mitigation evidence.
+
+
+                                                  12
+         Moreover, Defendant provides absolutely no plan for how further investigation will
+
+proceed, who will be interviewed or how long it will take. The Constitution does not demand and
+this Court is not willing to continue the trial indefinitely to allow the defense team to embark on
+
+a fishing expedition, pulling at every conceivable thread in Defendant's familial tapestry.
+
+Counsel's assertion that they will be better prepared with more time and more evidence is an
+assertion shared by every lawyer involved in a trial. At some point                  and particularly after two
+
+and one-half years of investigation          the defense team must be satisfied with what they have
+
+which, in this cas, is extensive.!? In addition, while the crime victims' rights to a "timely
+disposition" under Article I, § 22 of the Idaho Constitution and I.C. § 19-5306 do not trump
+Defendant's federal constitutional rights," they provide an additional justification for proceeding
+with trial as scheduled. For these reasons, a continuance is not warranted.
+         C.       A Continuance Is Not Warranted Due to Pretrial Publicity.
+         Defendant next seeks a continuance due to recent, inflammatory pretrial publicity. On
+
+May 9, 2025, approximately three months before trial is set to begin, Dateline NBC aired a two-
+hour episode about this case. The episode included details and materials about the case which, if
+
+true, are not publicly available and which promote a narrative of guilt. Defendant also advises
+that on July 9, 2025, Amazon Prime Video is planning to release a four-part docuseries about the
+
+homicides and on July 14, 2025. crime author James Patterson is set to release a book he wrote
+about the same. Defendant contends that this media coverage so close to trial threatens his right
+
+to a fair trial by an impartial jury, which can only be ameliorated by a continuance. In addition,
+
+Defendant argues that a continuance is necessary to investigate the source of the leaks to the
+media and impose accountability. The Court does not agree that either argument compels a
+continuance.
+
+
+
+19
+
+
+
+
+                                     However, this does not mean that the investigation into mitigation evicence
+has been unreasonable. It simply means that the investigation as it regards                 1d not bear all the fruit
+
+           or defense counsel speculated it might bear. Further,            has provided no basis to believe that
+                                           with more time or that they may be the source of yet-uncovered
+mitigation evidence.
+
+20
+  Federal constitutional rights trump state constitutional and statutory rights. U.S. Const. art. VI ("This Constitution,
+and the Laws of the United States which shall be made ... under the Authority of the United States, shall be the
+supreme Law of the Land ...."")
+
+
+                                                           13
+                 1.      Defendant's right to a fair trial is not denied by the pretrial publicity,
+                         which is not likely to subside with time.
+          The Sixth Amendment to the U.S. Constitution affords all criminal defendants, the
+"fundamental right to a fair trial." Strickland v. Washington, 466 U.S. 668, 684 (1984). This
+
+includes the right to have "impartial jurors, who know ass little as possible of the case" decide the
+
+defendant's guilt based on material admitted into evidence before them in a court proceeding,
+
+uninfluenced by extrajudicial statements. Gentile v. State Bar of Nevada, 501 U.S. 1030, 1070
+
+(1991). A trial judge has an affirmative duty to minimize the effects of pretrial publicity.
+Sheppard v. Maxwell, 384 U.S. 333 (1966).
+          In Sheppard, relied upon by Defendant, the United States Supreme Court recognized the
+
+adverse effect inflammatory publicity has on the ability to obtain an impartial jury and strongly
+
+urged trial courts to act quickly and forcefully in addressing such publicity. 384 U.S. at 335, 361.
+The Court further advised that "where there is a reasonable likelihood that prejudicial news prior
+to trial will prevent a fair trial, the judge should continue the case until the threat abates, or
+
+transfer it to another county not so permeated with publicity." Jd. at 363.
+
+          This statement from Sheppard, however, must be read in context. The media coverage in
+that case is far different from that present here. In Sheppard, news reporters extensively covered
+
+the story of Sam Sheppard, who was accused of bludgeoning his pregnant wife to death. The
+
+Court examined the extensive media fanfare surrounding the case, noting:
+
+          Sheppard was not granted a change of venue to a locale away from where the
+          publicity originated[,] nor was his jury sequestered...For months the virulent
+          publicity about Sheppard and the murder had made the case notorious. Charges
+          and countercharges were aired in the news media besides those for which
+          Sheppard was called to trial. In addition, only three months before trial, Sheppard
+      -
+
+
+
+
+          was examined for more than five hours without counsel during a three-day inquest
+          which ended in a public brawl. The inquest was televised live from a high school
+          gymnasium seating hundreds of people. Furthermore, the trial began two weeks
+          before a hotly contested election at which both Chief Prosecutor Mahon and
+          Judge Blythin were candidates for judgeships.
+Id. at 352-54.
+          The Court found there was no "doubt that this deluge of publicity reached at least some
+of the jury," given that when the jury was questioned for the only time, "two jurors admitted in
+open court to hearing the highly inflammatory charge that a prison inmate claimed Sheppard
+                                                                                                      was
+
+the father of her illegitimate child." /d. at 357. Nevertheless, the trial judge rejected requests by
+
+
+
+                                                    14
+defense counsel for the jurors to be asked "whether they had read or heard specific prejudicial
+
+comment(s] about the case." Jd. Further, the jurors "were subjected to newspaper, radio and
+television coverage of the trial while not taking part in the proceedings" and "were allowed to go
+their separate ways outside of the courtroom, without adequate directions not to read or listen to
+
+anything concerning the case." /d. at 353. The judge gave "suggestions" and "requests" to the
+jurors "[a]t intervals during the trial" to refrain from commenting upon the case, but "the jurors
+were thrust into the role of celebrities by the judge's failure to insulate them from reporters and
+
+photographers." Jd. "[B]edlam reigned at the courthouse during the trial and newsmen took over
+
+practically the entire courtroom[.]" Jd. at 355.
+       The Court reversed Sheppard's murder conviction. Crucially, the Court stated that
+
+although the pretrial publicity alone was not sufficient to warrant relief, when combined with the
+"carnival atmosphere" the press created at trial and the judge's inability or lack of desire to
+control courtroom proceedings, Sheppard's right to a fair trial was denied. 384 U.S. at 354-58.
+
+See also, Nebraska Press Assn. v. Stuart, 427 U.S. 539, 554 (1976) ('{P]retrial publicity-even
+
+pervasive, adverse publicity-does not inevitably lead to an unfair trial(.]""); Skilling v. United
+States, 561 U.S. 358, 384 (2010) (same).
+        If "months [of] virulent pretrial media coverage" was not enough to deny due process in
+Sheppard, it is certainly not enough in this case, where the media coverage has been far less
+
+pervasive In addition, this Court is employing the measures recommended in Sheppard to
+protect a defendant from prejudicial pretrial publicity, to wit: 1) limiting the number of reporters
+in the courtroom during trial; 2) insulating prospective witnesses from interviews with the media
+about their prospective testimony, and; 3) making an effort to "control the release of leads,
+
+information, and gossip to the press by police officers, witnesses, and the counsel for both sides"
+to avoid the disclosure of inaccurate and/or inadmissible information to the public. Jd. at 358-
+
+361.
+
+        Ultimately, whether Defendant can receive a fair trial depends on whether a fair and
+impartial jury can be seated. As the United States Supreme Court has said:
+        To hold that the mere existence of any preconceived notion as to the guilt or
+        innocence of an accused, without more, is sufficient to rebut the presumption of a
+        prospective juror's impartiality would be to establish an impossible standard. It is
+        sufficient if the juror can lay aside his impression or opinion and render a verdict
+        based on the evidence presented in court.
+
+
+
+                                                   15
+Irvin v. Dowd, 366 U.S. 717, 723 (1961).
+
+         Accordingly, the Idaho Supreme Court has long recognized that trial courts can
+successfully select an "impartial jury" despite "widespread publicity." State v. Windsor, 110
+Idaho 410, 415-16, 716 P.2d 1182, 1187-88 (1985). In State v. Fetterly, a capital case, the Idaho
+
+Supreme Court disagreed with the defendant's claim that "extensive publicity prior to trial
+
+deprived him of the opportunity to be tried before an impartial jury." 109 Idaho 766, 769, 710
+P.2d 1202, 1205 (1985). Because "'each juror was extensively questioned to determine the degree
+of their exposure to the pretrial publicity[,]" the Court found the defendant's rights were
+preserved. Jd. In the defendant's subsequent habeas case, the Ninth Circuit examined at length
+the entire voir dire process and found no prejudice even though, on the day ofjury selection, the
+
+case was covered on the front page of the local newspaper as well as on T.V. and the radio.
+
+Fetterly v. Paskett, 163 F.3d 1144, 1148 (9th Cir. 1998).
+         With the measures the Court has already put in place to protect Defendant against the
+
+pretrial media coverage and the Court's carefully crafted jury selection process, there is no
+reason to think that an impartial jury cannot be selected through a searching and robust voir
+
+dire.?! In addition, while continuances may be appropriate if pretrial scrutiny is reasonably
+
+expected to fade with time, it is an ineffective tool where publicity is such that there is no reason
+
+anticipate that it would subside by any delay which would not put off the trial indefinitely. In
+United States v. Moreno Morales, the Court of Appeals for the First Circuit noted:
+         The denial of a motion for an indefinite or substantial continuance predicated
+         upon widespread adverse pretrial publicity about a defendant is all the more
+         warranted when, as here, there is sound reason to believe that the defendant will
+         continue to. be a controversial, publicity-invoking figure and, hence, that there is
+         little assurance that the passage of time will result in an abatement or subsidence
+         of critical publicity in the foreseeable future.
+815 F.2d 725, 737 (1st Cir. 1987) (internal citation omitted).
+
+         The court observed that the Sixth Amendment's guarantee of a speedy trial is one to
+which the government and society, as well as the accused, has a claim, and stated that society
+"cannot be utterly deprived of the right to prosecute and try someone for a crime within a
+reasonable time merely because of widespread community knowledge." Jd. at 739. See also;
+
+
+
+2!
+  In his reply, Defendant argues that the allotted time is not sufficient for voir dire given the "vast media coverage."
+The Court recognizes that more time may be needed and has built in additional days for voir dire for this purpose.
+
+
+                                                           16
+Gilday v. Callahan, 866 F. Supp. 611, 627 (D. Mass. 1994), affd, 59 F.3d 257 (1st Cir. 1995)
+(denying continuance upon finding no reason the intense public interest in the case would abate);
+United States v. Dennis, 183 F.2d 201, 226 (2d Cir. 1950), affd, 341 U.S. 494 (1951)
+
+(concluding that where pretrial publicity and "cheated" public opinion was ongoing, there was no
+"reasonable hope" that it would fade with a continuance).""
+
+        Here, there is no assurance that the pretrial publicity will fade with time. The murders
+occurred over two and one-half years ago. The circumstances of the murders were provocative                      -
+
+
+
+
+four college students in a small Idaho college town were brutally stabbed to death by an
+
+unknown perpetrator. It was an immediate media sensation and garnered widespread attention
+that not only continues to persist, but continues to grow.
+
+        Eighteen months ago, Defendant moved for a change of venue from Latah County due, in
+
+part, to the "extensive, inflammatory pretrial publicity" and "allegations made about Mr.
+
+Kohberger to the public by media that will be inadmissible at trial." Mtn. for Change of Venue
+(Jan. 30, 2024). He argued that Latah County was not large enough to "avoid the bias" caused by
+the "pervasive prejudicial publicity." Jd. Defendant's motion was granted and, as a result, the
+
+trial date was continued by approximately ten weeks.
+        Those additional ten weeks have not resulted in fading media attention; it has only given
+the media more time and opportunity to provide coverage to a public audience which is
+
+clamoring for answers. The longer the public is made to sit and wait for the facts to come out at
+trial, the more time there is for inflammatory, speculative stories, movies and books to circulate
+and more time for prior ones to be rebroadcast, purchased, viewed and consumed by the public.
+
+Proceeding with trial as scheduled will likely avoid negative consequences from future publicity.
+Thus, the Court finds a continuance is not warranted based on the medial coverage. Rather,
+careful and patient voir dire is prescribed.
+                 2.       A continuance is not warranted to investigate the leak of information.
+         Defendant also asserts that a continuance is necessary to accommodate the special
+
+prosecutor's investigation into the source of the leaks to the media and to impose accountability.
+
+
+
+22
+  In fact, long ago the Idaho Supreme Court recognized that "the existence of popular excitement and prejudice
+against the defendant is not ground for a postponement of trial in a criminal case, but may be grounds for change of
+venue." State v. Rice, 7 Idaho 762, 66 P. 87 (1901). Defendant has already moved for and received a change of
+venue.
+
+
+                                                         17
+With regard to the Dateline episode, Defendant points out that Dateline represented that the
+material came from sources "close to the investigation." He notes that Patterson's upcoming
+
+book on the crime promises claims to be "the most comprehensive narrative" of the
+
+"investigation and evidence to date" and is based on over 300 interviews several individuals,
+including the victims' families and "local law enforcement." He also notes that the Amazon
+Prime docuseries promises to be told in "captivating, tense, and emotionally wrenching detail"
+
+by "only those involved in and affected by the crime[.]""* He argues that if any of the leaks came
+from witnesses the State intends to call or from others involved in the investigation, the
+
+information is Brady material because it would serve to impeach the leaker's credibility and may
+be exculpatory in nature."° He adds that if the investigation reveals that other State agents had
+
+information about the leaks but failed to disclose it, this omission would constitute a Brady
+violation.
+        As noted, a continuance is not warranted where the information sought thereby is mere
+speculation. Rowe, 2014 WL 4244336, at *2. Defendant's Brady argument is built on a house of
+                        ~
+speculative assumptions an assumption that there was a leak by persons bound by the non-
+dissemination order, an assumption the leaker(s) will be found, an assumption that the leaker(s)
+were law enforcement,"° an assumption that the leaker(s) (or others who may be were complicit)
+
+will be testifying as a government witness, and an assumption that these witnesses will likely be
+material. Such assumptions are not grounds for a continuance, particularly given that there is no
+
+guarantee if and when they will be confirmed or debunked. This trial cannot be held hostage
+
+indefinitely to the outcome of the investigation, particularly given the very significant chance the
+
+23
+  James Patterson, "The Idaho Four: An American Tragedy," https:/www.amazon.com Tdaho-Four-American-
+Tragedy. dp0316572853
+
+244mazon MGM Studios, "Prime Video Debuts Trailer for One Night in Idaho: The College Murders (June 12,
+2025), https/'press.amazonmemstudios.com us' enpress-release prime-video-debuts-trailer-for-ione-night-in-idaho
+
+25
+  Pursuant to Brady v. Maryland, a prosecutor has a constitutional duty to disclose favorable evidence to the
+accused where such evidence is "material" either to guilt or to punishment. 373 U.S. 83, 87 (1963). This duty covers
+not only exculpatory material, but also information that could be used to impeach the credibility of a key
+government witness. Giglio v. United States, 405 U.S. 150, 154 (1972).
+26
+  While the Court observed in its Document and Records Hold Order (May 15, 2025) that it "appear[ed] likely that
+someone currently or [formerly] associated with law enforcement, or the prosecution team, violated this Court's
+non-dissemination order," it could have been someone from the defense team or someone not subject to the non-
+dissemination order. The Court has not made and was not, by this statement, making a finding or otherwise accusing
+law enforcement or the prosecution of such.
+
+
+                                                         18
+leaker(s) may never be discovered." Thus, the Court will not continue the trial pending the
+results of an investigation based on speculation that it will be successful and the hope that
+
+impeachment evidence may be uncovered as a result.
+IV.     ORDER
+        Based on the foregoing, Defendant's Motion to Continue is DENIED.
+
+
+IT IS SO ORDERED.
+
+DATED this              ay of June, 2025.
+
+
+                                                                               44
+                                                       Stevert ]Hippler®
+                                                       District Judge
+
+
+
+
+27
+   In addition, even assuming it was law enforcement who leaked the information, the FBI played a preeminent role
+in the investigation of this case. If the leak(s) were from the FBI, a state court's ability to further investigate is
+highly circumscribed and limited if not altogether foreclosed. In addition, law enforcement in Pennsylvania and
+Washington may have had formal or informal access to some of the evidence, yet an Idaho state court may have
+significant limitations on the ability to investigate them.
+
+                                                              19
+                                      CERTIFICATE OF SERVICE
+
+|
+    hereby certify that on
+                             6/26/2025         |   served a true and correct copy of the REDACTED
+MEMORANDUM DECISION AND ORDER ON DEFENDANT'S MOTION TO CONTINUE
+    to:
+
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.gov
+
+ASHLEY JENNINGS
+SENIOR DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JOSHUA D. HURWIT
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: jeff.nye@aaq.idaho.gov
+
+MADISON ALLEN
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Madison.allen@aa.idaho.qov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetayloriaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+    IDAHO STATE PUBLIC DEFENDER'S OFFICE
+    FIRST DISTRICT PUBLIC DEFENDER
+    JAY W. LOGSDON
+VIA EMAIL: jay.loasdon@spdidaho.gov
+
+    BICKA BARLOW
+    Pro Hac Vice
+    VIA EMAIL: bickabarlow@sbcalobal.net
+
+
+
+                                                             TRENT TRIPPLE
+                                                             Clerk of the Court
+
+                                                      By :   fi. AW)
+                                                             Deputy         6/26/2025 2:09:21 PM
+
+
+
+
+    CERTIFICATE OF SERVICE
+

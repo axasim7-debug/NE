@@ -1,0 +1,41 @@
+07/08/25                       Moscow Police Department                      1272
+11:35                       Law Supplemental Narrative:              Page:      1
+  Details
+Incident Number      22-M09903          Name   Brett Payne
+Sequence Number      181                Date   06:13:44 04/04/23
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+WSU Subpoena Installment 6-#157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+NA-Files attached to case digitally
+3.        Narrative
+
+When I reported for duty on Tuesday April 4, 2023, I had an email from S
+containing another secure download link for installment 6 of the requested WSU
+subpoena documents.
+I accessed the files via the secure portal, downloaded them, and attached them
+to this case electronically. The files contained student schedules for Kohberger
+and chat logs from Microsoft Teams.
+4.        Other
+None
+
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+
+CPL Payne #157
+Tue Apr 04 06:18:13 PDT 2023
+
+Reviewed By:
+Sgt. Dustin Blaker #108
+Mon Apr 10 15:24:59 PDT 2023
+

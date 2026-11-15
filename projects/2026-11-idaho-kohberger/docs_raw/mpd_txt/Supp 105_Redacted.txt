@@ -1,0 +1,48 @@
+07/08/25                     Moscow Police Department                        1272
+10:55                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number    105                Date   15:00:28 01/10/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Kohberger Phone Data
+
+Case # 22-M09903
+Date: 1/10/2022
+
+On December 29, 2022, based on the above information, the Latah County Court
+signed and order finding probable cause for the Criminal Complaint charging
+Burglary, Idaho Code 18-1401, 1403, and four counts of Murder in the First
+Degree, Idaho Code 18-4001, 4002, 4003, 4004, all Felonies. A warrant of arrest
+was issued for Bryan C. Kohberger.
+
+On December 29, 2022, Bryan Kohberger was arrested at his family's home
+               in Albrightsville, Pennsylvania. That same day a Pennsylvania
+magistrate signed a search warrant for the residence which included Bryan
+Kohberger's cell phone. Bryan Kohberger's cell phone was taken into evidence as
+part of that search warrant. Kohberger's cell phone device is currently in
+evidence at the FBI - Philadelphia Regional Computer Forensic Laboratory
+(PHRCFL) located at                                                       . The
+phone data was extracted by FBI SSA Jeffrey Tanzola subsequent to the warrant
+being served.
+On January 9, 2023, I received a hard drive from SSA Tanzola, which contains a
+copy of the data extracted from the phone belonging to Kohberger. The data is
+saved on a Seagate 2TB External USB Drive with serial number #         and is
+labeled as Philadelphia RCFL evidence # 00043447. I applied for and was granted
+a warrant seeking the evidence from the hard drive provided by Pennsylvania
+which contains a forensic image of Bryan Kohberger's phone which was stored in
+the secured computer forensics lab at the Moscow Police Department.
+
+At 1550 hours on January 9, 2023, I served the warrant on the hard drive located
+in the forensics lab. Pursuant to the warrant I downloaded the files to the
+forensic computers located in the secure forensic computer lab at the Moscow
+Police Department.
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also left
+a copy of the receipt and warrant with the drive, which was placed back into
+

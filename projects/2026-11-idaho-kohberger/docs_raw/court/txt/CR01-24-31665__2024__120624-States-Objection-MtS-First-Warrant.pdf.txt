@@ -1,0 +1,353 @@
+                                                                                 Filed: 12/6/2024
+                                                                                 Fourth Judicial District, Ada County
+                                                                                 Trent Tripple, Clerk of the Court
+                                                                                 By: Deputy Clerk Smith, Margaret
+                                                                                                    -
+
+
+
+
+LATAH COUNTY PROSECUTOR'S OFFICE
+WILLIAM W. THOMPSON, JR., ISB No. 2613
+PROSECUTING ATTORNEY
+ASHLEY S. JENNINGS, ISB No. 8491
+SENIOR DEPUTY PROSECUTING ATTORNEY
+Latah County Courthouse
+522 S. Adams Street, Ste. 211
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+
+                IN THE DISTRICT COURT OF THE FOURTH DISTRICT OF THE
+
+                     STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+
+ STATE OF IDAHO,                                               Case No. CR01-24-31665
+                   Plaintiff,
+                                                               STATE'S OBJECTION TO
+                                                               DEFENDANT'S MOTION TO
+ V                                                             SUPPRESS AND MEMORANDUM
+                                                               IN SUPPORT
+ BRYAN C. KOHBERGER,
+                    Defendant.                                 RE: AT&T FIRST WARRANT
+
+
+
+        COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney
+
+and respectfully responds to "Defendant's Motion to Suppress and Memorandum in Support Re:
+
+AT&T First Warrant" filed on November 13, 2024.!
+
+
+
+
+'
+  Defendant's filing refers to a ""contemporaneously filed Motion for an Order suppressing all evidence gathered by
+law enforcement from its search of his AT&T account." However, the State is not aware of a separate
+"contemporaneous" filing, so the State's response is only to the contents of the Defendant's singular "Motion to
+Suppress and Memorandum in Suppor."
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN
+SUPPORT RE: AT&T FIRST WARRANT                                                                                        1
+                                                FACTS
+
+         Regarding the Defendant's represented "FACTS," the State respectfully refers the Court
+
+to the State's Exhibits S-1 and S-2 filed in support of his instant motion as opposed to relying on
+
+the Defendant's subjective summary and interpretation that begins at Page 2. The State's
+
+Exhibits are attached as follows:
+
+         e   Affidavit for Search Warrant for AT&T with appended Exhibits (State's Exhibit S-1)
+
+         e   AT&T Search Warrant (State's Exhibit S-2)
+
+
+
+                                            ARGUMENTS
+
+   1         DEFENDANT HAS NOT DEMONSTRATED THE SEARCH WARRANT
+             AFFIDAVITS CONTAIN INTENTIONALLY OR RECKLESSLY FALSE
+             STATEMENTS OR OMISSIONS.
+
+         As the Defendant correctly acknowledges, he has a privacy interest in his AT&T account
+
+records. As such, the State sought and was granted a search warrant to review those records.
+
+Defendant mounts an attack on the warrant under Franks. For the reasons articulated in the
+
+State's response to Defendant's Franks motion, this argument fails. The State incorporates its
+
+argument and pleadings on the Franks issue as opposed to restating the same.
+
+
+   II.       THE AT&T WARRANT WAS NOT A GENERAL WARRANT
+
+         A. Fourth Amendment Analysis Regarding Particularity
+
+         For the Court's convenience, the State incorporates its analysis in "State's Objection to
+
+Defendant's Motion to Suppress and Memorandum in Support Re: Apple First Warrant" regarding
+
+the applicable case law to apply for Fourth Amendment analysis as opposed to restating the same.
+
+See pages 6-11.
+
+
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN
+SUPPORT RE: AT&T FIRST WARRANT                                                                        2
+        B. State v Wilson
+
+        Defendant additionally relies on State v Wilson, 884 S.E.2d 298, 300-01 (Ga. 2023) so the
+
+State will address it here. Unfortunately for the Defendant, his reliance is misplaced because Wilson
+
+is not binding on this Court and is factually distinct from this case. Wilson dealt with the
+
+
+particularity requirement specific to a cell phone warrant. Since the particularity determination is
+
+fact specific, it is important to understand the facts in Wilson.
+
+        In Wilson, a man was shot and killed at an apartment complex. After investigating at the
+
+
+crime scene, officers determined the shooter was a "black male driving a teal 1990s model Ford
+
+Aerostar van with a missing hubcap." Using a license plate reader system, officers located a
+
+matching vehicle a few miles from the location. Wilson was the registered owner of the vehicle and
+
+was arrested. Pursuant to a search warrant, officers located two cell phones belonging to Wilson. An
+
+investigator subsequently sought a second warrant for a "forensic examination" of the cell phone
+
+based on a search warrant application. The magistrate issued a warrant for "all stored electronic
+
+
+information, including but not limited to; user account information, stored phone information,
+
+images, text messages, videos, documents, e-mails, internet activity, call logs, contact information,
+
+phonebook, or any deleted data." The Search Warrant included preprinted language with check
+
+boxes from which officers checked which crimes the investigators believed the cell phones were
+
+used in the commission of. The Wilson Court held the "warrant's complete absence of limiting
+
+
+language distinguishes it from other warrants we have upheld in prior cases based on the presence
+
+of so-called 'residual clauses' or other limiting language." The Court took issue with simple listing
+
+of crimes as the limiting instruction. The Wilson Court noted a warrant that stated "cell phones (to
+
+include all data contained therein) ... which are being possessed in violation of Georgia Laws:
+
+OCGA § 16-5-1 Murder" was sufficient. Further, "messages photographs, videos, contacts, and
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN
+SUPPORT RE: AT&T FIRST WARRANT
+                                                                                                        we
+another application data, or any other evidence of the crime of murder" were sufficiently
+
+
+particularized because it limited the search to "items reasonably appearing to be connected to the
+
+[the victim's] murder."
+
+        The Georgia Supreme Court's decision in Wilson has no factual or legal bearing on this
+
+case. First, the warrant application was not a simple check the box form and was supported by a
+
+substantial probable cause affidavit. The Defendant argues the only limiting factor was the reference
+
+to "homicide(s) in this case" however this ignores the actual language of the warrant. The actual
+
+
+language of the Search Warrant (Exhibit S-2) limited the evidence to the "crime(s) of homicide at
+
+1122 King Road in Moscow, Idaho ...on the AT&T account associated with the phone number 509-
+
+592-8458 between November 12, 2022, at 12:00 a.m. PST to November 14, 20222 at 12:00 a.m.
+
+PSWT)." Exhibit A limited the scope of the warrant even further:
+
+        In this particular investigation, I believe that historical phone records between the hours
+        of November 12, 2022, at 12:00 a.m. and November 14, 2022, at 12:00 a.m. would aid in
+        determining whether the 8458 Phone's activity is consistent with the travel of the white
+        Elantra, whether the 8458 Phone was in the vicinity of the King Road Residence on
+        November 13, 2022, or prior as part of planning this offense, or if the phone was not
+        reporting to the network during the alleged offense due to being turned off.
+
+        Additionally, I believe that prospective phone records will aid in determining the location
+        of the 8458 phone and the white Elantra in efforts to determine whether the white Elantra is
+        the same vehicle identified in front of the King Road Residence (Suspect Vehicle 1) on
+        November 13, 2022, at approximately 4:20 a.m.
+
+        I am requesting a search warrant for historical phone records between November 12,
+        2022 at 12:00 a.m. and November 14, at 12:00 a.m. for Kohberger's phone number 509-
+        592-8458 held by the phone provider AT&T.
+
+
+States Exhibit S-1, at Pages 11-12. Even if the Wilson court's decision were binding on this Court
+
+and it is not-the comparative lack of specificity in that case's warrant application is too factually
+
+distinct from this case to be of any value.
+
+
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN
+SUPPORT RE: AT&T FIRST WARRANT                                                                          4
+         C. The AT&T Search Warrant, When Considered with the Search Warrant Affidavit
+
+                 and Exhibit A, Satisfies the Particularity Requirement
+
+         Idaho allows a search warrant affidavit to support the particularity requirement when the
+
+warrant references the affidavit for probable cause. Adamcik, 163 Idaho at 124-25, 408 P.3d at 484-
+
+85. There are no magic words for reference. As stated above, the AT&T Search Warrant specifically
+
+referenced the Search Warrant Affidavit (and appended Exhibit) with the words "Proof, upon oath,
+
+this day showing probable cause." When the AT&T Search Warrant is considered along with the
+
+Affidavit for Probable Cause and the appended 12-page Exhibit, the warrant is sufficiently
+
+particular and valid. In fact, Corporal Payne set forth why he believed the Defendant's cell phone
+
+would contain evidence of the crime, specifically, why each category of digital evidence listed on
+
+the warrant would reveal such information.
+
+         While the AT&T Search Warrant was broadly worded regarding each category of digital
+
+evidence listed, the Search Warrant Affidavit and appended Exhibit provide the particularity
+
+necessary to satisfy the three-factor test set forth in Zeal. 145 Idaho 985, 989, 188 P.3d 927, 931 (Ct.
+
+App. 2008).
+
+         First, probable cause existed to seize all items of a particular type described in the warrant.
+
+The specific phone number is listed in the affidavits and the individual categories of digital
+
+information sought are set forth in detail, including why probable cause existed to search those
+
+
+digital files.
+
+         Second, the warrant set out objective standards by which executing officers could
+
+differentiate items subject to seizure from those that were not. First, the seizure of items was limited
+
+to the crime for which the Defendant was arrested: homicide(s) at     1   122 King Road in Moscow,
+
+
+Idaho. Second the warrant was temporally limited to the time of November 12, 2022, at 12:00 a.m.
+
+
+STATE'S OBJECTION TO DEFENDANTS MOTION TO SUPPRESS AND MEMORANDUM IN
+SUPPORT RE: AT&T FIRST WARRANT                                                                             5
+PST to November 14, 2022, at 12:00 a.m. PST. The locations of digital information were specific
+
+allowing the executing officer to differentiate the digital files subject to seizure from those that were
+
+note.
+
+
+        Third, the government was not able to describe the items more particularly considering the
+
+information available to it at the time the warrant was issued. Detective Payne was seeking evidence
+
+that could be located in multiple formats and areas and considering electronic data can be stored
+
+
+anywhere, it was impossible for Detective Payne to narrow down in advance the AT&T areas that
+
+should be searched. As a result, if the Court employs a "common sense and realistic" approach and
+
+not the "hyper technical" approach the Defense is suggesting, the Court should find the AT&T
+
+Search Warrant passes the Zeal test and is sufficiently particular. Wheeler v. State, 135 A.3d 282,
+
+(Del. 206) (quoting U.S. v. Christine, 687 F2d 749, 69 A.L.R. Fed. 503 (3d Cir. 1982).
+
+        In summary, given the circumstances of this case, the AT&T Search Warrant and its
+
+
+respective Affidavit and appended Exhibit are as particular as can reasonably be expected. Unlike
+
+general exploratory warrants, the AT&T Search Warrant allowed the searcher to "reasonably
+
+ascertain and identify the things which are authorized to be seized." Teal, 145 Idaho 992 188 P.3d at
+
+924. Thus, suppression is not warranted.
+
+           IGG
+
+        The Defendant raises its objections to the IGG (Investigative Genetic Genealogy) and,
+
+again, the State incorporates the State's arguments in response to the Defendant's separate IGG
+
+Motion as opposed to restating them here.
+
+
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN
+SUPPORT RE: AT&T FIRST WARRANT                                                                          6
+                                      CONCLUSION
+
+      Based on the above, the State respectfully requests the Court deny the Defendant's
+
+"Motion to Suppress and Memorandum in Support Re: AT&T First Warrant."
+
+      RESPECTFULLY SUBMITTED this 6" day of December 2024.
+
+                                                                    NAY'
+                                                  Ashley S. Jennings
+                                                  Senior Deputy Prosecuting Attorney
+
+
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN
+SUPPORT RE: AT&T FIRST WARRANT                                                             7
+                             CERTIFICATE OF DELIVERY
+      1
+          hereby certify that true and correct copies of the   STATE'S OBJECTION TO
+
+DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN SUPPORT RE: AT&T
+
+FIRST WARRANT was served on the following in the manner indicated below:
+
+Anne Taylor                                   CO   Mailed
+Attorney at Law                               & E-filed & Served / E-mailed
+PO Box 2347
+                                              o Faxed
+Coeur D Alene, ID 83816
+                                              O Hand Delivered
+info@annetaylorlaw.com
+
+      Dated this 6'" day of December, 2024.
+
+
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS AND MEMORANDUM IN
+SUPPORT RE: AT&T FIRST WARRANT                                                    8
+

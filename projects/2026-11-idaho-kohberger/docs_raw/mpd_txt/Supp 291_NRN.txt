@@ -1,0 +1,38 @@
+07/08/25                        Moscow Police Department                    1272
+12:08                        Law Supplemental Narrative:            Page:      1
+  Details
+Incident Number       22-M09903          Name   Brett Payne
+Sequence Number       291                Date   11:18:50 07/30/24
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+MPD Workstation Check Follow Up-#157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+3.        Narrative
+On July 2, 2024, I sent an email to the "All Police" group via MPD email. This
+group encompasses all current employees of the Moscow Police Department. In the
+email, I requested all personnel log into any workstation they may have used
+during the investigation and check for anything on the computer that may be of
+evidentiary value in order to ensure there were no outstanding items. I
+requested a response before the end of the following week if anything was found.
+I did not receive a response from any MPD employee.
+4.        Other
+
+NA
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+CPL Payne #157
+Tue Jul 30 11:19:33 PDT 2024
+Reviewed By:
+Capt Dustin Blaker #108
+Wed Jul 31 07:23:17 PDT 2024
+

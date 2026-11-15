@@ -1,0 +1,1237 @@
+                                                                                             Filed: 04/24/2025 15:01:28
+                                                                                             Fourth Judicial District, Ada County
+                                                                                             Trent Tripple, Clerk of the Court
+                                                                                             By: Deputy Clerk Waters, Renee
+                                                                                                               -
+
+
+
+
+            IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF
+
+                  THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO,
+
+               Plaintiff,                                Ada County Case No. CR01-24-31665
+
+                                                         ORDER ON STATE'S MOTIONS IN
+ BRYAN C. KOHBERGER,                                     LIMINE RE: TEXT MESSAGES AND 911
+                                                         CALL
+               Defendant.
+
+
+
+I.      INTRODUCTION
+        D.M. and B.F. are the two surviving roommates of 1122 King Road. At the time the
+homicides were believed to have occurred, D.M. saw an masked intruder in the house and began
+
+calling and texting the other roommates, including B.F. Approximately eight hours after D.M.
+saw the intruder, B.F. called 911 from her phone. Before the Court is the State's motion to allow
+the text messages by D.M. and B.F., testimony about their conversations with each other about
+
+what D.M. saw, and the 911 call. The State argues these communications are either not hearsay
+
+or qualify under one or more exception to the hearsay rule. It also asks that a transcript of the 911
+
+call be provided to the jury to view while listening to the audio. Defendant challenges several of
+the communications and objects to the use of the transcript.
+
+        Oral argument on the motions was held on April 9, 2025, after which the Court took the
+matters under advisement. The Court finds that some of the hearsay statements on the 911 call do
+
+not qualify under the exceptions cited by the State and, therefore, must be redacted. However, the
+
+balance of the 911 call as well as the texts and conversations noted herein are likely admissible
+
+provided that the requisite foundation is laid at trial.' The transcript will be allowed as a
+demonstrative aid, again assuming proper foundation is established.
+
+
+
+
+' The
+       Court's rulings on the specific text messages/phone activity and the 911 call statements are appended hereto in
+table format as Exhibits A and B, respectively.
+
+                                                          1
+II.     STANDARD
+        Whether a statement falls within the present sense impression and/or excited utterance
+
+exceptions is a question that is left to the sound discretion of the trial court, giving consideration
+to the totality of the circumstances. State v. Stover, 126 Idaho 258, 262-63, 881 P.2d 553, 557-
+
+58 (Ct. App. 1994). Use of demonstrative aids is also a discretionary determination. State v.
+
+Weigle, 165 Idaho 482, 487, 447 P.3d 930, 935 (2019) (citing IRE 611). On discretionary
+matters, the trial court must: 1) correctly perceive the issue as one of discretion; 2) act within the
+outer boundaries of its discretion; 3) act consistently with the legal standards applicable to the
+
+specific choices available to it, and; 4) reach its decision by the exercise of reason. Lunneborg v.
+My Fun Life, 163 Idaho 856, 863, 421 P.3d 187, 194 (2018)).
+Ill.    FACTS?
+        After spending the evening out, roommates D.M., B.F., Kaylee Goncalves and Madison
+
+Morgan returned to their home at 1122 King Road in the early morning hours of November 13,
+2022. At approximately 2:00 a.m., they met up in Kaylee's bedroom and talked for a while
+
+before going to bed. The fifth roommate, Xana Kernodle, who was out with her boyfriend Ethan
+
+Chapin, was not home yet. The roommates debated going out to a food truck for a late snack,
+prompting D.M. to send a text at 2:10 a.m. to an Uber driver she knew to see if he was driving.
+Exh. D1. Ultimately, however, the girls decided to just go to bed.
+        At approximately 4:00 a.m., D.M. heard strange noises and crying coming from the
+bathroom. She opened her door at one point and saw a man dressed in black with a ski mask on
+
+walking by her bedroom door. She then placed calls and texts to her other roommates to see if
+they were awake. Only B.F., who resided on the ground floor, answered. They spoke once for 24
+
+seconds, during which D.M. told B.F. she thought she heard something. They spoke again a
+
+
+
+
+2
+  The parties submitted various portions of the grand jury transcript as different exhibits, including the State's
+Exhibit S-1 to the 911 call motion, Defendant's Exhibit to his objection to the 911 call motion and State's Exhibits
+                                                        1
+
+
+S-21 and S-3 to the text message motion. To avoid confusion, the Court will cite to the grand jury transcript, rather
+than cite to the individual exhibits. Citations to D.M.'s and B.F.'s phone activity in bubble format, attached as
+Exhibits and 2 respectively to Defendant's objection to the State's text message motion, will be referenced as
+         1
+
+
+Exhibits D1 and D2.
+
+
+                                                            2
+minute later for 41 seconds when D.M. told B.F. she saw a man in a ski mask leaving the house.?
+
+They then exchanged the following text messages between 4:22 and 4:26 a.m.:
+                  D.M. to B.F.: No one is answering
+                  D.M. to B.F.: I'm rlly confused rn.
+                  D.M. to Kaylee: Kaylee
+                  D.M. to B.F.: What's going on
+                  B.F. to D.M.: Ya dude wtf
+                  B.F. to D.M.: Xana was wearing all black
+                  D.M. to B.F.: I'm freaking out m
+                  D.M. to B.F.: No it's like a ski mask almost
+                  B.F. to D.M.: Stfu
+                  B.F. to D.M.: Actually
+                  D.M. to B.F.: Like he had soemtbinf over is for head and little nd mouth
+                  D.M. to B.F.: Bethant I'm not kidding o am so freaked out
+                  B.F. to D.M.: So am I
+                  D.M. to B.F.: My phone is going to die fuck
+                  B.F. to D.M.: Come to my room
+                  B.F. to D.M.: Run
+                  B.F. to D.M.: Down here
+                  D.M. to B.F.: I'm scRwd tho
+                  B.F. to D.M.: Ya IK but it's better than being alone
+
+Exh. D1.'
+
+         During the foregoing exchange, D.M. also attempted contacting Ethan Chapin through
+Snapchat. /d; GJ Trans. at 181: 6-21.° She again tried calling Kaylee and Xana, but neither
+
+responded. Exh. D1; GJ Trans. at 182: 4-15. D.M. then exited her room and began running
+toward B.F.'s bedroom. On her way, she noticed Xana lying on the floor of her bedroom, with
+
+her head towards the wall and her feet toward to the door. D.M. thought Xana was drunk. GJ
+
+Trans. at 182:16-183: 7.
+
+         Once D.M. arrived at B.F's room, they locked the door and both made additional
+unanswered calls to the other roommates. At 4:32 a.m. D.M. again texted Kaylee, "Pls answer"
+
+
+3
+  B.F. testified to her recollection of the content of these two phone calls before the grand jury; however, D.M. could
+not recall specifics about what was said. GJ Trans., 171:20-173: 5; 236:19-238: 11.
+4
+  The typos and abbreviations are in the original messages.
+
+5
+  D.M. testified before the grand jury that Instagram is a text messaging app that is used by young adults to
+communicate.
+
+
+                                                          3
+with no response. Exh. D1. Between approximately 5:00 a.m. and 6:30 a.m., D.M. engaged in
+
+activity on her phone, primarily creating, editing and deleting images and videos. Jd. Her phone
+activity then ceased until 8:05, when D.M. accessed Instagram for a few minutes. /d. At 10:00
+a.m., D.M. again accessed Instagram and communicated over Snapchat. At 10:23, she texted
+
+Madison, asking "R u up[.]" Jd. She received no response. D.M. continued to access Instagram
+and Snapchat until 11:29 a.m., when she texted Kaylee, "R u up??" Jd. Again, there was no
+
+response, which D.M. thought was strange because Kaylee and Madison were "early wakers."
+GJ Trans. at 188: 15-24. D.M. continued accessing various social media sites, included checking
+Ethan and Xana's Snapmap locations. Exh. D1; GJ Trans., at 188: 7-13. At approximately 11:40,
+D.M.'s father texted her about scheduling a time for a chat, to which D.M. responded. She also
+received two texts from a person named "Jenna" stating: "bro" and "do u guys need me to come
+
+get u?" Exh. D1.
+       At approximately 11:50 a.m., D.M. called her friend E.A. and asked her to come over and
+check the house because she was scared. E.A. and her boyfriend, H.J. came over. Exh. D1; GJ
+Trans. at 276: 9-12. They met D.M. and B-F. at the bottom floor of the house. GJ Trans. at 277: 2-
+
+4. Together D.M., B.F. and H.J. started to walk up the stairs to the second floor. When they
+
+reached the second floor, H.J. went to the kitchen to grab a kitchen knife. When he came back
+
+out, D.M. "saw Xana again for a split second. And I just started bawling because I thought she
+had just like   -
+                    I don't even know. I thought maybe she was still just drunk and all asleep on the
+
+floor." GJ Trans. at 190: 1-25; 245:22-246: 20. B.F. also saw Xana lying on the floor. /d. at
+231:13-17.
+        H.J. told D.M. and B.F. to "get out." E.A., who had started up the stairs, also turned
+around after H.J. instructed her not to come any further. /d. at 276: 13-21. They both went
+
+outside. Shortly afterwards, H.J. exited the house and told them to call 911. He was pale white
+
+and mentioned something about someone being unconscious. /d. at 191: 9-18.
+
+        At 11:56 a.m., B.F. called 911 from her cell phone and spoke to Carolina Calvin, the 911
+dispatcher. The call lasted four minutes and 11 seconds. During the call, the phone was passed
+around to different individuals, including B.F., D.M., H.J. and an unidentified female speaker.
+
+Heaving, heavy breathing and crying can be heard throughout the call. B.F. spoke first, stating
+"something is happening. Something's happened in our house and we don't know what." State's
+Exh. S-2 (91 call audio). B.F. attempted to provide the address of the house to dispatch but
+
+
+                                                     4
+could not continue. /d. At that point, an unidentified female speaker took the phone and provided
+the address and B.F.'s phone number. The following exchange ensued:
+
+
+              911 operator: Okay. And tell me exactly what's going on.
+
+
+              Female: Um, one of our     -
+                                             one of the roommates who's passed out and she
+              was drunk last night and she's not waking up.
+
+
+              911 operator: Okay.
+
+
+              Female: Oh, and they saw some man in their house last night. Yeah.
+
+              911 operator: And are you with the patient?
+
+
+              D.M.: Hi, this is [D.M.]
+
+              911 operator: Okay. I need someone to keep the phone, stop passing it
+              around.
+
+
+              D.M..: Can I just tell you what happened, pretty much?
+
+              911 operator: What is going on currently? Is someone passed out right
+              now?
+
+               D.M.: I don't really know, but pretty much at 4:00 a.m.   -
+
+
+
+
+              911 operator: Okay. I need to know what's going on right now, if
+               someone is passed out. Can you find that out?
+
+
+               DM: Yeah, I?ll come      come on. B. We got to go check. But we have to.
+               Is she passed out? She's passed out. What's wrong? She's not waking up.
+
+
+               H.J.: Xana
+Id.
+
+       D.M. then informed dispatch that Xana was twenty years old. At that point, H.J. took the
+phone. Dispatch asked him if "she" was breathing, to which H.J. answered "No." Law
+enforcement arrived at that point and, after confirming with D.M. that the responding officer had
+
+
+
+
+                                                   5
+a defibrillator, dispatch ended the call. Later, at approximately 1:04 p.m. that day, D.M. received
+
+a Vandal Alert regarding the homicide.
+
+IV.    ANALYSIS
+       The State seeks to admit D.M.'s and B.F.'s phone records from November 13, 2022,
+
+including call records and text messages, as well as elicit testimony by D.M. and B.F. regarding
+their communications with each other on November 13, 2022 that they testified to before the
+
+grand jury. The State also seeks to admit the 91 1 call and the official transcript thereof. The State
+
+argues these records and communication are not hearsay, or they are excepted from hearsay as
+exited utterances or present sense impressions. Defendant objects, arguing that      apart from
+H.J.'s statement to 911 that Xana was not breathing     the exceptions do not apply to the hearsay
+
+statements. The Court finds the bulk of the statements are likely admissible, with three
+
+exceptions of statements made during the 91 1 call.
+
+       Hearsay is an out-of-court statement admitted to prove the truth of the matter asserted.
+IRE 801. To be hearsay, the statement must be intended as an assertion of fact and offered by the
+proponent for purposes of proving the truth of the assertion. State v. Guerra, 169 Idaho 486, 500,
+497 P.3d 1106, 1120 (2021) (citations omitted). If a statement is hearsay, to be admitted, it must
+
+fall under an exception.
+
+       Hearsay statements on a911 call can typically be admitted into evidence under either the
+public record or business record exceptions to the hearsay rule. Bemis v. Edwards, 45 F.3d 1369,
+1372 (9th Cir. 1995) (citing FFRE 803(8) and 803(6)). "However, because citizens who call 911
+
+are not under any 'duty to report,' Fed.R.Evid. 803(8)(B), a recorded statement by a citizen must
+
+satisfy a separate hearsay exception." Jd. Typically these exceptions include the present sense
+
+impression exception and the excited utterance exception. 4 Clifford S. Fishman, Jones on
+Evidence § 28: 16 (7" ed) (Dec. 2024 update).
+       The present sense impression exception authorizes the admission of hearsay if it is "a
+statement describing or explaining an event or condition, made while or immediately after the
+
+declarant perceived it." IRE 803(1). "The rationale justifying the exception is that the immediacy
+
+of the statement offers no opportunity for fabrication." Lola L. Cazier Revocable Tr. v. Cazier,
+167 Idaho 109, 119, 468 P.3d 239, 249 (2020) (citation omitted). The rule "recognizes that in
+
+many, if not most, instances precise contemporaneity is not possible and hence a slight [time]
+lapse is allowable." Jd. (quoting FRE 803(1) advisory committee note (emphasis added in
+
+
+                                                  6
+Cazier)). In Cazier, the Idaho Supreme Court observed that time lapses as short as forty-five
+minutes have been considered too long to invoke the protection of the exception. /d. (citation
+
+omitted).
+       The excited utterance exception to the hearsay rule authorizes the admission of hearsay if
+the testimony recounts "[a] statement relating to a startling event or condition while the declarant
+
+was under the stress of excitement caused by the event or condition." IRE 803(2). To fall within
+
+the excited utterance exception: 1) there must be a startling event that renders inoperative the
+
+normal reflective thought process of the observer, and; 2) the declarant's statement must be a
+
+spontaneous reaction to that event rather than the result of reflective thought. State v. Hansen,
+133 Idaho 323, 325, 986 P.2d 346, 348 (Ct. App. 1999) (cites omitted).
+
+       In considering whether a statement meets the excited utterance requirements, the totality
+
+of circumstances must be considered, including the amount of time that elapsed between the
+startling event and the statement, the nature of the condition or event, the age and condition of
+the declarant, the presence or absence of self-interest, and whether the statement was volunteered
+
+or made in response to a question. /d. (citation omitted). "There is no bright line rule as to the
+
+allowable time span between the event and the statement, and one likely should not be drawn."
+State v. Griffith, 144 Idaho 356, 363, 161 P.3d 675, 682 (Ct. App. 2007). As with the present
+
+sense impression exception, the rationale underlying the excited utterance exception is the
+
+"snecial reliability which is regarded as furnished by the excitement suspending the declarant's
+powers of reflection and fabrication." /d., (quoting State v. Burton, 115 Idaho 1154, 1156, 772
+P.2d 1248, 1250 (Ct.App.1989)).
+       A.     Text Messages and Verbal Conversations Between D.M. and B.F. are
+              Likely Admissible.
+       As an initial matter, the Court finds that D.M. and B.F.'s acts of making phone calls,
+sending or receiving text message and other phone activity such as accessing social media are
+not hearsay. Hearsay only captures an "oral assertion, written assertion, or nonverbal conduct
+
+intended as an assertion." IRE 801(a). Thus, this Order will focus on the content of those calls
+
+and texts, to the extent available.
+
+       As to the content of D.M. and B.F.'s text messages about what D.M. saw, the Court finds
+they are either not hearsay because they are not offered for the truth of the matter asserted or not
+assertions or, if hearsay, they likely qualify as a present sense impression and/or excited
+
+utterance as set forth in Exhibit A hereto. Their verbal discussions are potentially admissible for
+
+                                                  7
+these same reasons. The State must establish the foundational requirements for such proffered
+
+statements at the time of trial.
+
+                  1.       D.M. texts Uber driver at 2:10:29 to inquire if he is driving
+         The State seeks to introduce this text to establish a timeline, specifically to establish D.M.
+was awake and texting at 2:10 a.m. Defendant does not directly challenge the text. Because it is
+not offered for the truth of the matter asserted and/or not an assertion of fact, the Court finds it is
+
+not hearsay under IRE 801.
+
+                  2.       Text messages between 4:22 and 4:26 a.m.
+         The State argues that the four-minute series of text messages between D.M. and B-F.,
+with one from D.M. to Kaylee, are admissible as either present sense impressions or excited
+utterances. Defendant suggests neither exception applies because there is no evidence they were
+
+sufficiently startled by the events. He points out that D.M. claimed only to be "confused" and,
+despite stating she was scared, she ran to B.F.'s room instead of leaving the house or otherwise
+
+calling other friends and family for help. The Court agrees with the State for those texts
+qualifying as assertions.°
+         First, the present sense impression exception does not require a startling event. It simply
+requires that the speaker describe or explain a condition while personally perceiving it or
+
+immediately thereafter. IRE 803(1). Most ofD.M.'s texts to B.F. satisfy this exception. She first
+texts that "no one is answering," which describes the results of her calls to the other roommates
+
+just moments before. She also states what she is immediately feeling, i.e., "confused," "freaked
+out," and "scared"' over what she just saw and heard and the fact that none of her roommates are
+
+answering. She further describes the intruder she saw, i.e., wearing a "ski mask" or something
+over his forehead and mouth. She also relays that her phone is "going to die." Thus, these
+statements are all likely admissible as present sense impressions.
+
+         In addition, the events are sufficiently startling to both D.M. and B.F for purposes of the
+
+excited utterance exception. D.M. and B.F. are young female college students and the self-
+
+
+
+®
+  Several of the texts in this exchange are not assertions of fact but rather inquiries and/or commands incapable of
+being proved true of false. See, Guerra, 169 Idaho at 500, 497 P.3d at 1120 (noting that instructions, commands,
+requests and inquiries are typically not assertions for purposes of the IRE 801.)
+
+7
+ Her text states she was "scRwd." Considering that the "A" is right next to the Caps Lock key and the "E" is right
+next to the "W" key, it is evident she was likely texting quickly and accidentally mistyped "scared."
+
+
+                                                          8
+described "scaredy cats of the house." GJ Trans. at 172: 5-8. They were awoken from sleep after
+
+a night of drinking with D.M. reporting that she heard noises and saw a masked intruder in their
+
+home. None of the other roommates were responding to their calls and texts, further indicating
+
+something was amiss. It would be potentially terrifying for anyone, including these young
+women. To argue that they would have run out of the house or called someone else for help had
+
+they really been startled unempathetically ignores these circumstances and the trauma and
+confusion they were evidently experiencing, which likely offset logical thought.® Indeed, the
+
+girls' fear and confusion is evident in their words, with both questioning what was going on,
+D.M. stating she was "freaked out," "scared" and "confused" and B.F. attempting to get them
+
+together quickly for safety. They were clearly under stress and attempting to make sense of
+
+frightening situation.
+
+         Additionally, the time period that elapsed between what D.M. saw and her
+communications with B.F. about the same was a matter of minutes. The text message exchange
+lasts approximately four minutes, with the messages occurring in rapid succession. This timeline
+
+left no time for the reflection or fabrication, which is ultimately what IRE 803(1) and 803(2)
+seek to protect against. Consequently, the Court concludes that the assertive text messages within
+
+this four-minute period are likely admissible as present sense impressions and/or excited
+
+utterances assuming the requisite foundation is provided at the time of trial.
+
+                  3.       D.M. texts to victims
+         At 4:32:57, D.M. texted Kaylee "Pls answer[.]" The State argues this text is admissible as
+a present sense impression and an excited utterance. Defendant does not directly address the text;
+
+however, the Court finds it is more of c command or request than an assertion of fact. It is not a
+                                               a
+
+
+
+
+fact capable of being proved true or false. Thus, it is not barred by IRE 801."
+
+         At 10:23, D.M. texted Madison, asking "R u up" and, approximately an hour later, D.M.
+texted Kaylee "R u up??" The State argues the foregoing texts are not hearsay because they will
+
+not be introduced for the truth of the matter asserted. Alternatively, the State contends they are
+
+
+
+§
+ Defendant's argument also ignores the fact that D.M. indicated to B.F. that the intruder was leaving the house, in
+which case it is not surprising the girls did not want to run outside, had the thought crossed their minds at all.
+
+>
+  Even if it were an assertion, it would qualify as a present sense impression and/or excited utterance. D.M. had just
+seen a masked man in her home minutes prior after hearing unusual noises and none of her roommates other than
+B.F. are responding to her calls and texts. Her fear is evident in the words she uses: "Pls answer." It is less of a
+request or assertion and more of a desperate plea made out of concern that something is wrong.
+
+                                                           9
+present sense impressions because they represent a consistency and continuation of D.M.'s texts
+from the prior night. Defendant disputes that the exception applies, pointing out that D.M. had
+
+been awake and accessing social media before she sent the texts.
+
+        Again, the Court does not find these texts to be assertions. They are inquiries, not
+declarative statements. Even if they were assertions, however, if the State intends to admit the
+statements to establish a timeline of events, they are not hearsay because they are not offered to
+
+establish their truth. Therefore, they are not barred by IRE 801.
+
+                  5.        D.M.'s calls and texts to/from others
+        The State contends that the texts between D.M. and her dad, the texts from J.M. and the
+Vandal Alert are not hearsay because they will be offered simply to show a timeline for the
+
+morning and early afternoon. In addition, the State notes that the phone call from D.M. to E.A. is
+not a statement and, therefore, not hearsay.'® The Court agrees and will allow the evidence for
+
+purposes of a timeline, if the requisite foundation is laid.
+         B.       Verbal Communications Between B.F. and D.M.
+        The State next contends that it intends to ask D.M. and B-F. at trial about statements they
+made to each other on November 13, 2022. It argues the testimony will likely replicate that
+
+provided by these witnesses at the grand jury proceeding. The State contends they are admissible
+under the present sense impression and/or excited utterance exceptions. Defendant does not
+
+directly address the argument.
+         To the extent D.M. and B.F. seek to testify about the content of the calls, texts and
+conversations about what they perceived during the 4:30 time frame, they could be potentially
+admissible under the exceptions cited by the State. However, the State must establish the
+
+foundational requirements for such proffered statements. The grand jury testimony does not
+
+appear to include any conversations between them after the 4:19 a.m. to 4:37 a.m. time frame,
+and the State has not pointed any out. Thus, to the extent they testify to oral conversations they
+
+had after they woke up the next morning, the Court will reserve ruling and consider any hearsay
+
+objections at that time.
+
+
+
+10
+   The State does not address the content of that phone call; however, the Court finds it likely qualifies as a present
+sense impression. D.M. testified that she asked E.A. to come over and check the house because she was scared. She
+is describing her fear at the time she is experiencing it. Beyond that, the specifics of what was said regarding what
+D.M. saw hours prior will have to be analyzed at the time of trial.
+
+
+                                                           10
+         Cc.      911 Call
+
+         The State contends that the entirety of the 911 call should be admitted because the
+statements therein are either non-hearsay, i.e., not admitted for the truth of the matter asserted, or
+
+they are excepted from the hearsay rule as present sense impressions and/or excited utterances.
+Defendant generally objects to its admission, but takes particular issue with three statements
+
+within the call. The Court finds Defendant's objection to these specific three statements well-
+
+placed, but will allow the balance of the call because the statements are either not assertions, not
+admitted for their truth and/or they are excepted from the rule, as set forth in Exhbit B hereto.!!
+
+                  1.       Initial statements
+         The 911 call begins with B.F. telling dispatch, "Something is happening. Something's
+
+happened in our house and we don't know what." This statement falls squarely within the present
+sense impression exception given that B.F. was experiencing concern that something was wrong
+
+with their roommates and H.J. had just instructed her to call 911 after walking through the house.
+
+Thereafter, B.F. attempts to provide dispatch with the address of the house before an unidentified
+female speaker takes the phone and provides the address and B.F's phone number. This
+
+exchange is not offered for the truth of the matter asserted and, therefore, not barred by the
+hearsay rule.
+                  2.       Female: "Um, one of our one of the roommates who's passed out and
+                                                          -
+
+
+
+
+                                                                              os
+                           she was drunk last night and she's not waking up."
+
+        The State argues this statement is a present sense impression because the female speaker
+is describing the scene around her. However, as Defendant points out, the roommate at issue in
+
+the statement is Xana. The only individuals who experienced/saw Xana unresponsive were D.M.,
+
+B.F. and H.J. Thus, Defendant contends the exception does not apply because the female speaker
+never saw Xana unresponsive and thus lacks firsthand knowledge of the information contained in
+
+the statement.
+
+         The inquiry here turns on whether the event the female speaker is describing or
+
+explaining is that Xana is unresponsive, as Defendant contends, or whether it is more generally
+the scene unfolding at the house, i.e., that her friends saw Xana unresponsive. The female
+
+speaker did not personally perceive the former, but she did personally perceive the latter.
+
+
+  Portions of the call may qualify under IRE 803(4), i.e., statements for purposes of medical treatment or diagnosis.
+Because the parties have not argued this exception applies, the Court will reserve ruling on it pending a foundation
+being laid and an opportunity to brief and argue its applicability.
+
+                                                         11
+         When the words themselves are considered, it is clear the event being described is that
+Xana is unresponsive, not that the speaker's friends saw Xana unresponsive. In other words, she
+is relaying to 911 what her friends observed and relayed to her. Her statement is, therefore,
+
+outside her present sense impression and, thus, the exception. See, e.g., Bemis, 45 F.3d at 1373
+
+(911 caller reporting that "there's a cop beating the shit out of the guy now" was not a present
+sense impression because he was reporting what others in his house were seeing and describing
+
+to him). Thus, the statement is not admissible under that exception.
+
+                  3.       Female: "Oh, and they saw some man in their house last night. Yeah."
+
+         The State argues this statement is both a present sense impression and an excited
+utterance because it is in response to finding Xana unresponsive. Defendant responds that the
+
+statement references an event D.M. saw eight hours prior to the 911 call, and therefore is not
+
+contemporaneous. Defendant also points out that the female speaker does not have personal
+
+knowledge and is simply repeating what she was told by others.
+        The Court agrees that the present sense impression exception does not apply to the
+statement because the speaker is recounting what someone else perceived. Additionally, there is
+
+no contemporaneity since she is describing an event that occurred hours earlier. The excited
+
+utterance exception does not apply either. Instructive here is State v. Fox, where to Idaho
+
+Supreme Court considered whether the excited utterance exception applied to a911 call made by
+a man after he found a woman screaming for help for her friend whom she said had just been
+
+pistol-whipped by a man who fled the scene. 170 Idaho 846, 853, 517 P.3d 107, 114 (2022). The
+911 caller had not seen what happened but relayed to dispatch what the victims told him about
+
+the incident. /d. The Court held that the district court erred by admitting the 911 caller's
+
+statements to dispatch as excited utterances because the caller's voice was calm and he had not
+
+experienced a startling event or condition. Jd. at 866, 517 P.3d at 127.'"
+         Here, likewise, the audio of the 911 call does not indicate that the speaker's normal
+reflective thought processes were rendered inoperative. Her voice sounds calm relative to B.F.'s
+and D.M.'s. Although a slight nervousness can be detected in her voice, she is not audibly crying
+
+
+
+12
+   By contrast, in State v. Paoli, the Idaho Court of Appeals found the exception applied to a911 call made by the
+victim of a battery immediately after it happened, noting "the tone of her voice on the audio recording showed that
+she was still under the stress of excitement caused by the altercation. 2017 WL 361153, at *3 (Idaho Ct. App. Jan.
+25, 2017).
+
+
+                                                         12
+or breathing heavily. In fact, the speaker took over speaking to dispatch because she was more
+
+composed than B.F., who initiated the call. Further, the speaker did not personally see Xana
+
+unresponsive nor did she see the man allegedly in the house. She is simply repeating what others
+told her, so the statement does not provide insight into her own thought processes. Consequently,
+
+the statement must be redacted.
+
+                4.     D.M.'s attempts to explain events.
+       After the female speaker cedes the phone to D.M., D.M. identifies herself and asks if she
+can tell dispatch what happened. Dispatch responds by asking what is going on and if someone is
+
+passed out. This exchange will not be offered for the truth of the matter asserted and, therefore, is
+not hearsay.
+                                                                                            "
+       However, D.M. then states: "I don't really know, but pretty much at 4:00 a.m.            The
+State argues this statement is a present sense impression and/or an excited utterance because
+
+D.M. is trying to explain to the dispatcher what she saw while under the current excitement of
+
+realizing that her roommate is not waking up and something could be wrong in the house.
+Defendant disagrees, noting the event D.M. begins to describe what occurred eight hours prior.
+
+He further argues it is not an excited utterance because she and B.F. had several hours to reflect
+on what she had seen and experienced at 4:00 a.m.
+
+       Defendant is correct that the statement does not qualify as a present sense impression.
+
+While D.M. personally perceived the event she is beginning to describe, the contemporaneity
+
+aspect is missing. She is attempting to narrate an event she saw eight hours earlier. The excited
+utterance exception does not apply either. While D.M. is no doubt under the stress of excitement
+
+caused by realizing Xana is unresponsive, her reflexive thought processing appears intact. She is
+
+starting to draw connections between Xana being unresponsive and what she saw and heard eight
+hours prior    something she has had time to reflect upon. She does not launch spontaneously into
+what she saw at 4 a.m.; rather, she asks the dispatcher if she can explain what she saw. Based on
+
+this exchange, it is clear her "powers of reflection" are quite active, thus obviating the purpose
+
+behind the exception. The statement is, therefore, not admissible and must be redacted.
+
+                5.     Statements regarding Xana
+
+       Dispatch then instructs D.M. to find out if someone is passed out. D.M. appears to make
+statements to bystanders that they have to "go check" if Xana is passed out. This is not offered
+
+by the State for the truth of the matter and, therefore, not hearsay.
+
+
+                                                  13
+              D.M. then states that Xana is "not waking up." H.J. is heard stating "Xana" in the
+
+background. These are squarely present sense impressions because they are describing what the
+
+speakers are seeing.'? D.M. then responds to dispatch's inquiry about Xana's age                          again, not
+offered for the truth of the matter asserted              before H.J. takes the phone and confirms that Xana
+
+is not breathing. This is also a present sense impression, and also likely falls within IRE 803(4).
+
+                       6.       Statements after law enforcement arrived.
+
+              Around the time H.J. confirmed to dispatch that Xana was not breathing, law
+enforcement had arrived on scene. H.J. can be heard telling D.M. "I need you to talk to them. I
+
+can't talk to them. I need you to talk to them." The Court finds this admissible as either a present
+sense impression or excited utterance. H.J. had just discovered Xana's body moments before. He
+
+is operating under the stress of his discovery and attempting to answer dispatch's questions. His
+
+statements describe his inability to speak to law enforcement at that moment and, therefore, are
+
+admissible.
+              At that point, D.M. took the phone again and dispatch instructed her to get a defibrillator
+if one was available. D.M. asked dispatch to repeat the question and stated, "There's a police
+here right now." After dispatch repeated the question, D.M. indicated they did not have
+
+defibrillator and asked the responding officer if he did. The officer responded affirmatively, after
+which dispatch indicated she was going to let the officer take over and ended the call. To the
+extent the State seeks to admit the statements by D.M. for their truth, they qualify as present
+
+sense impressions, as D.M. is explaining the events as they are happening. They also are likely
+
+admissible under IRE 803(4) insofar as they regard the defibrillator. Finally, many of the
+"statements" are not assertions and, thus, not hearsay.
+
+                       7.       Crying/breathing/heaving is non-hearsay.
+
+              Apart from the statements, the State also moves for admission of the audible crying,
+breathing and heaving made by the 911 callers. Defendant does not address the argument, and
+the Court finds it well placed. While assertive conduct can qualify as hearsay, nonassertive
+
+conduct does not. 30B Jeffery Bellin, Federal Practice & Procedure (Evidence) (Wright &
+
+Miller) § 6715 (2024 ed) (person's nonverbal emotional reaction does not normally qualify as an
+assertion under Rule 801(a) because it is not intended to communicate information.). There is no
+
+indication in the 911 call that the speakers are intending to make an assertion through their
+
+1   3
+        In addition, the statement that Xana is "not waking up" is potentially admissible under IRE 803(4).
+
+                                                               14
+crying and heavy breathing; it is clearly an involuntary emotional response to the circumstances.
+Further, it is relevant to show the stress and emotional impact the girls are under, which puts the
+call into context. Thus, it is admissible.
+           D.        A Transcript of the 911 Call Will be Allowed as Demonstrative Evidence.
+           The final issue is whether to allow the jury to view the official transcript of the 91 1 call
+while listening to the call. Defendant contends it would be cumulative and asks that either the
+call or the transcript be allowed, but not both.
+            The Court views this issue as essentially a request for use of the transcript as a
+demonstrative aid.         A   demonstrative exhibit is relevant if it "supplements the testimony of
+
+witnesses or assists the jury in obtaining a better understanding of facts in issue." Masters v.
+
+Dewey, 109 Idaho 576, 579, 709 P.2d 149, 152 (Ct. App. 1985) (citing 29 AM.JUR.2d, Evidence
+§ 771 (1976)). Transcripts are widely used as demonstrative aids to help the jury understand the
+
+contents of audio recordings. 31 Victor J. Gold, Federal Practice & Procedure (Evidence)
+
+("Wright & Miller") § 7167 (2d ed.) (April 2025 update). When used in this way, courts will
+typically instruct the jury that the transcript is not evidence independent of the audio recording,
+and if the jury determines that the transcript is incorrect, it should disregard it to that extent and
+
+rely on its own interpretation of the audio recording. /d. In addition, the transcript must be
+                                                                                                             14
+authenticated by showing that it fully and accurately complies with the audio recording.                          Td.
+
+           Against this background, the Court will permit a transcript of the 911 call to be used as a
+demonstrative aid, assuming the proper foundation for 91 1 call is established and the transcript is
+
+properly authenticated.'> To this end, the State is responsible for proposing an appropriate jury
+instruction. The transcript will not be admitted as substantive evidence and will not be available
+
+to the jury except when the 911 call is being played, including during deliberations. Because it is
+
+not going to be used as evidence, the Court does not find that the transcript is cumulative to the
+
+911 audio or otherwise prejudicial to Defendant.
+
+
+
+
+I4
+     This may well require the transcriptionist to testify that he or she accurately transcribed the call.
+
+ 5
+   Rather than passing out individual copies of the transcript to each juror, it may be best to time the audio with the
+text of the transcript and play that for the jury with the "closed captioning." Otherwise, there is a concern the jury
+will read ahead or focus too much on one portion of the transcript and not another. However, the actual audio
+exhibit, without the captioning, is the one that will go back to the jury.
+
+                                                               15
+V.    ORDER
+      Based on the foregoing, the State's Motion in Limine re: Text Messages and Testimony
+is GRANTED, in part, and RESERVED, in part. The State's Motion in Limine re: 911 Call is
+
+GRANTED, in part, and DENIED, in part, and RESERVED, in part.
+
+
+
+
+IT IS SO ORDERED.
+
+DATED this           of April, 2025.
+
+
+
+
+                                            even
+                                          District Judge
+
+
+
+
+                                            16
+                              Text Messages and Phone Activity                 -
+                                                                                   Exhibit A
+    Time (11/13/22)                           Record                                             Ruling
+    2:10:29 a.m.              D.M. to Uber Driver inquiring if he was              Not Hearsay. Not an assertion
+                              driving                                              and/or not offered for truth of
+                                                                                   matter asserted.
+    2:13:00 a.m               Uber Driver to D.M. confirming he was                Not Hearsay. Not offered for
+                              driving                                              truth of the matter asserted.
+    2:53 a.m.                 Madison Mogen calls B.F.                             Not Hearsay. Not an assertion.
+    3:51:03 a.m               D.M. creates a new contact in her phone              Not Hearsay. Not an assertion.
+    4:19:07 a.m               B.F. calls D.M. for 23 seconds                       Not Hearsay. Not an assertion.    1
+
+
+
+
+    4:20:00 a.m               D.M. calls Xana Kernodle.                            Not Hearsay. Not an assertion.
+    4:20:20 a.m               D.M. calls Kaylee Goncalves                          Not Hearsay. Not an assertion.
+    4:20:28 a.m               D.M. calls B.F. for 41 seconds                       Not Hearsay. Not an assertion. 2
+    4:21a.m.                  B.F. calls Xana.                                     Not Hearsay. Not an assertion.
+    4:21:50 a.m               D.M. calls Madison                                   Not Hearsay. Not an assertion.
+    4:22 a.m.                 B.F. calls Ethan Chapin.                             Not Hearsay. Not an assertion.
+    4:22:08 a.m               D.M. to B.F.: "No one is answering"                  Present Sense Impression
+                                                                                   and/or Excited Utterance
+    4:22:11 am                D.M. to B.F.: "I'm rlly confused rm."                Present Sense Impression
+                                                                                   and/or Excited Utterance
+    4:22:42 a.m               D.M. to Kaylee: "Kaylee"                             Not Hearsay. Not an assertion.
+    4:22:43 a.m               D.M. to Kaylee "What's going on"                     Not Hearsay. Not an assertion.
+    4:23 a.m.                 BF outgoing message (Snapchat)                       The record of the message
+                                                                                   itself is not hearsay since it is
+                                                                                   not an assertion. The content is
+                                                                                   not before the Court.
+    4:23:15 am                B.F. to D.M. "Ya dude WTF"                           Excited Utterance and/or
+                                                                                   Present Sense Impression
+    4:23:28 a.m               B.F. to D.M. "Xana was wearing all                   Excited Utterance and/or
+                              black"                                               Present Sense Impression
+    4:23:33 a.m               D.M. to B.F. "I'm freaking out rm"                   Excited Utterance and/or
+                                                                                   Present Sense Impression
+    4:23:42 am                D.M. to B.F. "No its like a ski mask                 Excited Utterance and/or
+                              almost"                                              Present Sense Impression
+    4:23:48 a.m               B.F. to D.M. "Stfu"                                  Excited Utterance and/or
+                                                                                   Present Sense Impression
+    4:23:51 a.m               B.F. to D.M. "Actually"                              Excited Utterance and/or
+                                                                                   Present Sense Impression
+    4:23:52 a.m               D.M. to B.F. "Like he had soemtbinf over             Excited Utterance and/or
+                              is for head and little nd mouth"                     Present Sense Impression
+
+
+' To the extent B.F. or D.M. testifies at trial to what was said in this conversation, their statements are likely
+
+admissible as present sense impressions or excited utterances, but the State will have to establish foundation for the
+statements at trial.
+
+2
+    See, footnote 1, supra.
+
+                                                             1
+4:24:00 a.m     D.M. to B.F. "Bethant I'm not kidding o     Excited Utterance and/or
+                am so freaked out"                          Present Sense Impression
+4:24:07 am      B.F. to D.M. "So am I"                      Excited Utterance and/or
+                                                            Present Sense Impression
+4:24:11 a.m     D.M. to B.F. "phone is going to die fuck"   Excited Utterance and/or
+                                                            Present Sense Impression
+4:24:14 am      B.F. to D.M. "Come to my room"              Not Hearsay. Not an assertion.
+                                                            Alternatively, excited
+                                                            utterance.
+4:24:22 am      B.F. to D.M. "Run"                          Not Hearsay. Not an assertion.
+                                                            Alternatively, excited
+                                                            utterance.
+4:24:27 am      B.F. to D.M. "Down here"                    Not Hearsay. Not an assertion.
+                                                            Alternatively, excited
+                                                            utterance.
+4:24:39 a.m     D.M. calls Ethan Chapin                     Not Hearsay. Not an assertion.
+4:24:58 a.m     D.M. to B.F. "I'm scRwd tho"                Excited Utterance and/or
+                                                            Present Sense Impression
+4:25:16. a.m.   B.F. to D.M. "Ya Ik but it's better than    Excited Utterance and/or
+                being alone."                               Present Sense Impression
+4:27:11 am      D.M. outgoing call                          Not Hearsay. Not an assertion.
+4:27:30 a.m     D.M. outgoing message (Snapchat)            The record of the message
+                                                            itself is not hearsay since it is
+                                                            not an assertion. The content is
+                                                            not before the Court.
+4:27:40 a.m     D.M. outgoing message (Snapchat)            The record of the message
+                                                            itself is not hearsay since it is
+                                                            not an assertion. The content is
+                                                            not before the Court.
+4:27:47 a.m     D.M. calls Kaylee                           Not Hearsay. Not an assertion.
+4:28:44 a.m     D.M. calls Xana                             Not Hearsay. Not an assertion.
+4:29 a.m.       B.F. calls Madison                          Not Hearsay. Not an assertion.
+4:30 a.m.       B.F. calls Madison                          Not Hearsay. Not an assertion.
+4:30 a.m.       B.F. calls Kaylee                           Not Hearsay. Not an assertion.
+4:31 a.m.       B.F. calls Kaylee                           Not Hearsay. Not an assertion.
+4:32:57 a.m     D.M. texts Kaylee "Pls answer"              Not Hearsay. Not an assertion.
+                                                            Alternatively, present sense
+                                                            impression and/or excited
+                                                            utterance.
+4:34 a.m.       B.F. accessed Snapchat                      Not Hearsay. Not an assertion.
+4:37 a.m.       B.F. accessed Instagram                     Not Hearsay. Not an assertion.
+10:00 a.m. to   D.M. accessed social media; messaged        Not Hearsay. Not an assertion.
+10:23:02 a.m.   on Snapchat.                                The content of messages is not
+                                                            before the Court.
+
+
+
+
+                                            2
+    10:23:23 am           D.M. to Madison "R u up"                    Not Hearsay. Not an assertion
+                                                                      and/or not offered for truth of
+                                                                      matter asserted.
+    10:24 a.m. to         D.M. accessed social media; messaged        Not Hearsay. Not an assertion.
+    11:29 a.m.            on Snapchat.                                The content of messages is not
+                                                                      before the Court.
+    11:29:27 am           D.M. to Kaylee "R u up?"                    Not Hearsay. Not an assertion
+                                                                      and/or not offered for truth of
+                                                                      matter asserted.
+    11:29:41 am to        D.M. accessed social media; messaged        Not Hearsay. Not an assertion.
+    11:37:36 a.m          on Snapchat.                                The content of messages is not
+                                                                      before the Court.
+    11:39:09 to           D.M. and dad exchange texts                 Not Hearsay. Not offered for
+    11:40:14am                                                        truth of matter asserted.
+    11:49 a.m.            B.F. phone call to J.M.                     The record of the call itself is
+                                                                      not hearsay since it is not an
+                                                                      assertion. The content is not
+                                                                      before the Court.
+    11:50:55 a.m          J.M. to D.M. "bro"                          Not Hearsay. Not an assertion.
+    11:50:58 a.m          B.F. phone call to E.A.?                    Not Hearsay. Not an assertion.
+    11:51:01 a.m          J.M. to D.M. "do u guys need me to          Not Hearsay. Not an assertion
+                          come get u"                                 and/or not offered for truth of
+                                                                      matter asserted.
+    1:04:01 p.m.          D.M. receives Vandal Alert: "Moscow         Not Hearsay. Not offered for
+                          PD investigating a homicide on King Rd.     truth of matter asserted.
+                          near campus. Suspect is not known at this
+                          time. Stay away from the area and shelter
+                          in place."
+
+
+
+
+3
+    See, footnote 10 in accompanying Order.
+
+                                                     3
+                                            911 Call       -
+                                                                Exhibit B
+         Transcript                         Statement                                        Ruling
+          Citation!
+    Page 3, Lines 4-5       911 OPERATOR:          9ll location of
+                                                       >                    Non-hearsay. Not an assertion.
+                                                                                                                   2
+
+
+                           your emergency.
+    Page 3, Lines 6-8      BF: Hi, something is happening.                  Present Sense Impression.
+                           Something's happened in our house
+                           and we don't know what.
+
+
+    Page 3, Lines 9-10     911 OPERATOR: What is the                        Non-hearsay. Not an assertion.
+                           address of the emergency?
+
+
+    Page 3, Line 11        BF: 1122...                                      Non-hearsay. Not offered for the
+                                                                            truth of the matter asserted.
+    Page 3,                911 OPERATOR: What is the rest of                Non-hearsay. Not an assertion
+    Lines 12-13            the address?
+    Page 3, Line 14        BF: Oh, King Road.                               Non-hearsay. Not offered for the
+                                                                            truth of the matter asserted.
+    Page 3,                911 OPERATOR: Okay. And is that                  Non-hearsay. Not as assertion.
+    Lines 15-16            a house or an apartment?
+
+
+    Page 3, Line 17        BF: It's a house.                                Non-hearsay. Not offered for the
+                                                                            truth of the matter asserted.
+    Page 3, Lines 18-      911 OPERATOR: Can you repeat                     Non-hearsay. Not an assertion.
+    19                     the address to make sure that I have
+                           it right?
+
+    Page 3, Lines 20-      FEMALE SPEAKER: I'll talk to you                 Non-hearsay. Not offered for the
+    21                     as we're    --
+                                                                            truth of the matter asserted.
+                            [inaudible], so we are next to them.
+
+    Page 3, Lines 22-      911 OPERATOR: I need someone to                  Non-hearsay. Not offered for
+    23                     repeat the address for verification.             truth of the matter asserted.
+
+
+    Page 3, Lines, 24-     FEMALE SPEAKER: So the                           Non-hearsay. Not offered for the
+    25                     address, 1122 King Road.                         truth of the matter asserted.
+
+
+    Page 4, Lines 1-2      911 OPERATOR: And what's the                     Non-hearsay. Not an assertion.
+                           phone number that you're calling
+                           from?
+
+'
+ The transcript referenced herein is attached to the State's Reply to Defendant's Objection to State's Motion in
+Limine re: 911 call (March 24, 2025). It is entitled: "Transcription of Audio File Entitled 22-M09903 911 Call" and
+certified by the court reporter.
+
+2
+ For the statements by the 911 Operator that the Court has indicated herein are not assertions, to the extent they can
+be construed as assertions, they are not being offered for the truth of the matter asserted and, therefore, not hearsay.
+
+                                                            1
+Page 4, Line 3      FEMALE SPEAKER: What's your            Non-hearsay. Not an assertion
+                    phone number?
+
+Page 4, Line 4      BF: [redacted]                         N/A
+
+Page 4, Line 5      FEMALE SPEAKER: [redacted]             N/A
+
+Page 4, Line 6      BF: [redacted]                         N/A
+Page 4, Line 7      FEMALE SPEAKER: [redacted]--           Non-hearsay. Not an assertion
+                    what's the rest?
+
+Page 4, Line 8      BF: [redacted]                         N/A
+Page 4, Line 9      FEMALE SPEAKER: [redacted1.            N/A
+Page 4, Lines 10-   911 Operator: Okay. And tell me        Non-hearsay. Not an assertion
+11                  exactly what's going on.
+Page 4, Lines 12-   FEMALE SPEAKER: One of our         -
+                                                           Hearsay; does not qualify as
+14                  one of the roommates is passed out     present sense impression.
+                    and she was drunk last night and
+                    she's not waking up.
+
+
+
+Page 4, Line 15     911 OPERATOR: Okay.                    Non-hearsay. Not an assertion
+
+Page 4, Lines 16-   FEMALE SPEAKER: Oh, and they           Hearsay; does not qualify as
+17                  saw some man in their house last       present sense impression or
+                    night.                                 excited utterance.
+
+Page 4, Line 18     911 OPERATOR: And are you with         Non-hearsay. Not an assertion
+                    the patient?
+
+
+Page 4, Line 19     DM: Hi, this is D.                     Non-hearsay. Not offered for the
+                                                           truth of the matter asserted.
+Page 4, Lines 20-   911 OPERATOR: Okay. I need             Non-hearsay. Not an assertion.
+21                  someone to keep the phone, stop
+                    passing it around.
+
+Page 4, Lines 22-   DM: Can I just tell you what           Non-hearsay. Not an assertion.
+23                  happened, pretty much?
+
+Page 4, Lines 24-   911 OPERATOR: What is going on,        Non-hearsay. Not an assertion.
+25                  currently? Is someone passed out
+                    right now?
+
+
+
+
+                                             2
+Page 5, Lines 1-2   DM: I don't really know, but pretty     Hearsay. Does not qualify as
+                    much at 4:00 a.m.   --
+                                                            excited utterance or present sense
+                                                            impression.
+Page 5, Lines 3-5   911 OPERATOR: Okay. I need to           Non-hearsay. Not an assertion.
+                    know what's going on right now, if
+                    someone is passed out. Can you
+                    find that out?
+
+Page 5, Lines 6-8   DM: Yeah, I'll come   come on, B.
+                                             --
+                                                            Non-hearsay. Not offered for the
+                    We got to go check. But we have to.     truth of the matter asserted.
+                    Is she passed out?
+
+                    (Background noise.)
+
+Page 5, Lines 10-   DM: [Inaudible] what's wrong?           Present sense impression.
+11                  She's not waking up.
+Page 5, Lines 12    HJ: Xana.                               Present sense impression.
+Page 6, Lines 13-   911 OPERATOR: Okay. One                 Non-hearsay. Not offered for the
+14                  moment. I'm getting help started that   truth of the matter asserted.
+                    way.
+Page 5, Lines 15-   DM: Okay. Thank you.                    Non-hearsay. Not offered for the
+17                  What's wrong?                           truth of the matter asserted.
+                    (Background noise.)
+
+Page 5, Line 18     HJ: [Inaudible].                        Non-hearsay. Not an assertion.
+Page 5, Line 19     911 OPERATOR: Okay. And how             Non-hearsay. Not an assertion
+                    old is she?
+
+Page 5, Line 20     DM: She's 20.                           Non-hearsay. Not offered for the
+                                                            truth of the matter asserted.
+Page 5, Line 21     911 OPERATOR: Twenty, you said?         Non-hearsay. Not offered for the
+                                                            truth of the matter asserted.
+Page 5, Lines 22-   DM: Yes, 20. Here, talk to              Non-hearsay. Not offered for the
+23                  them.                                   truth of the matter asserted.
+
+
+Page 5, Line 24     HJ: Hello? Hello?                       Non-hearsay. Not an assertion.
+
+Page 5, Line 25;    911 OPERATOR: Okay. I need              Non-hearsay. Not offered for the
+Page 6, Lines 1-2   someone to stop passing the phone       truth of the matter asserted.
+                    around because I've talked to four
+                    different people.
+
+Page 6, Lines 3-4   HJ: Okay. Sorry. They just gave me      Non-hearsay. Not offered for the
+                    the phone.                              truth of the matter asserted.
+Page 6, Line 5      911 OPERATOR: Is she breathing?         Non-hearsay. Not an assertion.
+
+
+                                                  3
+Page 6, Line 6       HJ: She's [inaudible]. Hello?              Non-hearsay. Not an assertion.
+
+Page 6, Line 7       911 OPERATOR: Is she breathing?            Non-hearsay. Not an assertion.
+
+Page 6, Line 8       HJ: No.                                    Present sense impression.
+                                                                Potentially IRE 803(4).
+Page 6, Lines 9-10   911 OPERATOR: Okay.                        Non-hearsay. Not an assertion.
+                     (Police radio.)
+
+Page 6, Lines 11-    HJ: That's [inaudible]. D, I need you      Present sense impression and/or
+13                   to talk to them. I can't talk to them. I   excited utterance.
+                     need you to talk to them.
+
+
+Page 6, Line 14      DM: Okay. Hello?                           Non-hearsay. Not an assertion.
+
+Page 6, Line 15-16   911 OPERATOR: Okay. I have                 Non-hearsay. Not offered for the
+                     already sent the ambulance and law         truth of the matter asserted.
+                     enforcement. Stay on the line.
+
+Page 6, Line 17      DM: Okay.                                  Non-hearsay. Not an assertion.
+
+Page 6, Lines 18-    911 OPERATOR: If there's a                 Non-hearsay. Not an assertion.
+20.                  defibrillator available, send someone
+                     to get it now and tell me when you
+                     have it.
+
+Page 6, Lines 21-    DM: Say that again. There's a police       Non-hearsay. Not offered for the
+22                   here right now.                            truth of the matter asserted.
+                                                                Alternatively, present sense
+                                                                impression.
+Page 6, Lines 23-    911 OPERATOR: Okay. If there's a           Non-hearsay. Not an assertion.
+25                   defibrillator available, send someone
+                     to get it now and tell me when you
+                     have it.
+
+Page 7, Lines 1-2    DM: We don't have one. Do you              Present sense impression;
+                     have a defibrillator?                      potentially IRE 803(4).
+
+Page 7, Line 3       OFFICER NUNES: Yep.                        Present sense impression.
+
+Page 7, Line 4       DM: Yes, we have one.                      Present sense impression.
+Page 7, Lines 5-6    911 OPERATOR: Okay. Are you                Non-hearsay. Not an assertion.
+                     talking to the officer?
+
+Page 7, Line 7       DM: Yes, he's right here.                  Present sense impression.
+
+
+                                                 4
+Page 7, Lines 8-9   911 OPERATOR: Okay. I'm going to       Non-hearsay. Not offered for the
+                    let you go since he's there with you   truth of the matter asserted.
+                    and can help you.
+
+
+Page 7, Line 10     DM: Okay. Thank you. Bye               Non-hearsay. Not offered for the
+                                                           truth of the matter asserted.
+Page 7, Lines 11-   911 OPERATOR: Okay.                    Non-hearsay. Not offered for the
+12                                                         truth of the matter asserted.
+                    (End of audio.)
+
+
+
+
+                                             5
+                                         CERTIFICATE OF SERVICE
+                             4/24/2025
+|
+    hereby certify that on             served a true and correct copy of the ORDER ON STATE'S
+MOTIONS IN LIMINE RE: TEXT MESSAGES AND 911 CALL AND ATTACHMENTS
+LATAH COUNTY PROSECUTING ATTORNEY'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+ASHLEY JENNINGS
+SENIOR DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.qov
+
+JOSHUA D. HURWIT
+SPECIAL DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.gov
+
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: jeff.nye@aq.idaho.gov
+
+MADISON ALLEN
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Madison.allen@aq.idaho.qov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetayloriaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+FIRST DISTRICT PUBLIC DEFENDER
+JAY W. LOGSDON
+VIA EMAIL: jay.loasdon@spdidaho.qov
+
+BICKA BARLOW
+Pro Hac Vice
+VIA EMAIL: bickabarlow@sbcqlobal.net
+
+
+
+
+                                                           TRENT TRIPPLE
+                                                           Clerk of the Court
+
+                                                      ay
+                                                           Deputy Clerk aizaizozs 3:03:16 PM
+
+
+
+
+CERTIFICATE OF SERVICE
+

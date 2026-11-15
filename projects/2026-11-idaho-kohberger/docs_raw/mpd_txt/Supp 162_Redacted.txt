@@ -1,0 +1,45 @@
+07/08/25                       Moscow Police Department                      1272
+11:30                       Law Supplemental Narrative:              Page:      1
+  Details
+Incident Number      22-M09903            Name   Brett Payne
+Sequence Number      162                  Date   10:48:23 03/15/23
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+________
+Google "                         @gmail.com" return-#157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+NA
+3.        Narrative
+
+On March 9, 2023 I downloaded the return for the search warrant issued to Google
+LLC for all information associated with the Gmail account
+"                    @gmail.com" and "            @gmail.com". The return was
+downloaded on For. Det. Mowery's desktop computer from the Google LERS portal.
+Attached to the return was a certificate of authenticity attesting the records
+were "a true and correct copy of records pertaining to the Google
+account-holder(s) identified with an Android Identifier(s),                , and
+Google account(s)                     @gmail.com,             @gmail.com, with
+Google Ref. No.          ("Document"). Accompanying this Certificate of
+Authenticity as Attachment A is a list of hash values corresponding to each
+file produced in response to the Search Warrant."
+The return will be uploaded into evidence upon Det. Mowery's return to duty.
+
+4.        Other
+NA
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+CPL Payne #157
+Wed Mar 15 10:55:07 PDT 2023
+Reviewed By:
+Sgt. Dustin Blaker #108
+Wed Mar 15 12:31:00 PDT 2023
+

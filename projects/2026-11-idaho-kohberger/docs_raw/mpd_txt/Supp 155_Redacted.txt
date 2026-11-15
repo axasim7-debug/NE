@@ -1,0 +1,44 @@
+07/08/25                       Moscow Police Department                      1272
+11:25                       Law Supplemental Narrative:              Page:      1
+  Details
+Incident Number      22-M09903          Name   Brett Payne
+Sequence Number      155                Date   09:26:53 02/24/23
+
+     Narrative
+      (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+CDA PD Phone Swab and Paper Receipt-#157
+
+1.        WatchGuard Event: NA
+          Additional Responding Officers: NA
+          Case number added to WG: NA
+
+2.        Evidence
+Item 639-Phone Swab
+Item 640-Paper
+3.        Narrative
+On or about February 13, 2023, MPD received a package from the Couer d'Alene
+Police Department. The package contained two items for Det. Mowery. I provided
+these items to Det. Mowery on Febraury 14, 2023 without opening the package as I
+thought they were digital items.
+
+On February 23, 2023, Det. Mowery brought the two items into my office and told
+me they were not digital items. The two evidence items were swabs from J
+D         phone and the paper used while taking the swabs. The swabs were taken
+before the phone was forensically downloaded. None of the seals on either of the
+items were broken, so I booked the packages into MPD evidence on February 24,
+2023.
+4.        Other
+
+None
+I certify (or declare) under penalty of perjury pursuant to the law of the State
+of Idaho that the foregoing is true and correct.
+REVIEWED-Fri Feb 24 09:31:51 PST 2023
+CPL Payne #157
+Reviewed By:
+Sgt. Dustin Blaker #108
+Mon Feb 27 09:08:04 PST 2023
+

@@ -1,0 +1,49 @@
+On November 18, 2022, I again attempted to view the contents of the SDCard, I
+plugged the card into a write-blocker and it still was not recognized by the
+computer. I used FTK Imager version# 4.7.1.2 to make an image of the SDCard. Now
+that the data was on a drive recognized by the operating system, I then used
+Axiom Magnet version# 6.5.0.32778 to parse data from the card.
+In reviewing the data, I found over 13,000 individual images from the card. They
+appear to be individual video frames from the camera.
+While attempting to view the data on the card, I received a forwarded email from
+C       N   , whose sister M     K    resides at the residence. The email stated
+that he was viewing the video remotely when Ofc Morris removed the camera. He
+stated he saw a suspicious vehicle in the area and was concerned with the video
+footage stored on the device being overwritten.
+I was then put in touch with T      L   , another resident at      King Road.
+L    stated she would be back in Moscow at approximately 2000 hours. I met with
+L    at her residence and asked again if she would be willing to assist in
+recording screen captures on her phone from the device. I explained to L     I
+would replace the camera, gather the information and then take the camera as
+evidence. I also explained to L    I needed to take the wireless router, since
+the camera was already linked to the WIFI network. L    stated she would consent
+and allow both items to be seized.
+I reinstalled the camera in the light socket and it powered on. I was able to
+watch as L    accessed the footage on the camera. During this time, the camera
+showed a vehicle entering the area at approximately 0356 hours and leaving at a
+high-rate of speed at approximately 0420 hours. L    provided the videos to me.
+I uninstalled the camera and seized the wireless router. Both items were then
+taken back to the Moscow Police Department as evidence.
+On November 19, 2022, while reviewing the videos located at 0356 and 0420, it
+appeared the vehicle left the area and may have travelled on Walenta Drive,
+however, the video stopped. In an attempt to see further, and gain perhaps a
+better resolution, I reconstructed the wireless network the camera operated on
+by powering on the wireless router. I downloaded the Homeye Pro app on my work
+phone.
+
+I was able to use the app and download the video clips. These clips included
+audio, which were not a part of the screenshots completed and were able to
+capture a longer duration. In the clips, the vehicle's exhaust and acceleration
+can be heard, as well as seeing the vehicle leave at a high rate of speed on
+Walenta Drive.
+
+After capturing the clips, I disconnected the camera and wifi router and placed
+them into evidence. The videos were placed onto a DVD and placed into evidence.
+
+Det. Lawrence Mowery - 162
+Sat Nov 19 18:55:33 PST 2022
+
+Reviewed:
+Sgt. J. W. Lawrence
+Sun Nov 20 06:12:47 PST 2022
+

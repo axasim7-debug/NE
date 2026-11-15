@@ -1,0 +1,1460 @@
+                                                                                                          FILED
+                                                                                      AM.
+
+
+                                                                                                FEB 19            2025
+
+           IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICF@RtT TRIPPLE, Clerk
+                                                                                                 By ANNA MEYER
+                                                                                                      DEPUTY
+                THE STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+    STATE OF IDAHO,
+
+              Plaintiff,                                   Ada County Case No. CR01-24-31665
+
+                                                           ORDER ON DEFENDANT'S MOTION
+    BRYAN C. KOHBERGER,                                    TO SUPPRESS RE: GENETIC
+                                                           INFORMATION
+              Defendant.
+
+
+
+I.      INTRODUCTION
+        Defendant is charged with one count of Burglary and four counts of Murder in the First
+
+Degree. It is alleged that Defendant entered a residence at 1122 King Road in Moscow, Idaho, in
+the early morning hours of November 13, 2022 and stabbed Madison Mogen, Kaylee Goncalves,
+
+Ethan Chapin, and Xana Kernodle with a knife. Left at the crime scene was a knife sheath from
+which single source male DNA was extracted. Using forensic investigative genetic genealogy
+
+("IGG"), law enforcement was able to identify Defendant as a possible suspect weeks after the
+crime occurred. Subsequently, law enforcement conducted a trash pull from Defendant's family
+residence and obtained DNA tying Defendant to the DNA found on the knife sheath. Defendant
+
+was subsequently arrested pursuant to a warrant and charged in this matter.
+        Defendant asserts law enforcement violated his constitutional rights by failing to secure a
+
+warrant before conducting the IGG and trash pull. He seeks to suppress all evidence obtained
+
+through these searches, as well as all evidence obtained through subsequent warrants as fruit of
+the poisonous tree. The State disputes that Defendant's constitutional rights were violated.
+
+        A suppression hearing was held on January 23, 2025, during which the Court received
+testimony from members of law enforcement and experts in IGG, each of whom the Court found
+to be credible and reliable.' Following argument, the Court took the matter under advisement.
+
+The Court finds Defendant has failed to demonstrate his constitutional rights were contravened
+
+by the IGG and trash pull and, therefore, suppression is not warranted.
+
+
+
+'
+ Specifically, the Court received testimony from Detective Corporal Brett Payne, Rylene Nowlin, Matthew
+Gamette, Daniel Hellwig and Leah Larkin.
+
+                                                       1
+Il.       STANDARD
+          The standard of review of a motion to suppress is bifurcated. The power to assess the
+
+credibility of witnesses, resolve factual conflicts, weigh evidence, and draw factual inferences is
+vested in the trial court. State v. Valdez-Molina, 127 Idaho 102, 106, 897 P.2d 993, 997 (1995).
+
+A trial court's ruling on a motion to suppress evidence combines the issue of law and fact, and
+the trial court's factual findings will not be overturned unless they are clearly erroneous. State v.
+
+Conant, 143 Idaho 797, 799, 153 P.3d 477, 479 (2007). When a decision on a motion to suppress
+is challenged, the application of constitutional principles to the facts found will be freely
+reviewed. State v. Veneroso, 138 Idaho 925, 928, 71 P.3d 1072, 1075 (2003).
+          FINDINGS OF FACT
+          On November 13, 2022, law enforcement found the bodies of Madison Mogen, Kaylee
+
+Goncalves, Xana Kernodle, and Ethan Chapin inside a residence located at 1122 King Road in
+Moscow, Idaho. All four victims died from apparent knife wounds. A Ka-Bar knife sheath was
+found on a bed next to the bodies of Ms. Mogen and Ms. Goncalves. Law enforcement seized the
+
+knife sheath and swabbed around the button of the sheath for DNA. A sample of DNA, identified
+as Q1.1, was extracted from the swab by the Idaho State Police Forensics Lab and subsequently
+
+tested using standard DNA STR (Short Tandem Repeat) methods. The STR profile developed
+
+revealed that the DNA came from a single source male profile. Law enforcement uploaded the
+DNA profile to the CODIS? database, but it resulted in no hits to known offenders.
+          Subsequently, law enforcement made the decision to pursue forensic investigative genetic
+
+genealogy ("IGG") testing on Q1.1. Such testing begins with the generation of a large amount of
+raw sequencing data from the DNA sample, which is then organized into SNPs, or Single
+
+Nucleotide Polymorphisms. Using bioinformatics software, the SNPs associated with ancestry
+and genealogy can then be pulled out of the raw data and organized into an SNP profile that can,
+
+in turn, be uploaded to commercial genetic genealogy databases to search for a genetic match.
+
+Depending on the strength of the match, law enforcement can start building a family tree to
+identify potential genetic relatives of the uploaded SNP profile.
+          These genetic genealogy databases are hosted by private companies and populated by
+hundreds of thousands of members of the public who voluntarily submit their own DNA and
+
+
+2
+    CODIS is the Combined DNA Index System, a national DNA database.
+
+
+                                                      2
+publicly share personal information to allow the database to better match them with potential
+genetic relatives. Notably, at all relevant times, only two commercial genetic genealogy
+databases "permitted" searches by law enforcement: FFamilyTreeDNA and GEDMatch Pro. The
+
+databases MyHeritage and GEDMatch purported to disallow such searches.
+
+           The IGG process essentially attempts to ascertain identity through genetic associations.
+Unlike STR profiles, which can only reveal whether a person is genetically male or genetically
+female, the SNPs in their raw form have the ability to reveal a trove of personal information,
+
+including sensitive health information such as whether the person has traits indicating an
+increased risk for cancer or Alzheimers. However, IGG does not target these particular SNPs
+
+because, according to defense expert Daniel Hellwig, they are neither "relevant nor probative nor
+
+appropriate" to the identification process. In fact, gleaning medical information from SNPs is not
+possible for a layperson to do and would take a forensic scientist like Mr. Hellwig "a lot of
+research."
+           The IGG was first performed by Othram Labs, a company with which the Idaho
+
+Department of Purchasing had an existing contract for such work. Othram was asked to develop
+an SNP profile from Q1.1, upload it to those public genealogy databases permitting law
+
+enforcement entry and submit a preliminary report of its findings. Othram was not asked to
+
+ascertain medical information associated with Q1.1, nor is there any evidence it tested for such.
+
+Law enforcement did not obtain a warrant for Othram's work.
+           The Idaho State Police delivered Q1.1 to Othram on November 22, 2022. Othram
+
+developed an SNP profile from Q1.1 and searched FamilyTreeDNA and GEDMatch Pro.' This
+work revealed four brothers of interest,° all of whom were "low matches" to Q1.1. To further its
+
+family tree building, Othram asked the Idaho State Police to contact one of the identified
+
+
+
+3
+  As defense expert Leah Larkin noted, however, it is possible for a person to upload an SNP profile to a third-party
+site called Promethease which, for a fee, will look for medically informative SNPs within the profile and generate a
+health report. There is no evidence or contention that was done here.
+
+4
+ Matthew Gamette, the Systems Director for the Idaho State Police Forensics Lab, testified that Othram searched
+two databases that allowed law enforcement searches, but then named "GEDMatch" as one of the two databases
+searched, which does not permit law enforcement searches. He later clarified that "GEDMatch" has two databases:
+GEDMatch and GEDMatch Pro, only the latter of which allows law enforcement searches. Thus, given Mr.
+Gamette's clarification, it is apparent that Othram searched GEDMatch Pro, not GEDMatch.
+
+5
+    These brothers did not share Defendant's last name.
+
+
+                                                          3
+brothers to provide a DNA sample to upload into either of the two databases. Despite Idaho State
+
+Police's request, the contacted brother declined to provide a sample.
+        On December 10, 2022, members of law enforcement, including the FBI, had a meeting
+to discuss Othram's work. As a result, a decision was made to turn the IGG work over to the FBI.
+
+That same day, Othram was instructed to stop work and turn over its SNP profile and search
+results to the Idaho State Police. Othram did so, along with a preliminary report of its findings.
+
+The preliminary report did not contain any medical information associated with the SNP profile.
+        The Idaho State Police then turned the information over to the FBI, which was able to use
+Othram's profile to develop a significantly larger SNP profile. The FBI uploaded the larger SNP
+
+profile to multiple genetic genealogy databases, including GEDMatch and MyHeritage, which
+purport to disallow law enforcement searches. At the time, the FBI had an "Interim Policy"
+issued by the United States Department of Justice related to IGG analysis and searches by its
+
+agencies. Exh. D19. On the one hand, the Interim Policy required that investigative agencies
+conduct IGG searches in genetic genealogy databases permitting law enforcement use. /d., p. 6.
+
+However, on the other hand, the Interim Policy also stated it was intended only as "internal
+guidance" and did not impose any legal restrictions on investigative agencies, noting:
+
+        [The Interim Policy] is not intended to, does not, and may not be relied upon to
+        create any substantive or procedural rights or benefits enforceable at law or in
+        equity by any party against the United States or its departments, agencies, entities,
+        officers, employees, agents, or any other person in any matter, civil or criminal.
+        This interim policy does not impose any legal limitations on otherwise lawful
+        investigative or prosecutorial activities or techniques utilized by the Department
+        of Justice, or limit the prerogatives, choices, or decisions available to, or made by,
+        the Department in its discretion.
+
+Id., p. 1 (emphasis added).
+        From the information it acquired through the databases search, the FBI was able to build
+a family tree and arrive at a potential match.* On December 19, 2022, the FBI provided
+
+Defendant's name to Idaho law enforcement as a possible source of the DNA. The FBI instructed
+that the identification of Defendant as a person of interest was to be considered solely as "a tip."
+
+
+
+
+¢
+  There is no evidence that, in developing the larger SNP profile, the FBI targeted or even had access to those SNPs
+that can reveal sensitive health information.
+
+
+                                                          4
+No warrant was obtained for the FBI's work, and subsequent warrant applications did not include
+the IGG results to inform probable cause.
+
+        As the investigation ensued, law enforcement discovered that Defendant had driven from
+Pullman, Washington to his parents' home in a gated community in Monroe County,
+
+Pennsylvania. At the time, Monroe County's municipal waste ordinance required homeowners to
+dispose of their garbage by placing it out for collection or delivering it directly to a licensed
+waste hauler. Only an authorized trash collector could collect garbage left out for collection.
+
+        Law enforcement decided to conduct a warrantless trash pull from the Kohberger
+residence. Arrangements were made with the local trash collector to isolate and turn over the
+
+Kohbergers' garbage to law enforcement for testing. Articles of trash were retrieved and sent to
+the Idaho State Police Forensics Lab to conduct standard DNA testing.                   A   DNA profile developed
+from one article of trash was determined to be from the biological father of the source of Q1.1.
+
+Another article of trash revealed a mixture of male and female DNA. According to Defendant's
+
+expert, Gary Shulter, Ph.D, the male DNA from the mixture was consistent with Q1.1 profile.
+Aff. G. Shutler, § 8 (December 19, 2024).' Importantly, Defendant has not claimed ownership or
+knowledge of the knife sheath from which Q1.1 was taken.
+        After obtaining a search warrant, law enforcement collected DNA from a buccal swab
+obtained from Defendant. A traditional STR DNA comparison was done between the Q1.1
+
+profile and Defendant's DNA. The comparison showed                  a   statistical match. Specifically,
+
+Defendant was 5.37 octillion times more likely to be the source of the Q1.1 profile than an
+
+unrelated individual randomly selected from the general population. Defendant was subsequently
+
+charged in this case.
+IV.      CONCLUSIONS OF LAW
+         The Fourth Amendment to the United States Constitution protects "[t]he right of the
+
+people to be secure in their persons, houses, papers, and effects, against unreasonable searches
+and seizures[.]" U.S. Const. amend. IV.® In seeking suppression of evidence based on a
+
+
+7
+ Because the DNA was a mixture, the Idaho State Police Forensics Lab's standards and protocols prevented it from
+doing a manual comparison of the male DNA to Q1.1.
+
+®The Idaho Constitution offers protection for unlawful search and seizure as well, which Defendant cites as an
+additional basis for his motion. Idaho Const. art. I, § 17. However, with the exception of the trash pull argument set
+forth in §I(E) of his opening memorandum, Defendant does not explain how Idaho's Constitution provides greater
+protection than the Fourth Amendment or otherwise explain how the application of the Donato factors supports a
+divergence from Fourth Amendment law. State v. Donato, 135 Idaho 469, 20 P.3d 5 (2001) (observing that where
+
+                                                           5
+warrantless search, a defendant bears the evidentiary burden to show that he had a legitimate
+
+expectation of privacy in the item or place searched. State v. Pruss, 145 Idaho 623, 626, 181 P.3d
+1231, 1234 (2008).? This involves a two-part inquiry: 1) did the defendant have a subjective
+
+expectation of privacy in the object of the challenged search, and; 2) is society willing to
+
+recognize that expectation as reasonable. Jd. The former is a question of fact; the latter a question
+of law. Jd. When a defendant makes such a showing, "the burden will shift to the State to show
+an exception to the warrant requirement exists or that the search was reasonable under the
+
+circumstances." State v. Rebo, 168 Idaho 234, 238, 482 P.3d 569, 573 (2021) (citation omitted).
+
+           Here, Defendant challenges three allegedly unlawful DNA-related searches: 1) the
+
+development of an SNP profile from Q1.1; 2) the trash pull from the Kohberger residence and
+
+subsequent DNA testing thereon, and; 3) the search of the commercial genetic databases using
+the SNP profile. He seeks to suppress not only the genetic information obtained by law
+
+enforcement, but all other evidence obtained as a result of the alleged illegality.'° In response,
+the State argues Defendant has not met his threshold burden of demonstrating that a
+
+constitutional violation occurred with regard to any of the three searches. The State is correct.
+           A.       Defendant has Not Established a Fourth Amendment Violation With Regard
+                    to the Development of the SNP Profile.
+
+           Defendant first asserts that the extraction and testing of DNA from the sheath to develop
+the SNP profile constituted an unreasonable search mandating suppression. Noting recent
+
+advances that have made DNA capable of revealing prolific and sensitive information, as well as
+the fact that humans continually shed DNA into the environment, Defendant asks this Court to
+
+find that he had a reasonable expectation of privacy in his DNA, the testing of which through
+SNP methods required a warrant despite that fact that law enforcement was lawfully in
+
+possession of the object containing the DNA, i.e., the sheath. He further posits that this privacy
+
+
+
+
+greater protection has been afforded under Idaho's constitution, it has been based on "the uniqueness of our state,
+our Constitution, and our long-standing jurisprudence.") Thus, the Court's analysis of his arguments, with the
+exception of the trash pull, is limited to Fourth Amendment law.
+°
+ While property interests are also protected under the Fourth Amendment, Defendant has not alleged violation of
+such interests. Therefore, the property-based test to determine whether a search occurred is not implicated.
+
+10
+     Defendant asserts that all evidence collected after he was identified through the FBI's IGG search, i.e., December
+19, 2022, must be suppressed as fruit of the poisonous tree.
+
+
+                                                            6
+interest is not subject to the doctrine of abandonment because the shedding of DNA into the
+
+environment is not a voluntary or knowing act.
+       The State denies that the testing of the DNA from the sheath was a search, pointing out
+the DNA was lawfully seized evidence from the scene of the crime. The State further contends
+
+Defendant has not demonstrated he had a reasonable expectation of privacy in this DNA because
+he abandoned it and/or because he has not shown the existence of a reasonable privacy interest
+
+society is willing to recognize.
+       This is a matter of first impression in Idaho. However, applying well-settled principles of
+Fourth Amendment law, the Court finds no constitutional violation. First, Defendant abandoned
+
+any privacy interest in his DNA by disclaiming knowledge or ownership of the sheath from
+which the DNA was extracted. Second, even if no such abandonment occurred, there is no
+reasonable expectation of privacy in DNA found at a crime scene which is subsequently
+
+analyzed to identify an unknown suspect.
+                1.     Defendant cannot establish a subjection expectation of privacy in the DNA
+                       found on the sheath due to abandonment.
+
+        It is well settled that a person who "voluntarily abandons property prior to a search
+
+cannot be said to possess the requisite privacy interest under the Fourth Amendment." Srark v.
+
+State, 171 Idaho 541, 545, 524 P.3d 43, 47 (2023) (citation omitted). When one abandons
+
+property, "[t]here can be nothing unlawful in the Government's appropriation of such abandoned
+
+property." Abel v. United States, 362 U.S. 217, 241(1960). In the FFourth Amendment context,
+abandonment occurs "through words, acts, and other objective facts indicating that the defendant
+
+voluntarily discarded, left behind, or otherwise relinquished his or her interest in his or her
+property." Stark, supra (citation omitted).
+        Disclaiming ownership or knowledge of an item constitutes abandonment. State v.
+Melling, 160 Idaho 209, 212, 370 P.3d 412, 415 (Ct. App. 2016) (citations omitted). In Melling,
+for example, officers reported to the defendant's house after reports of a fight. Jd. at 210, 370
+P.3d at 412. While officers were speaking to the defendant, his girlfriend gave officers a lockbox
+that she said belonged to the defendant. The defendant told officers he had never seen the box
+
+before, had no idea who it belonged to, that nothing in the box was his and that he did not know
+what was inside of it. Jd. The Court held that by disclaiming ownership of the lockbox and its
+
+contents, the defendant abandoned any privacy interest therein. Jd. at 416.
+
+
+                                                  7
+           Moreover, a person need not specifically disclaim knowledge or ownership of the
+contents of a container to result in abandonment thereof. It is sufficient to disclaim knowledge or
+
+ownership of the container itself. See, State v. Zaitseva, 135 Idaho 11, 13, 13 P.3d 338, 340
+(2000) ("by denying ownership of the bag in response to the officer's inquiry prior to the search,
+[the defendant] essentially relinquished or abandoned any privacy interest in the contents of the
+
+bag."').
+           There is no dispute here that Defendant has not claimed any knowledge or ownership of
+the sheath, thus resulting in its abandonment. Defendant concedes as much, but argues that
+
+abandonment of any privacy interest in the sheath did not result in the abandonment of the DNA
+
+found on the sheath. He contends that unlike the voluntary act leaving the sheath, leaving DNA
+
+on the sheath is not voluntary because a person has no way to know that their DNA has been left
+
+behind. DNA, he points out, is shed everywhere; humans have no ability to keep their biological
+
+material from the environment. Consequently, he reasons, a finding that the DNA on the sheath
+
+was abandoned would mean that a person voluntarily gives up privacy in their entire genetic
+
+makeup every time they interact with the public.
+           In support of his argument, Defendant relies exclusively on a concurring opinion in State
+
+v. Carbo, which is factually similar to this case. 6 N.W.3d 114 (Minn. 2024). In Carbo, the
+
+evidence at issue was semen deposited inside the deceased crime victim and skin scrapings from
+underneath her fingernails. Jd. at 120. In an attempt to identify a suspect, law enforcement
+
+contracted with a lab to conduct a genetic analysis of the DNA extracted from this evidence. Jd.
+
+Like here, the lab created a SNP profile from the DNA and utilized commercial genealogical
+databases to determine a potential source. It also generated a report that provided information
+
+about the suspect's physical traits and ancestral origin. /d. This information ultimately led law
+
+enforcement to the defendant. Law enforcement then created a DNA profile from trash discarded
+
+by the defendant, which matched the DNA profile from the crime scene. Jd. Subsequently, the
+defendant provided a voluntary DNA sample, which matched the profile from the crime scene
+
+and the garbage. Jd.
+
+           The defendant moved to suppress evidence of his genetic information left behind at the
+crime scene. He argued, as Defendant does here, that although he may have abandoned his
+
+privacy interests in his semen and skin cells, it did not equate to an abandonment of the "vast
+troves" of genetic information that biological material contained. /d. at 121. Making short work
+
+
+                                                   8
+of this argument, the Minnesota Supreme Court found that by voluntarily leaving his semen and
+skin at the crime scene, he abandoned any subjective privacy interest in his genetic information
+contained therein. /d.
+
+       In the concurring opinion relied upon by Defendant, one justice disagreed with the
+
+majority on this issue because, given the sensitive genetic information revealed by SNP testing,
+he would have required a warrant before allowing such testing. /d. at 127 (J. Procaccini,
+
+concurring). He further opined that the concept of abandonment        which requires
+voluntariness   is an "ill fit" for genetic information because it is virtually impossible for humans
+
+to prevent leaving personal genetic information everywhere they go. /d. at 131-32. To this end,
+
+he analogized DNA to the cell phone site location information     (CSL) at issue in Carpenter v.
+United States, 585 U.S. 296, 310-11 (2018), where the United States Supreme Court reasoned
+that CSLI is not "voluntarily exposed" given that virtually any activity on a phone-which is
+
+essential to participate in modern life-will leave a trail of location data. Jd. at 132 (citing
+
+Carpenter). While there are safeguards to prevent the dissemination of CSL1 (i.e., turning off a
+phone), he observed there are no similar safeguards for DNA, thus rendering "the case against
+abandonment ... all the more clear{.]" /d. "When we venture into public spaces, we simply
+
+cannot help but shed our DNA." Jd.
+
+        The majority, however, pointed out that the inquiry as to whether the defendant
+abandoned his subjective privacy interests looks to his specific actions. Jd. at 121-22, n. 2. When
+
+viewed in this way, the majority found Justice Procaccini's logic inapt given that the defendant's
+DNA was "not collected from a shed skin cell or flake of dandruff" nor was it a mere
+consequence of the defendant venturing into the public sphere. /d. It was collected from semen
+he voluntary left inside the victim and skin cells he voluntarily left under her fingernails. /d.
+
+        Defendant argues that Justice Procaccini's case against abandonment is particularly
+
+appropriate here. Defendant argues the biological material left on the sheath was not blood or
+semen or some bodily fluid that the Carbo court found could be voluntarily left behind. Instead,
+
+he argues it was more likely "shed" cells, which humans cannot help but discard.
+
+        However, as the State points out, there is nothing that distinguishes semen voluntarily left
+at a crime scene from the sheath. Both were abandoned vehicles carrying DNA. Stated another
+
+way, the semen in Carbo and the sheath here were both containers of DNA. As discussed,
+disclaiming ownership or knowledge of a container results in abandonment of a privacy interest
+
+
+                                                   9
+in its contents. Zaitseva, supra. Thus, by effectively disclaiming knowledge or ownership of the
+
+sheath, Defendant necessarily abandons any privacy interest in the DNA it contains.
+
+        Indeed, Carbo is not an anomaly in finding abandonment. Courts uniformly hold that a
+
+person abandons any privacy interest in their DNA for purposes of the Fourth Amendment when
+
+they abandon property that contains their DNA.!! In State v. Burns, for example, law
+enforcement extracted DNA from a bloodstained dress of the victim and created a genetic profile
+
+which was run through genetic genealogy. 988 N.W.2d 352, 357-58 (lowa 2023), cert. denied,
+144 S. Ct. 288 (2023). The defendant was identified as a suspect through this process. Officers
+
+then followed him to a restaurant and collected a straw the suspect deposited in the trash. Jd.
+
+Testing of the DNA on the straw indicated that the DNA extracted from the dress could be the
+defendant's. A subsequent test confirmed it. Jd.
+        The defendant did not move to suppress the extraction and analysis of his DNA from the
+bloodstained dress, but he did unsuccessfully seek suppression of the DNA extracted from the
+
+straw. Id. at 359. On appeal, the court had little difficulty finding that any privacy interest he had
+
+in his DNA profile developed from the straw was abandoned. /d. at 361. First, by failing to make
+
+any effort to preserve the straw as private, he relinquished any subjective privacy interest therein.
+Second, even if he retained a subjective privacy interest, it was not one society would recognize
+as reasonable considering he voluntarily left the straw behind in the restaurant. /d. Further, the
+
+court rejected the defendant's attempt to distinguish the DNA on the straw from the straw itself,
+
+finding no practical difference between the two. By abandoning the straw, he also abandoned any
+DNA on the straw. /d. at 362.
+
+
+
+  See, e.g., People v. Sterling, 57 A.D.3d 1110, 1111, 869 N.Y.S.2d 288 (2008) ("'[O]nce defendant drank from the
+milk carton, which was thereafter lawfully obtained by police, he no longer retained any expectation of privacy in
+the discarded DNA); McCurley v. State, 653 S.W.3d 477, 490-91 (Tex. App. 2022), reconsideration en banc denied
+(Sept. 22, 2022), petition for discretionary review refused (Mar. 1, 2023) (holding defendant did not maintain a right
+to privacy in his DNA evidence obtained from an abandoned cup); Lovchik v. Commonwealth, 2020 WL 6139896 at
+*4 (Va. Ct. App. 2020) ('when appellant abandoned the items that carried his DNA, he not only relinquished any
+objectively reasonable right to privacy in those items, but also any such right to privacy in the DNA profile
+developable from those items to identify him"); United States v. Hicks, 2020 WL 7311607 at *2 (W.D.Tenn. 2020)
+("Defendant abandoned the cigarette butt containing his DNA sample and in doing so, surrendered any expectation
+of privacy he had in the DNA profile that could be extracted from the sample"); State v. Athan, 158 P.3d 27, 33-34
+(Wash. 2007) (holding defendant abandoned DNA when he sent the envelope in the mail because "[t]he envelope,
+and the saliva contained on it, becomes the property of the recipient); People v. Gallego, 190 Cal.App.4th 388, 117
+Cal.Rptr.3d 907, 913 (2010) ("By voluntarily discarding his cigarette butt on the public sidewalk, defendant actively
+demonstrated an intent to abandon the item and, necessarily, any of his DNA that may have been contained
+thereon."); State v. Williford, 767 S.E.2d 139, 144 (N.C. Ct. App. 2015) (same)).
+
+                                                          10
+        The Burns court additionally rejected the argument Defendant makes here-that DNA
+cannot be voluntarily abandoned due to involuntary shedding. Jd. at 363. In doing so, the court
+
+aptly analogized DNA shed to fingerprints, something individuals also unconsciously and
+continually shed. /d. at 363. First, the court observed, all the different ways a person can shed
+DNA is irrelevant for Fourth Amendment purposes; what is relevant is the DNA left on the
+particular item the defendant abandoned, i.e, the straw or, here, the sheath. Second, the court
+noted that DNA shed is no different than latent fingerprints. Like DNA, latent fingerprints are
+
+left   typically without volition-everywhere humans go. Like DNA, they are "powerful means
+of individual identification" not visible to the human eye and must be developed through the use
+of specialized technology. Jd. (quoting Thomas D. Holland, Novel Features of Considerable
+Biologic Interest the Fourth Amendment and the Admissibility ofAbandoned DNA Evidence, 20
+Colum. Sci. & Tech. L. Rev. 271, 310 (2019) ("Holland"). The court concluded that because the
+
+testing of latent fingerprints does not raise Fourth Amendment concerns, neither should DNA
+collected and tested from an abandoned item. /d. at 364.
+        The Court finds the analysis in Burns compelling and consistent with Fourth Amendment
+law. The Court recognizes that a distinction can be drawn given the fact that, in Burns, there was
+no question that the defendant abandoned the straw, and here, Defendant argues it cannot be
+
+conclusively stated that he abandoned the sheath. However, as the State notes, this distinction
+does not preclude a finding of abandonment for two reasons. First, as discussed, abandonment
+
+does not occur solely by discarding an item. It also occurs by disclaiming ownership or
+
+knowledge or otherwise relinquishing an interest in property. Zaitseva, supra. By not claiming
+ownership of the sheath or any knowledge as to how his DNA arrived on the sheath, Defendant
+abandoned any privacy interest in the DNA.
+
+        Second, the fact that a person does not knowingly expose his DNA to the public does not
+contravene a finding of abandonment. Like DNA, fingerprints and bodily fluids are left
+
+unknowingly on surfaces of public places merely as a consequence of venturing into the public
+sphere yet, as noted in Burns, this does not raise constitutional concerns. Burns, 988 N.W.2d at
+
+363; see also, Holland, 20 Colum. Sci. & Tech. L. Rev. at 331 ("The manner in which humans
+shed cellular material is not fundamentally different from the manner in which the oils
+
+comprising fingerprints are shed."). What matters is that the material was left in the public
+domain. Applying this rationale, the Maryland Supreme Court concluded that the defendant
+
+
+                                                 1]
+abandoned any privacy interest he had in his shed DNA collected from a chair in which he had
+
+been sitting. Raynor v. State, 99 A.3d 753 (Md. 2014). In doing so, the court rejected that notion
+
+that abandonment required an explicitly voluntary, knowing act, noting:
+
+       [T]he fact that one has not knowingly exposed to the public certain evidence does
+       not, by itself, demonstrate a reasonable expectation of privacy in that evidence.
+       '[W]hile Katz says it is no search to discover what one 'knowingly exposes," it
+       does not declare the exact reverse of this proposition. That is, the [Supreme]
+       Court did not say that discovery of what was not knowingly exposed is inevitably
+       a search.' [1 Wayne R. LaFave, Search and Seizure § 2.2(d), at 649 (5" ed.
+       2012)].
+
+Id. at 766-67 (2014).
+
+       Likewise, here, at some point Defendant apparently interacted with the sheath to a
+sufficient enough degree that he left his DNA thereon. Whether he knew he left his DNA behind
+is of no consequence. It is only relevant that he exposed his DNA to the public by leaving it on
+the sheath, thus forfeiting any reasonable expectation of privacy in the DNA left behind.
+
+               2.       Even if not abandoned, Defendant has not established his subjective
+                        privacy interest in his DNA is objectively reasonable.
+       A Fourth Amendment search occurs when the government seeks to gain information by
+infringing upon a person's "reasonable expectation of privacy." Katz v. United States, 389 U.S.
+347, 360 (1967) (Harlan, J., concurring). ""An expectation of privacy is objectively reasonable
+when it is legitimate, justifiable, and one society should both recognize and protect." State v.
+
+Fancher, 145 Idaho 832, 837, 186 P.3d 688, 693 (Ct. App. 2008).
+       It is true that DNA testing   particularly SNP testing-can unlock a wealth of intensely
+private information about an individual, including family relationships, ancestry, genetic
+disorders and the propensity for health-related risks. Victoria Romine, Crime, DNA, and Family:
+
+Protecting Genetic Privacy in the World of 23and me, 53 Ariz. St. L.J. 367, 379 (Spring 2021).
+Such highly private information is already protected under the law in other contexts, including in
+Idaho through the Genetic Testing Privacy Act, I.C. § 39-8301 ef. seg, which prohibits genetic
+
+discrimination in employment. Given the privacy interests implicated by DNA testing,
+Defendant argues that DNA even lawfully in possession of law enforcement cannot be tested
+
+absent probable cause and a warrant.
+
+       In Defendant's view, the breadth of information SNP testing can reveal is analogous to
+
+the CSLI at issue in Carpenter, where the United States Supreme Court held that a person
+
+
+                                                  12
+maintains a legitimate expectation of privacy in the record of his physical movements as
+
+captured through CSLI data maintained by the person's wireless carrier. 585 U.S. at 315-16. The
+
+Carpenter court reasoned that those "detailed, encyclopedic" records       which provided an "all-
+
+encompassing record" of the defendant's location over a course of 127 consecutive days-can
+give law enforcement "'an intimate window into a person's life, revealing not only his particular
+movements, but through them his 'familial, political, professional, religious, and sexual
+associations.'" Jd. at 310-11 (quoting United States v. Jones, 565 U.S. 400, 415 (2012)
+
+(Sotomayor, J., concurring). "These location records 'hold for many Americans the "privacies of
+life."'" Jd. at 311 (quoting Riley v. California, 573 U.S. 373, 403 (2014)).
+        Defendant also relies on Riley, where the United States Supreme Court held that police
+
+may not search digital information from a cell phone seized pursuant to the search incident to
+arrest exception to the warrant requirement. 573 U.S. at 403. The Court observed that, unlike
+
+physical objects, digital data on a cell phone does not implicate the same government interests
+justifying searches incident to arrest, i.e., preventing loss of evidence and threats to officer
+safety. Jd. at 401. Further, the Court found that the extent of personal information digital data
+would reveal about a person implicated significant privacy interests, noting that while an arrestee
+has "diminished" privacy interests, it does not mean the arrestee has no Fourth Amendment
+
+protections. /d. at 392. By analogy to Riley, Defendant contends that law enforcement should be
+
+required to obtain a search warrant to analyze the DNA from the sheath, despite being in lawful
+
+possession thereof.
+        With regard to the SNP testing of DNA in particular, Defendant relies on Skinner v.
+
+Railway Labor Executives' Association, where the United States Supreme Court held that the
+collection and subsequent testing of an employee's legally obtained urine constitutes a Fourth
+Amendment search. 489 U.S. 602, 618 (1989). The Court observed that while a physical
+intrusion into an employee's body to collect the urine is an obvious infringement of the
+
+employee's reasonable expectation of privacy, the subsequent chemical analysis of the urine
+sample to obtain physiological data about the employee is "a further invasion" of the employee's
+
+privacy interest given that such testing can "reveal a host of private medical facts about an
+employee, including whether he or she is epileptic, pregnant , or diabetic." Jd. at 617.
+        Based on Carpenter, Riley and Skinner, Defendant contends that because SNP testing of
+DNA is even more revealing than CLSI data or urine testing, it should be allowed only upon a
+
+                                                   13
+warrant, regardless whether the DNA was lawfully obtained. Defendant argues that this is
+
+precisely what the Fourth Circuit did in United States v. Davis, when it held that "the extraction
+of DNA and the creation of DNA profile result in a sufficiently separate invasion of privacy
+                                  raa
+
+
+
+
+that such acts must be considered a separate search under the Fourth Amendment even when
+
+there is no issue concerning the collection of the DNA sample." 690 F.3d 226, 246 (4th Cir.
+
+2012). At issue in Davis was DNA extracted from the defendant's clothing which had been
+lawfully seized four years earlier when the defendant was a crime victim in an unrelated case.
+Relying on Skinner, the court reasoned that the extraction and analysis was a search "because the
+analysis of biological samples, such as those derived from blood, urine, or other bodily fluids,
+can reveal 'physiological data' and a 'host of private medical facts,' such analyses may 'intrude[]
+                                                                                               " Jd. at 243
+upon expectations of privacy that society has long recognized as reasonable.'
+
+(quoting Skinner, 489 U.S. at 616-17).!"
+         However, these cases lend no support to Defendant when applied to the specific
+circumstances presented here for three reasons: 1) there is no reasonable expectation of privacy
+in identity; 2) Defendant has not shown his DNA was tested for anything other than identifying
+
+purposes, and; 3) even if the DNA analysis revealed sensitive personal details, there is no
+reasonable expectation of privacy in crime scene DNA.
+
+
+
+
+12
+   Defendant also cites to the recent decision of State v. Mitcham, where the Arizona Supreme Court found that the
+DNA testing of a blood sample lawfully collected from the defendant during a DUI arrest constituted a search. 559
+P.3d 1099 (Ariz. 2024). The blood sample had been voluntarily provided by the defendant after his 2015 DUI arrest
+for purposes of testing for alcohol or drugs only. /d. at 102. The defendant was informed that the sample would be
+                                                        1
+
+
+
+destroyed after testing. AA month later, a woman was murdered and law enforcement developed a male DNA profile
+from biological swabs from the crime scene. /d. CODIS did not return a match. /d. at 1103. Two years later, law
+enforcement initiated a familial DNA investigation of the male DNA profile which pointed law enforcement to the
+defendant. Officers then performed a DNA test of the blood he had provided in connection with his DUI arrest,
+which they had not destroyed. /d. The court found the DNA test was a search based on prior Arizona precedent
+holding that the DNA testing of an arrestee's buccal swab was a Fourth Amendment violation. /d. at 1106 (citing
+Mario W. v. Kaipio, 230 Ariz. 122, 129, 281 P.3d 476, 483 (2012)). It further found the search was unreasonable
+because it exceeded the scope of the defendant's consent when he provided the blood sample. /d. at 1108. Mitcham,
+however, is distinguishable for the same reasons as Davis. It is the status of the individual providing the sample that
+frames the reasonableness. Although the defendant was an arrestee when he provided the blood, he was not robbed
+of all privacy interests in his blood. Riley, 573 U.S. at 392 (explaining arrestees only have "diminished" expectation
+of privacy). As an arrestee, he consented to search of his blood only for alcohol and drug purposes and anticipated
+the blood sample would thereafter be destroyed. When officers failed to destroy the blood sample and then
+subsequently tested it for entirely different purposes, it not only contravened his consent but also the reasonable
+expectation of privacy he maintained in his blood at the time it was provided. Here, however, officers tested
+discarded crime scene DNA from an unknown murder suspect a circumstance that is outside the margins of
+Mitcham.
+
+
+                                                            14
+       First, there is no reasonable expectation of privacy in our identifying characteristics, such
+as fingerprints. United States v. Dionisio, 410 U.S. 1, 14 (1973). This is because the analysis of
+
+such physical characteristics "involves none of the probing into an individual's private life and
+
+thoughts that marks" a Fourth Amendment search. /d. at 15. On this basis, courts have held that
+
+testing of DNA for identification purposes does not run afoul of the Fourth Amendment because
+it is no more revealing than fingerprints. See, e.g., Raynor, 99 A.3d at 767 (where DNA testing is
+
+not obtained by means of a physical intrusion into the person's body, "is no more a search for
+
+purposes of the Fourth Amendment, than is the testing of fingerprints, or the observation of any
+other identifying feature revealed to the public   visage, apparent age, body type, skin color.");
+Burns, 988 N.W.2d at 364-65 (likening DNA analysis used for identification purposes to
+
+analyzing latent fingerprints).
+       The Idaho Court of Appeals has all but followed suit. In Piro v. State, a post-conviction
+
+action, the Court of Appeals addressed whether the petitioner's counsel was deficient by failing
+to argue his client had a reasonable expectation of privacy in his genetic material left behind on a
+
+water bottle. 146 Idaho 86, 91-92, 190 P.3d 905, 910-11 (Ct. App. 2008). In rejecting the claim,
+
+the Court first noted that since the issue of genetic privacy in DNA was a "novel theory in an
+
+undeveloped area of law[,]" counsel was not ineffective by failing to raise it. Jd. Moreover, the
+Court cast doubt of the substantive value of the argument, noting that in other jurisdictions
+"courts have held that the use of DNA for identification purposes only does not infringe on a
+
+privacy interest in one's genetic identity because the DNA is not being used to reveal personal
+information." /d. (citations omitted).
+
+        Second, in Maryland v. King-decided after Skinner, Riley and Davis           the United States
+
+Supreme Court confirmed that the objective reasonableness of a privacy interest in DNA
+
+depends on how the DNA is actually used by the government, not what it is capable of revealing.
+569 U.S. 435, 465 (2013). At issue in King was a Maryland statute which permitted the
+
+warrantless acquisition of a buccal swab from an arrestee to obtain   raa   DNA sample. Because the
+testing was for identification purposes   which is constitutionally permissible      and did not
+
+reveal genetic traits or private medical information, the Court found it did not contravene an
+
+arrestee's privacy in any way. /d. at 464. Notably, the DNA testing in King was of the STR
+alleles which, unlike SNP testing, "are not known to have any association with a genetic disease
+
+
+
+
+                                                   15
+or any other genetic predisposition." Jd. at 445 (citation omitted). However, the Court signaled
+
+that it is how the DNA is tested that is legally relevant, not what it is capable of revealing, to wit:
+
+       And even if non-coding alleles could provide some information, they are not in
+       fact tested for that end. It is undisputed that law enforcement officers analyze
+       DNA for the sole purpose of generating a unique identifying number against
+       which future samples may be matched. This parallels a similar safeguard based on
+       actual practice in the school drug-testing context, where the Court deemed it
+       'significant that the tests at issue here look only for drugs, and not for whether the
+       student is, for example, epileptic, pregnant, or diabetic.' Vernonia School Dist.
+       47J, 515 US., at 658, 115 S.Ct. 2386. Ifin the future police analyze samples to
+       determine, for instance, an arrestee's predisposition for a particular disease or
+       other hereditary factors not relevant to identity, that case would present additional
+       privacy concerns not present here.
+
+Id. at 464-65 (emphasis added).
+
+        Thus, under King, testing of lawfully obtained DNA samples may run afoul of the Fourth
+Amendment only if law enforcement uses it for purposes irrelevant to identification. Otherwise,
+it is no more a search for Fourth Amendment purposes than the testing of fingerprints. See also,
+
+Burns, 988 N.W.2d at 366 (noting that if law enforcement had tested the defendant's DNA to
+reveal physiology and health conditions such as a genetic predisposition to cancer, it might
+
+implicate privacy interests, but law enforcement did not do so); Raynor, 99 A.3d at 768 ("That
+Petitioner's DNA could have disclosed more intimate information is of no moment in the present
+case because there is no allegation that the police tested his DNA sample for that purpose.");
+
+State v. Athan, 158 P.3d 27, 34 (Wash. 2007) (while DNA has potential of revealing a vast
+amount of personal information, no privacy interest was implicated where the testing of DNA
+
+was limited to identification purposes.).
+
+        Here, Defendant provided no evidence that the SNP profile developed from Q1.1 through
+IGG revealed any genetic predispositions or physiological or medical conditions. As Mr. Hellwig
+testified, the SNPs that carry such sensitive information are not targeted or revealed in IGG
+because they are neither "relevant nor probative nor appropriate" to the identification process,
+
+which is the goal of IGG. Rather, IGG only implicates those SNPs associated with ancestry and
+
+genealogy in order to determine genetic associations, build a family tree and identify potential
+genetic relatives of the uploaded SNP profile. It is simply an identification tool. In this regard,
+Carpenter is unavailing authority, as has been found by other courts addressing the issue of
+
+
+
+                                                   16
+privacy interests in DNA generally.!* The CLSI in Carpenter was not used as an identification
+tool; it was used as a comprehensive surveillance tool after a suspect had already been identified.
+585 U.S. at 301-02. At best, Carpenter can be applied to technologies that provide the
+
+government with comprehensive surveillance of known person's physical movements. This is not
+the type of information the DNA provided in this case. Law enforcement here extracted and
+
+analyzed the DNA of an unknown suspect solely for identification purposes. It provided no
+information as to location of a known person and does not begin to approach the surveillance
+described in Carpenter."4
+
+          Riley is distinguishable as well as it was context-driven, focusing on the lack of
+connection between the justifications underpinning the search incident to arrest exception to the
+
+warrant requirement and a search of digital data on a cell phone. 573 U.S. at 386-87. The Court
+
+noted that after an arrestee's cell phone is secured by officers, the digital data it contains cannot
+
+harm the officer or be destroyed. /d. at 387. Thus, a search of the digital data becomes solely a
+
+fishing expedition without justification.!° Here, by contrast, law enforcement analyzed the DNA
+from a crime scene item associated with a weapon for purposes of identifying the perpetrator.
+
+Identification is an accepted justification for testing DNA. King, supra. Thus, Riley is unavailing.
+
+           Moreover, even assuming there were sensitive genetic details revealed by the IGG
+
+performed here, the fact that the DNA was obtained from a crime scene and analyzed for
+
+purposes of identifying the perpetrator displaces any reasonable expectation of privacy. The
+Court of Appeals of Washington recently came to the same conclusion under similar facts. In
+State v. Hartman, law enforcement extracted DNA from semen and hair left on a murder
+victim's body. 534 P.3d 423, 427-28 (Wash. App. 2d 2023). The DNA was then sent to a
+
+
+  See, e.g., People v. Mendez, 73 Misc. 3d 715, 718-20, 155 N.Y.S.3d 534, 536-37 (N.Y. Sup. Ct. 2021) ({T]he
+13
+
+
+extraction and analysis of DNA for the sole purpose of developing a profile is not, like the cell-cite location
+information at issue [in Carpenter], 'deeply revealing' or of substantial 'depth, breadth, and comprehensive reach,"
+since the genetic information obtainable from DNA that is deeply revealing and comprehensive is neither sought nor
+revealed in the process."); Burns, 988 N.W.2d at 364-65 (distinguishing Carpenter on grounds that DNA analysis
+used for identification does not provide police with the type of comprehensive surveillance at issue in Carpenter);
+State v. Hartman, 534 P.3d 423, 435 (Wash App. 2023) ("Cell site location information is distinguishable from
+DNA.")
+14
+     Further, in Carpenter, the United State Supreme Court expressly limited its holding to CLSI. 585 U.S. at 3 16
+("Our decision today is a narrow one. We do not express a view on matters not before us.")
+
+'5Further, the Court did not hold that law enforcement is always required to obtain a warrant to search a cell phone
+and specifically noted that other exceptions to the Fourth Amendment could apply to allow such a search. /d. at 388.
+
+
+
+                                                           17
+genealogy consultant, who uploaded a genetic profile to various genealogy databases for
+analysis. Jd. From that analysis, law enforcement learned the suspect had alleles related to
+substance abuse, bipolar disorder and baldness and was approximately 9% native American. Id.
+
+at 960. The genealogist used the information obtained from the databases and other resources to
+
+begin building a family tree, from which she learned there was an instance of "misattributed
+
+paternity" in the suspect's family. Jd. Her research ultimately pointed law enforcement toward
+the defendant.
+
+       Like here, the defendant in Hartman argued he had a reasonable privacy interest in the
+DNA extracted from the semen which law enforcement violated through its analysis revealing
+private personal details. /d at 438. In declining to recognize his privacy interest as reasonable, the
+Court observed it was a "well-established rule that analysis of evidence left behind at a crime
+scene does not require a warrant where the abandoned evidence contains DNA, even though
+
+DNA contains a wealth of personal information." Jd. The court observed that the DNA was not
+only abandoned, the analysis performed by law enforcement was "to determine the killer's
+identity and nothing more." /d. Thus, even though the analysis revealed personal details, they
+were identifying characteristics that served to narrow the suspect pool and, therefore, did not run
+
+afoul of the Fourth Amendment.
+
+       This holding highlights another important point    -
+                                                              it is the status of the individual whose
+
+DNA is tested that helps frame the reasonableness of the privacy expectation. In Davis         relied
+
+upon heavily by Defendant      the Fourth Circuit's holding rested entirely on the fact that the
+
+DNA tested was taken from clothing police seized years earlier when the defendant was a crime
+victim, noting:
+       [W]e agree with the district court that a person who is solely a crime victim does
+       not lose all reasonable expectation of privacy in his or her DNA material simply
+       because it has come into the lawful possession of the police. And, although Davis
+       later was arrested, because the police seized his clothing when he was solely a
+       crime victim, we conclude that his later arrest does not eradicate his expectation
+       of privacy in his DNA material.
+
+690 F.3d at 244.
+        In fact, the district court affirmed in Davis drew a distinction between the analysis of
+
+crime scene DNA and other DNA, stating:
+        This finding would not, as the Government argues, require the police to seek a
+        warrant in order to analyze any items recovered from a crime scene for DNA
+
+                                                  18
+       evidence. No one would argue, for example, that a rapist retains a reasonable
+       expectation of privacy in the DNA contained in the semen that he leaves on his
+       victim. Society considers it reasonable that if one has committed a crime, any
+       evidence one leaves behind while doing so is fair game; the intentional, volitional
+       act of committing the crime itself supports the theory that the criminal intends to
+       abandon any privacy interest he has in his blood, fluid, cells, etc. that he may
+       leave behind at the crime scene. Furthermore, the very fact that a given area is a
+       crime scene changes the balance of interests relevant to Fourth Amendment
+                                                                  roa
+
+
+
+       analysis of crime scene evidence.
+
+United States v. Davis, 657 F. Supp. 2d 630, 650 (D. Md. 2009).
+       This distinction between crime scene DNA and other DNA likewise renders Skinner of
+no use to Defendant. In Skinner, the urine was collected from employees for workplace purposes
+
+and subjected to testing. 489 U.S. at 606. It was not obtained to be tested for identification
+
+purposes; it was obtained to test whether the employees had drugs or alcohol in their system. /d.
+Had it been urine that was left by an unknown suspect at a crime scene and then tested to
+determine identity, the result would undoubtedly be different.
+
+       Even legal commentators who advocate for increased protection over DNA evidence
+
+agree that the Fourth Amendment does not prevent law enforcement from analyzing genetic
+evidence left at a crime scene. See, Adrienne N. Kitchen, Genetic Privacy and Latent Crime
+
+Scene DNA of Nonsuspects: How the Law can Protect an Individual's Right to Genetic Privacy
+While Respecting the Government's Important Interest in Combatting Crime, 52 No. 2 Crim.
+
+Law Bulletin ART 5 (Spring, 2016) ("[i]f the DNA was found on the victim, on a murder
+weapon, or on another object closely related to the crime, that DNA may be analyzed without
+
+implicating the Fourth Amendment."); Palma Paciocco, Abandoning Abandoned DNA:
+Reconsidering How the Fourth Amendment Abandonment Doctrine is Applied to DNA Samples,
+51 No. 6 Crim. Law Bulletin   ART 6 (2015) (observing that her proposal requiring a warrant to
+test all DNA samples discarded by crime suspects would not apply to DNA collected at crime
+
+scenes or in testing of rape kits because there is no reasonable expectation of privacy in DNA
+
+deposited at a crime scene); Elizabeth E. Joh, Reclaiming "Abandoned" DNA: The Fourth
+Amendment and Genetic Privacy, 100 Nw. U. L. Rev. 857, 884 (2006) (requiring a warrant to
+
+test DNA recovered at a crime scene would be "pointless, for there is nothing for a magistrate to
+
+consider.").
+
+
+
+
+                                                 19
+              In sum, Defendant's argument finds no support under the law. Any privacy interest he
+
+can claim in this DNA was abandoned along with the sheath, to which he claims no ownership or
+
+knowledge. Even if no such abandonment occurred, Defendant has not demonstrated it is
+reasonable to recognize a privacy interest in DNA left at a crime scene, particularly when it is
+
+analyzed for identification purposes and nothing more. Further, to find that Defendant retained a
+reasonable privacy interest in DNA left at a crime scene                  indeed, on an item intimately
+associated with the suspected weapon                would have the untenable effect of eliminating the use of
+abandoned DNA as an investigative tool. As observed by the United States Supreme Court in
+
+King, this tool has utmost importance. "Since the first use of forensic DNA analysis to catch a
+rapist and murderer in England in 1986, law enforcement, the defense bar, and the courts have
+
+acknowledged DNA testing's 'unparalleled ability both to exonerate the wrongly convicted and
+to identify the guilty. It has the potential to significantly improve both the criminal justice system
+
+and police investigative practices.'" King, 569 U.S. at 442 (quoting DA's Office v. Osborne, 557
+
+U.S. 52, 55 (2009)). Neither society nor this Court are prepared to go where Defendant seeks to
+take us. Therefore, because the development of the SNP profile did not contravene Defendant's
+
+Fourth Amendment rights, suppression is not warranted.
+              B.       Defendant has Not Established a Fourth Amendment Violation With Regard
+                       to the Trash Pull and Testing of DNA Therefrom.
+
+              Defendant next asserts that law enforcement's trash pull from his parents' Pennsy!vania
+
+residence and subsequent DNA testing thereon constituted warrantless and unreasonable
+
+searches mandating suppression. He argues he had a reasonable expectation of privacy in his
+
+parents' garbage that was violated when law enforcement arranged for a trash pull. The privacy
+interest, according to Defendant, is predicated on not only Monroe County's municipal ordinance
+
+prohibiting anyone other than a garbage collector from collecting the Kohberger family's
+curbside trash, but also from the fact that the Kohbergers resided in a gated neighborhood and
+
+the garbage cans were on the driveway as opposed to a public area.'© While Defendant
+
+acknowledges binding precedent holds otherwise,!" he asserts it is time to "rethink" these
+
+    6
+1
+        Defendant provided no evidence that the garbage cans were on the driveway as opposed to the street curb.
+
+  See, California y. Greenwood, 486 U.S. 35 (1988) (warrantless seizure and search of garbage did not violate
+17
+
+
+Fourth Amendment rights because the defendant did not have a reasonable expectation of privacy in the garbage he
+placed out for collection); State v. Donato, 135 Idaho 469, 20 P.3d 5 (2001) (following Greenwood and further
+holding that Article I, section 17 of the Idaho Constitution did not afford greater privacy protections than the Fourth
+Amendment to such items.)
+
+                                                             20
+decisions and find a reasonable expectation of privacy exists, if not under the Fourth
+
+Amendment, then under the "increased protection" afforded by Art. 1, § 17 of the Idaho
+Constitution. Alternatively, he argues that even if the trash pull was lawful, the testing of the
+DNA found on the items of trash was not under Skinner and Davis, supra.
+        However, after Defendant filed his motion, the Idaho Supreme Court reaffirmed its
+holding in Donato and rejected the very argument asserted by Defendant here, i.e., that a local
+waste management ordinance can create a reasonable expectation of privacy. State v. Pulizzi, 559
+
+P.3d 1220 (Idaho, 2024) ("[A]n objective expectation of privacy is not created simply because an
+ordinance aimed at maintaining society's interest in sanitation dictates how trash is to be
+
+collected."). As for the subsequent DNA testing of the discarded items, relevant here is the
+abandonment theory.
+
+        This Court is bound by the decisions of the Idaho Supreme Court.!® There are no facts
+
+presented here that meaningfully distinguish this case from Donato or Pulizzi. That the garbage
+cans may have been placed in the Kohbergers' driveway for collection as opposed to on a public
+
+road and that the Kohbergers' neighborhood was gated are legally irrelevant factors given that
+
+the garbage was placed for the purpose of having it collected by another. State v. McCall, 135
+
+Idaho 885, 887, 26 P.3d 1222, 1224 (2001) (finding no reasonable expectation of privacy in
+
+garbage placed out for collection regardless of whether it was in or outside the defendant's
+
+curtilage); Greenwood, 486 U.S. at 40-41 (privacy interest in trash is lost when it is deposited
+"in an area particularly suited for public inspection and ... public consumption, for the express
+
+purpose of having strangers take it.)'? Therefore, the trash pull did not contravene Defendant's
+Fourth Amendment rights.
+
+
+
+18
+   State v. Guzman, 122 Idaho 981, 987, 842 P.2d 660, 666 (1992) (observing that the Idaho Supreme Court is "the
+ultimate authority in fashioning, declaring, amending, and discarding rules, principles, and doctrines of precedential
+law by application of which the lower courts will fashion their decisions. This Court has been and remains the final
+arbiter of Idaho rules of Jaw, both those promulgated and those evolving decisionally.")
+
+19
+  See also, Commonwealth v. Pratt, 555 N.E.2d 559 (Mass. 1990) (concluding that Greenwood applies to garbage
+left for collection in driveway); People v. Pinnix, 436 N.W.2d 692 (Mich. App. 1989) (same); Srate v. Beltz, 160
+P.3d 154 (Alaska Ct. App. 2007) (same); U.S. v. Redmon, 138 F.3d 1109 (7th Cir. 1998) (same); State v. Carriere,
+545 N.W.2d 773 (N.D. 1996) (same); United States v. Thompson, 881 F.3d 629 (8th Cir. 2018) (same); United
+States v. Harris, 6 F. App'x 304, 308 (6th Cir. 2001) (curbside trash not protected under Fourth Amendment simply
+because the defendant lived in a gated community because it was still accessible to other residents, their guests and
+service providers, including the garbage collector.); United States v. Powell, 943 F. Supp. 2d 759, 786 (E.D. Mich.
+2013), aff'd, 847 F.3d 760 (6th Cir. 2017) ("[RJesidence in a gated community [does not] transform[] the entire
+community into an individual's private property for FFourth Amendment purposes.")
+
+                                                          21
+        Moreover, as already discussed, it is well settled that one abandons               aqa
+                                                                                                 privacy interest in
+one's DNA by discarding an item containing the DNA. See, footnote 11, supra. By throwing
+
+away an item of trash containing his DNA, Defendant cannot object to the testing of that DNA,
+particularly given that it was standard DNA testing.?? Consequently, no suppression is warranted
+with respect to the trash pull and subsequent testing.
+        C.       Defendant Cannot Establish the Search of the Genetic Genealogy Databases
+                 Implicated his Fourth Amendment Rights.
+        Defendant's final argument is that law enforcement's warrantless search of the
+commercial genetic genealogy databases violated his right to privacy in his relatives' genetic
+information. Observing that this issue has not been addressed by the United States Supreme
+
+Court or Idaho's appellate courts, he asks this Court to recognize as a matter of first impression
+that he has a reasonable expectation of privacy in the genetics he shares with his relatives and
+
+further find that such privacy was not undermined when his relatives uploaded their genetic
+
+information to the commercial genetic genealogy databases. Alternatively, he claims that the
+FBI's search of MyHeritage and GEDMatch was unlawful because those databases were off
+limits to law enforcement, both under the Interim Policy and those databases' own terms.
+        The State responds that Defendant has failed to demonstrate a reasonable expectation of
+
+privacy either in any of the commercial genetic genealogy databases or in his relatives' DNA.
+Even if Defendant could assert a privacy interest in the latter, the State contends that such
+interest was lost when such relative shared that DNA with the public by uploading it to the
+
+databases. Moreover, it argues that any violation by law enforcement of the terms of service of
+
+these databases or its own internal policies does not implicate the Fourth Amendment.
+
+         This Court has already determined that Defendant failed to show a1 legitimate privacy
+interest to challenge the development of the SNP profile from Q1.1. If Defendant does not have a
+
+reasonable expectation of privacy in the SNP profile, there is no basis to find an expectation of
+
+privacy in those portions of his SNP profile he shares with genetic relatives. However, to the
+extent the Court's prior conclusion does not dispose of the issue, Defendant's assertions lack
+
+merit because: 1) Defendant has not shown a reasonable expectation of privacy in any of the
+commercial genetic genealogy databases or in his relatives' DNA, and; 2) any alleged violation
+
+
+?°
+  Defendant also lacks standing to object to testing of his father's DNA, as it is not his own. However, even if he
+had standing as to his father's DNA, the fact the item carrying the DNA was voluntarily placed in the trash for
+collection results in abandonment.
+
+                                                         22
+by law enforcement of its own policies and those of the databases is not of constitutional
+importance.
+                  1.   Defendant cannot demonstrate a reasonable expectation of privacy in
+                       common segments of DNA a relative has uploaded to the public sphere.
+
+        To invoke the exclusionary rule to suppress evidence under the Fourth Amendment, a
+defendant must establish that his own personal rights were violated by an unlawful search.
+
+"Fourth Amendment rights are personal rights which, like some other constitutional rights, may
+not be vicariously asserted." State v. Rebo, 168 Idaho 234, 238, 482 P.3d 569, 573 (2021) (citing
+
+Rakas v. Illinois, 439 U.S. 128, 133-34 (1978)). Defendant acknowledges that the search
+
+challenged is that of his relatives' uploaded DNA and not his own. To get around this hurdle, he
+claims a reasonable expectation of privacy in the segments of shared DNA his relatives uploaded
+to the databases. This argument requires accepting that: 1) an individual has a privacy interest in
+
+the genetic makeup of another individual, and; 2) that such privacy interest persisted despite the
+
+other individual sharing his or her genetic makeup with the public at large. The Court will not
+
+make this leap.
+
+        First, there is no authority for Defendant's position. Granted, given the novelty of using
+commercial genomic platforms as an investigative tool, there are very few cases addressing it.
+
+However, not one has found that a defendant has a reasonable privacy interest in a relative's
+shared DNA. The primary case cited by both parties is Hartman, where the State of Washington
+
+Court of Appeals rejected the defendant's contention that he had a privacy interest in those
+
+segments of his DNA he shared with relatives that was violated when law enforcement searched
+commercial genealogy databases to find a familial match to the crime scene DNA. 534 P.3d at
+437. Like here, the defendant likened DNA to the CSLI at issue in Carpenter and urged the court
+
+to follow Carpenter to find that his relatives' voluntary upload of their shared DNA did not
+
+forfeit his expectation of privacy in the information. /d. at 432-33 (citing Carpenter, 585 U.S. at
+
+315).
+        The court's determination that the defendant lacked a reasonable privacy interest in
+
+segments of shared DNA rested on multiple grounds. The court first observed that the sole
+
+purpose of a genealogy database is to let others search for and share private information about
+the user's personal and family history for the purpose of finding relatives. /d. at 978. To this end,
+
+the court found shared DNA is unlike the CSLI in Carpenter, which was not shared for the
+
+
+
+                                                 23
+purpose of public perusal. /d. at 977-78. The court further noted that the comparison of the DNA
+obtained from the crime scene to the genetic profiles of the defendant's relatives was limited to
+
+identification purposes and, therefore, did not support a privacy interest. Jd. at 973. In addition,
+the court found no historical protection for voluntarily shared genetic material or for information
+
+posted on websites intended for public access. Jd. at 978-79. Consequently, the court concluded
+that because law enforcement's investigation of the genealogy databases did not disturb a
+
+reasonable privacy interest, the defendant had no standing to challenge the search. Id?                 1
+
+
+
+
+        Other courts addressing the issue have held similarly. See, State v. Weston, 2012 WL
+
+12298861 (Minn. Dist. Ct., Oct. 4, 2021) (finding no reasonable expectation of privacy in genetic
+
+identifying information voluntarily uploaded to genealogy database by defendant's relatives);
+People v. Williams, 77 Misc. 3d 782, 785, 178 N.Y.S.3d 420, 423 (N.Y. Sup. Ct. 2022) (finding
+the defendant lacked standing to suppress evidence obtained through investigative genealogy
+
+search because "Williams cannot assert a personal privacy interest in his relatives' DNA
+
+profiles."); United States v. Mitchell, 652 F.3d 387, 409 (3d Cir. 2011) (in responding to the
+defendant's argument that collection of his DNA upon arrest was improper because, inter alia, it
+could be used to investigate biological relationships between individuals, court observed that he
+had no standing to assert the Fourth Amendment rights of his relatives.)
+
+        Other than claiming that the Hartman court failed to "appreciate" its holding, Defendant
+
+has not offered any basis or even a reasonable analogue from which the Court could make the
+
+unprecedented finding that he has a personal privacy interest in someone else's DNA. While he
+
+may share segments of this DNA, it is not his own DNA that was searched in the genetic
+databases. Further, there is no evidence he took efforts to shield his genetic relatives' DNA from
+
+the public view. See, Rebo, 168 Idaho at 239, 482 P.3d at 574 (noting that a defendant must show
+
+he sought to preserve the object of the search as private). Thus, since he cannot establish a
+
+personal expectation of privacy in the item searched, he cannot challenge the search.
+         Moreover, any subjective privacy interest he claims in his relatives' DNA is not
+reasonable. "[O]ne cannot have a reasonable expectation of privacy in what is knowingly
+
+exposed to public view." State v. Christensen, 131 Idaho 143, 146-47, 953 P.2d 583, 586-87
+
+
+
+
+ Notably, the genealogy databases search by law enforcement in Hartman allowed law enforcement access
+21
+
+
+whereas, here, the databases purportedly did not. However, as explained below, this does not alter the result.
+
+
+                                                          24
+(1998) (citing Katz, 389 U.S. at 351). Even information exposed to just a single person results in
+forfeiture of a reasonable privacy interest under the "third party doctrine."
+
+        Here, Defendant's relatives did not voluntarily share their genetic information with just a
+
+single entity; they voluntarily shared it with hundreds of thousands of other participants. See,
+Hartman, 534 P.3d at 434 ("{[C]onsumers frequently upload their DNA to consumer databases
+like GEDmatch for the very purpose of learning and sharing with strangers the exact private
+information-details about their ancestry and familial relations-at issue here."). Consequently,
+Defendant cannot claim any subjective expectation of privacy he had was reasonable.
+
+         Defendant warns that applying the third-party doctrine mechanically to DNA would have
+deleterious results. He points out that DNA can reveal a vast array of private details about a
+
+person. Further, he argues it is not truly shared. He notes that when one individual provides DNA
+to a consumer genomic platform, the identities of hundreds of genomic relatives can be revealed
+
+through shared DNA sequences. Finally, he observes that while Idaho law protects genetic
+
+privacy in some circumstances, there are no comparable limits over law enforcement's use of
+DNA taken from a crime scene. Noting that DNA can be left everywhere and last in the
+environment for a long time, he warns that the entire population could find themselves the targets
+
+of police investigation absent some controls.
+         Despite Defendant's dystopian warnings, the Court does not find a departure from settled
+Fourth Amendment principles is warranted. In Carpenter, the United States Supreme Court
+observed that the application of the third-party doctrine does not turn solely on the act of sharing;
+
+other factors to consider are the nature of the information sought and any limitations on the
+
+revealing nature of the information. 585 U.S. at 314-15. Doing so, the Court declined to apply
+the third-party doctrine to CSLI data obtained from the defendant's cellular carrier. Jd. First, the
+
+Court noted that CSLI data is not truly shared; it logs a cell-site record by virtue of its operation,
+
+
+
+
+22
+  The third-party doctrine is derived from a pair of cases from the 1970's where the United States Supreme Court
+carved out from the reasonable expectation of privacy standard information that an individual shares with a third
+party from whom law enforcement subsequently obtains that information. See, United States v. Miller, 425 U.S. 435,
+440 (1976) (no expectation of privacy in financial records held by a bank); Smith v. Maryland, 442 U.S. 735, 745-46
+(1979) (no expectation of privacy in records of dialed telephone numbers conveyed to a telephone company).
+Idaho's appellate courts have applied the third-party doctrine to other situations, including lab reports turned over to
+the health department (Svate. v. Mubita, 145 Idaho 925, 933-34, 188 P.3d 867, 875-76 (2008)) and power
+consumption records turned over to a utility company (State v. Kluss, 125 Idaho 14, 19-21, 867 P.2d, 247, 252-54
+(Ct. App. 1993)).
+
+                                                          25
+"without any affirmative act on the user's part beyond powering up." /d. Second, it observed
+there are no limits on what CSLI can reveal about a person. /d.
+
+       The shared portions of DNA Defendant's relatives uploaded to genetic databases do not
+merit this same treatment. While the Court agrees that DNA can be revealing like CSLI, such
+
+DNA was affirmatively shared in this case, unlike CSLI. Defendant's relatives did not simply
+reveal the information as a byproduct of the participating in modern society. They engaged in an
+
+affirmative act of uploading their DNA to public databases for the very purpose of sharing it with
+others. Consequently, the reasoning in Carpenter does not apply.
+
+       Moreover, any suggestion that Defendant's relatives preserved their expectation of
+
+privacy against law enforcement by sharing genetic information on databases that excluded law
+enforcement use is also unavailing. First, consent or non-consent to a search goes to the
+
+reasonableness of the search, not whether a privacy interest is objectively reasonable. State v
+
+Maxim, 165 Idaho 901, 907, 454 P.3d 543, 549 (2019). Second, as discussed, a privacy interest
+can be lost by sharing information with even a single entity under the third-party doctrine. Even
+
+though the relatives may not have consented to law enforcement searching their genetic
+information, it was nevertheless shared with other members of the public, which is all that is
+
+required to remove any Fourth Amendment protections. Katz, 389 U.S. at 351 (Information that
+is "knowingly expose[d] to the public, even in his own home or office, is not a subject of Fourth
+Amendment protection.").
+       In sum, even if Defendant could vicariously assert constitutional rights of others (a
+
+dubious claim, at best), he has not shown that any subjective privacy right he may have had in
+
+his relatives' shared DNA was reasonable. Therefore, Defendant lacks standing to challenge law
+
+enforcement's search of the genetic genealogy databases.
+               2.      Defendant has no basis to challenge law enforcement's alleged violation
+                       of its own policies and those of the geneaology databases in conducting
+                       the search.
+
+       Defendant next argues that even if the Court were to find shared DNA falls within the
+traditional Fourth Amendment rules (as it has), law enforcement's alleged search of databases in
+violation of both the databases' terms and the Interim Policy "cries out for judicial intervention."
+
+
+
+
+                                                 26
+Memo, p. 33.7? Defendant has provided no authority that these alleged violations of policy or
+user agreements bear on the Fourth Amendment.
+
+         Again, because Defendant has not demonstrated a reasonable privacy interest in his
+relatives' DNA, Defendant has no basis to challenge the propriety of the search. Rebo, 168 Idaho
+at 239, 482 P.3d at 574. Second, even if he could establish a reasonable privacy interest, these
+
+alleged violations are of no significance. With regard to the violation of the databases' user
+policies, while this may give rise to a civil action between the FBI and the particular database or
+perhaps the individuals whose DNA profiles were used, Defendant has not explained how this
+
+implicates the Fourth Amendment. At least one state district court has found it does not. See,
+State v. Westrom, 2021 WL 12298861, at *4 (Minn.Dist.Ct. Oct. 04, 2021) ("Law enforcement's
+
+possible violation of MyHeritage's service agreement may subject them to action from
+MyHeritage, but the Court does not see any reason why this violation of a private company's
+terms would implicate constitutional protections.).
+
+         With regard to the FBI's alleged violation of its own policies or guidelines, the State
+
+correctly points out that noncompliance with a law enforcement policy does not provide a basis
+for a Fourth Amendment challenge. See, Whren v. United States, 517 U.S. 806, 815 (1996)
+
+("[P]olice enforcement practices, even if they could be practicably assessed by a judge, vary
+from place to place and from time to time. We cannot accept that the search and seizure
+
+protections of the Fourth Amendment are so variable.")*4 In addition, the Interim Policy at issue
+here expressly states it is intended to provide "internal guidance" only and does not "create any
+
+substantive or procedural rights or benefits" or "impose any legal limitations on otherwise lawful
+
+investigative ... techniques[.]" See, Interim Policy, p. 1. Therefore, violation of its terms cannot
+alone give rise to a Fourth Amendment challenge where, as the Court has already found, the
+
+
+
+
+23
+   Defendant also posits that law enforcement violated Israeli law when it searched MyHeritage, which is located in
+Israel. He claims that Israel's Genetic Information Law, 5671-2000 prohibits law enforcement uses, but does not
+provide a cite to the particular provision of the law or quote it within his brief, nor does he explain how this Court is
+bound by it or why law enforcement was required to follow it.
+
+24
+   See also, State v. Lancaster, 171 Idaho 236, 241, 519 P.3d 1176, 1181 (2022) (noting that suppression of evidence
+is a court-created remedy to ensure compliance with constitutional standards, not statutes.)
+
+
+
+
+                                                           27
+search of the databases was otherwise lawful. Suppression, therefore, is not warranted with
+
+regard to the databases search."°
+V.      CONCLUSION
+        Based on the foregoing, the Court DENIES Defendant's Motion to Suppress Re: Genetic
+
+Information.
+
+IT IS SO ORDERED.
+
+
+
+DATED thi               ay of February, 2025.
+
+
+
+
+                                                        even Hipp      T
+
+                                                     District Judge
+
+
+
+
+25
+  In the absence of a constitutional prohibition on law enforcement's use of public genetic genealogy databases for
+forensic purposes, it is within the purview of the legislature not the courts to implement policies restricting such
+use.
+
+
+
+                                                         28
+                           CERTIFICATE OF MAILING
+        |HEREBY CERTIFY that on this            day of February, 2025, caused a
+true and correct copy of the above and foregoing instrument to be mailed, postage
+prepaid, or hand-delivered, to:
+
+
+William W. Thompson, Jr.
+Ashley Jennings
+LATAH COUNTY PROSECUTING ATTORNEY
+paservice@latahcountyid.gov
+
+Jeffery Nye
+DEPUTY ATTORNEY GENERAL
+Jeff.nye@aq.idaho.gov
+
+Anne Taylor
+ATTORNEY FOR DEFENDANT
+info@annetaylorlaw.com
+
+Elisa C. Massoth
+ATTORNEY FOR DEFENDANT
+emassoth@kmrs.net
+
+Jay Logsdon
+KOOTENAI COUNTY PUBLIC DEFENDER
+jay.loasdon@spd.idaho.qov
+
+
+
+                                              TRENT
+                                               Clerk of thé District
+
+
+                                               By:
+                                               Deputy Got rt Clerk
+
+
+
+
+ORDER
+

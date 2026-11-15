@@ -1,0 +1,64 @@
+07/08/25                     Moscow Police Department                        1272
+11:24                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number    148                Date   14:52:46 02/20/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+_______
+Google               Warrant
+
+Case # 23-M09903
+Date: 1/26/2023
+
+On January 24, 2023, I applied for a warrant for the user subscriber information
+and user data associated with a Twitter account of Bryan Kohberger with the any
+of the following identifiers:
+            @gmail.com
+On January 25, 2023, the warrant was granted and signed by Magistrate Megan
+Marshal with seven (7) days to serve the legal process. January 26, 2023, at
+approximately 0911 hours, the warrant was served via the Google Law Enforcement
+Portal (https://lers.google.com). I received an email shortly after the
+submission, confirming the receipt of the request and assigning the internal
+reference #         .
+
+On February 19, 2023, I received an email from Google stating the data requested
+pursuant to the warrant was available to download. On February 20, 2023, I
+logged into the Law Enforcement Portal and began downloading the files to the
+forensic computers located in the secure forensic computer lab at the Moscow
+Police Department.
+
+In reviewing the contents, I found the following subscriber information:
+Google Account ID:
+Name:
+Given Name:
+Family Name: M
+Created on:
+Terms of Service IP:
+Terms of Service Language: en
+Birthday (Month Day, Year):              1994
+Last Updated Date: 2022-07-24 00:23:52 Z
+Last Logins: 2022-07-24 00:23:52 Z, 2021-12-20 09:18:19 Z, 2021-06-23 16:43:27 Z
+Last Login IP:
+I then examined the Google Play Library associated with the account and located
+the following:
+Hinge Dating App: Meet People    Acquisition Time: 2022-02-12T20:28:13.536Z
+Bumble - Dating. Friends. Bizz   Acquisition Time: 2022-02-13T22:40:15.947Z
+In examining the email content associated with the Gmail account I found emails
+referencing a Twitch account with the username of "               I also located
+emails associated to a YouTube account using the Gmail account that referenced a
+"
+
+A warrant return receipt and affidavit were completed and these documents were
+sent to the Latah County Prosecutor's Office to be returned to the court. A copy
+of the receipt was sent to     @google.com, as this was the originating email
+address associated with the documents.
+Det. Lawrence Mowery - 162
+Mon Feb 20 14:53:01 PST 2023
+REVIEWED-Tue Feb 21 08:50:43 PST 2023
+CPL Payne #157
+

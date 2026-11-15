@@ -1,0 +1,520 @@
+                                                                             Electronically Filed
+                                                                             3/26/2025 4:02 PM
+                                                                             Fourth Judicial District, Ada County
+                                                                             Trent Tripple, Clerk of the Court
+                                                                             By: Jennifer Keyes, Deputy Clerk
+
+Anne Taylor Law, PLLC
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d’Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Bicka Barlow
+Pro Hac Vice
+2358 Market Street
+San Francisco, CA 94114
+Phone: (415) 553-4110
+
+Assigned Attorney:
+Anne C. Taylor, Attorney at Law, Bar Number: 5836
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+
+
+     IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+             STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+STATE OF IDAHO                                    CASE NUMBER CR01-24-31665
+
+                     Plaintiff,
+                                                  NOTICE OF FILING AFFIDAVIT IN
+V.                                                SUPPORT OF DEFENDANT’S
+                                                  OBJECTION TO THE STATE’S
+BRYAN C. KOHBERGER,                               MOTION IN LIMINE
+
+                     Defendant.                   RE: AT&T TIMING ADVANCE
+                                                  RECORDS
+
+
+
+       COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and hereby
+
+files the accompanying Affidavit of Sy Ray in support of their Objection to the State’s Motion in
+
+
+
+NOTICE OF FILING AFFIDAVIT IN SUPPORT OF DEFENDANT’S OBJECTION
+TO THE STATE’S MOTION IN LIMINE RE: AT&T TIMING ADVANCE RECORDS                               Page 1
+Limine RE AT&T Timing Advance Records filed with the Court on March 17, 2025. This
+
+Affidavit is filed pursuant to the Court’s March 18, 2025 Order denying witness testimony at the
+
+April 9, 2025 hearing, subject to the Court hearing remote testimony.
+
+       DATED this ___26___ day of March, 2025.
+
+
+
+
+                                                     _________________________________
+                                                     ANNE C TAYLOR
+                                                     ANNE TAYLOR LAW, PLLC
+
+
+                               CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the __26____ day of March, 2025 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+NOTICE OF FILING AFFIDAVIT IN SUPPORT OF DEFENDANT’S OBJECTION
+TO THE STATE’S MOTION IN LIMINE RE: AT&T TIMING ADVANCE RECORDS                             Page 2
+Anne Taylor Law, PLLC
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d*Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email:
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Bicka Barlow
+Pro Hac Vice
+2358 Market Street
+San Francisco. CA94114
+Phone: (415)553-4110
+
+Assigned Attorney:
+Anne     Taylor, Attorney at Law. Bar Number: 5836
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723
+Jay W. Logsdon, First District Public Defender. Bar Number: 8759
+
+
+          IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+ STATE OF IDAHO,
+
+                             Plaintiff,
+                                                           CASE NUMBER CR01-24-31665
+
+ V
+                                                           AFFIDAVIT OF SY RAY
+ BRYAN C. KOHBERGER,
+                                                           REF: AT&T TIMING DATA
+                             Defendant
+
+
+STATE OF ARIZONA)
+                             :   SS.
+County of Maricopa)
+
+     1.    1   am an adult, over the age of 18. and    have personal knowledge of the facts set forth in
+           this Affidavit.
+               have been working in the field of call detail record analysis for over 25 years.
+     N
+
+
+
+
+           I                                                                                      became
+           a certified police officer in the State of Arizona in   1996.    worked with my first set of
+
+AFFIDAVIT OF SY RAY                                                                               Page 1
+        AT&T records in 1997.        spent nearly 20 years in law enforcement in the primary role of
+                                     1
+
+
+
+        a detective.      I have worked hundreds of death
+                                                             investigations and consulted on over a
+        thousand homicide cases in my career.         In my role as a detective. gained extensive
+                                                                                    I
+
+        experience utilizing call detail records and exploiting cellular networks for investigative
+        related purposes. In 2014, I retired from law enforcement and started a business called
+        ZetX that created software for law enforcement to map and analyze call detail records. As
+        part of that business, we maintained software that supported every known call detail record
+        provided to law enforcement in the United States. To date. the system has analyzed over 3
+        billion calls from call detail records provided by cellular phone companies in the United
+        States.    In 2021. LexisNexis purchased ZetX. and to date. is still using and selling the
+        software I created. As a result of this experience. I have worked directly with engineers at
+        the cellular phone companies for over two decades and I am intimately familiar with the
+        type of data they maintain in the normal course of business and provide to law enforcement
+        through a legal demand process.
+   >.   In addition to my law enforcement experience. I have instructed classes on
+                                                                                        utilizing cellular
+        records in criminal investigations for nearly twenty years.   I   have had over thirty-thousand
+        law enforcement officers attend these courses and/or presentations on this
+                                                                                      subject matter.
+        In 2014,    I   created the first Geolocation Cellular Investigations Subject Matter Expert
+        course in this field. offered to State and Local law enforcement officers. As a result of this
+        work, I have established well known and used ~best practices" within the discipline of call
+        detail record analysis. Over one thousand law enforcement agencies have attended
+                                                                                            my
+        courses on the subject matter of cellular record analysis, to include the FBI. ATF. US
+        Marshalls. DEA. and DHS.
+        Through my work in this discipline, I am regularly consulted by the prosecution on
+        investigations around the world. As a recognized Subject Matter Expert in this field. I have
+        testified on the matter more than one hundred times throughout the United States in both
+        Federal and State courts. Apart from this case. all my testimony in this field has been on
+        behalf of the prosecution. it is only in rare cases and circumstances. I have ever considered
+        working on the side of defense
+   5.     have worked extensively with Timing Advance data from the cellular
+                                                                                      phone network
+        providers over the past fifteen years. I have testified to the use of Timing Advance data
+        numerous times. I have created and taught hundreds of classes on this
+                                                                                  subject matter to
+        law enforcement.     am extremely familiar with the type of               Advance records
+                                                                           Timing
+        available from US cellular providers. their retention periods, and the legal process to obtain
+        those records.
+
+Timing Advance:
+   1.   Timing Advance records are maintained by cellular network providers that provide a time
+        measurement. This time measurement refers to the amount of time it takes a radio
+                                                                                            signal
+        to travel from a cell site to a mobile device and back to the cell site. Given this
+                                                                                            signal
+        travels at a known constant (speed of light) it is possible to use the measurement to
+        determine the distance the mobile device is from a known cell site.
+
+
+
+AFFIDAVIT OF SY RAY                                                                               Page 2
+            When multiple cell sites record Timing Advance data in short periods of time, it is possible
+            to use trilateration to determine the location of a mobile device.         The use of Timing
+            Advance data in this manner is one of the most accurate ways for law enforcement to locate
+            a mobile device.
+            Given these records are available in a historical context, it is possible to conduct an analysis
+            of Timing Advance data to pinpoint historical locations of a mobile device at a given date
+            and time. It is also possible to determine routes of travel. stagnation. and when a mobile
+            device is powered on and off.
+   4.       As aresult of its accuracy, requesting Timing Advance data has become a standard practice
+            for all law enforcement in the United States. and is regularly requested through legal
+            process relating to a criminal investigation.
+
+
+   AT&T Timing Advance:
+   1.       In August of2021. I was approached by an FBI Special Agent to assist in
+                                                                                          analyzing a type
+        of record set identified as, AT&T Timing Advance report. and it was the first time I was
+        made aware of this type of data from AT&T. Upon request. can
+                                                                         provide the date. time.
+                                                                             a
+
+
+        location, and FBI Agent I assisted with the record set.
+        As of the year 2021. AT&T had not officially released a Timing Advance report to law
+        enforcement. therefore. the ZetX software program did not yet support AT&T
+                                                                                         Timing
+        Advance records. As a result of this interaction with the FBI. obtained a copy of the
+        Timing Advance report from the Special Agent and forwarded it to our software engineers
+        to write code within the ZetX system to support future uploads of this
+                                                                               Timing Advance
+        report format.
+        The next day. I was informed by the Special Agent the AT&T Timing Advance
+                                                                                                report was
+        not supposed to be released/viewed outside of the FBI and that individual
+                                                                                         requested I return
+        the report and not have any software developed to support the data they had shown to me.
+        I    did return the report, however, due to the interaction explained here, there is a
+                                                                                                 paper trail
+        documenting the facts of this interaction.
+   4.        have first-hand knowledge that AT&T was providing the FBI with
+                                                                                         Timing Advance
+        reports prior to August of2021.
+
+AT&T Legal Demands:
+   1.   During my career(s) working with call detail records from every cellular provider in the
+        United States. I have been involved with thousands of cases in which call detail records are
+        obtained from these companies. Leading the way in the establishment of best
+                                                                                          practices
+        within this field of investigation, I wrote and provided custom search warrants for every
+        provider and distributed them to thousands oflaw enforcement officers in the United States,
+        assisting them in the legal process of obtaining the vast and ever-growing amount of data
+        sets offered by cellular providers.
+        I have worked with the AT&T Global
+                                               Legal Demand Center (GLDC) for over 15 vears.
+  >.    I   have first-hand knowledge that the AT&T GLDC is one way, not the only way. for law
+        enforcement to obtain call detail records from AT&T.
+
+
+AFFIDAVIT OF SY RAY                                                                                 Page 3
+   4.       I   have first-hand knowledge that there is another way to obtain call detail records from
+            AT&T without going through GLDC.
+    5.      Over the course of many years. AT&T has had several different programs in partnership
+            with federal law enforcement. primarily the FBI. that allowed for call detail records to be
+            disseminated to the FBI without going through the standard GLDC process.
+   6.       The first AT&T Timing Report I was presented and had a chance to review and become
+            familiar with in August of2021. was obtained from AT&T through one of these programs,
+            not through GLDC.
+       7.       have been involved in numerous investigations where AT&T call details records were
+            obtained through these AT&T programs. outside of GLDC.
+   8.         have first-hand knowledge and experience in working with individuals at AT&T
+            associated with these other programs.
+   9.       One such individual is Boyd Jackson. Mr. Jackson is a Program Director at AT&T who
+            manages many of the programs I am referencing. Mr. Jackson is the primary contact for
+            the FBI when requesting records outside of the standard GLDC process.
+
+GLDC Disseminating Timing Advance Reports:
+    1.      The State is correct in their claim that AT&T GLDC did not provide law enforcement with
+            AT&T Timing Advance reports until May of 2023. As a matter of fact. in May of 2023.
+            the working group known as GLDC had only begun their
+                                                                        storage of Timing Advance
+            records. The first official release of AT&T Timing Advance data was not
+                                                                                    provided to law
+            enforcement until June 15. 2023. by GLDC.
+            In 2022 the FBI obtained AT&T Timing Advance records from another source. outside of
+            GLDC.
+AT&T Timing Advance Records in the State's Possession:
+   1.       During this investigation, law enforcement obtained the following AT&T Timing Advance
+            data:
+                 a.   Two of the victims had AT&T phones. Law Enforcement obtained AT&T
+                                                                                               Timing
+                      data on both of their phones.
+                 b.   Law Enforcement developed an early investigative lead in this case. That
+                                                                                               person
+                      had an AT&T phone at the time of the crime. Law Enforcement obtained his AT&T
+                      Timing Advance data.
+                 c.   Law Enforcement also requested a tower dump. consisting of AT&T
+                                                                                        Timing
+                      Advance data. This request involved AT&T providing all of the connections
+                      between two specific cell sites in Moscow during a two-hour
+                                                                                 period. The data
+                   produced was AT&T Timing Advance data. In all. there were over 3800 AT&T
+                   mobile phones identified in the Timing Advance tower
+                                                                        dump data.
+  2.
+            The AT&T Timing Advance data was obtained by the FBI.
+                                                                        using an internal source at
+            AT&T. Mr. Boyd Jackson, who is not associated with the GLDC working
+                                                                                   group.
+   3.       GLDC was not used to obtain this data.
+  4..       A forensic examination of the AT&T Timing Advance records in the State's
+                                                                                        possession
+            show Mr. Jackson's association with the reports.
+
+
+AFFIDAVIT OF SY RAY
+                                                                                               Page 4
+         There is work product in the State's possession. created by the FBI. showing the AT&T
+
+
+
+   Gn
+         Timing Advance data was not only obtained. but regularly referenced and used in the
+         course of this investigation. Its existence is well known to the investigators and
+         prosecutors.
+
+Chain of Custody:
+
+    I.   The State has provided a "Certificate of Authenticity" (CoA) to defense in relation to the
+         Timing Advance records described above. The CoA was created in April of 2024 and
+         issued by the Director of GLDC. Stephen Gordon.
+         I   have previously worked with and       am familiar with Mr. Gordon.
+         The CoA specifically states,
+   Go
+
+
+
+
+                                        am qualified to authenticate the records attached hereto
+         because Lam familiar with how the records were created managed stored and retrieved ~
+   4.        have personal knowledge that in the event Mr. Gordon was required to testify, he would
+         clarify that prior to May of 2023. neither he nor the AT&T GLDC working group was
+         involved with AT&T Timing Advance records.
+   5.    Additionally. there is forensic evidence contained within the records that indicate they were
+         not produced by AT&T GLDC, nor were they produced in the year 2024.
+   6.    In reviewing this data.   1   contacted and communicated with Mr. Gordon to clarify the chain
+         of custody related to these records. Mr. Gordon and an AT&T legal representee informed
+         me that Mr. Gordon would not be the individual to certify these records if
+                                                                                          required to do
+         so despite issuing the CoA.
+   7.    In my review    of this information, there is evidence to suggest the chain of custody
+         involving these records and CoA were produced well outside of AT&T's normal practice.
+         There is missing information and data associated with this request. The
+                                                                                     prosecutions prior
+         claims that AT&T Timing Advance data did not exist in 2022 further
+                                                                                  complicates this issue.
+         It is my expert opinion that any testimony
+                                                        proffered on behalf of the FBI or AT&T on this
+         matter would clearly reveal these issues.
+
+   Evidence in Direct Contradiction to the State's Motion:
+
+   1.    In my review of this investigation. I have read numerous emails sent and received by law
+         enforcement pertaining to their investigation.
+         One such email, dated 11/15/2022. was sent to Prosecutor Ashley
+   tv
+
+
+
+
+                                                                         Jennings at her Latah
+         County government email address. This email is from Moscow Detective Lawrence
+         Mowery. The email is informing Mrs. Jennings of Det. Mowrev's recent contact with FBI
+         Special Agent Ballance. SA Ballance informed Det. Mowery that AT&T can provide
+         Timing Advance data and to make sure it is listed in the search warrant. Det. Mowery is
+         specifically asking Prosecutor Jennings to make sure the AT&T Timing Data is listed in the
+         watrant (prior to the report ever being distributed by the
+                                                                     working group known as GLDC).
+         Mrs. Jennings did respond to Det. Mowery's email
+                                                                  inquiring on the specific verbiage
+         needed to obtain AT&T Timing Advance. This email is
+                                                                  abundantly clear evidence that Mrs.
+         Jennings  was  not only aware of the existence of AT&T
+                                                                    Timing Advance in 2022, but also
+         shows her intention to obtain it through legal process from AT&T.
+
+
+
+AFFIDAVIT OF SY RAY                                                                               Page 5
+    4.    This email communication with Prosecutor Ashely Jennings, is the same Prosecutor Ashley
+          Jennings who filed this current and contradictory motion. stating AT&T did not produce
+          Timing Advance records in 2022.
+    0.    There is clear and convincing evidence that not only was the FBI able to obtain AT&T
+          Timing Advance records in 2022. but they did so with the knowledge of the prosecutors
+          involved in this case.
+
+Missing AT&T Timing Advance:
+    1.    In my review of this investigation. based on my training and
+                                                                       experience. it is incredibly
+          unusual that the defendant's AT&T Timing Advance records were not obtained
+                                                                                          by the FBI.
+          The FBI demonstrated their ability to obtain AT&T Timing Advance in November of2022
+   to
+
+
+
+
+          by obtaining AT&T Timing Advance records on over 3.800 mobile devices. none of them
+
+          being the defendants'.
+          When it comes to location data from AT&T. Timing Advance data can be some of the most
+         accurate data available. Additionally. it contains connections to the network other than the
+         typical voice. text, or data connections. This allows law enforcement to not only see more
+         data. but more accurate data. Anytime a defendant's locations are in
+                                                                                 question, a Timing
+         Advance report would be asked for as a standard operating procedure. Moscow Police
+         Department. by way of the FBI and with the knowledge of prosecutors, demonstrated their
+         awareness of this standard procedure when they obtained AT&T           Advance data on
+                                                                            Timing
+         over 3.800 mobile devices.
+   4.    When detectives and prosecutors requested and served two different search warrants to
+         AT&T on the defendant's AT&T account, they requested the exact same Timing Advance
+         data they previously did when they obtained Timing Advance data from AT&T on over
+         3.800 mobile devices. They also maintained the same process in
+                                                                        utilizing the FBI to serve
+         the legal demands on AT&T. There is no difference in the                               or
+                                                                  verbiage, legal process,
+         individuals that produced AT&T Timing Advance data on 3.800 mobile devices and the
+         request for the Defendant's AT&T Timing Advance data that allegedly yielded nothing.
+         Additionally. on December 23, 2022. the FBI sent a communication directly to AT&T
+         specifically detailing their request for the defendant's AT&T Timing Advance records.
+         There is no reason to believe AT&T would not respond to this
+                                                                         request.
+   6.    It is my expert opinion AT&T            Advance   data did exist for the defendant's AT&T
+                                          Timing
+         mobile device in 2022. and it was requested from AT&T by the
+                                                                            investigators involved in
+         this case. The investigators previously demonstrated their ability to obtain AT&T
+                                                                                              Timing
+         Advance data in 2022. Failure to produce the defendant's AT&T
+                                                                             Timing Advance data is
+         either a gross deviation from standard practice or intentionally withheld from release in
+         discovery.
+
+Conclusion:
+
+   1.    It is my expert opinion in reviewing all the evidence that has been disclosed by
+                                                                                            the State
+         that:
+             a.   AT&T Timing Advance data was available on the defendant's phone in 2022.
+
+
+AFFIDAVIT OF SY RAY
+                                                                                              Page 6
+                  b.       There is overwhelming evidence showing the State obtaining and using AT&T
+                           Timing Advance data in the course of this investigation in 2022 on over 3.800
+                           AT&T mobile devices. other than the defendants.
+                  c.       There is no doubt the author of this current motion, Prosecutor Ashley Jennings.
+                           knew or should have known. AT&T Timing Advance data did exist in 2022. she
+                           was directly involved in the legal process obtaining it. and was aware of work
+                           product created from it to further the investigation. The current motion is a
+                           deliberate misrepresentation to the court to further conceal false statements used to
+                           obtain probable cause against the defendant and conceal exculpatory evidence from
+                discovery.
+   2
+         I'm prepared to provide witness testimony and relevant exhibits that support all my
+         opinions contained in this affidavit. It is my belief this evidence is beyond clear and
+         convincing and will be supported by any competent expert in this field who reviews all the
+         data. This is not a battle of experts, the evidence supporting the opinions in this affidavit
+          is overwhelming.
+   Go
+
+
+
+
+          In my nearly thirty years of working with and for prosecutors all over the United States. I
+         have never witnessed such a deliberate attempt by prosecutors to mislead the court on
+         evidence in such plain sight. Anyone making such a claim would have to believe the court
+         is incapable of reviewing physical evidence in possession of the State and Defense. It rises
+         to a level beyond a simple miscommunication or
+                                                             oversight and is clear and intentional
+         misrepresentation in the hopes to conceal a much larger issue.        respectfully request the
+         court give this affidavit the due attention it deserves and explore these issues further.
+
+
+                                       N
+DATED this         ~                       day of March. 2025.
+
+
+
+
+                                                                 SY RAY
+
+
+
+SUBSCRIBED AND SWORN to before me this                                  dav of March. 2025.
+
+
+
+        415 827         MARK MALATESTA
+                       Notary Public   -
+                                           State of Anzona
+                         MARICOPA COUNTY
+                         Commission # 668825
+                         Expires June 06, 2028
+                                                                 Notary Public in dnd for the   ta   of Arizona
+                                                                 Commission Expires:     €
+
+
+
+
+AFFIDAVIT OF SY RAY                                                                                      Page 7
+

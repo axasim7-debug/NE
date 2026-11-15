@@ -1,0 +1,618 @@
+                                                                     Filed: 12/15/202315:55:28
+                                                                     Second Judicial District, Latah County
+                                                                     Julie Fry, Clerk of the Court
+                                                                     By: Deputy Clerk - Mottern, Beth
+
+
+
+          IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF
+
+               THE STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+                                                    )
+ STATE OF IDAHO,                                    )       Case No. CR29-22-2805
+                                                    )
+                 Plaintiﬁ‘,                         )
+                                                    )      ORDER DENYING MOTION TO
+         vs.                                        )      DISMISS INDICTMENT FOR
+                                                    )      INACCURATE INSTRUCTIONS TO
+ BRYAN C. KOHBERGER,                                )      GRAND JURY
+                                                    )
+                 Defendant.                         )
+                                                    )
+
+
+                                          I.   INTRODUCTION
+
+        This decision addresses Defendant’s Motion to Dismiss Indictment for inaccurate
+
+instructions to the grand jury. The question of law posed to the court is whether the standard of
+
+proof for a grand jury to justify an indictment is “probable cause" or “beyond a reasonable doubt.”
+
+Based on history, case law, and Idaho Criminal Rules, speciﬁcally Rule 6 through 6.8 I.C.R., the
+
+standard of proof for a grand jury to indict is “probable cause.” Therefore, the motion is denied.
+
+                                II.   PROCEDURAL BACKGROUND
+
+        Defendant Bryan C. Kohberger (“Kohberger”) ﬁled on July 25, 2023, a Motion to Dismiss
+
+Indictment on Grounds of Error in Grand Jury Instructions or in the Alternative Remand for the
+
+Preliminary Hearing. The defense argues that the grand jury’s Indictment was ﬂawed because the
+
+grand jury was instructed wrongfully that the standard of proof tojustify an indictment was
+
+“probable cause” instead of the higher standard of “beyond a reasonable doubt.” Kohberger’s claim
+
+is based on legislative history and interpretation of the Idaho Constitution and statutes. The question
+
+
+ORDER DENYING MOTION TO DISMISS INDICTMENT
+FOR INACCURATE INSTRUCTIONS TO GRAND JURY - l
+of whether the standard of proof to reach an indictment is “probable cause” or “beyond a reasonable
+
+doubt” is one of law.
+
+        Kohberger’s motion included brieﬁng. The State ﬁled an Objection supported by brief and
+
+Kohberger provided a Reply to the State’s Objection, also with additional brieﬁng.
+
+        A hearing on the motion was held on October 26, 2023. Kohberger was represented by
+
+Anne Taylor, Jay Logsdon, and Elisa Massoth. The State was represented by Bill Thompson,
+
+Ashley Jennings, Jeff Nye, and Ingrid Batey. This hearing was open to the public and media
+
+cameras. At the conclusion of the argument, the Court informed counsel, with a brief explanation,
+
+that the motion would be denied and that this written opinion would follow.
+
+        To avoid confusion, it is important to know that, on the same day, there was also a hearing
+
+on Kohberger’s sealed motion to dismiss the Indictment based on other grand jury issues. All
+
+counsel named above were also involved in this hearing. Because the arguments centered on the
+
+grand jury’s secret procedures, this hearing was closed to the public. Likewise, the written decision
+
+will be separate from this decision and will be sealed. The results, however, will be public.
+
+        In order for the Court to assess the arguments in both motions, the Court needed to have
+
+access to the grand jury procedures and evidence. To accommodate the need, the State submitted a
+
+Motion to Take Judicial Notice of the Grand Jury Record. Without objection, the Court, as
+
+requested by the State, takes judicial notice under Rule 201(c)(2) I.R.E of the grand jury transcripts,
+
+the audio recording, the exhibits, the jury instructions, and the jury questionnaires. The State has
+
+
+provided the same information to the defense.
+
+
+
+
+ORDER DENYING MOTION TO DISMISS INDICTMENT
+FOR INACCURATE INSTRUCTIONS TO GRAND JURY - 2
+                                             III.   ANALYSIS
+
+    1.     A reasonable reading of LC. § 19-1107 does not require a standard of proof “beyond a
+           reasonable doubt,” and Idaho case law and Criminal Rule 6.5 clearly establish a
+           standard of proof of “probable cause” for a grand jury to ﬁnd an indictment.
+
+           Kohberger claims that the standard of proof for a grand jury to return an indictment is
+
+“beyond a reasonable doubt.” And because the grand jury in this case was instructed that the
+
+standard of proof was “probable cause” and found there was probable cause to return an
+
+Indictment, Kohberger argues that the Indictment must be dismissed. The State disputes
+
+Kohberger’s argument and asserts that “probable cause” for an indictment is settled law in Idaho.
+
+There is no dispute that, in this case, the standard applied by the grand jury to justify the
+
+Indictment was “probable cause.”
+
+           Kohberger ﬁrst relies on the Idaho Constitution and the “plain language of the statute” for
+
+his argument. Article I, Section 8 of the Idaho Constitution, in part, states that “[n]o person shall
+
+be held to answer for any felony or criminal offense of any grade, unless on presentment or
+
+indictment of a grand jury or on information of the public prosecutor, after a commitment by a
+
+magistrate. .     This language, obviously, does not deﬁne the standard of proof for the grand jury,
+
+but Kohberger claims the language of Idaho Code Section 19-1107 does. Here is the entire
+
+statute:
+
+           The grand jury ought to ﬁnd an indictment when all the evidence before them,
+           taken together, if unexplained or uncontradicted, would, in their judgment,
+           warrant a conviction by a trial jury.
+
+           Again, this statutory language does not state that the standard of proof is “beyond a
+
+reasonable doubt,” the legal standard of proof for a criminal jury trial. However, Kohberger
+
+asserts that "warrant a conviction” means that to ﬁnd an indictment a grand jury must ﬁnd the
+
+accused guilty beyond a reasonable doubt. First of all, the word “warrant” carries many
+
+
+
+ORDER DENYING MOTION TO DISMISS INDICTMENT
+FOR INACCURATE INSTRUCTIONS TO GRAND JURY - 3
+deﬁnitions. For example, the “plain language” of “warrant” means “justiﬁcation for an action;
+
+grounds.” The American Heritage Dictiorm 1364 (2“d College Ed. I985). Also, other examples
+
+are consistent: “justiﬁcation for an action or a belief; grounds"; “something that provides
+
+assurance or conﬁrmation; a guarantee or proof"; “to provide adequate grounds for; justify”;
+
+synonym of “justify” (to demonstrate sufﬁcient legal reason for (an action taken); synonym of
+
+“warrant”). The American Heritage Dictionary of the English Language 2014 (3rd Ed. 1992).
+
+Black’s Law Dictionary also deﬁnes “warrant” “to justify <the conduct warrants a presumption
+
+of negligence>.” WARRANT, Black's Law Dictionm (1 1th ed. 2019). These deﬁnitions have
+
+not signiﬁcantly changed for over 100 years. Thus, the “plain language” of the word “warrant”
+
+
+easily means that, after hearing the evidence, a grand jury, “would, in their judgment,” be
+
+justiﬁed to send the accused to trial by a trial jury.
+
+         Kohberger seems to miss this additional language of the statute: “by a trial jury.” The
+
+additional language provides the broader context of “warrant a conviction by a trial jury.” not a
+
+grand jury. One deﬁnition of “probable cause” is a “reasonable ground for belief in the existence
+
+of facts warranting the proceeds complained of.” This is precisely what grand juries are
+
+charged to determine. Black’s Law Dictiona_ry 1081 (S‘h ed. 1979) (emphasis added).
+
+         The grand jury is not a trial jury. Its function is to screen whether or not there is sufficient
+
+evidence to proceed to trial. The grand jury is baked into our United States Constitution,
+
+Amendment 5, (“No person shall be held to answer for a capital, or otherwise infamous crime,
+
+unless on a presentment or indictment of a grand jury. . .”), and our Idaho Constitution. Article l,
+
+Section 8 (see language above), and the procedures of the grand jury have evolved over the
+
+years.
+
+
+
+
+ORDER DENYING MOTION TO DlSMlSS lNDlCTMENT
+FOR lNACCURATE INSTRUCTIONS TO GRAND JURY - 4
+       In 1956, Justice Black, in Costello v. United States, provides some early history of the
+
+
+grand jury:
+
+        The Fifth Amendment provides that federal prosecutions for capital or otherwise
+        infamous crimes must be instituted by presentments or indictment of grand juries.
+        But neither the Fifth Amendment nor any other constitutional provision prescribes
+       the kind of evidence upon which grand juries must act. The grand jury is an
+       English institution, brought to this county by the early colonists and incorporated
+        in the Constitution by the Founders. . . . The basic purpose of the English grand
+       jury was to provide a fair method for instituting criminal proceedings against
+       persons believed to have committed crimes. Grand jurors were selected from the
+       body of the people and their work was not hampered by rigid procedural or
+       evidential rules.     [I]n this country as in England of old the grand jury has
+       convened as a body of laymen, free from technical rules, acting in secret, pledged
+       to indict no one because of prejudice and to free no one because of special favor.
+
+
+
+       If indictments were to be held open to challenge on the ground that there was
+       inadequate or incompetent evidence before the grand jury, the resulting delay
+       would be great indeed. The result of such a rule would be that before trial on the
+       merits a defendant could always insist on a kind of preliminary trial to determine
+       the competency and adequacy of the evidence before the grand jury. This is not
+       required by the Fifth Amendment. An indictment returned by a legally constituted
+       and unbiased grand jury, like an information drawn by the prosecutor, if valid on
+       its face. is enough to call for trial of the charge on the merits. The Fifth
+       Amendment requires nothing more.
+
+
+       In a trial on the merits, defendants are entitled to a strict observance of all the
+       rules designed to bring about a fair verdict. Defendants are not entitled, however,
+       to a rule which would result in interminable delay but add nothing to the
+       assurance of a fair trial.
+
+Costello v. United States, 350 U.S. 359, 361, 76 S. Ct. 406, 408, 100 L. Ed. 397 (1956) (citations
+
+omitted).
+
+       The Costello case is addressing federal law and grand jury procedures, employed by
+
+federal prosecutors since the birth of the Fifth Amendment. And the standard of “beyond a
+
+reasonable doubt” is certainly not applied in federal courts. But Kohberger’s argument is based
+
+on Idaho law, not federal. Nevertheless, the language and practice are similar.
+
+
+
+ORDER DENYING MOTION TO DISMISS INDICTMENT
+FOR INACCURATE INSTRUCTIONS TO GRAND JURY - 5
+        Kohberger’s brief seems to acknowledge he is reaching for a “higher than the probable
+                ” even
+cause standar            though “the whole of modern jurisprudence on this issue is against it, as
+
+well as at least one founding father of this state [William H. Clagett, selected as the president of
+
+the Idaho Constitutional Convention in 1889, who stated that “all the grand jury is entitled to do,
+
+to say there is probable cause to believe the man is guilty. . .”].” Mot. to Dismiss Indictment at 6,
+
+10.
+
+
+       Even if there is some ambiguity to Idaho Code Section 19-1107, the case law in Idaho
+
+seems to be settled on the standard of proof for a grand jury to approve an indictment. While
+
+there is not an abundance of early appellate cases directly addressing the standard of proof for
+
+indictment, the available cases consistently reference the standard to be “probable cause.”
+
+       In Gasper v. Dist. Ct. of Seventh Jud. Dist, in & for Canyon Cnty, the plaintiff (the
+
+defendant in the lower court) claimed that the indictment should be dismissed on the grounds of
+
+various alleged errors in the proceedings of the grand jury. The Court denied the claims as
+
+insufﬁcient and not prejudicial to the plaintiﬁ‘, who had been charged with second degree
+
+murder. Related to this case, the plaintiff, for some reason, challenged the instructions given to
+
+the grand jury part of which stated: “[Y]ou are not compelled to go under public trial in open
+
+court before a trial jury unless you are satisﬁed beyond a reasonable doubt from the evidence. . . .”
+
+Gasper v. Dist. Ct. ofSeventh Jud. Dist, in & for Canyon Cnty., 74 Idaho 388, 395, 264 P.2d
+
+679, 683 (1953).
+
+       The court recognized that the charge to the grand jury had no bearing on the plaintiff” s
+
+complaints because the charge was to the plaintiff‘s advantage. “However. we observe that the
+
+charge complained of, though erroneous, is more favorable to one accused before a grand jury
+
+than would be a charge embodying the statute,” citing Idaho Code Section 19-1107. Id. The
+
+
+
+ORDER DENYING MOTION TO DISMISS INDICTMENT
+FOR INACCURATE INSTRUCTIONS TO GRAND JURY - 6
+language remains the same today. “The charge as given calls for a greater degree of proof to
+
+justify an indictment that the statue requires.” Id. While this may be dicta, it does acknowledge
+
+the Supreme Court’s view of the standard of proof for an indictment.
+
+        A more recent and more deﬁnite acknowledgment of the standard of proof for an
+
+indictment is expressed in State v. Edmonson. The Supreme Court states clearly the purpose of
+
+the grand jury, including the standard of proof:
+
+       The grand jury is an accusing body and not a trial court. Its functions are
+       investigative and charging. The purpose of both a grand jury proceeding and a
+       preliminary hearing is to determine probable cause.
+State v. Edmonson, 113 Idaho 230, 234, 743 P.2d 459, 463 (1987). And, again:
+
+       The purpose of a grand jury proceeding is to determine whether sufﬁcient
+       probable cause exists to bind the defendant over for trial. The determination of
+       guilt and innocence is saved for a later day. As long as the grand jury has received
+       legally sufﬁcient evidence which in and of itself supports a ﬁnding of probable
+       cause it is not for an appellate court to set aside the indictment.
+
+Id. at 236-237, 743 P.2d at 465-466. And, ﬁnally:
+
+       [W]ithout even considering the evidence used to ﬁnd probable cause, we note that
+       the prosecutor directed the grand jury that it should not indict unless all the
+       elements of an alleged crime are proven beyond a reasonable doubt. This is a
+       much higher standard than is required by Idaho law.
+
+Id. at 238, 743 P.2d at 467.
+
+       In State v. Martinez, the Supreme Court recognized that the “law governing grand jury
+
+indictments” is rooted in the “numerous statutes and rules,” including Idaho Code § 19-1107,
+
+Idaho Code § 19-1105, and Idaho Criminal Rules 6(f) and (h) (amended and rearranged in 2017).
+
+State v. Martinez, 125 Idaho 445, 448, 872 P.2d 708, 711 (1994). The merging of the statutes and
+
+the rules suggest no conﬂict between the statute and the rule: “[if] there is probable cause to
+
+believe an offense has been committed and the accused committed it, the jury ought to ﬁnd an
+
+indictment.” Id. at 448, 872 P.2d at 711. In the following paragraph, the Court stated it “must
+
+
+
+ORDER DENYING MOTION TO DISMISS INDICTMENT
+FOR INACCURATE lNSTRUCTlONS TO GRAND JURY - 7
+determine whether, independent of any inadmissible evidence, the grand jury received legally
+
+sufﬁcient evidence to support a ﬁnding of probable cause.” Id. (citing State v. Jones. 125 Idaho
+
+477, 875 P.2d 122 (1994) (overruled on different grounds); State v. Edmonson. 113 Idaho 230,
+
+743 P.2d 459 (1987)). The Court held that there was “sufﬁcient independent evidence to support
+
+a ﬁnding of probable cause and therefore this Court will not set aside the indictment.” Id. at 449,
+
+872 P.2d at 712.
+
+       The Court of Appeals mirrored the Martinez case in merging Idaho Code § 19-1107 with
+
+Rule 6.6(a) I.C.R. with no conﬂict that the standard of proof for a grand jury indictment was
+
+probable cause. State v. Marsalis, 151 Idaho 872, 876, 264 P.3d 979, 983 (Ct. App. 2011). The
+
+Marsalis court referred to the “collection of statues and rules” that “govern Idaho grand jury
+
+proceedings,” including the language of I.C. § 19-1107 and Rule 6.6(a) I.C.R. [which is almost
+
+identical to the language of current Rule 6.5(a) I.C.R.]. Id. The court includes the language of the
+
+rule, including a deﬁnition of “probable cause”:
+
+       If it appears to the grand jury aﬁer evidence has been presented to it that an
+       offense has been committed and that there is probable cause to believe that the
+       accused committed it, the jury ought to ﬁnd an indictment. Probable cause exists
+       when the grand jury has before it such evidence as would lead a reasonable person
+       to believe that an offense has been committed and that the accused party has
+       probably committed the offense.
+Id.
+
+       In reviewing the propriety of the grand jury proceeding, the appellate court ﬁrst looks at
+
+“whether, independent of any inadmissible evidence, the grand jury received legally sufﬁcient
+
+evidence to support a finding of probable cause.” Id (emphasis added).The Martinez Court
+
+and the rest of these relevant cases look to both the statutes and the rules in determining the law
+
+for a grand jury to justify, to “warrant,” an indictment and the standard of proof has been
+
+consistently “probable cause” for at least three decades.
+
+ORDER DENYING MOTION TO DlSMlSS INDICTMENT
+FOR INACCURATE INSTRUCTIONS TO GRAND JURY - 8
+         This Court has also reviewed three decisions from three separate District Judges that
+
+address similar or identical arguments from defendants claiming that the standard of proof is
+
+
+“beyond a reasonable doubt” and not “probable cause” for a grand jury to warrant an indictment:
+
+State v. Peone. Kootenai County, CR28-22-8343; State v. Rodriguez, Canyon County, CRl4-20-
+
+22902; and State v. Williams, Kootenai County, CR28-22-18387. These decisions were attached
+
+as exhibits to the State’s Objection to Defendant’s Motion to Dismiss Indictment. Their results
+
+were the same as this one: The standard of proof for a grand jury to ﬁnd an indictment is
+
+“probable cause.”
+
+         The current rule for a grand jury to “ﬁnd an indictment” is Rule 6.5 Idaho Criminal
+
+Rules:
+
+         If the grand jury ﬁnds, after evidence has been presented to it, that an offense has
+         been committed and that there is probable cause to believe that the accused
+         committed it, the jury ought to ﬁnd an indictment. Probable cause exists when
+         the grand jury had before it evidence that would lead a reasonable person to
+         believe an offense has been committed and that the accused party has probably
+         committed the offense.
+
+Any change of this settled law would need to be addressed by the legislature or the Idaho
+
+Supreme Court, not this Court.
+
+   2.    If there were any conﬂict or ambiguity related to Idaho Code § 19-1107, then the
+         standard of proof set forth in Rule 6.5 I.C.R. would be considered “procedural” and
+         therefore trump the statute.
+
+         Based on the case law and the Criminal Rules, there should be no confusion or conﬂict
+
+between Idaho Code § 19-1 107 and the grand jury rules. However, if there were any ambiguity
+
+or conﬂict, whether statutory language or evolution over 100 years of history, there could be
+
+friction over whether the standard of proof set in the grand jury criminal rule is substantive or
+
+procedural. Kohberger argues that the standard of proof for an indictment is substantive and,
+
+
+
+
+ORDER DENYING MOTION TO DlSMlSS INDICTMENT
+FOR INACCURATE INSTRUCTIONS TO GRAND JURY - 9
+therefore, trumps the rule. The State argues that the standard for indictment is procedural and,
+
+therefore, trumps the statute.
+
+        These struggles have also long been resolved in Idaho law: “The Court has stated that
+
+‘where conﬂict exists between statutory criminal provisions and the Idaho Criminal Rules in
+
+matter of procedure, the rules will prevail.” State v. Bean, 121 Idaho 862, 863, 828 P.2d 891
+
+(1992) (citing State v. Currington, 108 Idaho 539, 541, 700 P.2d 942, 944 (1985)).
+
+       ‘It is well established that the Idaho Supreme Court is uniquely empowered with
+       certain inherent powers. The Court has the inherent power to make rules
+       governing the procedure in all of Idaho's courts.’ Talbot v. Ames Constr., 127
+       Idaho 648, 651, 904 P.2d 560, 563 (1995) (citing In re SRBA Case N0. 39576,
+        128 Idaho 246, 255, 912 P.2d 614, 623 (1995); State v. Beam. 121 Idaho 862.
+       863, 828 P.2d 891, 892 (1992)). ‘The inherent power of the Supreme Court to
+       make rules governing procedure in all the courts of Idaho is hereby recognized
+       and conﬁrmed.’ I.C. § 1-212. Accordingly, this Court has noted that if a statutory
+       provision that is procedural in nature is in conﬂict with the Idaho Criminal Rules,
+       the rules govern. See, e. g., State v. Abdullah, 158 Idaho 386, 484, 348 P.3d 1, 99
+       (2015); State v. Johnson, 145 Idaho 970, 974, 188 P.3d 912, 916 (2008); Beam,
+       121 Idaho at 863, 828 P.2d at 892.
+
+
+State v. Weigle, 165 Idaho 482, 486, 447 P.3d 930, 934 (2019).
+
+       The powers established for the judiciary are not only “inherent,” but they are also written
+
+in Article II of the Idaho Constitution to protect them:
+
+       Article II of the Idaho Constitution prohibits the Legislature from usurping
+       powers properly belonging to the judicial department        In re SRBA Case No.
+       395 76, 128 Idaho at 255, 912 P.2d at 623. The Idaho Constitution further states,
+       “The legislature shall have no power to deprive the judicial department of any
+       power or jurisdiction which rightly pertains to it as a coordinate department of the
+       govemment[.]” Idaho Const. art. 5, § 13.
+
+Id. at 486-487, 447 P.3d at 934-935.
+
+       “When a statute and a rule can be reasonably interpreted so that there is no conﬂict
+
+between them, they should be so interpreted rather than interpreted in a way that results in a
+
+conﬂict. . . . When there is a conﬂict between a statute and a criminal rule, this Court must
+
+
+
+ORDER DENYING MOTION TO DISMISS INDICTMENT
+FOR INACCURATE INSTRUCTIONS TO GRAND JURY - 10
+determine whether the conﬂict is one of procedure or one of substance; if the conﬂict is
+
+procedural, the criminal rule will prevail.” State v. Abdullah, 158 Idaho 386, 483, 348 P.3d 1, 98
+
+(2015) (citations and internal quotation marks omitted). As discussed above, the case law does
+
+not find conﬂict between Idaho Code § 19-1107 and Rule 6.5(a) I.C.R, but even if there were
+
+some conﬂict, the criminal rule would “prevail” because the standard of proof in this context is
+
+procedural.
+
+       The Beam case, quoting the Currington case, draws the “distinction between procedure
+
+and substance”:
+
+
+       Although a clear line of demarcation cannot always be delineated between what is
+       substantive and what is procedural, the following general guidelines provide a
+       useful framework for analysis. Substantive law prescribes norms for societal
+       conduct and punishments for violation thereof. It thus creates, defines, and
+       regulates primary rights. In contrast, practice and procedure pertain to the
+       essentially mechanical operation of the courts by which substantive law, rights,
+       and remedies are effectuated.
+
+Beam, 121 Idaho at 863-864, 828 P.2d at 892-893 (italics in original, citations omitted); Abdulla.
+
+158 Idaho at 483, 348 P.3d at 98.
+
+       The procedures of the grand jury are deﬁned in detail in Rules 6 through 6.8 I.C.R.,
+
+including the standard of proof to justify, to warrant, an indictment. These are not primary rights.
+
+They are procedures that “pertain to the essentially mechanical operation of the courts by which
+
+substantive law, rights, and remedies are effectuated.” Abdulla. 158 Idaho at 483, 384 P.3d at 98.
+
+These are procedures for the grand jury to effectively operate under the law with some
+
+consistency and fairness. The judicial inherent powers to establish rules of procedures are
+
+essential for a functioning judiciary, and these powers are protected by the law.
+
+
+
+
+ORDER DENYING MOTION TO DISMISS INDICTMENT
+FOR INACCURATE INSTRUCTIONS TO GRAND JURY I l             —
+                                     IV.   CONCLUSION
+
+        The arguments from the defense for a “beyond reasonable doubt” standard for the grand
+
+jury were historically interesting and creative, but do not overturn Idaho courts’ interpretation of
+
+the statute, the case law, and the Criminal Rules, speciﬁcally Rule 6 through 6.8 I.C.R., that the
+
+standard for the grand jury to indict is “probable cause.” Therefore, the Court denies Kohberger’s
+
+Motion to Dismiss the Indictment based on his claim of inaccurate instructions to the grand jury
+
+in order to warrant an indictment.
+
+        SO ORDERED this 15‘“ day of December 2023.
+
+
+                                                              Judge
+                                                      [ﬁs ict Judge
+                                                          u
+
+
+
+
+ORDER DENYING MOTION TO DISMISS INDICTMENT
+FOR INACCURATE INSTRUCTIONS TO GRAND JURY - 12
+                                    CERTIFICATE OF SERVICE
+
+      I certify that copies of the ORDER DENYING MOTION TO DISMISS IN DICTMENT
+FOR INACCURATE INSTRUCTIONS TO GRAND JURY were delivered by email to the
+following:
+
+
+       William W. Thompson, Jr., and Ashley Jennings
+       Latah County Prosecuting Attorney
+       Pasen'ice/Eilatahjdus
+
+       Jeffery Nye
+       Deputy Attorney General
+       Jeff.nve!’2?.)ag.idaho.gov
+
+       Ingrid Batey
+       Deputy Attorney General
+       Ingrid.bateyﬂagidahogov
+
+       Anne C. Taylor and Jay Logsdon
+       Attorneys for Defendant
+       pdfax@kcgov.us
+
+       Elisa C. Massoth
+       Attorney for Defendant
+       emassoth/ﬁikmrsnet
+
+
+
+on this 15‘“ day of December 2023.
+                                            CLERK OF THE COURT
+
+
+                                            By'                          J
+                                                  Deputy Clerk
+
+
+
+
+ORDER DENYING MOTION TO DISMISS INDICTMENT
+FOR INACCURATE INSTRUCTIONS TO GRAND JURY - l3
+

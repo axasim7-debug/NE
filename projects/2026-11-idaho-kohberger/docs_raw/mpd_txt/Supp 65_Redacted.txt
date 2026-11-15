@@ -1,0 +1,41 @@
+07/08/25                     Moscow Police Department                        1272
+10:35                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number     65                Date   14:39:03 12/08/22
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Tinder Warrant Mogen
+
+Case # 22-M09903
+Date: 12/8/2022
+
+On December 6, 2022, 2022, I applied and was granted a warrant for the user
+subscriber information associated with the Tinder account of Madison "Maddie"
+Mogen with the following IDENTIFIERS:            @gmail.com and/or phone number
+            .
+On December 6, 2022, 2022, at approximately 1519 hours, the warrant was served
+via the Law Enforcement Portal (https://www.lert.matchgroup.com/).
+On December 7, 2022, I received an email from Tinder stating the data requested
+pursuant to the warrant were available to download. I logged into the Law
+Enforcement Portal and began downloading the files to the forensic computers
+located in the secure forensic computer lab at the Moscow Police Department.
+In reviewing the contents, I found no recent communications with other accounts.
+The newest communication appears to have happened in 2021.
+I completed the warrant return receipt and affidavit. These documents were sent
+to the Latah County Prosecutor's Office to be returned to the court. I also
+emailed a copy of the receipt to Tinder (         @match.com), as this was the
+originating email address associated with the documents.
+
+Det. Lawrence Mowery - 162
+6Thu Dec 08 14:39:06 PST 2022
+
+Reviewed:
+Sgt. J. W. Lawrence
+Tue Dec 13 10:23:40 PST 2022
+

@@ -1,0 +1,36 @@
+07/08/25                     Moscow Police Department                        1272
+11:43                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903            Name   Lawrence Mowery
+Sequence Number    214                  Date   09:06:26 07/05/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Facebook Warrant Additional
+
+Case # 22-M09903
+Date: 7/5/2023
+
+On June 29, 2023, I received several emails from Facebook with a reference # of
+         These emails stated:
+
+Hello,
+We became aware of an issue that may have affected our previous production of IP
+addresses in this case. The updated IP records are now available for download.
+Please rely on these updated records going forward. We apologize for any
+inconvenience this may have caused.
+Thank you,
+Law Enforcement Response Team
+On July 5, 2023, I logged into the Facebook Law Enforcement Portal and
+downloaded the files provided. These files were copied to the forensic computers
+located in the secure forensic computer lab at the Moscow Police Department and
+a copy was placed into evidence.
+Det. Lawrence Mowery - 162
+Wed Jul 05 09:06:32 PDT 2023
+REVIEWED-Mon Jul 10 08:29:45 PDT 2023
+CPL Payne #157
+

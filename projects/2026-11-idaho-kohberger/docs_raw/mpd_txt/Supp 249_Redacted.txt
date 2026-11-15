@@ -1,0 +1,46 @@
+07/08/25                     Moscow Police Department                        1272
+11:56                     Law Supplemental Narrative:                Page:      1
+  Details
+Incident Number    22-M09903          Name   Lawrence Mowery
+Sequence Number    249                Date   15:20:14 10/30/23
+
+  Narrative
+   (See below)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Narrative:
+__________
+Additional Video Downloads
+
+Case# 22-M09903
+Date: 10/25/2023
+
+On October 17, 2023, I received an email from the Latah County Prosecutor's
+Office in reference to downloading additional video from the security camera
+seized from the residence located at      King Road in Moscow, Idaho.
+Previously video had been downloaded from the camera for the approximately time
+frame of 0230 to 0430 hours on November 13, 2022. These videos were downloaded
+and contained audio. Through different methods using forensically acquired data
+from the camera's SDcard, additional videos were downloaded, however, they did
+not include the audio.
+I was requested to download videos, to include audio, from the approximate time
+frames of 0445 to 1200 hours on November 13, 2022. Due to the fact the camera
+light bulb connection was inadvertently broken previously, a repair to the
+device to allow it to be powered on was needed. In the email received on October
+17, 2023, Defense Counsel Anne Taylor provided approval of the repair. Prior
+approval was provided by the Latah County Prosecutor's Office.
+I was able to request and receive the camera and wireless router from evidence.
+I was successful in replacing the light-bulb threaded connection with a standard
+wall-plug to power the device. The device powered up and I was able to download
+videos from 0445 hours to 1205 hours from the device. Upon reviewing the videos,
+they appeared to contain audio.
+The videos were saved to a forensic computer located in the secure Moscow Police
+Department. These videos were concatenated using Axon Investigate (formerly
+called Input-Ace) version# 3.2.0. These files were placed onto Blu-Ray disks and
+placed into evidence. I returned the camera and router to evidence after
+resealing their respective containers.
+Det. Lawrence Mowery - 162
+Mon Oct 30 15:20:17 PDT 2023
+REVIEWED-Mon Oct 30 16:17:29 PDT 2023
+CPL Payne #157
+

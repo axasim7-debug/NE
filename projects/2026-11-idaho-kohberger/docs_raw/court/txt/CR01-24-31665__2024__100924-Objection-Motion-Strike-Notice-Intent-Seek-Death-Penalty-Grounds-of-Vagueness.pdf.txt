@@ -1,0 +1,349 @@
+                                                                             Electronically Filed
+                                                                             10/9/2024 5:16 PM
+                                                                             Fourth Judicial District, Ada County
+                                                                             Trent Tripple, Clerk of the Court
+                                                                             By: Jennifer Keyes, Deputy Clerk
+
+
+LATAH COUNTY PROSECUTOR’S OFFICE
+WILLIAM W. THOMPSON, JR., ISB 2613
+PROSECUTING ATTORNEY
+JEFF NYE, ISB 9238
+SPECIAL ASSISTANT ATTORNEY GENERAL
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+       IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+                                               Case No. CR01-24-31665
+STATE OF IDAHO,
+               Plaintiff,                      STATE’S OBJECTION TO DEFENDANT’S
+                                               MOTION TO STRIKE STATE’S NOTICE OF
+V.                                             INTENT TO SEEK DEATH PENALTY ON
+                                               GROUNDS OF VAGUENESS IN BALANCING
+BRYAN C. KOHBERGER                             AGGRAVATORS AND MITIGATORS
+           Defendant.
+
+
+
+       COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney,
+
+and hereby objects to Defendant’s Motion to Strike State’s Notice of Intent to Seek Death Penalty
+
+on Grounds of Vagueness in Balancing Aggravators and Mitigators (“Motion”). Despite its name,
+
+Defendant’s Motion does not address his alleged vagueness in balancing aggravators and
+
+mitigators. Instead, he asserts a facial challenge to the methods of execution used in Idaho. This
+
+Court should deny his motion because it is (1) not ripe for adjudication, (2) foreclosed by U.S.
+
+Supreme Court precedent, and (3) insufficient on its face for a method of execution claim.
+
+
+
+
+STATE’S OBJECTION (VAGUENESS) - 1
+       A. Defendant’s Method of Execution Claim Is Not Ripe for Judicial Review.
+
+       This Court should refuse to consider Defendant’s claim at this stage of his proceedings
+
+because it is not ripe for adjudication. The doctrine of ripeness acts as a practical limitation on the
+
+jurisdiction of Idaho’s courts to resolve disputes. See Davidson v. Wright, 143 Idaho 616, 620, 151
+
+P.3d 812, 816 (2006). Ripeness “asks whether there is any need for court action at the present
+
+time.” A.C. & C.E. Investments, Inc. v. Eagle Creek Irrigation Company, 173 Idaho 178, ___, 540
+
+P.3d 349, 358 (2023). “Under the ripeness test in Idaho, a party must show (1) the case presents
+
+definite and concrete issues; (2) a real and substantial controversy exists (as opposed to
+
+hypothetical facts); and (3) there is a present need for adjudication.” State v. Manley, 142 Idaho
+
+338, 342, 127 P.3d 954, 958 (2005).
+
+       Courts agree that method of execution claims do not become ripe at least until after the
+
+direct appeal. See Pizzuto v. Tewalt, 997 F.3d 893, 902 (9th Cir. 2021) (“When a prisoner claims
+
+that a particular method of execution constitutes cruel and unusual punishment in violation of the
+
+Eighth Amendment, that claim becomes ripe when the method is chosen.”); West v. Schofield, 468
+
+S.W.3d 482, 492 (Tenn. 2015) (rejecting method of execution claims as “not ripe for judicial
+
+decision because they involve a method of execution that does not now presently apply to the
+
+Inmates and will never apply to them unless one of two statutory contingencies occurs in the
+
+future”); State v. Washington, 330 P.3d 596, 662 (Or. 2014) (“We agree with the state that the
+
+specific method of defendant’s execution—as opposed to the death sentence itself—is not ripe for
+
+consideration by this court, nor will it be until all direct and collateral review proceedings have
+
+concluded and a death warrant has issued[.]”); Rigterink v. State, 66 So.3d 866, 897-98 (Fla. 2011)
+
+(rejecting method of execution claim as “not ripe for review on direct appeal” because “the
+
+Governor has not yet signed his death warrant”); State v. Johnson, 244 S.W.3d 144, 165 (Mo. 2008)
+
+
+
+STATE’S OBJECTION (VAGUENESS) - 2
+(“[T]his court has found that when an execution date has not been set, it is premature to consider
+
+a claim involving the method of execution, as the type of lethal injection that the State may use in
+
+the future is unknown.”).
+
+       Defendant’s method of execution claim perfectly illustrates why such claims are not ripe
+
+at this early stage of a capital case. Idaho law prefers lethal injection as the method of execution
+
+and resorts to the firing squad only if lethal injection is unavailable. See I.C. § 19-2716. Defendant
+
+speculates that, if he is convicted and sentenced to death and if the law in Idaho is still the same
+
+when it comes time for his execution then he will be executed by the firing squad because lethal
+
+injection will not be available. He supports his conditional and speculative assertion by citing the
+
+Idaho Department of Correction’s attempted execution of Thomas Creech on February 28, 2024,
+
+which was halted because the medical team could not establish an IV line. (Mot. at 10.) Put
+
+differently, Defendant asserts lethal injection will not be available for him decades from now
+
+because earlier this year the medical team could not insert an IV in a different individual. That is
+
+not even reasonable speculation, and this Court should refuse to rely on it.
+
+       Moreover, given the decades of time that would pass between the imposition of a death
+
+sentence and any execution, there would come a time before any execution when this Court or
+
+another court “will be in [a] better position than we are now to decide this question.” Manley, 142
+
+Idaho at 342, 127 P.3d at 958. For example, neither this Court, Defendant, nor the State can
+
+accurately predict whether and to what extent there will be changes over the next several decades
+
+to the Idaho Department of Correction’s execution protocol, the Idaho statute that governs methods
+
+of execution, or the available methods of execution. Thus, this issue is not ripe, and this Court
+
+should refuse to decide it.
+
+
+
+
+STATE’S OBJECTION (VAGUENESS) - 3
+       B. Defendant’s Method of Execution Claim is Foreclosed by U.S. Supreme Court
+          Precedent.
+
+       To the extent this Court finds Defendant’s claim ripe for review, this Court should reject
+
+Defendant’s facial challenges to lethal injection and the firing squad because the U.S. Supreme
+
+Court has already found those methods of execution constitutional.1 Capital punishment is
+
+constitutional. See Gregg v. Georgia, 428 U.S. 153, 207 (1976). “It necessarily follows that there
+
+must be a means of carrying it out.” Baze v. Rees, 553 U.S. 35, 47 (2008). While the U.S. Supreme
+
+Court has “never invalidated a State’s chosen procedure for carrying out a sentence of death as the
+
+infliction of cruel and unusual punishment,” id., the High Court has affirmatively approved certain
+
+methods of execution, including lethal injection and the firing squad.
+
+       The Court first approved lethal injection in Baze and “cleared any legal obstacle to use of
+
+the most common three-drug protocol that had enabled States to carry out the death penalty in a
+
+quick and painless fashion.” Glossip v. Gross, 576 U.S. 863, 869-70 (2015). The Court has also
+
+observed, and cited approvingly, a list of “courts across the country [that] have held that the use of
+
+pentobarbital in executions does not violate the Eighth Amendment.” Id. at 871. Finally, the Court
+
+approved the use of midazolam in lethal injection executions. See id. at 881. Defendant
+
+
+1
+  Defendant cites both the Eighth Amendment and the Idaho Constitution in his brief. “Idaho courts
+have traditionally tracked the U.S. Supreme Court’s Eighth Amendment jurisprudence.” Hairston
+v. State, 167 Idaho 462, 468, 472 P.3d 44, 49-50 (2020). Moreover, both the Idaho Constitution
+and the Eighth Amendment use the exact same words for the ban on cruel and unusual punishment,
+compare U.S. Const. amend. VIII, with Idaho Const. art. I, § 6, and we thus presume they have the
+same meaning, see Planned Parenthood Great Northwest v. State, 171 Idaho 374, 408-409, 522
+P.3d 1132, 1166-67 (2023) (holding “the Reserved Rights Clause is properly viewed as nothing
+more than Idaho’s version of the Ninth Amendment” because they have “strikingly similar
+language”); CDA Dairy Queen, Inc. v. State Ins. Fund, 154 Idaho 379, 384, 299 P.3d 186, 191
+(2013) (“[W]hen interpreting the Idaho Constitution, this Court will use federal rules and
+methodology unless clear precedent or circumstances unique to the state of Idaho or its constitution
+indicates that Idaho's constitution provides greater protection than the analogous federal
+provision.”). Defendant provided no explanation as to why the Idaho Constitution should be
+interpreted differently than the Eighth Amendment in this context, and the authority he cited to
+support his argument relates to the Eighth Amendment, not the Idaho Constitution.
+STATE’S OBJECTION (VAGUENESS) - 4
+acknowledges that Idaho’s execution protocol would not allow for the use of any other chemicals
+
+for lethal injection (Mot. 10), and he fails to argue that any specific aspect of Idaho’s protocol
+
+would take it outside of these determinative decisions. Baze and Glossip thus foreclose
+
+Defendant’s argument as to lethal injection.
+
+       Similarly, the Court has approved the use of the firing squad to conduct executions: “Cruel
+
+and unusual punishments are forbidden by the Constitution, but the authorities referred to are quite
+
+sufficient to show that the punishment of shooting as a mode of executing the death penalty for the
+
+crime of murder in the first degree is not included in that category, within the meaning of the Eighth
+
+Amendment.” Wilkerson v. Utah, 99 U.S. 130, 134-35 (1879).
+
+       Defendant claims Wilkerson did not hold the firing squad is constitutional. (Mot. at 13.)
+
+His unsupported assertion falls flat in light of Wilkerson’s express holding to the contrary and more
+
+recent decisions in which the Court confirmed it meant exactly what it said. See Bucklew v.
+
+Precythe, 587 U.S. 119, 131 (2019) (“Consistent with the Constitution's original understanding,
+
+this Court in Wilkerson[], permitted an execution by firing squad while observing that the Eighth
+
+Amendment forbade the gruesome methods of execution described by Blackstone ‘and all others
+
+in the same line of unnecessary cruelty.’”); Glossip, 576 U.S. at 869 (“In Wilkerson[], the Court
+
+upheld a sentence of death by firing squad.”). In fact, even those Justices often considered less
+
+friendly toward capital punishment acknowledge Wilkerson’s holding. See Glossip, 576 U.S. at
+
+969-70 (Sotomayor, J., dissenting) (observing “[t]he Court first confronted an Eighth Amendment
+
+challenge to a method of execution in Wilkerson[]” and “approved the particular method at issue—
+
+the firing squad”). Wilkerson thus forecloses Defendant’s argument that the firing squad constitutes
+
+cruel and unusual punishment.
+
+
+
+
+STATE’S OBJECTION (VAGUENESS) - 5
+       C. Defendant’s Method of Execution Claim Is Insufficient on Its Face Because He
+          Failed to Identify an Alternative Method of Execution.
+
+       Even setting aside Defendant’s problems with justiciability and dispositive precedent, he
+
+has gone about his Eighth Amendment claim all wrong by failing to provide an alternative method
+
+of execution. “[T]he Eighth Amendment does not guarantee a prisoner a painless death—
+
+something that, of course, isn’t guaranteed to many people, including most victims of capital
+
+crimes.” Bucklew, 587 U.S. at 132-33. Instead, the Eighth Amendment forbids only methods of
+
+execution that seek to “superadd terror, pain, or disgrace” to the execution. Id. at 133. And, as the
+
+unique verb “superadd” suggests, this “is a necessarily comparative exercise.” Id. (emphasis in
+
+original). “To decide whether the State has cruelly ‘superadded’ pain to the punishment of death
+
+isn’t something that can be accomplished by examining the State’s proposed method in a vacuum,
+
+but only by ‘compar[ing]’ that method with a viable alternative.” Id. Thus, “identifying an available
+
+alternative is ‘a requirement of all Eighth Amendment method-of-execution claims’ alleging cruel
+
+pain.” Id. at 136 (emphasis in original) (quoting Glossip, 576 U.S. at 867). Further, the identified
+
+alternative must be “readily implemented” and “significantly reduce a substantial risk of severe
+
+pain.” Bucklew, 587 U.S. at 141-49.
+
+       Defendant’s attack on lethal injection and the firing squad is insufficient on its face because
+
+he failed to take a single step down the High Court’s well-lit path for method of execution claims.
+
+In 16 pages of briefing, Defendant failed even to mention an alternative method of execution—
+
+much less prove a readily available alternative that would significantly reduce a substantial risk of
+
+severe pain. That is a third independent reason why this Court should deny Defendant’s method of
+
+execution claim. See, e.g., Bucklew, 587 U.S. at 148-49 (rejecting method of execution claim
+
+because the condemned “failed to present any evidence suggesting [his identified alternative]
+
+would significantly reduce his risk of pain”); Glossip, 576 U.S. at 867 (holding method of
+
+
+STATE’S OBJECTION (VAGUENESS) - 6
+execution claim failed on the independent basis that “the prisoners failed to identify a known and
+
+available alternative method of execution that entails a lesser risk of pain”).
+
+       RESPECTFULLY SUBMITTED this 9th day of October 2024.
+
+
+
+
+                                                      ____________________________________
+                                                      Jeff Nye
+                                                      Special Assistant Attorney General
+
+
+                                                      ____________________________________
+                                                      William W. Thompson, Jr.
+                                                      Prosecuting Attorney
+
+
+
+
+STATE’S OBJECTION (VAGUENESS) - 7
+                              CERTIFICATE OF DELIVERY
+
+
+       I hereby certify that true and correct copies of the STATE’S OBJECTION TO
+
+DEFENDANT’S MOTION TO STRIKE STATE’S NOTICE OF INTENT TO SEEK DEATH
+
+PENALTY ON GROUNDS OF VAGUENESS IN BALANCING AGGRAVATORS AND
+
+MITIGATORS was served on the following in the manner indicated below:
+
+      Anne Taylor                            ☐ Mailed
+      Attorney at Law                        ☒ E-filed & Served / E-mailed
+      PO Box 2347
+                                             ☐ Faxed
+      Coeur D Alene, ID 83816-9000
+                                             ☐ Hand Delivered
+
+
+Dated this 9th day of October 2024.
+
+
+                                                ____________________________________
+                                                Kim K. Workman
+
+
+
+
+STATE’S OBJECTION (VAGUENESS) - 8
+

@@ -1,0 +1,586 @@
+                                                                      Filed: 02/24/2025 15:40:26
+                                                                      Fourth Judicial District, Ada County
+                                                                      Trent Tripple, Clerk of the Court
+                                                                      By: Deputy Clerk Waters, Renee
+                                                                                       -
+
+
+
+
+LATAH COUNTY PROSECUTOR'S OFFICE
+WILLIAM W. THOMPSON, JR., ISB No. 2613
+PROSECUTING ATTORNEY
+ASHLEY S. JENNINGS, ISB No. 8491
+SENIOR DEPUTY PROSECUTOR
+Latah County Courthouse
+522 S. Adams Street, Ste. 211
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+
+       IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+
+                 STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+
+
+ STATE OF IDAHO,                                     Case No. CR01-24-3 1665
+                Plaintiff,
+                                                     SEALED
+                                                     STATE'S MOTION IN LIMINE
+ V                                                   RE: 911 CALL
+
+ BRYAN C. KOHBERGER,
+                Defendant.
+
+
+
+
+       COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney,
+
+and respectfully moves the Court for an order in limine allowing the State to admit the recording
+
+and transcript of the 911 call to Whitcom on November 13, 2022. The 91 1recording was discovered
+
+as AV000002 and the transcript was discovered as Bates 12422-12426.
+
+
+
+
+STATE'S MOTION IN LIMINE RE: 911 CALL
+(SEALED)                                                                                          1
+                                               FACTS
+
+       The facts pertinent to the issue raised by this motion can be found in the attached excerpts
+
+from the Grand Jury Transcript (State’s Exhibit S-1), the 911 call recording (State’s Exhibit S-2),
+
+and the transcript of the 911 call (State’s Exhibit S-3).
+
+                                           ARGUMENT
+
+       A.      The statements on the 911 call are hearsay but fall within firmly rooted
+
+hearsay exceptions and should be allowed.
+
+       In general, testimony that is hearsay is excludable at trial. However, there are many
+
+exceptions to this rule. Two firmly rooted exceptions are:
+
+       Idaho Rule of Evidence 803(1) Present sense impression. A statement describing
+       or explaining an event or condition, made while or immediately after the declarant
+       perceived it.
+
+       Idaho Rule of Evidence 803(2) Excited utterance. A statement relating to a
+       startling event or condition, made while the declarant was under the stress of
+       excitement that it caused.
+
+The requirements of the federal version of each of these rules are best stated in U.S. v. Mitchell,
+
+145 F.3d 572, 576 (3d Cir. 1998):
+
+       There are three principal requirements which must be met before hearsay
+       evidence may be admitted as a present sense impression: (1) the declarant must
+       have personally perceived the event described; (2) the declaration must be an
+       explanation or description of the event rather than a narration; and (3) the
+       declaration and the event described must be contemporaneous.
+
+       ...
+
+       The requirements for a hearsay statement to constitute an excited utterance are:
+       (1) a startling occasion, (2) a statement relating to the circumstances of the
+       startling occasion, (3) a declarant who appears to have had opportunity to observe
+       personally the events, and (4) a statement made before there has been time to
+       reflect and fabricate.
+STATE’S MOTION IN LIMINE RE: 911 CALL
+(SEALED)                                                                                              2
+In Idaho, the Court of Appeals viewed the requirements for excited utterance as follows:
+
+       To fall within the excited utterance exception, an out-of-court statement must
+       meet two requirements. First, there must be a startling event that renders
+       inoperative the normal reflective thought process of the observer and second, the
+       declarant's statement must be a spontaneous reaction to that event rather than the
+       result of reflective thought. Whether a statement falls within the excited utterance
+       exception is left to the sound discretion of the trial court. . . . In ruling on the
+       admissibility of a statement under the excited utterance exception, the trial court
+       considers the totality of circumstances surrounding the statement. The
+       circumstances to be considered include the amount of time that elapsed between
+       the startling event and the statement, the nature of the condition or event, the age
+       and condition of the declarant, the presence or absence of self-interest, and
+       whether the statement was volunteered or made in response to a question.
+
+State v. Doe, 140 Idaho 873, 876-877, 103 P.3d 967, 970-971 (Ct. App. 2004) (citations omitted).
+
+       Calls to 911 can also be deemed present sense impressions and/or excited utterances.
+
+       Hearsay statements on a 911 tape can be admitted into evidence as either a "public
+       record," Fed.R.Evid. 803(8)(B), or a "business record," Fed.R.Evid. 803(6). See
+       United States v. Sallins, 993 F.2d 344, 347- 48 & n. 4 (3d Cir.1993) (noting that a
+       911 tape itself is probably a "public record"); cf. United States v. Smith, 521 F.2d
+       957, 964-65 (D.C.Cir.1975) (finding that police radio broadcasts are business
+       records). However, because citizens who call 911 are not under any "duty to
+       report," Fed.R.Evid. 803(8)(B), a recorded statement by a citizen must satisfy a
+       separate hearsay exception. See Fed.R.Evid. 805; United States v. Pazsint, 703
+       F.2d 420, 424-25 (9th Cir.1983) (excluding tapes of emergency calls from
+       witnesses reporting defendant's assault of an IRS agent); Sallins, 993 F.2d at 347
+       (excluding 911 statement that person matching defendant's description was
+       holding a gun). Under certain circumstances, such a statement may qualify as
+       either a "present sense impression," Fed.R.Evid. 803(1), or an "excited utterance,"
+       Fed.R.Evid. 803(2). See United States v. Mejia-Valez, 855 F.Supp. 607, 613-14
+       (E.D.N.Y.1994) (admitting under either exception a tape of 911 call made by an
+       eyewitness immediately following a shooting); United States v. Campbell, 782
+       F.Supp. 1258, 1260-61 (N.D.Ill.1991) (admitting under either exception a 911
+       tape of an eyewitness's description of a gunman).
+
+
+Bemis v. Edwards, 45 F.3d 1369, 1372 (9th Cir. 1995). See also State v. Valverde, 128 Idaho 237,
+
+912 P.2d 124 (Idaho App. 1996) (eight-year-old victim's statements to paramedic during 911
+
+
+STATE’S MOTION IN LIMINE RE: 911 CALL
+(SEALED)                                                                                           3
+phone call made within approximately one-half hour of last lewd act were admissible under
+
+excited utterance exception to hearsay rule; victim was in obvious distress, and lapse of time was
+
+not so great as to render exception inapplicable).
+
+       In the case at bar, most of the declarations made were present sense impressions. Hunter
+
+Johnson located the unresponsive body of Xana Kernodle and informed Bethany Funke and
+
+Dylan Mortensen to call 911. Emily Alandt was present at the time. All declarants personally
+
+perceived the event (i.e. Kernodle unresponsive). The majority of the declarations were
+
+describing to Dispatcher Carolina Calvin what they were perceiving (i.e. present sense
+
+impressions). Those statements relate to Kernodle being passed out and not waking up. The
+
+declarations were made immediately after Johnson discovered Kernodle’s body.
+
+       Some declarations made would also be considered excited utterances. Those statements
+
+include “Oh, and they saw some man in their house last night. Yeah” as well as the heaving
+
+breathing and crying that can be heard throughout the call. The declarants were responding to a
+
+startling occasion (discovery of unresponsive roommate). The statement regarding a person
+
+being in the home is in direct response to why Kernodle might be passed out. All statements are
+
+made while the declarants are processing what is happening and were made before an
+
+opportunity to reflect and fabricate why Kernodle is unconscious. Clearly, the statements of
+
+Bethany Funke, Dylan Mortensen, Emily Alandt, Hunter Johnson, and the dispatcher, Carolina
+
+Calvin, fall within the hearsay rule exceptions.
+
+       Judge John Judge has already ruled that the 911 call is not hearsay (i.e. not offered for the
+
+truth of the matter asserted) and even if deemed hearsay, the exceptions for present sense
+
+impression and excited utterance apply. On August 23, 2023, Defendant moved to dismiss the
+
+grand jury indictment. One basis for that motion was that the 911 call was “improperly admitted
+STATE’S MOTION IN LIMINE RE: 911 CALL
+(SEALED)                                                                                           4
+hearsay, cumulative, irrelevant, and an improper attempt to bolster witness testimony.” In
+
+response, Judge John Judge held as follows:
+
+       Further, even if the 911 call is hearsay, the exceptions for ‘present sense
+       impression’ and ‘excited utterance’ apply as the statements made by the
+       callers (i.e. the surviving roommates, Hunter Johnson, and another friend
+       who had arrived) were made immediately after Mr. Johnson discovered
+       Ms. Kernodle’s body and instructed the roommates to call 911. I.R.E.
+       803(1) and 803(2); E. Side Highway Dist. V. Delavan, 167 Idaho 325, 337,
+       470 P.3d 1134, 1146 (2019) (the rationale justifying the present sense
+       impression exception is ‘that the immediacy of the statement offers no
+       opportunity for fabrication”); State v. Petite, 122 Idaho 809, 839 P.2d 1223
+       (Ct. App. 1992) (finding statements made were excited utterances because
+       victim was still under the stress of the event).
+
+“Sealed Order Denying Motion to Dismiss Indictment on Grounds of Biased Grand Jury,
+
+Inadmissible Evidence, Lack of Sufficient Evidence, and Prosecutorial Misconduct”, Pages 18-
+
+19, Filed 12/15/2023.
+
+       Regarding the “emotion” in the callers’ voices, Judge Judge further held that the evidence
+
+was relevant “as to why law enforcement was sent to 1122 King Road on November 13, 2022, as
+
+opposed to just EMS when the call was for an ‘unconscious’ individual.” This testimony was
+
+deemed relevant to the effect it had on Dispatcher Calvin and was not cumulative of Officer
+
+Nunes’ testimony. Id.
+
+       B.      The Statements Made on the 911 Call Are Admissible Regardless of Whether
+
+or Not Witnesses Testify
+
+       Under I.R.E. 803, present sense impressions and excited utterances are admissible
+
+whether or not the declarant is available as a witness. I.R.E. 803(1) and (2).
+
+       Any statement found outside of the above exceptions to hearsay are non-testimonial for
+
+purposes of a Crawford analysis. Further, even if somehow deemed testimonial, the
+
+Confrontation Clause of the Sixth Amendment does not bar their admission:
+STATE’S MOTION IN LIMINE RE: 911 CALL
+(SEALED)                                                                                        5
+       Finally, we reiterate that, when the declarant appears for cross-examination at
+       trial, the Confrontation Clause places no constraints at all on the use of his prior
+       testimonial statements. See California v. Green, 399 U.S. 149, 162, 90 S.Ct. 1930,
+       26 L.Ed.2d 489 (1970). It is therefore irrelevant that the reliability of some out-of-
+       court statements " 'cannot be replicated, even if the declarant testifies to the same
+       matters in court.' " Post, at 1377 (quoting United States v. Inadi, 475 U.S. 387,
+       395, 106 S.Ct. 1121, 89 L.Ed.2d 390 (1986)). The Clause does not bar admission
+       of a statement so long as the declarant is present at trial to defend or explain it.
+
+Crawford v. Washington, 541 U.S. 36, 59, 124 S.Ct. 1354, 1369 (2004). The State submits if any
+
+of the declarations made are deemed testimonial, each of the declarations will testify at trial.
+
+                                         CONCLUSION
+
+       Based on above cited authority, the State respectfully prays for the court’s approval in
+
+limine of the admission of the recordings and transcripts of the 911 call to Whitcom on
+
+November 13, 2022, immediately following the discovery of Xana Kernodle unresponsive at
+
+1122 King Road.
+
+       RESPECTFULLY SUBMITTED this 24th day of February 2025.
+
+
+
+                                                      Ashley S. Jennings
+                                                      Sr. Deputy Prosecuting Attorney
+
+
+
+
+STATE’S MOTION IN LIMINE RE: 911 CALL
+(SEALED)                                                                                           6
+                               CERTIFICATE OF DELIVERY
+
+       I hereby certify that true and correct copies of the STATE’S MOTION IN LIMINE RE:
+
+911 CALL were served on the following in the manner indicated below:
+
+Anne Taylor                                     ☐ Mailed
+Attorney at Law                                 ☒ E-filed & Served / E-mailed
+PO Box 2347                                     ☐ Faxed
+Coeur D Alene, ID 83816
+                                                ☐ Hand Delivered
+
+       Dated this 24th day of February 2025.
+
+
+                                               __________________________________________
+
+
+
+
+STATE’S MOTION IN LIMINE RE: 911 CALL
+(SEALED)                                                                                7
+STATE'S EXHIBIT
+
+      S-1
+   CR01-24-31665
+Exhibit S-2 – Audio File on Thumb Drive Hand-Delivered Separately
+
+                            SEALED
+              State’s Motion in Limine RE: 911 Call
+
+
+
+
+                                                          STATE'S EXHIBIT
+
+                                                                 S-2
+                                                              CR01-24-31665
+                                                                                      911 CALL
+
+                                                                            Interviewer: Dispatch
+
+                                                                                                 /
+
+                                                                            Case # CR29-22-2805
+
+                                                                                          Page 1
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7                                  911 CALL
+ 8                                 Q=Dispatch
+ 9                                   Q1=Man
+10                                 Q2=Woman1
+11                                  Q3=Man1
+12                                  Q4=Man2
+13                                  Q5=Man3
+14                                  A=Woman
+15                                 A1=Woman1
+16                                   A2=Man
+17
+18
+19   Q:    911, location of your emergency.
+20
+21   A:    Hi, something is happening. Something happened in our house. We don't
+22         know what. We have...
+23
+24   Q:    What is the address of the emergency?
+25
+26   A:    1122 - no don't...
+27
+28   Q:    What is the rest of the address?
+29
+30   A:    Oh, Kings Road.
+31
+32   Q:    Okay. And is that a house or an apartment?
+33
+34   A:    It's a house.
+35
+36   Q:    Can you repeat the address to make sure that I have it right?
+37
+38   A1:   I'll talk to you guys. We're, um, we live at the right, so we're next to them.
+39
+40   Q:    I need someone to repeat the address for verification.
+41
+42   A1:   The - the address? 1122 King Road.
+                                                                                   STATE'S EXHIBIT
+
+                                                                                            S-3
+                                                                                         CR01-24-31665
+                                                                                     911 CALL
+
+                                                                           Interviewer: Dispatch
+
+
+
+                                                                           Case # CR29-22-2805
+
+                                                                                         Page 2
+
+
+
+43
+44   Q:       And what's the phone number that you're calling from?
+45
+46   Al   :   What's your phone number?
+47
+48   A:
+49
+50   Al:
+51
+52   A:
+53
+54
+55
+     Al:      -       what's the rest?
+
+56   A:       3185.
+57
+58   Al:      3185.
+59
+60   Q:       Okay. And tell me exactly what's going on.
+61
+62   Al:      Um, one of our one of the roommates who's passed out and she was drunk
+                               -
+
+
+
+
+63            last night and she's not waking up.
+64
+65   A:       No, we saw...
+66
+67   Q:       Okay.
+68
+69   Al   :   Oh, and they saw some man in their house last night. Yeah.
+70
+71   A:       Hi...
+72
+73   Q:       And are you with the patient? Okay. I need someone to keep the phone, stop
+74            passing it around.
+75
+76   A:       Can I just tell you what happened, pretty much?
+77
+78   Q:       What is going on currently? Is someone passed out right now?
+79
+80   A:       I don't really know, but pretty much at 4:00 am...
+81
+82   Q:       Okay. I need to know what's going on right now, if someone is passed out.
+83            Can you find that out?
+84
+                                                                                    911 CALL
+
+                                                                          Interviewer: Dispatch
+
+                                                                                              /
+
+                                                                          Case # CR29-22-2805
+
+                                                                                        Page 3
+
+
+ 85   A:    Yeah, I'll come - come on. Let's - we gotta go check. But we have to. Is she
+ 86         passed out? She's passed out. What's wrong?
+ 87
+ 88   Q:    Dispatching Moscow Law ambulance for...
+ 89
+ 90   A:    She's not waking up.
+ 91
+ 92   Q:    ...unconsciousness, 1122 King Road.
+ 93
+ 94   Q1:   Seven zero is en route...
+ 95
+ 96   Q:    Okay. One moment. I'm getting help started that way.
+ 97
+ 98   A:    Okay maybe...
+ 99
+100   Q:    (Unintelligible) 1122 King Road. All ambulance respond for unconsciousness.
+101         1122 King Road...
+102
+103   Q2:   I copy.
+104
+105   Q:    (Unintelligible) 58. Multiple RPs on the phone advised saying the roommate
+106         on scene is passed out and not waking up. Believe she got drunk last night and
+107         (unintelligible) about a male being in the room with them.
+108
+109   Q1:   (Unintelligible) being around.
+110
+111   Q:    That one I copy about 20-year-old female unconscious trying to get further.
+112
+113   Q1:   Copy.
+114
+115   A2:   Yeah. Yeah, it's (Evan).
+116
+117   A:    Okay.
+118
+119   Q:    Okay. And how old is she?
+120
+121   A:    Um, she's 20.
+122
+123   Q:    20 you said?
+124
+125   A:    Yes, 20, here do you wanna talk to 'em?
+126
+                                                                                      911 CALL
+
+                                                                            Interviewer: Dispatch
+
+                                                                                                /
+
+                                                                            Case # CR29-22-2805
+
+                                                                                          Page 4
+
+
+127   Q:    Okay.
+128
+129   A2:   Hello? Hello?
+130
+131   Q:    Okay. I need someone to stop passing the phone around because I've talked to
+132         four different people.
+133
+134   A2:   Okay. Sorry. They just gave me the phone.
+135
+136   Q:    Is she breathing?
+137
+138   A2:   Hello?
+139
+140   Q:    Is she breathing?
+141
+142   A2:   No.
+143
+144   Q:    Okay.
+145
+146   Q1:   (Unintelligible) en route.
+147
+148   A2:   (Bethany) or (Dylan) I need you to - to talking to them, okay? I can't talk to
+149         them. I need you to talk to them.
+150
+151   A:    Okay. Hello?
+152
+153   Q:    Okay. I have already sent the ambulance and law enforcement, stay on the
+154         line.
+155
+156   A:    Okay.
+157
+158   Q:    If there is a defibrillator available, send someone to get it now and tell me
+159         when you have it. Unit's responding RPs advising...
+160
+161   A:    (Unintelligible).
+162
+163   Q:    ...the patient is not conscious, not breathing.
+164
+165   A:    (Unintelligible).
+166
+                                                                                                 911 CALL
+
+                                                                                       Interviewer: Dispatch
+
+                                                                                                           /
+
+                                                                                       Case # CR29-22-2805
+
+                                                                                                     Page 5
+
+
+167   Q:               Okay. If there is a defibrillator available, send someone to get it now and tell
+168                    me when you have it.
+169
+170   A:               We don't have one.
+171
+172   Q1:              Unconscious, not breathing.
+173
+174   A:               Do you have a defibrillator?
+175
+176   Q3:              Yep.
+177
+178   A:               Yes, we have one.
+179
+180   Q:               But are you talking to the officer?
+181
+182   A:               Yes.
+183
+184   Q:               Okay. I'm gonna let you go since he's there with you and can help you.
+185
+186   A:               Okay. Thank you. Bye.
+187
+188   Q:               Okay.
+189
+190   Q4:              Moscow 46 out.
+191
+192   Q:               Copy.
+193
+194   Q4:              13. I think we have a homicide.
+195
+196   Q5:              Moscow engine 20 is en route.
+197
+198   Q4:              13 70.
+199
+200   Q1:              70 (unintelligible). 107 I relayed it.
+201
+202
+203   This transcript has been reviewed with the audio recording submitted and it is an accurate
+204   transcription.
+205   Signed ______________________________________________________________________
+

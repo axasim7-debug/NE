@@ -1,0 +1,255 @@
+                                                                          Filed: 2/24/2025 11:41:45
+                                                                          Fourth Judicial District, Ada County
+Anne Taylor Law, PLLC
+                                                                          Trent Tripple, Clerk of the Court
+Anne C. Taylor, Attorney at Law
+                                                                          By: Deputy Clerk Waters, Renee
+                                                                                            -
+
+
+PO Box 2347
+Coeur d'Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Bicka Barlow
+Pro Hac Vice
+2358 Market Street
+San Francisco, CA 94114
+Phone: (415) 553-4110
+
+Assigned Attorney:
+Anne C. Taylor, Attorney at Law, Bar Number: 5836
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+
+     IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+             STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO,                                     CASE NUMBER CR01-24-31665
+
+                        Plaintiff,
+                                                     MOTION IN LIMINE #5
+                                                     RE: INCONCLUSIVE DATA
+ BRYAN C. KOHBERGER,
+
+                        Defendant.
+
+
+       COMES NOW, Bryan C. Kohberger, by and through his attorneys of records, and hereby
+
+moves the Court for an Order limiting testimony about the statistical analysis of Item Q13.1,
+
+fingernail scrapings.
+
+       Allowing such testimony would violate Mr. Kohberger's Federal and State Constitutional
+
+rights to due process, a fair trial, effective assistance of counsel, and confrontation of witnesses.
+
+This motion is based on the Sth, 6th and 14th Amendments to the United States Constitution, Idaho
+
+
+MOTION IN LIMINE #5 RE: INCONCLUSIVE DATA                                                       Page 1
+Constitution Article. ]I Section 13, and Idaho Criminal Rule 16 and Idaho Rules of Evidence 102,
+
+104, 701, 702, and 703. The requested limits are made to "secure fairness in administration. ..to
+
+the end the truth may be ascertained and proceedings justly determined. See         R.E. 102. Further,
+
+the above-requested matters are mpe for consideration by the Court pursuant to LR.E. 104 based
+
+on the existence of issues that involve preliminary questions of admissibility.
+
+                                    STATEMENT OF FACTS
+
+        In grand jury testimony, Jade Miller testified as to the results of testing done on Item Q13.1,
+
+a swab of the left fingernail clippings from Madison Mogen (M.M.). The data consisted of three
+
+
+person mixture. The statistic, the likelihood ratio (LR), was calculated assuming that M.M. was a
+
+contributor to her own fingemails. Miller testified that M.M. as followed:
+
+
+
+
+        The data from that sample was                    as to Mr. Kohberger. GJ Transcript at 365,
+
+366.   Miller testified that inconclusive means that an analyst is
+
+                                                                     GJ Transcript at 366. Miller went
+
+on to explain that the likelihood ratio for Mr. Kohberger
+
+                             GJ Transcript at 367.
+
+                                               ARGUMENT
+
+        The use of misleading language confuses and misleads the finder of fact and is barred by
+
+the Rules 402, 403, as well as due process in that the evidence is overly prejudicial. The erroneous
+
+admission of irrelevant and prejudicial evidence will offend due process when it renders a trial
+
+fundamentally unfair (Estelle v. McGuire (1991) 502 U.S. 62, 70).
+
+        Here, expanding beyond the language of the report would prejudice Mr. Kohberger in that
+
+it might allow the jury to infer that the inconclusive data would mean that he might be included.
+
+LR's are different from traditional statistics that courts and juries are used to seeing and hearing.
+
+MOTION IN LIMINE #5 RE: INCONCLUSIVE DATA                                                      Page 2
+The LR is a comparison of hypotheses, it is not a statement of identity or probability of identity.
+
+It simply asks the question: given the data, which hypotheses tested is more likely. For Item
+
+
+Q13.1, both hypotheses tested for each individual assumed that M.M.'s DNA was present. So
+
+when the lab generated an LR, laid out above, the hypotheses tested were:
+
+                                   M.M., K.G., and one unknown unrelated person
+
+                                                             Versus
+
+                                             M.M. and two unrelated persons
+
+           This comparison was done for all of the individuals listed in report #7 and for Mr.
+
+Kohberger in Report #26.! At the ISP lab, any number greater than 100, is considered a conclusive
+
+result indicating inclusion. Any number less than 0.01 is considered a conclusive result indicating
+
+exclusion. Thus if an LR falls within the range of 0.01 to 100, the lab cannot draw any conclusions
+
+and the data is reported as inconclusive.
+
+           In her testimony Miller did not provide a full context to the analysis. The lab reported a
+
+series ofLR's for Item 13.1 including an LR of0.399 for                          3
+                                                                                     0.485 for                3
+
+
+
+
+0.20, for                       0.0233 for                      Lab Report #7, at 3. All of these individuals
+
+sit in the same shoes as Mr. Kohberger, namely that the LR is exclusionary but falls in the range
+
+of inconclusive.
+
+           Of interest is that when an LR was calculated for                                          .   Thus,
+
+Mr. Kohberger's inconclusive LR is similar to almost every other person for whom an LR was
+
+generated and focusing on his "inconclusive" LR would mislead the jury. In that in implies that
+
+the LR means that Mr. Kohberger's DNA might be present in the sample.
+
+           The Court should exclude testimony such as
+
+
+
+
+    Motion in Limine #5 Exhibit 1 ISP Lab Reports 7 and 26
+1
+
+
+
+
+MOTION IN LIMINE #5 RE: INCONCLUSIVE DATA                                                            Page 3
+       More importantly, Mr. Kohberger has disclosed that through further independent
+
+laboratory testing, he is eliminated as a contributor to Item 13.1. When Mr. Kohberger sought to
+
+overturn the grand jury indictment, he argued that Miller’s testimony was inadmissible and
+
+misleading. The state argued that the testimony was presented to the grand jury as exculpatory,
+
+and an effort to elicit favorable evidence for Mr. Kohberger. The independent lab testing
+
+conducted by the defense related to Item 13.1 is in deed exculpatory. Mr. Kohberger is excluded,
+
+and the state should be precluded from misleading the jury in any way.
+
+                                          CONCLUSION
+
+   A fair trial is mandated by Mr. Kohberger’s Federal and State Constitutional rights to due
+
+process, a fair trial, effective assistance of counsel, and confrontation of witnesses. U.S. Const.
+
+amends. V, VI, and XIV; Idaho Const. art. I Sections 8 and 13. Expert testimony, improperly
+
+elicited must be excluded.
+
+       DATED this ___24____ day of February, 2025.
+
+
+
+
+                                             BY:     _____________________________
+                                                     BICKA BARLOW
+                                                     ATTORNEY AT LAW
+
+
+                               CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___24____ day of February, 2025 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+MOTION IN LIMINE #5 RE: INCONCLUSIVE DATA                                                   Page 4
+                               CERTIFICATE OF SERVICE
+                           3/4/2025
+I hereby certify that on                   , I served a true and correct copy of the
+
+
+
+LATAH COUNTY PROSECUTING ATTORNEY'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Jeff.Nve(@ag.idaho.gov
+ASHLEY JENNINGS
+DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice(@latahcountyid.gzov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetaylorlaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+JAY W. LOGSDON
+FIRST DISTRICT PUBLIC DEFENDER
+VIA EMAIL: Jay.Logsdon@spd.idaho.gov
+BICKA BARLOW
+Pro Hac Vice
+bickabarlow@sbcglobal.net
+                                                  TRENT TRIPPLE
+                                                  Clerk of the Court
+
+                                            By:    Furi
+                                                  Deputy Clerk     3142025 11:42:21 am
+

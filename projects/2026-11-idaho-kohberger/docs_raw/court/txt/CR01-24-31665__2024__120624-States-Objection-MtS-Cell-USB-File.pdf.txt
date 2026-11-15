@@ -1,0 +1,247 @@
+                                                                                    Filed: 12/6/2024
+                                                                                    Fourth Judicial District, Ada County
+                                                                                    Trent Tripple, Clerk of the Court
+                                                                                    By: Deputy Clerk Smith, Margaret
+                                                                                                      -
+
+
+
+
+LATAH COUNTY PROSECUTOR'S OFFICE
+WILLIAM W. THOMPSON, JR., ISB No. 2613
+PROSECUTING ATTORNEY
+ASHLEY S. JENNINGS, ISB No. 8491
+SENIOR DEPUTY PROSECUTING ATTORNEY
+Latah County Courthouse
+522 S. Adams Street, Ste. 211
+Moscow, ID 83843
+Phone: (208) 883-2246
+paservice@latahcountyid.gov
+
+
+
+                IN THE DISTRICT COURT OF THE FOURTH DISTRICT OF THE
+
+                     STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO,                                              Case No. CR01-24-31665
+                   Plaintiff,
+                                                              STATE'S OBJECTION TO
+                                                              DEFENDANT'S MOTION TO
+ V                                                            SUPPRESS CELL PHONE/USB
+                                                              FILE AND MEMORANDUM
+ BRYAN C. KOHBERGER                                           IN SUPPORT
+                    Defendant.
+                                                              RE: MOSCOW POLICE
+                                                              FORENSIC LAB WARRANT
+                                                              DATED JANUARY 9, 2023
+
+
+        COMES NOW the State of Idaho, by and through the Latah County Prosecuting Attorney
+
+and respectfully responds to "Defendant's Motion to Suppress Cell Phone/USB File and
+
+Memorandum in Support Re: Moscow Police Forensic Lab Warrant Dated January 9, 2023" filed
+
+on November 13, 2024.!
+
+                                                     FACTS
+
+
+  Defendant's filing refers to a "contemporaneously filed Motion for an Order suppressing all evidence gathered by
+law enforcement from its search of the Seagate 2B    External USB Drive with Serial Number #NA87TIGN."
+However, the State is not aware of a separate "contemporaneous" filing. so the State's response is only to the
+contents of the Defendant's singular "Motion to Suppress and Memorandum in Support."
+
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS CELL PHONE/USB FILE AND
+MEMORANDUM IN SUPPORT RE: MOSCOW POLICE FORENSIC LAB WARRANT DATED
+JANUARY 9. 2023                                                                                                      1
+         Regarding the Defendant's represented "FACTS," the State respectfully refers the Court
+
+to the Defendant's Exhibit A filed in support of his instant motion as opposed to relying on the
+
+Defendant's subjective summary and interpretation that begins on Page 2 of his brief.
+
+                                            ARGUMENTS
+
+   I.        DEFENDANT HAS NOT DEMONSTRATED THE SEARCH WARRANT
+             AFFIDAVITS CONTAIN INTENTIONALLY OR RECKLESSLY FALSE
+             STATEMENTS OR OMISSIONS.
+
+         The Defendant next addresses its Franks argument. The State incorporates its argument
+
+and pleadings on the Franks issue at this point as opposed to restating the same.
+
+   II.      IGG
+
+         The Defendant raises its objections to the IGG (Investigative Genetic Genealogy) and,
+
+again, the State incorporates the State's arguments in response to the Defendant's separate IGG
+
+Motion as opposed to restating them here.
+
+            THE SEARCH WARRANT INCORPORATED THE AFFIDAVIT FOR
+            SEARCH WARRANT AND EXHIBIT A BY REFERENCE
+
+         The Defendant next asserts that "The Search Warrants Fails to Command Law Enforcement
+
+to Search the USB Drive." The State incorporates the "State's Objection to Defendant's Motion to
+
+
+Suppress and Memorandum in Support Re: Apple Account Federal Grand Jury Subpoena and
+
+Search Warrant dated August 1, 2023" as opposed to restating them here.
+
+   IV.      THE CELL PHONE/USB FILE WARRANT WAS NOT A GENERAL
+            WARRANT
+
+         For the Court's convenience, the State incorporates its analysis in ""State's Objection to
+
+Defendant's Motion to Suppress and Memorandum in Support Re: Apple Account Federal Grand
+
+Jury Subpoena and Search Warrant dated August 1, 2023" and "State's Objection to Defendant's
+
+
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS CELL PHONE/USB FILE AND
+MEMORANDUM IN SUPPORT RE: MOSCOW POLICE FORENSIC LAB WARRANT DATED
+JANUARY 9, 2023                                                                                       2
+Motion to Suppress and Memorandum in Support Re: AT&T First Warrant" regarding the
+
+applicable case law to apply for Fourth Amendment analysis as opposed to restating the same.
+
+        As applied to the Seagate 2TB External USB Drive search warrant, Idaho allows a search
+
+warrant affidavit to support the particularity requirement when the warrant references the affidavit
+
+for probable cause. Adamcik      State, 163 Idaho 114, 124-25, 408 P.3d 474, 484-85 (2017). There
+
+are no magic words for reference. As stated above, the Warrant specifically referenced the Search
+
+Warrant Affidavit (and incorporated Exhibit A) with the words "Proof, upon oath, this day showing
+
+
+probable cause." When the Seagate 2TB External USB Drive Search Warrant is considered along
+
+with the Affidavit for Probable Cause and the 20-page Exhibit A, the warrants are sufficiently
+
+particular and valid. In fact, Forensic Detective Lawrence Mowery set forth why he believed the
+
+Defendant's cell phone would contain evidence of the crime.
+
+        While the Seagate 2TB External USB Drive Search Warrant was broadly worded regarding
+
+each category of digital evidence listed, the Search Warrant Affidavit and appended Exhibit provide
+
+the particularity necessary to satisfy the three-factor test set forth in Teal. See State   Teal, 145
+
+Idaho 985, 989, 188 P.3d 927, 931 (Ct. App. 2008).
+
+        First, probable cause existed to seize all items of a particular type described in the warrant.
+
+The specific USB Drive with identifying serial number was listed the scope was expressly limited to
+
+the November 13, 2022, homicides at 1122 King Road, Moscow, Idaho.
+
+
+        Second, the warrant set out objective standards by which executing officers could
+
+differentiate items subject to seizure from those that were not. The seizure of items was limited to
+
+the crime for which the Defendant was arrested: homicide(s) of Madison Mogen, Kaylee
+
+
+Goncalves, Xana Kernodle, and Ethan Chapin at 122 King Road, Moscow, Idaho and for the
+                                                     1
+
+
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS CELL PHONE/USB FILE AND
+MEMORANDUM IN SUPPORT RE: MOSCOW POLICE FORENSIC LAB WARRANT DATED
+JANUARY 9, 2023                                                                                           3
+following types of evidence: communications, written/text communications, contacts, location
+
+information, internet history/bookmarks, written and audio notes; and indicia.
+
+        Third, the government was not able to describe the items more particularly considering the
+
+information available to it at the time the warrant was issued. Detective Mowery was seeking
+
+evidence that could be in multiple formats and areas, and considering electronic data can be stored
+
+anywhere, it was impossible for Detective Mowery to narrow down in advance the cell phone areas
+
+that should be searched. As a result, if the Court employs a "commonsense and realistic" approach
+
+and not the "hyper technical" approach the Defense is suggesting; the Court should find the Seagate
+
+2TB External USB Drive Search Warrant passes the Zeal test and is sufficiently particular. See
+
+Wheeler vy. State, 135 A.3d 282, (Del. 206) (quoting U.S. v. Christine, 687 F2d 749, 69 A.L.R. Fed.
+
+503 (3d Cir. 1982).
+
+        In summary, given the circumstances of this case, the Seagate 2TB External USB Drive
+
+Search Warrant and its respective Affidavit and Exhibit A are as particular as can reasonably be
+
+
+expected. Unlike general exploratory warrants, the Seagate 2TB External USB Drive Search
+
+Warrant allowed the searcher to "reasonably ascertain and identify the things which are authorized
+
+to be seized." See Teal at 992, 188 P.3d at 924. Thus, suppression is not warranted.
+
+                                          CONCLUSION
+
+       Based on the above, the State respectfully requests that the Court deny "Defendant's
+
+Motion to Suppress Cell Phone/USB File and Memorandum in Support Re: Moscow Police
+
+Forensic Lab Warrant Dated January 9, 2023"
+
+       RESPECTFULLY SUBMITTED this 6"" day of December 2024.
+
+                                                         ALOK            AIRY
+                                                       Ashley S. Jennings
+                                                       Senior Deputy Prosecuting Attorney
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS CELL PHONE/USB FILE AND
+MEMORANDUM IN SUPPORT RE: MOSCOW POLICE FORENSIC LAB WARRANT DATED
+JANUARY 9, 2023                                                                                       4
+                               CERTIFICATE OF DELIVERY
+
+         hereby certify that true and correct copies of the        STATE'S OBJECTION TO
+DEFENDANT'S MOTION TO SUPPRESS CELL PHONE/USB FILE AND MEMORANDUM
+
+IN SUPPORT RE: MOSCOW POLICE FORENSIC LAB WARRANT DATED JANUARY 9,
+
+2023 were served on the following in the manner indicated below:
+
+Anne Taylor                                     O Mailed
+Attorney at Law                                   E-filed & Served / E-mailed
+PO Box 2347
+                                                  Faxed
+Coeur D Alene, ID 83816
+                                                O Hand Delivered
+info@annetaylorlaw.com
+
+       Dated this 6" day of December 2024.
+
+
+
+
+                                                          C
+
+
+
+
+STATE'S OBJECTION TO DEFENDANT'S MOTION TO SUPPRESS CELL PHONE/USB FILE AND
+MEMORANDUM IN SUPPORT RE: MOSCOW POLICE FORENSIC LAB WARRANT DATED
+JANUARY 9, 2023                                                                       5
+

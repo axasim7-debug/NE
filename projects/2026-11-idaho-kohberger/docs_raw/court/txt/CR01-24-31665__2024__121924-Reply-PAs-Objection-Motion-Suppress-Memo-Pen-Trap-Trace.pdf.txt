@@ -1,0 +1,1047 @@
+                                                                       Electronically Filed
+                                                                       12/19/2024 5:54 PM
+                                                                       Fourth Judicial District, Ada County
+                                                                       Trent Tripple, Clerk of the Court
+                                                                       By: Jennifer Keyes, Deputy Clerk
+
+
+Anne Taylor Law, PLLC
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d’Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Jay W. Logsdon, First District Public Defender
+Idaho State Public Defender
+1450 Northwest Blvd.
+Coeur d’Alene, Idaho 83814
+Phone: (208) 605-4575
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Assigned Attorney:
+Anne C. Taylor, Attorney at Law, Bar Number: 5836
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+
+      IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+
+ STATE OF IDAHO,                                 CASE NUMBER CR01-24-31665
+
+                      Plaintiff,                 REPLY TO STATE’S OBJECTION TO
+                                                 DEFENDANT’S MOTION TO
+ V.                                              SUPPRESS AND MEMORANDUM IN
+                                                 SUPPORT
+ BRYAN C. KOHBERGER,
+                                                 RE: PEN TRAP AND TRACE DEVICE
+                      Defendant.
+
+
+
+       COMES NOW, Bryan C. Kohberger, by and through his attorneys of record, and submits
+
+the following Reply to the State’s objection to his Motion to Suppress and Memorandum in
+
+Support Re: Pen Trap and Trace Device. The words “proof upon oath” are not synonymous with
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+AND MEMORANDUM IN SUPPORT RE: PEN TRAP AND TRACE DEVICE                                 Page - 1
+“the affidavit for search warrant and its exhibits are hereby incorporated”. A non-particularized
+
+general affidavit in support of a search warrant held in the hands of law enforcement, which never
+
+accompanied the electronically served warrant, cannot be relied upon to validate a warrant.
+
+
+
+I.     The AT&T (Trap and Trace, or AT&T 2) Warrant was General, and the Affidavit
+
+       was Not Incorpated into the Warrant or Served with the Warrant
+
+       The Fourth Amendment to the United States Constitution states:
+
+       The right of the people to be secure in their persons, houses, papers, and effects,
+       against unreasonable searches and seizures, shall not be violated, and no warrants
+       shall issue, but upon probable cause, supported by oath or affirmation, and
+       particularly describing the place to be searched, and the persons or things to be
+       seized.
+
+Article I, Section 17 of the Idaho Constitution is virtually identical to the Fourth Amendment,
+
+except that “oath or affirmation” is termed “affidavit.”
+
+       The Supreme Court has acknowledged “that a court may construe a warrant with reference
+
+to a supporting application or affidavit if the warrant uses appropriate words of incorporation, and
+
+if the supporting document accompanies the warrant.” Groh v. Ramirez, 540 U.S. 551, 557–58,
+
+124 S.Ct. 1284, 157 L.Ed.2d 1068 (2004). In SDI Future, the Ninth Circuit held that a statement
+
+on the face of the warrant noting “the supporting affidavit(s)” was sufficient as a suitable reference
+
+and incorporation. U.S. v. SDI Future Health, Inc., 568 F.3d 684, 699–700 (9th Cir. 2009). The
+
+warrants contained no language that the affidavit was incorporated. In misguided fashion, the State
+
+asserts that there is no requirement for specific language and relies on Adamcik v. State, which
+
+upheld a warrant where “the opening paragraph of the warrant unambiguously referenced the
+
+affidavit and sworn testimony of Detective Sellers as the basis for the warrant.” 163 Idaho 114,
+
+125 (Idaho S. Ct. 2017). In this case, no such words exist in the warrant. The affidavit nor any of
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+AND MEMORANDUM IN SUPPORT RE: PEN TRAP AND TRACE DEVICE                                       Page - 2
+its exhibits were incorporated. On page 3, in reference to the installation of a pen register and/or
+
+trap and trace device, there is language that states: “[t]he court finds that Brett Payne, investigating
+
+officer, and Ashley Jennings, Senior Deputy Prosecutor, has certified to the court that the
+
+information likely to be obtained by such installation and use is relevant to an ongoing criminal
+
+investigation.” See State Exhibit S-2, p. 3. While this language is unique to the trap and trace
+
+warrant, it does not incorporate the search warrant affidavit or any of its attachments.
+
+         The search warrant affidavit did not accompany service of the warrant. The state, in its
+
+Objection, attached the search warrant affidavit, its exhibit and the order to install the trap and
+
+trace device. It did not attach the documents that provide clarity that the search warrant affidavit
+
+was not included with the service of the search warrant. Those documents are therefore included
+
+in this filing as attachments. Where a supporting affidavit does not accompany the search warrant
+
+at the time of execution, the detail set out in the affidavit does not cure any deficiencies. U.S. v.
+
+Pilling, 721 F.Supp. 3d 1113, 1126 (D. Idaho 2024) (warrant suppressed where supporting
+
+affidavit was not provided to Apple). An affidavit is considered “to be part of a warrant, and
+
+therefore potential curative of any defects, ‘only if (1) the warrant expressly incorporated the
+
+affidavit by reference and (2) the affidavit either is attached physically to the warrant or at least
+
+accompanies the warrant while agents execute the search.’ ” SDI Future Health Inc., at 699 (citing
+
+United States v. Kow, 58 F.3d 423, 429 n. 3 (9th Cir.1995)).
+
+         The Affidavit of Cpl. Brett Payne swears that warrant was “served on 12/23/2022, by
+
+sending to FBI for service.” See Exhibit A, p. 2. 1 An FBI form similarly reflects that a “prospective
+
+location tracking search warrant that included a Pen Register/Trap and Trace for telephone number
+
+509-592-8458 on behalf of the Moscow Police Department” was served on December 23, 2022.
+
+
+1 Exhibits A-C to Reply in Support of Defendant’s Motion to Suppress and Memorandum Re: Pen Trap and Trace Device
+
+was filed under seal concurrently with this Reply.
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+AND MEMORANDUM IN SUPPORT RE: PEN TRAP AND TRACE DEVICE                                                 Page - 3
+See Exhibit B. On or about December 23, 2022, an AT&T Mobility Carrier Request Form was
+
+completed. See Exhibit C, p. 1. Attached to the AT&T form is the Pen Tap and Trace search
+
+warrant at issue. The Affidavit in Support of Search Warrant not included. Id., pp. 3-10. The return
+
+documents, the FBI form and the AT&T form do not reference the Affidavit in Support of Search
+
+Warrant as having accompanied the Pen Trap and Trace search warrant. See Exhibits A-C. Nor
+
+does the State produce such records in its Objection.
+
+       The process described by the State as meeting the criteria of State v. Teal simply does not
+
+exist. In its incorporated Objection to the Motion to Suppress Apple Warrant, the State indicates
+
+that the “investigators necessarily had copies of the affidavit in their possession when they
+
+executed the warrant by emailing it to Apple.” See Apple Objection, p. 5. Further, the State offers
+
+that “[t]he effect of this is that the Affidavit for Search Warrant and appended Exhibit A cure any
+
+supposed deficiencies in the naked warrant.” See Apple Objection, pp. 5-6. An officer sitting at a
+
+computer executing a search warrant by submitting it electronically to AT&T and having the
+
+affidavit for search warrant in his hand is different than an officer being physically present when
+
+executing a search warrant and having the affidavit for search warrant available for reference.
+
+
+
+II.    The Affidavit Submitted in Support of the Application for the Issued Search Warrant
+
+       Recklessly or Intentionally Omitted Material Information.
+
+       In response to the State’s arguments under “Defendant Has Not Demonstrated the Search
+
+Warrant Affidavits Contain Intentionally or Recklessly False Statements or Omissions,”
+
+Defendant refers the Court to and hereby incorporates “Defendant’s Reply in Support of
+
+Defendant’s Motion and Memorandum in Support for a Franks Hearing” and “Reply in Support
+
+of Motion to Suppress Genetic Information.”
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+AND MEMORANDUM IN SUPPORT RE: PEN TRAP AND TRACE DEVICE                                     Page - 4
+                                       CONCLUSION
+
+       Mr. Kohberger requests that this Court suppress all evidence obtained by police via the
+
+warrant that permitted them to place a trace on Mr. Kohberger’s cel phone number.
+
+       DATED this _19_ day of December, 2024.
+
+
+                                           BY:     _/s/ Elisa G. Massoth
+                                                   Elisa G. Massoth
+
+                              CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___19____ day of December, 2024 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+REPLY TO STATE’S OBJECTION TO DEFENDANT’S MOTION TO SUPPRESS
+AND MEMORANDUM IN SUPPORT RE: PEN TRAP AND TRACE DEVICE                                Page - 5
+                                                                                                                 JAN
+                                                                                                  =
+                                                                                                  fea
+
+
+
+
+                                                                                                        HULU? "LD STG
+LATAH COUNTY PROSECUTOR'S OFFICE
+Ashley S. Jennings
+Sr. Deputy Prosecuting Attorney
+Latah County Courthouse
+P.O. Box 8068
+Moscow, ID 83843-0568
+(208) 883-2246
+ISB No. 8491
+paservice@latah.id.us
+
+
+
+         IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+                  STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+In the Matter of the Application                        CaseNo. CR29-
+for a Search Warrant for:
+
+AT&T Mobility                                           RETURN OF SEARCH WARRANT
+11760 U.S. Highway 1, Suite 300
+North Palm Beach, FL 33408-3029
+
+MPD Case No. 22-M09903
+
+STATE OF IDAHO)
+
+County ofLatah
+
+        I, Cpl Brett Payne, the officer by whom this Warrant was executed, do certify the appended
+
+inventory contains a true and detailed account of all property taken by me or other officers pursuant
+
+to this Warrant, and that this Warrant and property have been duly returned before Judge
+                                                                                           Megan E.
+
+Marshall at 9:00 o'clock a.m., this 6th day of January, 2023.
+
+        I certify under penalty of perjury pursuant to the law the State of Idaho that the foregoing
+
+is true and correct.
+                                                                                  AIST
+        (Date)                                                  Peace Officer
+
+
+
+
+RETURN OF SEARCH WARRANT                      003739
+
+
+                             Exhibit A - Trap & Trace - Page 1
+                                 AFFIDAVIT OF LAWRENCE MOWERY
+
+
+STATE OF IDAHO)
+                           ss.
+County of Latah
+
+
+        I, Cpl Brett Payne, being duly sworn, do hereby state the following information is true and
+
+correct to the best of my knowledge and belief:
+
+
+        (1)       That I am employed by Moscow Police Department in the official position of
+
+                  Detective;
+
+        (2)       Affidavit has been a trained and qualified peace office for 4 years;
+
+        (3)       On 12/23/2022, I obtained a search warrant for AT&T;
+
+        (4)       The warrant was served on 12/23/2022, by sending to FBI for service, as FBI hosted
+
+                  the Pen Register and Precision Location response portion of this warrant;
+
+        (5)       Aninventory was prepared for all the items received; and
+
+        (6)       The information received was placed into evidence at the Moscow Police Department.
+
+
+
+       FURTHER your Affiant sayeth not.
+
+                                                          Cpu tTBee              Ave E
+                                                         Affiant
+       I certify (or declare) under penalty of perjury pursuant to the law the State of Idaho that
+
+the foregoing is true and correct.
+
+
+                  23
+       ¢   Date                                                    (Signature)
+
+
+
+
+AFFIDAVIT
+                                               063740
+
+
+                                 Exhibit A - Trap & Trace - Page 2
+        IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+                STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+ IN THE MATTER OF                                     Case No.
+ THE APPLICATION
+ FOR A SEARCH WARRANT FOR
+AT&T                                                  RECEIPT AND
+11760 U.S. Highway 1, Suite 300                       INVENTORY OF WARRANT
+North Palm Beach, FL 33408
+
+
+
+   On the 23rd day of          December          , 2022 . at approximately   5:07 o'clock p.M.,
+the following peace officers: Cpl Brett Payne
+
+
+
+
+served the Search Warrant heretofore issued upon the place and/or person(s) described therein as
+
+directed in said Search Warrant. Entrance was obtained by: sending to FBI for service,
+as FBI hosted the Pen Register and Precision Location response portion of this warrant.
+
+
+   The person(s) found in said place were:
+
+
+
+   The property found and taken and the location within or upon said place and/or person(s) are
+as follows:
+
+DESCRIPTION OF PROPERTY                               LOCATION/PERSON
+509-592-8458
+
+
+
+
+RECEIPT AND INVENTORY                                                PAGE 1 OF        Pe2   PAGES
+
+
+                                             003741
+
+
+                          Exhibit A - Trap & Trace - Page 3
+   This Receipt and Inventory was made in the presence of:
+
+
+
+
+   A copy hereof was given to the following named person(s) on the                          day of
+                                      .2022
+ ComPeewT @ ATHT. Cam
+
+
+   A copy hereof was left on this date in a conspicuous place in the place searched, there being no
+person(s) present during said search:      Server vo AT tT
+  DATED this         6      day of                 January            2023   .
+
+
+
+                                                                             asst
+WITNESS                                                  PEACE OFFICER
+
+
+   The undersigned person(s) hereby acknowledge receiving a copy hereof on this             day of
+                                          »   20     :
+
+
+
+
+RECEIPT AND INVENTORY                                                 PAGE 2 OF        2
+                                                                                       2
+                                                                                       _   PAGES
+
+
+                                               003742
+
+
+                           Exhibit A - Trap & Trace - Page 4
+                                                                                                    prs
+
+
+
+
+                                                                                                           34
+                                                                                                                te
+
+LATAH COUNTY PROSECUTOR'S OFFICE
+ASHLEY S. JENNINGS
+                                                                                                            i=
+SR. DEPUTY PROSECUTING ATTORNEY
+Latah County Courthouse
+P.O. Box 8068
+Moscow, Idaho 83843-0568
+(208) 883-2246
+ISB No.8491
+paservice@latah.id.us
+
+           IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+                    STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+In the Matter of the Application                         Case No.
+for a Search Warrant for:
+
+AT&T Mobility                                            ORDER
+11760 U.S. Highway 1, Suite 300
+North Palm Beach, FL 33408-3029
+
+MPD Case No. 22-M09903
+
+          In the above-titled matter, this Court having heretofore issued a Search Warrant, and the said
+
+Search Warrant having been served according to law, and the Return of Warrant
+                                                                                      having been duly
+
+made as directed in said Search Warrant to this Court, and a written
+                                                                       inventory of the property found
+
+and seized having been duly made and taken before the
+                                                            undersigned Magistrate or Judge and filed
+
+herein;
+
+          NOW, THEREFORE IT IS HEREBY ORDERED that the said Peace Officer shall deliver or
+
+cause to be delivered, the property described in said inventory to the Moscow Police
+                                                                                         Department or
+
+such other law enforcement agency as may be appropriate for the purpose of preserving said
+                                                                                               property
+
+for use as evidence or until further order of a court of competent jurisdiction. Once any related
+
+criminal case has been concluded, including the expiration of time for appeal, or at such other
+
+appropriate time, the property can be released or disposed of upon authorization of the jurisdictional
+
+
+ORDER                                          003743
+
+
+                              Exhibit A - Trap & Trace - Page 5
+prosecuting attorney.
+
+        IT IS FURTHER ORDERED that said property or any part thereof, may be delivered to any
+
+person or laboratory or laboratories for the purpose of conducting or obtaining any tests, analysis, or
+
+identification of said property which is deemed necessary by the custodial law enforcement
+                                                                                               agency
+
+or jurisdictional prosecuting attorney without further order of this Court.
+
+        DATED                         AAW Quan
+
+
+                                                       Megan     E.
+
+
+
+
+                                                       Magistrate Judge
+
+
+
+
+ORDER                                        003744
+
+
+                            Exhibit A - Trap & Trace - Page 6
+                                                             9A-SU-3683464 Serial 303
+FD-302 (Rev. 5-8-10)
+                                                                         -l of l-
+                                                       UNCLASSIFIED//FOUO
+                                                  FEDERAL BUREAU OF INVESTIGATION
+
+
+
+                                                                                                                          Date of entry       02/24/2023
+
+
+             On December23, 2022, the Federal Bureau of Investigation served a
+        prospective  location   tracking search warrant that included a Pen
+        Register/Trap  and  Trace  for telephone number 509-592-8458 on behalf of the
+        Moscow Police Department.     The information captured as part of this legal
+        process is  being  attached  to the 1A section of this serial.
+
+
+
+
+                                                                UNCLASSIFIED//FOUO
+
+   Investigation on    02/24/2023           at   Moscow, Idaho, United                    States (Other (Legal Process Return) )
+   File¢   9A-SU-3683464                                                                                                     Date drafted     02/24/2023
+   by
+        Nicholas J. Ballance
+  This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and is loaned to your agency; it and its contents are not
+  to be distributed outside your agency.
+
+                                                                009001
+                                                   Exhibit B - Trap & Trace - Page 1
+                AT&T Mobility Carrier Request Form
+                 11760 U.S. Hwy One, 6th Floor, North Palm Beach, FL 33408
+
+                Phone: 800-635-6840                       Fax: 888-938-4715                   Email: gldc@att.com
+CONTACT INFORMATION
+Requesting Agency: FBI-Salt Lake City
+LEA Tracking Number:                                                                    Date: 12/24/2022
+Primary POC: Seth Footlik                                                               Office: (g01) 579-6949             Mobile:
+Email Addr:                                                                             Fax:
+Additional Authorized Contacts:                                                         Billing Address:
+                                                                                        Federal Bureau of Investigation
+<See Attachment>
+                                                                                        Mailstop/Attn to: FBI ETMU
+                                                                                        FRE. Buileline 779584
+                                                                                        Quantico. VA 77135
+    ease includedellastffourd digits of Target's telephone number and the FBI Tracking Number on invoice**
+
+LEGAL AUTHORITY
+Legal Authority: Criminal Court Order                                                   Court Order / Docket Number : cr29-
+                                                                                                                                           Time
+Action: New Activation                                                                  Date/Time Signed: 12/23/2022 05:53 PM              Zone   MST
+Cell Site Location Authorized: yes                                                      Judges Name: Megan Marshall
+PROVISIONING INFORMATION
+
+Target Identifier: (509) 592-8458                             International Number           7 IMSI/MSID
+CALEA Services                                                               Historical Records Services
+  Pen Register / Trap and Trace                                                Start 06/23/2022              End 12/23/2022
+   Start 12/23/2022     End 02/23/2023                                        x Call Detail Records                   w/ Cell Site Location
+           Telephony                      w/ Cell Site Location               OO   w/Pctpp                       bd   w/ PcMD / RTT / TRUECALL / NELOS
+    Kl     Text Messaging                 w/ PCTDD                            C1 Stored Content                       Subscriber Info
+           Push-To-Talk                   Packet Data/WiFi                    Email records to: njballance@fbi-gov
+           PTT ID:
+                                                                              LI] Cell Tower Search
+  Full Content
+   Start                       End                                            Email records to:
+
+    O Telephony                                                              Location Services
+                                     O w/ PR/TT
+                                                                              Start 12/23/2022               End 02/23/2023 17:53:00 MST
+    OO     Text Messaging            O w/ Cell Site Location
+    1      Packet Data/WiFi          O w/ PCTDD                                    GPS PING                    CALEA Event-Based Location
+    O push-To-Talk                                                                      Frequency: x 15Min                 30min        LC]
+                                                                                                                                         Min
+           PTT tD:                                                           Primary email:   precisionlocation@4A35rack6.com
+                                                                             Secondary email: precisionLocation@RakeReceiver.com
+Audio Delivery: Dial Down 1:                                          Dial Down 2:                                    Method:
+Call Data Channel Delivery: IP:                                                                 Port:                         CFID:
+Packet Data/WiFi Delivery: IP:                                                                  Port:                           CFID:
+Markets/Switches:
+                          Northeast, Southeast, Central, West
+
+
+REMARKS/SPECIAL INSTRUCTIONS
+Non-disclosure order included. Past seven (7) days of Timing Advance data, as available. Please include Cellular Analysis Survey
+Team SA Sean Kennedy, as well as SA Nicholas Ballance and Anthony Vega as additional contacts. Thank you,
+
+
+
+
+                                                   Exhibit C - Trap & Trace - Page 1
+ADDITIONAL CONTACTS
+
+ Wilson, Brandon                    Woodall, Brian
+
+
+ Fellenz, Erich                     Capson, Karen
+
+
+ Watson, Ken                        Kohn, Michael
+
+
+ Footlik, Seth                      Fellenz, Mandy
+
+
+ Wilson, Robert                     Nielsen, Jeremy
+
+
+
+
+                   Exhibit C - Trap & Trace - Page 2
+      IN THE DISTRICT COURT OF THE SECOND JUDICIAL DISTRICT OF THE
+
+              STATE OF IDAHO, IN AND FOR THE COUNTY OF LATAH
+
+
+                                                      )
+In the Matter of the Application                      )       Case No. CR29-
+For a Search Warrant for:                             )
+                                                              SEARCH WARRANT AND
+AT&T                                                  }       ORDER AUTHORIZING
+11760 U.S. Highway 1, Suite 300                               INSTALLATION AND/OR
+North Palm Beach, FL 33408-3029                               USE OF A PEN REGISTER,
+                                                              TRAP AND TRACE DEVICE
+
+                                                      j       AND
+                                                      j       NON-DISCLOSURE ORDER
+                                                      )       PURSUANT TO LC. 18-6722
+MPD.Case No. 22-M09903                                }
+
+TO:     ANY PEACE OFFICER AUTHORIZED TO ENFORCE OR ASSIST IN
+        ENFORCING ANY LAW OF THE STATE OF IDAHO.
+
+Brett Payne, having given me proof, upon oath, this day showing probable cause establishing
+
+grounds for issuing a search warrant and probable cause to believe there are records related to
+
+the crime(s) of homicide at 1122 King Road, Moscow, Idaho and are currently under the
+
+control of AT&T for historic call detail records for the telephone number 509-592-8458
+
+with cell sites for all voice, sms, and data connections between June 23, 2022, to present,
+
+to include:
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                        1
+
+
+
+
+                         Exhibit C - Trap & Trace - Page 3
+           e   Subscriber or Registration Account Information, including subscriber or
+               registered user name or identity, address, billing/payment information;
+               account initiation date; type of account; custom account features; additional
+               phone numbers; addresses (both physical and electronic) and/or other
+               contact information; additional persons having authority on the account; any
+               additional accounts linked to the subject account; account changes for the
+               target address and any linked accounts; and
+
+               Device Identifying Information for the device using the target address, such
+               as phone number, MAC address, IP address, and other            hardware and
+               software identifiers; and
+
+           e   Usage and Location Information, including stored and transactional records
+               for all voice, sms and data connections such as inbound and outbound call,
+               message, radio or other communication detail data, together with date and
+               time of each communication; including positioning information such as
+               GPS longitude/latitude or multilateration or precision location, historical
+               and prospective cell site location information (CSL), or other information
+               tending to reveal the proximate or precise location of the device associated
+               with the above-identified target address; E911 data for the target address;
+               and, for internet communications, detail such as IP address, Port, Socket
+               Address, VoIP address, routing information; the address(es) from which the
+               communication is made, conducted, and terminated; non-content text or
+               email, header, IP address; and other non-content information; and
+
+               such as cell site positioning information, GPS longitude/latitude or
+               rultilateration or precision location (including RTT and LocDBoR reports
+               or similarly generated location information), Timing Advance and/or True
+               Call or other information tending to reveal the proximate or precise location
+               of the device associated with the target address; E911 data for the target
+               address; and
+
+           ®
+               Physical address of cellular antenna towers used by the customer's device,
+               together with RF coverage map(s) and/or satellites contacted or used by the
+               above-identified customer/number/account(s)/device(s), and periods of
+               telephone activation, session times, duration, and the identity of any
+               temporarily assigned network addresses; and
+
+               subscriber identity information for customers who contact or are contacted
+               by the device using the target address;
+
+located at the following premises:
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                      2
+
+
+
+
+                         Exhibit C - Trap & Trace - Page 4
+AT&T
+11760 U.S. Highway 1, Suite 300
+North Palm Beach, FL 33408-3029
+
+
+        You are therefore commanded to search the above-described premises for the
+                                                                                         property
+
+described above, to seize it if found and bring it promptly before the court above named. This
+
+warrant shall be executed within 14      days of issuance, and is authorized for daytime and
+
+nighttime service (pursuant to Idaho Criminal Rule 41, "daytime" means the hours between
+
+6:00 a.m. and 10:00 p.m. PST).
+
+
+        FURTHER, there is probable cause to believe that use of a pen register and/or trap
+and trace device will lead to law enforcement acquisition of real time
+                                                                         pen register and/or trap
+
+and trace information, and that this information would be evidence related to the
+                                                                                     crime(s) of
+
+homicide which are currently under the control of AT&T. The court finds that Brett
+                                                                                            Payne,
+
+investigating officer, and Ashley Jennings, Senior Deputy Prosecutor, has certified to the
+
+court that the information likely to be obtained by such installation and use is relevant to
+
+an ongoing criminal investigation.
+
+
+
+       Pursuant to IC. 18-6722(2) the Court finds that the identity of the person to whom
+
+the phone is leased or in whose name is listed to the telephone line to which the
+                                                                                      pen
+
+register or trap and trace device is to be attached is Bryan Kohberger; the identity of the
+
+person who is subject of the criminal investigation is Bryan Kohberger who resides at 1630
+
+Northeast Valley Road, Apt. G201, Pullman, WA; the phone number is 509-592-8458 and
+
+the physical location of the phone is currently Albrighisviile, Pennsylvania; the
+                                                                                     phone's
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                       3
+
+
+
+
+                         Exhibit C - Trap & Trace - Page 5
+service provider is:
+
+AT&T
+11760 U.S. Highway 1, Suite 300
+North Palm Beach, FL 33408-3029
+
+
+        The geographic limits of the trap and trace order are the United States and U.S.
+
+Territories.
+
+
+        If IS HEREBY ORDERED pursuant to LC. 18-6722 that the above-identified
+investigators and investigative agency/agencies are authorized to install and use a pen register
+
+to register, filter, record and decode electronic or other impulses, including, but not limited to
+
+
+dialing, routing, addressing, signs and signaling information, or other impulses that together
+
+with date time and duration identify the numbers dialed, electronic mail addressing or routing
+
+information, email address, IP address and/or other non-content information otherwise
+
+transmitted from the target address; and information tending to identify the device using the
+
+target address including any other unique identifiers for the device, including the information
+
+referenced above; and
+
+
+        IT IS FURTHER ORDERED pursuant to LC. 18-6722 that the above-identified
+
+investigators and investigative agency/agencies are authorized to instal] and use a trap and
+
+trace device to trace, identify, register, filter, record and decode electronic or other impulses,
+
+including, but not limited to dialing, routing, addressing, signs and signaling information, or
+
+other impulses that, together with date time and duration, identify the numbers dialed,
+
+electronic mail addressing or routing information, email address, IP address and/or other non-
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                          4
+
+
+
+
+                           Exhibit C - Trap & Trace - Page 6
+content information otherwise transmitted to the target address, or other
+                                                                            impulses that identify
+
+the originating numbers or digital addresses from which a wire or electronic communication
+
+is transmitted; and, if known, the customer or user name or
+                                                               identity associated. with the
+
+device, number or address sending communications, signals, messages, or other electronic
+
+impulses to the above-identified target address, from any location within the United States;
+
+and
+
+
+        TT IS FURTHER ORDERED based upon probabie cause, that the above-identified
+
+service provider, investigators and investigative agencies are authorized to use a cell site
+
+simulator in connection with the target address; and that any cell site simulator device may be
+
+used in any geographic area necessary to locate the device using the target address in real
+
+time; and that the above-listed service provider and any other person served with this order
+
+shall, upon request by law enforcernent, assist by providing, on a 24-hour basis the listed
+
+investigative agency with all information tending to reveal or to lead to leaming the location
+
+of the device using the target address, including positioning information such as GPS
+
+longitude/latitude or multilateration or precision location, prospective cell site location
+
+information (CSL, or other information tending to reveal the proximate or precise location
+
+of the device associated with the target address, including positioning information such as
+
+GPS longitude/latitude or multilateration or precision location, prospective cell site location
+
+information (CSLD, or other information tending to reveal the proximate or precise location
+
+of the device associated with the target address; and
+
+
+      Ir IS FURTHER ORDERED that, for purposes of this order, the terms "cell site
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722               5
+
+
+
+
+                          Exhibit C - Trap & Trace - Page 7
+siraulator" and "cell site siraulator data" include pen register and trap and trace, and data
+
+derived from pen register and/or trap and trace for the target device, as those terms are defmed
+
+by LC. 18-6719 and also includes real time location information collected by a law
+
+enforcement operated cell site simulator device and/or by a service provider when, at law
+
+enforcement request, the provider deliberately seeks to locate the target device, to the extent
+
+the terms or technology overlap.
+
+
+        IT IS FURTHER ORDERED that the above listed service provider and any other
+
+person served with this order shall furnish agents of the above-identified investigative
+
+agency/agencies forthwith all information, facilities, and technical assistance necessary to
+
+accomplish the installation and/or operation of the pen register, trap and trace, and cell site
+
+sirnulator, and search of their facilities and records unobtrusively and with minimum
+
+interference to the services accorded persons with respect to whom the installation and/or use
+
+is to take place; and upon request from law enforcement and for the duration of this warrant;
+
+AT&T will provide all RTT reports.
+
+        IT IS FURTHER ORDERED that this Order shall apply to, and the definition of
+
+target address shall include, any other account, target address, network, hardware or software
+
+identity or other unique device identifier, to which the target address has changed for the two
+
+months preceding the signing of this order through the end date of the authority granted
+
+pursuant to this order; and
+
+
+        IT IS FURTHER ORDERED, that investigators and service providers are authorized
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO LC. 18-6722                          6
+
+
+
+
+                           Exhibit C - Trap & Trace - Page 8
+    to continue using the tools and techniques authorized
+                                                            by this order during any time that the
+
+    devices being monitored enter private property; and
+
+
+            IT iS FURTHER ORDERED that the investigators and investigative agencies using a
+
+    cell site simulator shall take ali steps necessary to limit collection of any mformation or
+
+    metadata to the target address; take all steps necessary to permanently delete
+                                                                                     any information
+
+    or metadata collected from any party not specified in this order immediately
+                                                                                     following its
+
+    collection; and must not transmit, use, or retain such information or metadata for any purpose
+
+    whatsoever; and must delete any information or metadata collected from the device using the
+
+    target address within thirty days if there is no longer any probable cause to support the believe
+
+    that such information or metadata is evidence of a crime.
+
+
+           IT IS FURTHER ORDERED that the listed service provider and any other person or
+
+    entity providing assistance be compensated by the above-identified investigative
+
+    agency/agencies for reasonable expenses incurred in complying with this Order; and records
+
+    and information provided pursuant to this order should be provided in a commercially-
+
+    reasonable electronic format and delivered forthwith via electronic mail as
+                                                                                  specified by the
+
+    law enforcement officer serving this Order.
+
+
+           IT IS FURTHER ORDERED that this Order is effective on December 23, 2022 at
+4:53 pm PST     to be completed no later than     February 23, 2023          at the same time of
+
+    day.
+
+
+           IT IS FURTHER ORDERED pursuant to LC. 18-6722(4)(a) this order will be sealed
+   SEARCH WARRANT
+   AND ORDER FOR A
+   PEN REGISTER OR A
+   TRAP AND TRACE DEVICE
+   AND NON-DISCLOSURE ORDER
+   PURSUANT TO LC, 18-6722                          7
+
+
+
+
+                             Exhibit C - Trap & Trace - Page 9
+until otherwise ordered by the court; and
+
+
+        IT IS FURTHER ORDERED pursuant to I.C. 18-6722(4)(b) that the service provider
+
+to whom this order is addressed, or any other person served with this order, are prohibited
+
+from giving notice of the existence of this order to any person, including the subscriber or
+
+customer to whom the target address relates, except that the service provider may disclose the
+
+order to its legal counsel for purpose of receiving legal advice.
+
+
+GIVEN UNDER MY HAND and DATED this 23rd                                  day of December, 2022, at
+     4:53        P om.
+
+
+                                                        Magis       te    dge
+
+
+
+
+SEARCH WARRANT
+AND ORDER FOR A
+PEN REGISTER OR A
+TRAP AND TRACE DEVICE
+AND NON-DISCLOSURE ORDER
+PURSUANT TO I.C. 18-6722                        8
+
+
+
+
+                          Exhibit C - Trap & Trace - Page 10
+

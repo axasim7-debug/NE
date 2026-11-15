@@ -1,0 +1,219 @@
+                                                                          Filed: 2/24/2025 11:02:34
+                                                                          Fourth Judicial District, Ada County
+                                                                          Trent Tripple, Clerk of the Court
+Anne Taylor Law, PLLC                                                     By: Deputy Clerk Waters, Renee
+                                                                                           -
+
+
+
+
+Anne C. Taylor, Attorney at Law
+PO Box 2347
+Coeur d'Alene, Idaho 83816
+Phone: (208) 512-9611
+iCourt Email: info@annetaylorlaw.com
+
+Elisa G. Massoth, PLLC
+Attorney at Law
+P.O. Box 1003
+Payette, Idaho 83661
+Phone: (208) 642-3797; Fax: (208)642-3799
+
+Bicka Barlow
+Pro Hac Vice
+2358 Market Street
+San Francisco, CA 94114
+Phone: (415) 553-4110
+
+Assigned Attorney:
+Anne C. Taylor, Attorney at Law, Bar Number: 5836
+Elisa G. Massoth, Attorney at Law, Bar Number: 5647
+Bicka Barlow, Attorney at Law, CA Bar Number: 178723
+Jay W. Logsdon, First District Public Defender, Bar Number: 8759
+
+     IN THE DISTRICT COURT OF THE FOURTH JUDICIAL DISTRICT OF THE
+             STATE OF IDAHO, IN AND FOR THE COUNTY OF ADA
+
+ STATE OF IDAHO,                                     CASE NUMBER CR01-24-31665
+
+                        Plaintiff,
+                                                     MOTION IN LIMINE #14
+
+                                                     RE: STATISTICAL ANALYSIS
+ BRYAN C. KOHBERGER,
+
+                        Defendant
+
+
+
+       COMES NOW, Bryan C. Kohberger, by and through his attorneys of records, and hereby
+
+moves the Court for an Order limiting testimony about the statistical analysis of Item Q13.1,
+
+fingernail scrapings.
+
+       Allowing such testimony would violate Mr. Kohberger's Federal and State Constitutional
+
+rights to due process, a fair trial, effective assistance of counsel, and confrontation of witnesses.
+
+MOTION IN LIMINE #14 RE: STATISTICAL ANALYSIS                                                  Page 1
+This motion is based on the Sth, 6th and 14th Amendments to the United States Constitution, Idaho
+
+Constitution Article. I Section 13, Idaho Criminal Rule 16 and Idaho Rules of Evidence 102, 104,
+
+701, 702, and 703. The requested limits are made to "secure fairness in administration. ..to the end
+
+the truth may be ascertained and proceedings justly determined. See IRE. 102. Further, the above-
+
+
+requested matters are ripe for consideration by the Court pursuant to I.R.E. 104 based on the
+
+existence of issues that involve preliminary questions of admissibility.
+
+                                     STATEMENT OF FACTS
+         In grand jury testimony, Jade Miller testified as to the results of testing done on Item Q1.1,
+
+the sheath strap and inner snap. The statistic reported by the lab is a likelihood ratio (LR). Miller
+
+testified that the LR compares the probability of the evidence, meaning the DNA profile obtained,
+
+and comparing two different hypotheses. GJ Transcript at 368
+
+
+
+
+                                                                                                    Id
+
+Miller reported the statistic for this comparison, but the State posed the following question to
+
+Miller
+
+
+
+
+         Miller responded   ©
+
+
+
+
+                                               Id From Miller's answer to this question, it is clear
+
+that the comparison to the world population is not an appropriate or scientific way to discuss the
+
+LR.
+
+                                                ARGUMENT
+
+         The use of misleading language confuses and misleads the finder of fact and is barred by
+
+the Rules 402, 403, as well as due process in that the evidence is overly prejudicial. The erroneous
+
+
+
+
+MOTION IN LIMINE #14 RE: STATISTICAL ANALYSIS                                                  Page 2
+admission of irrelevant and prejudicial evidence will offend due process when it renders a trial
+
+fundamentally unfair (Estelle v. McGuire (1991) 502 U.S. 62, 70).
+
+       Here, expanding beyond the language of the report would prejudice Mr. Kohberger in that
+
+it might allow the jury to infer that the inconclusive data would mean that he might be included.
+
+LR’s are different from traditional statistics that courts and juries are used to seeing and hearing.
+
+The LR is a comparison of hypotheses, it is not a statement of identify or probability of identity.
+
+It simply asks the question: given the data, which hypotheses tested is more likely.
+
+       The Court should exclude questions and testimony such as that described above. Clearly
+
+Miller disagreed with the premise of the question. Her answer, that the LR was not that type of
+
+statistic indicates that the question itself was based on a misunderstanding of the meaning of the
+
+LR. As Miller describes in her testimony, the LR is a comparison of two hypothesis, not a
+
+statement of rarity of the profile or probability of finding the same profile in the population. This
+
+type of question could potentially confuse and mislead the jury and required an undue consumption
+
+of time in cross examination.
+
+                                           CONCLUSION
+
+   A fair trial is mandated by Mr. Kohberger’s Federal and State Constitutional rights to due
+
+process, a fair trial, effective assistance of counsel, and confrontation of witnesses. U.S. Const.
+
+amends. V, VI, and XIV; Idaho Const. art. I Sections 8 and 13. Expert testimony, improperly
+
+elicited must be excluded.
+
+       DATED this ____24___ day of February, 2025.
+
+
+
+
+                                              BY:     _____________________________
+                                                      BICKA BARLOW
+                                                      ATTORNEY AT LAW
+
+
+
+
+MOTION IN LIMINE #14 RE: STATISTICAL ANALYSIS                                                Page 3
+                              CERTIFICATE OF DELIVERY
+
+        I hereby certify that a true and correct copy of the foregoing was personally served as
+indicated below on the ___24____ day of February, 2025 addressed to:
+
+       Latah County Prosecuting Attorney –via Email: paservice@latahcountyid.gov
+       Elisa Massoth – via Email: legalassistant@kmrs.net
+       Jay Logsdon – via Email: Jay.Logsdon@spd.idaho.gov
+       Bicka Barlow, Attorney at Law – via Email: bickabarlow@sbcglobal.net
+       Jeffery Nye, Deputy Attorney General – via Email: Jeff.nye@ag.idaho.gov
+
+
+
+
+MOTION IN LIMINE #14 RE: STATISTICAL ANALYSIS                                          Page 4
+                               CERTIFICATE OF SERVICE
+                               3/4/2025
+I hereby certify that on                  , I served a true and correct copy of the
+
+
+
+LATAH COUNTY PROSECUTING ATTORNEY'S OFFICE
+WILLIAM W. THOMPSON, JR.
+PROSECUTING ATTORNEY
+JEFFERY D. NYE
+SPECIAL ASSISTANT ATTORNEY GENERAL
+VIA EMAIL: Jeff.Nve@ag.idaho.gov
+ASHLEY JENNINGS
+DEPUTY PROSECUTING ATTORNEY
+VIA EMAIL: paservice@latahcountyid.gov
+
+ANNE TAYLOR LAW, PLLC
+ANNE C. TAYLOR
+VIA EMAIL: info@annetavlorlaw.com
+
+ELISA G. MASSOTH, PLLC
+ELISA G. MASSOTH
+VIA EMAIL: emassoth@kmrs.net
+
+IDAHO STATE PUBLIC DEFENDER'S OFFICE
+JAY W. LOGSDON
+FIRST DISTRICT PUBLIC DEFENDER
+VIA EMAIL: Jay.Logsdon@spd.idaho.gov
+
+BICKA BARLOW
+Pro Hac Vice
+bickabariow@sbcgiobal.net
+                                                 TRENT TRIPPLE
+                                                 Clerk of the Court
+
+                                           By:
+                                                 Aura
+                                                 Deputy C erk     3/4/2025 11:04:34AM
+
