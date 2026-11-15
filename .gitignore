@@ -14,3 +14,5 @@ projects/*/docs_raw/*.pdf
 projects/*/photos/*
 projects/*/docs_raw/**/*.pdf
 projects/*/docs_raw/**/*.html
+research/storyboards/
+projects/*/docs_raw/*.zip

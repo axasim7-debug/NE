@@ -3,6 +3,10 @@
 قناة وثائقية مبنية على لقطات كاميرات الشرطة (Bodycam) و911 وغرف التحقيق، مع فويس أوفر بين اللقطات.
 **القناة المرجعية:** [Dr Insanity (@drinsanitycrime)](https://www.youtube.com/@drinsanitycrime) — تقريباً 5.8 مليون مشترك، ووسيط المشاهدات 10 مليون للفيديو.
 
+## ابدأ من هنا
+- [`CLAUDE.md`](CLAUDE.md): **ذاكرة المشروع**، فيها كل القرارات والحالة الحالية والخطوة الجاية. Claude Code يقرأه تلقائياً.
+- [`docs/PROGRESS.md`](docs/PROGRESS.md): **سجل التقدم** لكل جلسة.
+
 ## الملفات
 | الملف | المحتوى |
 |---|---|
@@ -32,6 +36,10 @@ python3 tools/title_check.py "Title A" "Title B"           # تقييم العن
 python3 tools/make_thumbnail.py --video <clip> --at 00:14:41 --out export/thumb_A.jpg   # ثمبنيل بإطار الكاميرا
 python3 tools/fetch_reference_transcripts.py 40           # نصوص القناة المرجعية للدراسة
 python3 tools/fetch_reference_thumbs.py 30                # صور ثمبنيل القناة المرجعية للدراسة
+python3 tools/fetch_storyboard.py <video_id>              # صور معاينة لدراسة المونتاج بصرياً
+python3 tools/compare_cuts.py projects/<p>                # التأكد إن نسختي EN وAR مختلفتين
+python3 tools/fetch_drive.py projects/<p> "<drive link>"   # سحب الملفات من Google Drive
+tools/fetch_kohberger_docs.sh                             # إعادة تنزيل وثائق قضية Kohberger الرسمية
 ```
 المتطلبات: `python3` و`ffmpeg` و`yt-dlp` و`pillow`. والتفريغ والتقطيع يحتاجون `faster-whisper` (و`openai-whisper` لـ transcribe.sh).
 
