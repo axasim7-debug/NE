@@ -1,0 +1,11 @@
+# heavy media stays out of git (keep on drive / cloud storage)
+projects/*/footage/raw/*
+projects/*/footage/transcripts/*.json
+projects/*/vo/*.wav
+projects/*/vo/*.mp3
+projects/*/vo/*.m4a
+projects/*/edit/segments/
+projects/*/export/*.mp4
+!**/.gitkeep
+__pycache__/
+research/reference_transcripts/
